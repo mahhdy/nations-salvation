@@ -1,0 +1,686 @@
+% ═══════════════════════════════════════════════════════════════════════════
+%  فصل ۳ — الگوهای تحلیلی: موفقیت، شکست و ارزش‌سنجی
+% ═══════════════════════════════════════════════════════════════════════════
+\chapter{الگوهای تحلیلی: موفقیت، شکست و ارزش‌سنجی}
+\label{ch:models}
+
+\begin{tcolorbox}[mybox, title={چکیده‌ی فصل}]
+این فصل الگوهای نظری و تحلیلی برای ارزیابی مداخلات خارجی و نجات‌طلبی را معرفی و نقد می‌کند. از الگوی واقع‌گرایانه‌ی «هزینه-فایده» تا الگوهای نهادگرایانه، سازه‌انگارانه و پسااستعماری، و در نهایت الگوی ترکیبی پیشنهادی این پژوهش ارائه می‌شود.
+\end{tcolorbox}
+
+% ─────────────────────────────────────────────────────────────────────────
+\section{چرا به الگوی تحلیلی نیاز داریم؟}
+\label{sec:ch03-why}
+% ─────────────────────────────────────────────────────────────────────────
+
+مطالعه‌ی موردی بدون چارچوب تحلیلی، انبوهه‌ای از واقعیت‌های پراکنده است. \thinker{الکساندر جرج} (\lr{Alexander George}) و \thinker{اندرو بنت} (\lr{Andrew Bennett}) تأکید می‌کنند که «مطالعه‌ی موردی ساختاریافته و متمرکز» (\lr{structured focused comparison}) مستلزم سؤالات استاندارد و معیارهای سنجش یکسان برای همه‌ی موارد است.%
+\footnote{\lr{George, Alexander L., and Andrew Bennett. \textit{Case Studies and Theory Development in the Social Sciences}. MIT Press, 2005, pp.~67--72.}}
+
+الگوی تحلیلی ما باید بتواند:
+\begin{enumerate}[nosep, label=\textbf{\arabic*.}]
+  \item \textbf{توصیف} کند: چه اتفاقی افتاد؟
+  \item \textbf{تبیین} کند: چرا اتفاق افتاد؟
+  \item \textbf{ارزیابی} کند: نتیجه چه بود؟
+  \item \textbf{پیش‌بینی} کند: در شرایط مشابه چه خواهد شد؟
+\end{enumerate}
+
+% ─────────────────────────────────────────────────────────────────────────
+\section{الگوی ۱: تحلیل واقع‌گرایانه‌ی هزینه-فایده}
+\label{sec:ch03-realist}
+% ─────────────────────────────────────────────────────────────────────────
+
+\subsection{مبانی نظری}
+\label{subsec:ch03-realist-theory}
+
+الگوی واقع‌گرایانه (\lr{Realist Cost-Benefit Model}) بر پیش‌فرض‌های زیر استوار است:
+
+\begin{itemize}[nosep, rightmargin=1em]
+  \item دولت‌ها بازیگران عقلانی هستند که منافع ملی خود را حداکثر می‌کنند.
+  \item مداخله‌ی خارجی زمانی رخ می‌دهد که هزینه‌های آن (نظامی، اقتصادی، اعتباری) کمتر از فوایدش (ژئوپولیتیکی، اقتصادی، امنیتی) باشد.
+  \item دعوت‌کنندگان داخلی زمانی به بیگانه متوسل می‌شوند که هزینه‌ی «عدم اقدام» از هزینه‌ی «وابستگی» بیشتر باشد.
+\end{itemize}
+
+\thinker{پاتریک ریگان} (\lr{Patrick Regan}) در پژوهش آماری جامع خود روی ۱۵۰ جنگ داخلی (۱۹۴۴–۱۹۹۹) نشان داده که مداخله‌ی خارجی به‌طور متوسط \textbf{مدت جنگ‌های داخلی را کاهش نمی‌دهد} بلکه در بسیاری موارد آن را طولانی‌تر می‌کند.%
+\footnote{\lr{Regan, Patrick M. "Third-Party Interventions and the Duration of Intrastate Conflicts." \textit{Journal of Conflict Resolution} 46, no.~1 (2002): 55--73.}}
+
+\subsection{ماتریس هزینه-فایده}
+\label{subsec:ch03-realist-matrix}
+
+\begin{table}[htbp]
+\centering
+\caption{ماتریس هزینه-فایده‌ی مداخله از دید بازیگران مختلف}\label{tab:ch03-cost-benefit}
+\begin{adjustbox}{max width=\linewidth}
+\begin{tabular}{
+  >{\raggedleft\arraybackslash\bfseries}p{2.5cm}
+  >{\raggedleft\arraybackslash}p{3.5cm}
+  >{\raggedleft\arraybackslash}p{3.5cm}
+  >{\raggedleft\arraybackslash}p{3.5cm}}
+\toprule
+\rowcolor{PrimaryDeep}
+\textcolor{white}{بُعد} &
+\textcolor{white}{دعوت‌کننده} &
+\textcolor{white}{مداخله‌گر} &
+\textcolor{white}{حکومت هدف} \\
+\midrule
+
+\multicolumn{4}{r}{\cellcolor{AccentGreen!15}\textbf{\color{AccentGreen}فواید بالقوه}} \\
+\midrule
+نظامی &
+سقوط رژیم ستم‌گر &
+پایگاه‌های نظامی، نفوذ &
+— \\
+\rowcolor{NeutralLight}
+سیاسی &
+قدرت‌یابی &
+رژیم دست‌نشانده &
+— \\
+اقتصادی &
+بازسازی (احتمالی) &
+امتیازات اقتصادی، منابع &
+— \\
+\rowcolor{NeutralLight}
+اعتباری &
+مشروعیت (کوتاه‌مدت) &
+وجهه‌ی «ناجی» &
+— \\
+
+\midrule
+\multicolumn{4}{r}{\cellcolor{AccentRed!15}\textbf{\color{AccentRed}هزینه‌های بالقوه}} \\
+\midrule
+نظامی &
+تخریب، تلفات غیرنظامی &
+تلفات نظامی، هزینه‌ی لجستیک &
+شکست نظامی \\
+\rowcolor{NeutralLight}
+سیاسی &
+وابستگی، از دست‌دادن حاکمیت &
+مقاومت داخلی، باتلاق &
+سقوط \\
+اقتصادی &
+ویرانی زیرساخت &
+هزینه‌ی نجومی بازسازی &
+از دست‌دادن منابع \\
+\rowcolor{NeutralLight}
+اعتباری &
+انگ «خیانت» و «وابستگی» &
+انگ «امپریالیسم» &
+انگ «استبداد» \\
+
+\bottomrule
+\end{tabular}
+\end{adjustbox}
+\end{table}
+
+\subsection{نقد الگوی واقع‌گرایانه}
+\label{subsec:ch03-realist-critique}
+
+\begin{itemize}[nosep, rightmargin=1em]
+  \item فرض «عقلانیت» بازیگران اغلب غیرواقعی است. تصمیم‌ها تحت فشار، هیجان و اطلاعات ناقص گرفته می‌شوند.%
+  \footnote{\lr{Jervis, Robert. \textit{Perception and Misperception in International Politics}. Princeton UP, 1976.}}
+  \item هزینه‌ها و فواید «غیرمادی» (هویت، شأن، عدالت) در این الگو نادیده گرفته می‌شوند.
+  \item تمرکز بر دولت‌ها به‌عنوان تنها بازیگر، نقش جنبش‌های اجتماعی و شبکه‌های فراملی را نادیده می‌گیرد.
+\end{itemize}
+
+% ─────────────────────────────────────────────────────────────────────────
+\section{الگوی ۲: تحلیل نهادگرایانه}
+\label{sec:ch03-institutional}
+% ─────────────────────────────────────────────────────────────────────────
+
+الگوی نهادگرایانه (\lr{Institutional Analysis}) بر نقش نهادهای بین‌المللی (سازمان ملل، ناتو، اتحادیه‌ی آفریقایی، و غیره) در تسهیل، مشروعیت‌بخشی یا مهار مداخلات تمرکز دارد.
+
+\thinker{رابرت کیوهین} (\lr{Robert Keohane}) استدلال می‌کند که نهادهای بین‌المللی می‌توانند هزینه‌ی مبادلات را کاهش دهند، اطلاعات را افزایش دهند و تعهدات را پایدار کنند.%
+\footnote{\lr{Keohane, Robert O. \textit{After Hegemony}. Princeton UP, 1984.}}
+
+\subsection{شاخص‌های نهادی موفقیت مداخله}
+\label{subsec:ch03-inst-indicators}
+
+\begin{tcolorbox}[defbox, title={شاخص‌های کلیدی}]
+\begin{enumerate}[nosep, label=\textbf{\arabic*.}]
+  \item \textbf{مجوز نهادی:} آیا مداخله مجوز شورای امنیت یا سازمان منطقه‌ای داشته؟
+  \item \textbf{چندجانبه‌گرایی:} آیا چندین دولت مشارکت داشته‌اند؟
+  \item \textbf{نظارت و پاسخ‌گویی:} آیا سازوکار نظارت بر رفتار مداخله‌گر وجود داشته؟
+  \item \textbf{برنامه‌ی خروج:} آیا استراتژی خروج از پیش تعیین شده بود؟
+  \item \textbf{بازسازی نهادی:} آیا پس از مداخله، نهادسازی صورت گرفته؟
+\end{enumerate}
+\end{tcolorbox}
+
+% ─────────────────────────────────────────────────────────────────────────
+\section{الگوی ۳: تحلیل سازه‌انگارانه}
+\label{sec:ch03-constructivist}
+% ─────────────────────────────────────────────────────────────────────────
+
+الگوی سازه‌انگارانه (\lr{Constructivist Model}) بر نقش \concept{هنجارها}، \concept{هویت‌ها} و \concept{روایت‌ها} در شکل‌دهی به مداخلات تأکید دارد.
+
+\thinker{مارتا فینه‌مور} نشان داده که «انگیزه‌های» مداخله در طول زمان تحول یافته‌اند — نه به‌خاطر تغییر در منافع مادی، بلکه به‌خاطر تغییر در هنجارهای بین‌المللی:
+
+\begin{longtable}{
+  >{\raggedleft\arraybackslash\bfseries}p{3cm}
+  >{\raggedleft\arraybackslash}p{3.5cm}
+  >{\raggedleft\arraybackslash}p{3.5cm}
+  >{\raggedleft\arraybackslash}p{3cm}}
+\caption{تحول هنجاری مداخلات (بر اساس فینه‌مور)}\label{tab:ch03-finnemore}\\
+\toprule
+\rowcolor{PrimaryDeep}
+\textcolor{white}{\textbf{دوره}} &
+\textcolor{white}{\textbf{هنجار غالب}} &
+\textcolor{white}{\textbf{بهانه‌ی مداخله}} &
+\textcolor{white}{\textbf{نمونه}} \\
+\midrule
+\endfirsthead
+\toprule
+\rowcolor{PrimaryDeep}
+\textcolor{white}{\textbf{دوره}} &
+\textcolor{white}{\textbf{هنجار غالب}} &
+\textcolor{white}{\textbf{بهانه‌ی مداخله}} &
+\textcolor{white}{\textbf{نمونه}} \\
+\midrule
+\endhead
+\bottomrule
+\endlastfoot
+
+قرن ۱۹ &
+حمایت از هم‌کیشان مسیحی &
+کشتار مسیحیان &
+مداخله در عثمانی%
+\footnote{\lr{Finnemore, Martha. \textit{The Purpose of Intervention}. Cornell UP, 2003, Ch.~2.}} \\
+\rowcolor{NeutralLight}
+دوران جنگ سرد &
+جلوگیری از گسترش کمونیسم/سرمایه‌داری &
+تهدید ایدئولوژیک &
+کره، ویتنام \\
+پس از جنگ سرد &
+حمایت از حقوق بشر جهان‌شمول &
+نسل‌کشی، پاک‌سازی قومی &
+سومالی، کوزوو \\
+\rowcolor{NeutralLight}
+پس از ۲۰۰۱ &
+مبارزه با تروریسم + دموکراسی‌سازی &
+تهدید تروریستی &
+افغانستان، عراق \\
+پس از ۲۰۱۱ &
+بحران هنجاری: شکست \lr{R2P} در سوریه &
+بی‌اعتمادی فزاینده &
+سوریه، یمن \\
+
+\end{longtable}
+
+% ─────────────────────────────────────────────────────────────────────────
+\section{الگوی ۴: تحلیل پسااستعماری}
+\label{sec:ch03-postcolonial}
+% ─────────────────────────────────────────────────────────────────────────
+
+الگوی پسااستعماری (\lr{Postcolonial Analysis}) نجات‌طلبی و مداخله را در بستر \concept{ساختارهای قدرت نابرابر جهانی} تحلیل می‌کند.
+
+\subsection{مفاهیم کلیدی}
+\label{subsec:ch03-postcolonial-concepts}
+
+\begin{tcolorbox}[defbox, title={مفاهیم کلیدی الگوی پسااستعماری}]
+\begin{description}[nosep, style=nextline]
+  \item[\concept{شرق‌شناسی} (\lr{Orientalism})]
+  بازنمایی «شرق» به‌عنوان دیگری ناتوان و نیازمند نجات — مشروعیت‌بخش مداخله (\thinker{سعید}).
+ 
+  \item[\concept{درونی‌سازی سلطه} (\lr{Internalized Oppression})]
+  قربانی ستم، خود را ناتوان می‌بیند و «ناجی» را در بیگانه جست‌وجو می‌کند (\thinker{فانون}).
+  \item[\concept{وابستگی ساختاری} (\lr{Structural Dependency})]
+  مداخله، ساختار اقتصادی-سیاسی وابسته ایجاد می‌کند که حتی پس از خروج مداخله‌گر باقی می‌ماند (\thinker{آندره گوندر فرانک}).%
+  \footnote{\lr{Frank, Andre Gunder. \textit{Capitalism and Underdevelopment in Latin America}. Monthly Review Press, 1967.}}
+  \item[\concept{خشونت معرفتی} (\lr{Epistemic Violence})]
+  مداخله‌گر نه‌فقط نظامی بلکه فرهنگی-معرفتی نیز عمل می‌کند: تعریف «پیشرفت»، «دموکراسی» و «حقوق بشر» را تحمیل می‌کند (\thinker{گایاتری اسپیواک}).%
+  \footnote{\lr{Spivak, Gayatri Chakravorty. "Can the Subaltern Speak?" In \textit{Marxism and the Interpretation of Culture}, ed. Nelson and Grossberg. U of Illinois P, 1988, pp.~271--313.}}
+\end{description}
+\end{tcolorbox}
+
+\subsection{نقد پسااستعماری مداخله‌ی انسان‌دوستانه}
+\label{subsec:ch03-postcolonial-critique}
+
+\thinker{سواتی پاراشار} (\lr{Swati Parashar}) استدلال می‌کند که روایت «نجات زنان» از دست رژیم‌های ستم‌گر — مانند روایت امریکا در افغانستان — بازتولید الگوی استعماری «مرد سفید زن رنگین‌پوست را از مرد رنگین‌پوست نجات می‌دهد» است.%
+\footnote{\lr{Parashar, Swati. "Feminist International Relations and Women Militants." \textit{Cambridge Review of International Affairs} 22, no.~2 (2009): 235--256.}}
+
+\thinker{تالال اسد} (\lr{Talal Asad}) نیز نشان می‌دهد که مفهوم «جنگ عادلانه» در سنت غربی، ذاتاً بازتاب سلسله‌مراتب قدرت جهانی است و نمی‌تواند معیاری جهان‌شمول برای ارزیابی مداخلات باشد.%
+\footnote{\lr{Asad, Talal. \textit{On Suicide Bombing}. Columbia UP, 2007, pp.~15--62.}}
+
+% ─────────────────────────────────────────────────────────────────────────
+\section{الگوی ۵: تحلیل روان‌شناسی سیاسی}
+\label{sec:ch03-psychological}
+% ─────────────────────────────────────────────────────────────────────────
+
+الگوی روان‌شناسی سیاسی بر فرایندهای شناختی و عاطفی تصمیم‌گیران و توده‌ها تمرکز دارد:
+
+\subsection{سوگیری‌های شناختی در نجات‌طلبی}
+\label{subsec:ch03-biases}
+
+\begin{longtable}{
+  >{\raggedleft\arraybackslash\bfseries}p{3cm}
+  >{\raggedleft\arraybackslash}p{4cm}
+  >{\raggedleft\arraybackslash}p{5.5cm}}
+\caption{سوگیری‌های شناختی مؤثر در نجات‌طلبی}\label{tab:ch03-biases}\\
+\toprule
+\rowcolor{PrimaryDeep}
+\textcolor{white}{\textbf{سوگیری}} &
+\textcolor{white}{\textbf{تعریف}} &
+\textcolor{white}{\textbf{نمود در نجات‌طلبی}} \\
+\midrule
+\endfirsthead
+\toprule
+\rowcolor{PrimaryDeep}
+\textcolor{white}{\textbf{سوگیری}} &
+\textcolor{white}{\textbf{تعریف}} &
+\textcolor{white}{\textbf{نمود در نجات‌طلبی}} \\
+\midrule
+\endhead
+\bottomrule
+\endlastfoot
+
+آرزواندیشی (\lr{Wishful Thinking}) &
+باور به نتیجه‌ی مطلوب بدون شواهد کافی &
+«امریکا/روسیه/... ما را نجات خواهد داد و سپس خواهد رفت»%
+\footnote{\lr{Jervis, Robert. \textit{Perception and Misperception in International Politics}. Princeton UP, 1976, Ch.~4.}} \\
+\rowcolor{NeutralLight}
+خام‌اندیشی (\lr{Naive Realism}) &
+فرض بر اینکه دیگران جهان را همان‌گونه می‌بینند &
+«مداخله‌گر منافع ما را همان‌قدر که ما اهمیت می‌دهیم، اهمیت خواهد داد» \\
+اثر هاله‌ای (\lr{Halo Effect}) &
+تعمیم یک ویژگی مثبت به کل شخصیت &
+«چون دموکراسی دارد، پس نیت‌هایش هم خیرخواهانه است» \\
+\rowcolor{NeutralLight}
+سوگیری تأییدی (\lr{Confirmation Bias}) &
+جست‌وجوی شواهد تأییدکننده‌ی باور قبلی &
+نادیده‌گرفتن نشانه‌های سوءنیت مداخله‌گر \\
+ناامیدی آموخته‌شده (\lr{Learned Helplessness}) &
+باور به ناتوانی ذاتی خود در تغییر وضع &
+«ما نمی‌توانیم خودمان کاری کنیم، فقط بیگانه قادر است»%
+\footnote{\lr{Seligman, Martin E.P. \textit{Helplessness: On Depression, Development, and Death}. Freeman, 1975.}} \\
+\rowcolor{NeutralLight}
+تفکر سیاه-سفید (\lr{Splitting}) &
+تقسیم جهان به کاملاً خوب و کاملاً بد &
+«حکومت شر مطلق و مداخله‌گر خیر مطلق است» \\
+
+\end{longtable}
+
+% ─────────────────────────────────────────────────────────────────────────
+\section{الگوی ترکیبی پیشنهادی: مدل «شش‌وجهی نجات‌طلبی»}
+\label{sec:ch03-hexagonal}
+% ─────────────────────────────────────────────────────────────────────────
+
+بر مبنای بررسی الگوهای پنج‌گانه‌ی فوق، الگوی ترکیبی زیر برای تحلیل نظام‌مند هر مورد نجات‌طلبی پیشنهاد می‌شود. این الگو \concept{شش‌وجهی} است زیرا هر مورد را از شش زاویه‌ی متفاوت بررسی می‌کند:
+
+\begin{figure}[htbp]
+\centering
+\begin{tikzpicture}[
+  every node/.style={font=\small},
+  hexnode/.style={
+    regular polygon, regular polygon sides=6,
+    draw=PrimaryMid, fill=BgCool, minimum size=2.8cm,
+    font=\small\bfseries, align=center, inner sep=2pt
+  },
+  outernode/.style={
+    draw=PrimaryLight, fill=white, rounded corners=4pt,
+    text width=2.8cm, align=center, minimum height=1.2cm,
+    font=\scriptsize
+  },
+  arrow/.style={->, >=Stealth, thick, PrimaryMid!70},
+]
+
+% شش‌ضلعی مرکزی
+\node[hexnode, fill=AccentGold!25, minimum size=3.5cm] (center)
+  {\rl{تحلیل}\\%
+   \rl{نجات‌طلبی}};
+
+% شش وجه
+\node[outernode, fill=BgWarm] (v1) at (90:4.5cm)
+  {\rl{\textbf{۱. ساختاری-سیاسی}}\\%
+   \rl{ماهیت رژیم، بحران مشروعیت}};
+
+\node[outernode, fill=BgTeal] (v2) at (30:4.5cm)
+  {\rl{\textbf{۲. حقوقی-هنجاری}}\\%
+   \rl{مبنای حقوقی، هنجارهای بین‌المللی}};
+
+\node[outernode, fill=BgSuccess] (v3) at (330:4.5cm)
+  {\rl{\textbf{۳. اقتصادی}}\\%
+   \rl{منابع، وابستگی، هزینه‌ها}};
+
+\node[outernode, fill=BgFail!50] (v4) at (270:4.5cm)
+  {\rl{\textbf{۴. نظامی-امنیتی}}\\%
+   \rl{توازن قوا، لجستیک، تلفات}};
+
+\node[outernode, fill=BgCool] (v5) at (210:4.5cm)
+  {\rl{\textbf{۵. روان‌شناختی-فرهنگی}}\\%
+   \rl{هویت، روایت، سوگیری‌ها}};
+
+\node[outernode, fill=AccentPurple!10] (v6) at (150:4.5cm)
+  {\rl{\textbf{۶. ژئوپولیتیک}}\\%
+   \rl{منافع قدرت‌ها، نظام بین‌الملل}};
+
+% فلش‌ها
+\draw[arrow] (center) -- (v1);
+\draw[arrow] (center) -- (v2);
+\draw[arrow] (center) -- (v3);
+\draw[arrow] (center) -- (v4);
+\draw[arrow] (center) -- (v5);
+\draw[arrow] (center) -- (v6);
+
+% خطوط ارتباطی بین وجوه
+\draw[dashed, NeutralMid, thin] (v1) -- (v2);
+\draw[dashed, NeutralMid, thin] (v2) -- (v3);
+\draw[dashed, NeutralMid, thin] (v3) -- (v4);
+\draw[dashed, NeutralMid, thin] (v4) -- (v5);
+\draw[dashed, NeutralMid, thin] (v5) -- (v6);
+\draw[dashed, NeutralMid, thin] (v6) -- (v1);
+
+\end{tikzpicture}
+\caption{مدل شش‌وجهی تحلیل نجات‌طلبی}
+\label{fig:ch03-hexagonal}
+\end{figure}
+
+\subsection{شرح وجوه شش‌گانه}
+\label{subsec:ch03-hex-detail}
+
+\begin{tcolorbox}[casebox, title={وجه ۱: تحلیل ساختاری-سیاسی}]
+\textbf{پرسش‌های کلیدی:}
+\begin{itemize}[nosep, rightmargin=1em]
+  \item ماهیت رژیم حاکم چیست؟ (دموکراتیک، اقتدارگرا، توتالیتر، شکست‌خورده)
+  \item شدت سرکوب و نقض حقوق بشر چقدر است؟
+  \item آیا کانال‌های داخلی تغییر (انتخابات، اصلاحات، شورش) مسدود شده‌اند؟
+  \item ترکیب قومی-مذهبی-طبقاتی دعوت‌کنندگان چیست؟
+  \item آیا دعوت‌کنندگان نمایندگی واقعی مردم را دارند؟
+\end{itemize}
+\textbf{شاخص‌ها:} \lr{Freedom House Index, Polity V, V-Dem, Fragile States Index.}
+\end{tcolorbox}
+
+\begin{tcolorbox}[casebox, title={وجه ۲: تحلیل حقوقی-هنجاری}]
+\textbf{پرسش‌های کلیدی:}
+\begin{itemize}[nosep, rightmargin=1em]
+  \item آیا مبنای حقوقی بین‌المللی برای مداخله وجود دارد؟
+  \item آیا مجوز شورای امنیت صادر شده؟
+  \item آیا دعوت از حکومت مشروع است یا از اپوزیسیون/اقلیت؟
+  \item آیا هنجارهای \lr{R2P} قابل اعمال‌اند؟
+  \item آیا شرایط «جدایی اصلاحی» فراهم است؟
+\end{itemize}
+\end{tcolorbox}
+
+\begin{tcolorbox}[casebox, title={وجه ۳: تحلیل اقتصادی}]
+\textbf{پرسش‌های کلیدی:}
+\begin{itemize}[nosep, rightmargin=1em]
+  \item منابع طبیعی و اقتصادی منطقه‌ی هدف چیست؟ (آیا «نفرین منابع» وجود دارد؟)
+  \item ساختار اقتصادی وابستگی به مداخله‌گر چگونه خواهد بود؟
+  \item هزینه‌های بازسازی چقدر و بر عهده‌ی کیست؟
+  \item آیا مداخله‌گر امتیازات اقتصادی مطالبه کرده یا خواهد کرد؟
+\end{itemize}
+\end{tcolorbox}
+
+\begin{tcolorbox}[casebox, title={وجه ۴: تحلیل نظامی-امنیتی}]
+\textbf{پرسش‌های کلیدی:}
+\begin{itemize}[nosep, rightmargin=1em]
+  \item توازن نظامی میان مداخله‌گر و حکومت هدف چگونه است؟
+  \item تلفات مورد انتظار (نظامی و غیرنظامی) چقدر است؟
+  \item آیا مداخله به بی‌ثباتی منطقه‌ای منجر خواهد شد؟
+  \item استراتژی خروج چیست؟
+  \item آیا پایگاه‌های نظامی دائم ایجاد خواهد شد؟
+\end{itemize}
+\end{tcolorbox}
+
+\begin{tcolorbox}[casebox, title={وجه ۵: تحلیل روان‌شناختی-فرهنگی}]
+\textbf{پرسش‌های کلیدی:}
+\begin{itemize}[nosep, rightmargin=1em]
+  \item کدام سوگیری‌های شناختی در تصمیم دعوت‌کنندگان نقش دارد؟
+  \item آیا «ناامیدی آموخته‌شده» بر جامعه حاکم است؟
+  \item روایت غالب از «نجات‌دهنده» چیست؟ (آرمانی‌سازی یا واقع‌بینانه)
+  \item آیا پیشینه‌ی فرهنگی مشترکی میان دعوت‌کننده و مداخله‌گر وجود دارد؟
+  \item چگونه حافظه‌ی تاریخی جامعه بر پذیرش مداخله اثر می‌گذارد؟
+\end{itemize}
+\end{tcolorbox}
+
+\begin{tcolorbox}[casebox, title={وجه ۶: تحلیل ژئوپولیتیک}]
+\textbf{پرسش‌های کلیدی:}
+\begin{itemize}[nosep, rightmargin=1em]
+  \item منافع ژئوپولیتیک مداخله‌گر چیست؟
+  \item واکنش قدرت‌های رقیب چه خواهد بود؟
+  \item آیا مداخله در چارچوب رقابت ابرقدرتی صورت می‌گیرد؟
+  \item پیامدهای منطقه‌ای مداخله (اثر دومینو، تغییر مرزها) چیست؟
+  \item آیا منطقه‌ی هدف اهمیت استراتژیک (تنگه‌ها، مسیرها، منابع) دارد؟
+\end{itemize}
+\end{tcolorbox}
+
+% ─────────────────────────────────────────────────────────────────────────
+\section{الگوی طیفی نتایج مداخله}
+\label{sec:ch03-spectrum}
+% ─────────────────────────────────────────────────────────────────────────
+
+نتایج مداخلات خارجی را نمی‌توان در دوگانه‌ی ساده‌ی «موفقیت/شکست» خلاصه کرد. الگوی طیفی زیر نشان می‌دهد که نتایج در یک پیوستار قرار دارند:
+
+\begin{figure}[htbp]
+\centering
+\begin{tikzpicture}[
+  every node/.style={font=\small},
+]
+
+% خط طیف
+\draw[line width=3pt, left color=AccentGreen, right color=AccentRed]
+  (0,0) -- (14,0);
+
+% نقاط
+\node[success mark] at (1,0) {A};
+\node[success mark] at (3.5,0) {B};
+\node[mixed mark] at (6,0) {C};
+\node[mixed mark] at (8.5,0) {D};
+\node[fail mark] at (11,0) {E};
+\node[fail mark] at (13,0) {F};
+
+% برچسب‌ها بالا
+\node[above=0.8cm, text width=2.5cm, align=center, font=\scriptsize\bfseries,
+      color=AccentGreen] at (1,0)
+  {\rl{رهایی کامل و}\\%
+   \rl{استقلال پایدار}};
+\node[above=0.8cm, text width=2.5cm, align=center, font=\scriptsize\bfseries,
+      color=AccentGreen!70] at (3.5,0)
+  {\rl{رهایی با}\\%
+   \rl{وابستگی محدود}};
+\node[above=0.8cm, text width=2.5cm, align=center, font=\scriptsize\bfseries,
+      color=AccentAmber] at (6,0)
+  {\rl{تغییر رژیم اما}\\%
+   \rl{بی‌ثباتی}};
+\node[above=0.8cm, text width=2.5cm, align=center, font=\scriptsize\bfseries,
+      color=AccentAmber!80] at (8.5,0)
+  {\rl{رژیم دست‌نشانده}\\%
+   \rl{و وابستگی ساختاری}};
+\node[above=0.8cm, text width=2.5cm, align=center, font=\scriptsize\bfseries,
+      color=AccentRed!70] at (11,0)
+  {\rl{هرج‌ومرج و}\\%
+   \rl{دولت شکست‌خورده}};
+\node[above=0.8cm, text width=2.5cm, align=center, font=\scriptsize\bfseries,
+      color=AccentRed] at (13,0)
+  {\rl{استعمار یا}\\%
+   \rl{الحاق}};
+
+% برچسب‌ها پایین: نمونه‌ها
+\node[below=0.8cm, text width=2.5cm, align=center, font=\scriptsize,
+      color=NeutralDark] at (1,0)
+  {\rl{فرانسه‌ی آزاد}\\%
+   \rl{(۱۹۴۴)}};
+\node[below=0.8cm, text width=2.5cm, align=center, font=\scriptsize,
+      color=NeutralDark] at (3.5,0)
+  {\rl{کوزوو}\\%
+   \rl{(۱۹۹۹)}};
+\node[below=0.8cm, text width=2.5cm, align=center, font=\scriptsize,
+      color=NeutralDark] at (6,0)
+  {\rl{عراق}\\%
+   \rl{(۲۰۰۳)}};
+\node[below=0.8cm, text width=2.5cm, align=center, font=\scriptsize,
+      color=NeutralDark] at (8.5,0)
+  {\rl{افغانستان}\\%
+   \rl{(۲۰۰۱)}};
+\node[below=0.8cm, text width=2.5cm, align=center, font=\scriptsize,
+      color=NeutralDark] at (11,0)
+  {\rl{لیبی}\\%
+   \rl{(۲۰۱۱)}};
+\node[below=0.8cm, text width=2.5cm, align=center, font=\scriptsize,
+      color=NeutralDark] at (13,0)
+  {\rl{کریمه}\\%
+   \rl{(۲۰۱۴)}};
+
+\end{tikzpicture}
+\caption{طیف نتایج مداخلات خارجی}
+\label{fig:ch03-spectrum}
+\end{figure}
+
+% ─────────────────────────────────────────────────────────────────────────
+\section{جدول تطبیقی: اِعمال الگوی شش‌وجهی بر موارد کلیدی}
+\label{sec:ch03-comparative}
+% ─────────────────────────────────────────────────────────────────────────
+
+\begin{landscape}
+\begin{table}[htbp]
+\centering
+\caption{اِعمال الگوی شش‌وجهی بر ده مورد کلیدی}\label{tab:ch03-comparative}
+\begin{adjustbox}{max width=\linewidth}
+\begin{tabular}{
+  >{\raggedleft\arraybackslash\bfseries\small}p{2cm}
+  >{\raggedleft\arraybackslash\small}p{1.5cm}
+  >{\raggedleft\arraybackslash\small}p{1.5cm}
+  >{\raggedleft\arraybackslash\small}p{1.5cm}
+  >{\raggedleft\arraybackslash\small}p{1.5cm}
+  >{\raggedleft\arraybackslash\small}p{1.5cm}
+  >{\raggedleft\arraybackslash\small}p{1.5cm}
+  >{\raggedleft\arraybackslash\small}p{2cm}}
+\toprule
+\rowcolor{PrimaryDeep}
+\textcolor{white}{مورد} &
+\textcolor{white}{ساختاری} &
+\textcolor{white}{حقوقی} &
+\textcolor{white}{اقتصادی} &
+\textcolor{white}{نظامی} &
+\textcolor{white}{روان‌شناختی} &
+\textcolor{white}{ژئوپولیتیک} &
+\textcolor{white}{نتیجه (طیف)} \\
+\midrule
+
+انقلاب شکوهمند (۱۶۸۸) &
+\cellcolor{AccentGreen!20}بالا &
+\cellcolor{AccentGreen!20}بالا &
+\cellcolor{AccentGreen!20}کم‌هزینه &
+\cellcolor{AccentGreen!20}بدون خونریزی &
+\cellcolor{AccentGreen!20}واقع‌بینانه &
+\cellcolor{mixed mark!20}متوسط &
+\cellcolor{AccentGreen!20}A \\
+\rowcolor{NeutralLight}
+فتح عرب ایران (۶۳۶) &
+بحران شدید &
+نامرتبط &
+غارت &
+خونین &
+شکست روحی &
+تغییر تمدنی &
+E–F \\
+مجاهدین افغان (۱۹۷۹) &
+سرکوب شدید &
+ضعیف &
+هزینه‌ی بالا &
+طولانی &
+آرزواندیشی &
+رقابت ابرقدرتی &
+D–E \\
+\rowcolor{NeutralLight}
+کوزوو (۱۹۹۹) &
+بحران شدید &
+بدون مجوز &
+متوسط &
+متناسب &
+ناامیدی واقعی &
+رقابت منطقه‌ای &
+B \\
+عراق (۲۰۰۳) &
+استبداد شدید &
+بسیار ضعیف &
+نفرین نفت &
+سریع اما باتلاق &
+آرزواندیشی &
+نفت، اسرائیل &
+C–D \\
+\rowcolor{NeutralLight}
+لیبی (۲۰۱۱) &
+استبداد &
+قطعنامه ۱۹۷۳ &
+نفت &
+سریع اما بی‌نقشه &
+آرزواندیشی &
+اروپا، نفت &
+E \\
+سوریه (۲۰۱۵) &
+جنگ داخلی &
+دعوت حکومت &
+ویرانی &
+طولانی &
+یأس &
+رقابت جهانی &
+D–E \\
+\rowcolor{NeutralLight}
+کریمه (۲۰۱۴) &
+بحران سیاسی &
+بسیار ضعیف &
+متوسط &
+بدون مقاومت &
+هویت روسی &
+ناتو-روسیه &
+F \\
+فرانسه‌ی آزاد (۱۹۴۴) &
+اشغال &
+جنگ جهانی &
+مارشال &
+خونین اما قاطع &
+مقاومت قوی &
+جنگ جهانی &
+A \\
+\rowcolor{NeutralLight}
+تیمور شرقی (۱۹۹۹) &
+سرکوب شدید &
+قطعنامه ۱۲۶۴ &
+فقر &
+محدود &
+واقع‌بینانه &
+اندونزی-استرالیا &
+A–B \\
+
+\bottomrule
+\end{tabular}
+\end{adjustbox}
+\end{table}
+\end{landscape}
+
+% ─────────────────────────────────────────────────────────────────────────
+\section{الگوی پیش‌بینی: شرایط لازم و کافی برای موفقیت}
+\label{sec:ch03-prediction}
+% ─────────────────────────────────────────────────────────────────────────
+
+بر اساس بررسی تطبیقی موارد بالا، می‌توان مجموعه‌ای از \concept{شرایط لازم} و \concept{شرایط کافی} برای «موفقیت نسبی» نجات‌طلبی استخراج کرد:
+
+\begin{tcolorbox}[successbox, title={شرایط لازم (همه باید برقرار باشند)}]
+\begin{enumerate}[nosep, label=\textbf{ل\arabic*.}]
+  \item ستم و سرکوب مستند و گسترده باشد (نه صرفاً ادعای بخشی از نخبگان).
+  \item حداقلی از ظرفیت سازمانی داخلی برای دولت‌سازی پس از مداخله وجود داشته باشد.
+  \item مداخله‌گر دارای استراتژی خروج مشخص باشد.
+  \item حمایت بین‌المللی گسترده (نه فقط یک قدرت) وجود داشته باشد.
+  \item جایگزین سیاسی مشخصی برای رژیم فعلی وجود داشته باشد.
+\end{enumerate}
+\end{tcolorbox}
+
+\begin{tcolorbox}[defbox, title={شرایط کافی (حضور آنها احتمال موفقیت را به‌شدت افزایش می‌دهد)}]
+\begin{enumerate}[nosep, label=\textbf{ک\arabic*.}]
+  \item مجوز شورای امنیت یا اجماع منطقه‌ای وجود داشته باشد.
+  \item مداخله چندجانبه باشد (نه یک‌جانبه).
+  \item جامعه‌ی هدف دارای سنت نهادی (حتی ضعیف) باشد.
+  \item مداخله‌گر تعهد مالی بلندمدت به بازسازی داشته باشد.
+  \item جمعیت محلی حمایت گسترده از مداخله داشته باشد (نه فقط نخبگان).
+  \item هیچ قدرت منطقه‌ای یا جهانی فعالانه مخالف مداخله نباشد.
+\end{enumerate}
+\end{tcolorbox}
+
+% ─────────────────────────────────────────────────────────────────────────
+\section{جمع‌بندی فصل}
+\label{sec:ch03-summary}
+% ─────────────────────────────────────────────────────────────────────────
+
+این فصل پنج الگوی تحلیلی (واقع‌گرایانه، نهادگرایانه، سازه‌انگارانه، پسااستعماری و روان‌شناسی سیاسی) را بررسی کرد و نقاط قوت و ضعف هرکدام را نشان داد. الگوی ترکیبی \concept{شش‌وجهی} برای تحلیل جامع هر مورد نجات‌طلبی پیشنهاد شد و بر ده مورد تاریخی اِعمال گردید. الگوی \concept{طیفی} نتایج مداخلات نشان داد که دوگانه‌ی ساده‌ی «موفقیت/شکست» گمراه‌کننده است و مجموعه‌ای از شرایط لازم و کافی برای موفقیت نسبی استخراج شد.
+
+در فصل‌های بعد، این ابزارهای تحلیلی بر موارد تاریخی مشخص — ابتدا در ایران و سپس در جهان — اعمال خواهد شد.
+
+\cleardoublepage

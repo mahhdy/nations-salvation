@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2=".3" y2="1"><stop offset="0%" stop-color="#080c18"/><stop offset="100%" stop-color="#12182d"/></linearGradient>
+  <radialGradient id="gl" cx="50%" cy="40%" r="40%"><stop offset="0%" stop-color="#0d2530" stop-opacity=".4"/><stop offset="100%" stop-color="#12182d" stop-opacity="0"/></radialGradient>
+  <linearGradient id="tg" x1="0" y1="0" x2="1" y2=".2"><stop offset="0%" stop-color="#69f0ae"/><stop offset="50%" stop-color="#00e5ff"/><stop offset="100%" stop-color="#b388ff"/></linearGradient>
+  <linearGradient id="btn" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#00e5ff"/><stop offset="100%" stop-color="#69f0ae"/></linearGradient>
+  <filter id="sg"><feGaussianBlur stdDeviation="10"/><feComposite in="SourceGraphic" operator="over"/></filter>
+</defs>
+<rect width="1080" height="1350" fill="url(#bg)"/>
+<rect width="1080" height="1350" fill="url(#gl)"/>
+<g fill="#fff" opacity=".35"><circle cx="120" cy="70" r="1.2"/><circle cx="500" cy="40" r="1.5"/><circle cx="940" cy="100" r="1"/><circle cx="200" cy="1280" r="1"/><circle cx="880" cy="1200" r="1.2"/></g>
+<rect x="650" y="30" width="400" height="44" rx="22" fill="#131d33" stroke="#00e5ff" stroke-width="1"/>
+<text x="850" y="59" text-anchor="middle" font-family="Vazirmatn,IRANSans,Tahoma,sans-serif" font-size="18" fill="#00bcd4" direction="rtl">فصل ۱ • اسلاید ۵ از ۵</text>
+<!-- title -->
+<text x="540" y="170" text-anchor="middle" font-family="Vazirmatn,IRANSans,Tahoma,sans-serif" font-size="44" font-weight="900" fill="url(#tg)" direction="rtl" filter="url(#sg)">تز اصلی کتاب</text>
+<line x1="260" y1="210" x2="820" y2="210" stroke="#1a3040" stroke-width="1.5"/>
+<!-- thesis box -->
+<rect x="60" y="250" width="960" height="260" rx="18" fill="#0d1a2a" stroke="#69f0ae" stroke-width="2"/>
+<text x="540" y="320" text-anchor="middle" font-family="Vazirmatn,IRANSans,Tahoma,sans-serif" font-size="26" font-weight="700" fill="#69f0ae" direction="rtl">نجات‌طلبی — امیدبستن به نیروی خارجی —</text>
+<text x="540" y="365" text-anchor="middle" font-family="Vazirmatn,IRANSans,Tahoma,sans-serif" font-size="26" font-weight="700" fill="#69f0ae" direction="rtl">در اکثر موارد تاریخی نه به رهایی</text>
+<text x="540" y="410" text-anchor="middle" font-family="Vazirmatn,IRANSans,Tahoma,sans-serif" font-size="26" font-weight="700" fill="#69f0ae" direction="rtl">بلکه به وابستگی جدید منجر شده است.</text>
+<text x="540" y="470" text-anchor="middle" font-family="Vazirmatn,IRANSans,Tahoma,sans-serif" font-size="20" fill="#5c6f88" direction="rtl">اما: استثناهای مهمی وجود دارند (فصل ۱۵)</text>
+<!-- 3 pillars -->
+<text x="540" y="570" text-anchor="middle" font-family="Vazirmatn,IRANSans,Tahoma,sans-serif" font-size="26" font-weight="700" fill="#5580aa" direction="rtl">سه ستون اصلی استدلال</text>
+<rect x="710" y="610" width="290" height="200" rx="14" fill="#111a2e" stroke="#00e5ff" stroke-width="1.3"/>
+<circle cx="855" cy="665" r="28" fill="#0a1525" stroke="#00e5ff" stroke-width="2"/>
+<text x="855" y="675" text-anchor="middle" font-family="Vazirmatn,IRANSans,Tahoma,sans-serif" font-size="26" font-weight="900" fill="#00e5ff">۱</text>
+<text x="855" y="730" text-anchor="middle" font-family="Vazirmatn,IRANSans,Tahoma,sans-serif" font-size="20" font-weight="700" fill="#b2ebf2" direction="rtl">تاریخ</text>
+<text x="855" y="765" text-anchor="middle" font-family="Vazirmatn,IRANSans,Tahoma,sans-serif" font-size="14" fill="#546e7a" direction="rtl">شواهد تجربی از</text>
+<text x="855" y="790" text-anchor="middle" font-family="Vazirmatn,IRANSans,Tahoma,sans-serif" font-size="14" fill="#546e7a" direction="rtl">۲۵۰۰ سال تاریخ</text>
+
+<rect x="395" y="610" width="290" height="200" rx="14" fill="#111a2e" stroke="#ffd740" stroke-width="1.3"/>
+<circle cx="540" cy="665" r="28" fill="#0a1525" stroke="#ffd740" stroke-width="2"/>
+<text x="540" y="675" text-anchor="middle" font-family="Vazirmatn,IRANSans,Tahoma,sans-serif" font-size="26" font-weight="900" fill="#ffd740">۲</text>
+<text x="540" y="730" text-anchor="middle" font-family="Vazirmatn,IRANSans,Tahoma,sans-serif" font-size="20" font-weight="700" fill="#fff9c4" direction="rtl">نظریه</text>
+<text x="540" y="765" text-anchor="middle" font-family="Vazirmatn,IRANSans,Tahoma,sans-serif" font-size="14" fill="#546e7a" direction="rtl">حقوق بین‌الملل و</text>
+<text x="540" y="790" text-anchor="middle" font-family="Vazirmatn,IRANSans,Tahoma,sans-serif" font-size="14" fill="#546e7a" direction="rtl">علوم سیاسی</text>
+
+<rect x="80" y="610" width="290" height="200" rx="14" fill="#111a2e" stroke="#ff80ab" stroke-width="1.3"/>
+<circle cx="225" cy="665" r="28" fill="#0a1525" stroke="#ff80ab" stroke-width="2"/>
+<text x="225" y="675" text-anchor="middle" font-family="Vazirmatn,IRANSans,Tahoma,sans-serif" font-size="26" font-weight="900" fill="#ff80ab">۳</text>
+<text x="225" y="730" text-anchor="middle" font-family="Vazirmatn,IRANSans,Tahoma,sans-serif" font-size="20" font-weight="700" fill="#f8bbd0" direction="rtl">روان‌شناسی</text>
+<text x="225" y="765" text-anchor="middle" font-family="Vazirmatn,IRANSans,Tahoma,sans-serif" font-size="14" fill="#546e7a" direction="rtl">سوگیری‌ها و</text>
+<text x="225" y="790" text-anchor="middle" font-family="Vazirmatn,IRANSans,Tahoma,sans-serif" font-size="14" fill="#546e7a" direction="rtl">آرزواندیشی</text>
+<!-- whats next -->
+<rect x="120" y="870" width="840" height="120" rx="16" fill="#0d1520" stroke="#b388ff" stroke-width="1"/>
+<text x="540" y="920" text-anchor="middle" font-family="Vazirmatn,IRANSans,Tahoma,sans-serif" font-size="24" font-weight="700" fill="#b388ff" direction="rtl">⬅ فصل بعدی:</text>
+<text x="540" y="960" text-anchor="middle" font-family="Vazirmatn,IRANSans,Tahoma,sans-serif" font-size="22" fill="#7a8a9a" direction="rtl">مبانی حقوقی مداخله‌ی خارجی در حقوق بین‌الملل</text>
+<!-- CTA -->
+<rect x="290" y="1050" width="500" height="65" rx="32" fill="url(#btn)"/>
+<text x="540" y="1092" text-anchor="middle" font-family="Vazirmatn,IRANSans,Tahoma,sans-serif" font-size="26" font-weight="900" fill="#080c18" direction="rtl">ذخیره کن و ادامه بده ➡</text>
+<!-- bottom -->
+<rect x="250" y="1170" width="580" height="50" rx="25" fill="#1a2540" stroke="#253350" stroke-width="1"/>
+<text x="540" y="1203" text-anchor="middle" font-family="Vazirmatn,IRANSans,Tahoma,sans-serif" font-size="18" fill="#5580aa" direction="rtl">ناجی نمی‌آید • فصل ۱ از ۱۵</text>
+</svg>

@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350" xml:lang="fa">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2=".3" y2="1"><stop offset="0%" stop-color="#080c18"/><stop offset="100%" stop-color="#12182d"/></linearGradient>
+  <radialGradient id="gl" cx="50%" cy="50%" r="40%"><stop offset="0%" stop-color="#102030" stop-opacity=".5"/><stop offset="100%" stop-color="#12182d" stop-opacity="0"/></radialGradient>
+  <linearGradient id="tg" x1="0" y1="0" x2="1" y2=".3"><stop offset="0%" stop-color="#69f0ae"/><stop offset="50%" stop-color="#00e5ff"/><stop offset="100%" stop-color="#b388ff"/></linearGradient>
+  <linearGradient id="btn" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#00e5ff"/><stop offset="100%" stop-color="#69f0ae"/></linearGradient>
+  <filter id="sg"><feGaussianBlur stdDeviation="10"/><feComposite in="SourceGraphic" operator="over"/></filter>
+</defs>
+<rect width="1080" height="1350" fill="url(#bg)"/>
+<rect width="1080" height="1350" fill="url(#gl)"/>
+<g fill="#fff" opacity=".35"><circle cx="120" cy="80" r="1.2"/><circle cx="500" cy="50" r="1.5"/><circle cx="930" cy="120" r="1"/><circle cx="200" cy="1280" r="1"/><circle cx="850" cy="1200" r="1.2"/></g>
+
+<!-- badge -->
+<rect x="30" y="30" width="340" height="52" rx="26" fill="#131d33" stroke="#253350" stroke-width="1"/>
+<text x="200" y="64" text-anchor="middle" font-family="Tahoma,sans-serif" font-size="22" fill="#5580aa">معرفی کتاب • ۵ از ۵</text>
+
+<!-- title -->
+<text x="540" y="175" text-anchor="middle" font-family="Tahoma,sans-serif" font-size="56" font-weight="700" fill="url(#tg)" filter="url(#sg)">چرا این کتاب را بخوانید؟</text>
+<line x1="200" y1="215" x2="880" y2="215" stroke="#1a3040" stroke-width="2"/>
+
+<!-- 5 reason cards with left color bar -->
+<rect x="60" y="260" width="960" height="120" rx="16" fill="#111a2e" stroke="#69f0ae" stroke-width="1.5"/>
+<rect x="60" y="260" width="8" height="120" rx="4" fill="#69f0ae"/>
+<rect x="950" y="280" width="50" height="40" rx="10" fill="#69f0ae"/>
+<text x="975" y="309" text-anchor="middle" font-family="Tahoma,sans-serif" font-size="24" font-weight="900" fill="#080c18">۱</text>
+<text x="920" y="310" text-anchor="end" font-family="Tahoma,sans-serif" font-size="30" font-weight="700" fill="#b9f6ca">تاریخ را از نو بخوانید</text>
+<text x="920" y="355" text-anchor="end" font-family="Tahoma,sans-serif" font-size="22" fill="#546e7a">نگاهی متفاوت به ۲۵۰۰ سال تاریخ ایران و جهان</text>
+
+<rect x="60" y="410" width="960" height="120" rx="16" fill="#111a2e" stroke="#00e5ff" stroke-width="1.5"/>
+<rect x="60" y="410" width="8" height="120" rx="4" fill="#00e5ff"/>
+<rect x="950" y="430" width="50" height="40" rx="10" fill="#00e5ff"/>
+<text x="975" y="459" text-anchor="middle" font-family="Tahoma,sans-serif" font-size="24" font-weight="900" fill="#080c18">۲</text>
+<text x="920" y="460" text-anchor="end" font-family="Tahoma,sans-serif" font-size="30" font-weight="700" fill="#b2ebf2">سوگیری‌هایتان را بشناسید</text>
+<text x="920" y="505" text-anchor="end" font-family="Tahoma,sans-serif" font-size="22" fill="#546e7a">روان‌شناسی نجات‌طلبی و آرزواندیشی سیاسی</text>
+
+<rect x="60" y="560" width="960" height="120" rx="16" fill="#111a2e" stroke="#ffd740" stroke-width="1.5"/>
+<rect x="60" y="560" width="8" height="120" rx="4" fill="#ffd740"/>
+<rect x="950" y="580" width="50" height="40" rx="10" fill="#ffd740"/>
+<text x="975" y="609" text-anchor="middle" font-family="Tahoma,sans-serif" font-size="24" font-weight="900" fill="#080c18">۳</text>
+<text x="920" y="610" text-anchor="end" font-family="Tahoma,sans-serif" font-size="30" font-weight="700" fill="#fff9c4">حقوق بین‌الملل را بفهمید</text>
+<text x="920" y="655" text-anchor="end" font-family="Tahoma,sans-serif" font-size="22" fill="#546e7a">R2P و حاکمیت و حق تعیین سرنوشت: واقعیت چیست؟</text>
+
+<rect x="60" y="710" width="960" height="120" rx="16" fill="#111a2e" stroke="#b388ff" stroke-width="1.5"/>
+<rect x="60" y="710" width="8" height="120" rx="4" fill="#b388ff"/>
+<rect x="950" y="730" width="50" height="40" rx="10" fill="#b388ff"/>
+<text x="975" y="759" text-anchor="middle" font-family="Tahoma,sans-serif" font-size="24" font-weight="900" fill="#080c18">۴</text>
+<text x="920" y="760" text-anchor="end" font-family="Tahoma,sans-serif" font-size="30" font-weight="700" fill="#d1c4e9">جایگزین را بیاموزید</text>
+<text x="920" y="805" text-anchor="end" font-family="Tahoma,sans-serif" font-size="22" fill="#546e7a">عاملیت جمعی، رهایی ترکیبی، مقاومت مدنی</text>
+
+<rect x="60" y="860" width="960" height="120" rx="16" fill="#111a2e" stroke="#ff80ab" stroke-width="1.5"/>
+<rect x="60" y="860" width="8" height="120" rx="4" fill="#ff80ab"/>
+<rect x="950" y="880" width="50" height="40" rx="10" fill="#ff80ab"/>
+<text x="975" y="909" text-anchor="middle" font-family="Tahoma,sans-serif" font-size="24" font-weight="900" fill="#080c18">۵</text>
+<text x="920" y="910" text-anchor="end" font-family="Tahoma,sans-serif" font-size="30" font-weight="700" fill="#f8bbd0">هر دو طرف را بشنوید</text>
+<text x="920" y="955" text-anchor="end" font-family="Tahoma,sans-serif" font-size="22" fill="#546e7a">فصل ۱۵: قوی‌ترین استدلال‌ها به نفع نجات‌طلبی هم بررسی شده</text>
+
+<!-- quote box -->
+<rect x="80" y="1030" width="920" height="130" rx="16" fill="#0d1520" stroke="#69f0ae" stroke-width="1.5"/>
+<text x="540" y="1085" text-anchor="middle" font-family="Tahoma,sans-serif" font-size="28" font-weight="700" fill="#69f0ae">«ناجیان بیرونی، حتی وقتی نجات می‌دهند،</text>
+<text x="540" y="1130" text-anchor="middle" font-family="Tahoma,sans-serif" font-size="28" font-weight="700" fill="#69f0ae">صورتحسابشان را ارائه خواهند کرد.»</text>
+
+<!-- CTA button -->
+<rect x="240" y="1210" width="600" height="76" rx="38" fill="url(#btn)"/>
+<text x="540" y="1260" text-anchor="middle" font-family="Tahoma,sans-serif" font-size="32" font-weight="900" fill="#080c18">همین حالا شروع کنید</text>
+</svg>

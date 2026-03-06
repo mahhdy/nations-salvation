@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2=".3" y2="1"><stop offset="0%" stop-color="#080c18"/><stop offset="100%" stop-color="#12182d"/></linearGradient>
+  <radialGradient id="gl" cx="50%" cy="30%" r="35%"><stop offset="0%" stop-color="#1a1535" stop-opacity=".4"/><stop offset="100%" stop-color="#12182d" stop-opacity="0"/></radialGradient>
+  <linearGradient id="tg" x1="0" y1="0" x2="1" y2=".2"><stop offset="0%" stop-color="#b388ff"/><stop offset="100%" stop-color="#ea80fc"/></linearGradient>
+  <linearGradient id="sp" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#69f0ae"/><stop offset="25%" stop-color="#00e5ff"/><stop offset="50%" stop-color="#ffd740"/><stop offset="75%" stop-color="#ff4081"/><stop offset="100%" stop-color="#d50000"/></linearGradient>
+</defs>
+<rect width="1080" height="1350" fill="url(#bg)"/>
+<rect width="1080" height="1350" fill="url(#gl)"/>
+<g fill="#fff" opacity=".3"><circle cx="90" cy="60" r="1.2"/><circle cx="500" cy="80" r="1.5"/><circle cx="960" cy="110" r="1"/></g>
+<rect x="650" y="30" width="400" height="44" rx="22" fill="#131d33" stroke="#00e5ff" stroke-width="1"/>
+<text x="850" y="59" text-anchor="middle" font-family="Vazirmatn,IRANSans,Tahoma,sans-serif" font-size="18" fill="#00bcd4" direction="rtl">فصل ۱ • اسلاید ۲ از ۵</text>
+<!-- title -->
+<text x="540" y="160" text-anchor="middle" font-family="Vazirmatn,IRANSans,Tahoma,sans-serif" font-size="44" font-weight="900" fill="url(#tg)" direction="rtl">طیف نجات‌طلبی</text>
+<text x="540" y="210" text-anchor="middle" font-family="Vazirmatn,IRANSans,Tahoma,sans-serif" font-size="22" fill="#7a8a9a" direction="rtl">از همکاری سالم تا وابستگی مطلق</text>
+<line x1="200" y1="245" x2="880" y2="245" stroke="#1a2040" stroke-width="1.5"/>
+<!-- spectrum bar -->
+<rect x="100" y="290" width="880" height="24" rx="12" fill="url(#sp)" opacity=".8"/>
+<text x="140" y="345" text-anchor="middle" font-family="Vazirmatn,IRANSans,Tahoma,sans-serif" font-size="14" fill="#69f0ae" direction="rtl">سالم</text>
+<text x="540" y="345" text-anchor="middle" font-family="Vazirmatn,IRANSans,Tahoma,sans-serif" font-size="14" fill="#ffd740" direction="rtl">خطرناک</text>
+<text x="940" y="345" text-anchor="middle" font-family="Vazirmatn,IRANSans,Tahoma,sans-serif" font-size="14" fill="#d50000" direction="rtl">فاجعه‌بار</text>
+<!-- 5 levels -->
+<rect x="80" y="380" width="920" height="140" rx="14" fill="#111a2e" stroke="#69f0ae" stroke-width="1.5"/>
+<rect x="870" y="395" width="105" height="30" rx="8" fill="#69f0ae"/>
+<text x="922" y="416" text-anchor="middle" font-family="Vazirmatn,IRANSans,Tahoma,sans-serif" font-size="16" font-weight="700" fill="#080c18">سطح ۱</text>
+<text x="840" y="425" text-anchor="end" font-family="Vazirmatn,IRANSans,Tahoma,sans-serif" font-size="22" font-weight="700" fill="#b9f6ca" direction="rtl">دیپلماسی فعال</text>
+<text x="840" y="460" text-anchor="end" font-family="Vazirmatn,IRANSans,Tahoma,sans-serif" font-size="16" fill="#546e7a" direction="rtl">درخواست حمایت دیپلماتیک و اقتصادی</text>
+<text x="840" y="490" text-anchor="end" font-family="Vazirmatn,IRANSans,Tahoma,sans-serif" font-size="16" fill="#546e7a" direction="rtl">بدون واگذاری حاکمیت. مثال: تحریم آپارتاید</text>
+
+<rect x="80" y="545" width="920" height="140" rx="14" fill="#111a2e" stroke="#00e5ff" stroke-width="1.5"/>
+<rect x="870" y="560" width="105" height="30" rx="8" fill="#00e5ff"/>
+<text x="922" y="581" text-anchor="middle" font-family="Vazirmatn,IRANSans,Tahoma,sans-serif" font-size="16" font-weight="700" fill="#080c18">سطح ۲</text>
+<text x="840" y="590" text-anchor="end" font-family="Vazirmatn,IRANSans,Tahoma,sans-serif" font-size="22" font-weight="700" fill="#b2ebf2" direction="rtl">ائتلاف مشروط</text>
+<text x="840" y="625" text-anchor="end" font-family="Vazirmatn,IRANSans,Tahoma,sans-serif" font-size="16" fill="#546e7a" direction="rtl">همکاری با قدرت خارجی بر اساس منافع مشترک</text>
+<text x="840" y="655" text-anchor="end" font-family="Vazirmatn,IRANSans,Tahoma,sans-serif" font-size="16" fill="#546e7a" direction="rtl">با حفظ استقلال تصمیم‌گیری</text>
+
+<rect x="80" y="710" width="920" height="140" rx="14" fill="#111a2e" stroke="#ffd740" stroke-width="1.5"/>
+<rect x="870" y="725" width="105" height="30" rx="8" fill="#ffd740"/>
+<text x="922" y="746" text-anchor="middle" font-family="Vazirmatn,IRANSans,Tahoma,sans-serif" font-size="16" font-weight="700" fill="#080c18">سطح ۳</text>
+<text x="840" y="755" text-anchor="end" font-family="Vazirmatn,IRANSans,Tahoma,sans-serif" font-size="22" font-weight="700" fill="#fff9c4" direction="rtl">نجات‌طلبی آرزومندانه</text>
+<text x="840" y="790" text-anchor="end" font-family="Vazirmatn,IRANSans,Tahoma,sans-serif" font-size="16" fill="#546e7a" direction="rtl">امید غیرواقعی به مداخله‌ی خارجی</text>
+<text x="840" y="820" text-anchor="end" font-family="Vazirmatn,IRANSans,Tahoma,sans-serif" font-size="16" fill="#546e7a" direction="rtl">بدون تحلیل منافع مداخله‌گر. ⚠ خطرناک</text>
+
+<rect x="80" y="875" width="920" height="140" rx="14" fill="#111a2e" stroke="#ff4081" stroke-width="1.5"/>
+<rect x="870" y="890" width="105" height="30" rx="8" fill="#ff4081"/>
+<text x="922" y="911" text-anchor="middle" font-family="Vazirmatn,IRANSans,Tahoma,sans-serif" font-size="16" font-weight="700" fill="#fff">سطح ۴</text>
+<text x="840" y="920" text-anchor="end" font-family="Vazirmatn,IRANSans,Tahoma,sans-serif" font-size="22" font-weight="700" fill="#f8bbd0" direction="rtl">دعوت به مداخله‌ی نظامی</text>
+<text x="840" y="955" text-anchor="end" font-family="Vazirmatn,IRANSans,Tahoma,sans-serif" font-size="16" fill="#546e7a" direction="rtl">درخواست حمله‌ی نظامی خارجی</text>
+<text x="840" y="985" text-anchor="end" font-family="Vazirmatn,IRANSans,Tahoma,sans-serif" font-size="16" fill="#546e7a" direction="rtl">مثال: عراق ۲۰۰۳، لیبی ۲۰۱۱</text>
+
+<rect x="80" y="1040" width="920" height="140" rx="14" fill="#111a2e" stroke="#d50000" stroke-width="1.5"/>
+<rect x="870" y="1055" width="105" height="30" rx="8" fill="#d50000"/>
+<text x="922" y="1076" text-anchor="middle" font-family="Vazirmatn,IRANSans,Tahoma,sans-serif" font-size="16" font-weight="700" fill="#fff">سطح ۵</text>
+<text x="840" y="1085" text-anchor="end" font-family="Vazirmatn,IRANSans,Tahoma,sans-serif" font-size="22" font-weight="700" fill="#ef9a9a" direction="rtl">تسلیم حاکمیت</text>
+<text x="840" y="1120" text-anchor="end" font-family="Vazirmatn,IRANSans,Tahoma,sans-serif" font-size="16" fill="#546e7a" direction="rtl">واگذاری کامل تصمیم‌گیری به بیگانه</text>
+<text x="840" y="1150" text-anchor="end" font-family="Vazirmatn,IRANSans,Tahoma,sans-serif" font-size="16" fill="#546e7a" direction="rtl">مثال: قرارداد ۱۹۱۹ ایران-بریتانیا</text>
+<!-- bottom -->
+<text x="540" y="1250" text-anchor="middle" font-family="Vazirmatn,IRANSans,Tahoma,sans-serif" font-size="20" font-weight="700" fill="#5c6f88" direction="rtl">خط قرمز کتاب: از سطح ۳ به بعد</text>
+</svg>

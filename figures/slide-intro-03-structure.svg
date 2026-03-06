@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350" xml:lang="fa">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2=".3" y2="1"><stop offset="0%" stop-color="#080c18"/><stop offset="100%" stop-color="#12182d"/></linearGradient>
+  <radialGradient id="gl" cx="50%" cy="25%" r="35%"><stop offset="0%" stop-color="#0d3040" stop-opacity=".5"/><stop offset="100%" stop-color="#12182d" stop-opacity="0"/></radialGradient>
+  <linearGradient id="tg" x1="0" y1="0" x2="1" y2=".2"><stop offset="0%" stop-color="#00e5ff"/><stop offset="100%" stop-color="#69f0ae"/></linearGradient>
+</defs>
+<rect width="1080" height="1350" fill="url(#bg)"/>
+<rect width="1080" height="1350" fill="url(#gl)"/>
+<g fill="#fff" opacity=".35"><circle cx="100" cy="80" r="1.2"/><circle cx="500" cy="50" r="1.5"/><circle cx="950" cy="120" r="1"/></g>
+
+<!-- badge -->
+<rect x="30" y="30" width="340" height="52" rx="26" fill="#131d33" stroke="#253350" stroke-width="1"/>
+<text x="200" y="64" text-anchor="middle" font-family="Tahoma,sans-serif" font-size="22" fill="#5580aa">معرفی کتاب • ۳ از ۵</text>
+
+<!-- title -->
+<text x="540" y="160" text-anchor="middle" font-family="Tahoma,sans-serif" font-size="62" font-weight="700" fill="url(#tg)">ساختار کتاب</text>
+<text x="540" y="220" text-anchor="middle" font-family="Tahoma,sans-serif" font-size="28" fill="#607a8a">پنج بخش — پانزده فصل — از نظریه تا عمل</text>
+<line x1="200" y1="255" x2="880" y2="255" stroke="#1a3040" stroke-width="2"/>
+
+<!-- Part 1 -->
+<rect x="60" y="290" width="960" height="160" rx="18" fill="#111a2e" stroke="#00e5ff" stroke-width="2"/>
+<rect x="60" y="290" width="8" height="160" rx="4" fill="#00e5ff"/>
+<text x="1000" y="340" text-anchor="end" font-family="Tahoma,sans-serif" font-size="22" font-weight="700" fill="#00e5ff">بخش اول</text>
+<text x="1000" y="385" text-anchor="end" font-family="Tahoma,sans-serif" font-size="36" font-weight="700" fill="#e0f7fa">مبانی نظری</text>
+<text x="1000" y="425" text-anchor="end" font-family="Tahoma,sans-serif" font-size="20" fill="#546e7a">فصل ۱–۳: چارچوب مفهومی · حقوق بین‌الملل · الگوهای تحلیلی</text>
+
+<!-- Part 2 -->
+<rect x="60" y="475" width="960" height="160" rx="18" fill="#111a2e" stroke="#ffd740" stroke-width="2"/>
+<rect x="60" y="475" width="8" height="160" rx="4" fill="#ffd740"/>
+<text x="1000" y="525" text-anchor="end" font-family="Tahoma,sans-serif" font-size="22" font-weight="700" fill="#ffd740">بخش دوم</text>
+<text x="1000" y="570" text-anchor="end" font-family="Tahoma,sans-serif" font-size="36" font-weight="700" fill="#fff9c4">تاریخ ایران</text>
+<text x="1000" y="610" text-anchor="end" font-family="Tahoma,sans-serif" font-size="20" fill="#546e7a">فصل ۴–۷: هخامنشیان · اعراب و مغول · صفوی تا قاجار · ایران معاصر</text>
+
+<!-- Part 3 -->
+<rect x="60" y="660" width="960" height="160" rx="18" fill="#111a2e" stroke="#ff4081" stroke-width="2"/>
+<rect x="60" y="660" width="8" height="160" rx="4" fill="#ff4081"/>
+<text x="1000" y="710" text-anchor="end" font-family="Tahoma,sans-serif" font-size="22" font-weight="700" fill="#ff4081">بخش سوم</text>
+<text x="1000" y="755" text-anchor="end" font-family="Tahoma,sans-serif" font-size="36" font-weight="700" fill="#f8bbd0">تاریخ جهان</text>
+<text x="1000" y="795" text-anchor="end" font-family="Tahoma,sans-serif" font-size="20" fill="#546e7a">فصل ۸–۹: اروپا · ناپلئون · استعمار · آفریقا · خاورمیانه</text>
+
+<!-- Part 4 -->
+<rect x="60" y="845" width="960" height="160" rx="18" fill="#111a2e" stroke="#69f0ae" stroke-width="2"/>
+<rect x="60" y="845" width="8" height="160" rx="4" fill="#69f0ae"/>
+<text x="1000" y="895" text-anchor="end" font-family="Tahoma,sans-serif" font-size="22" font-weight="700" fill="#69f0ae">بخش چهارم</text>
+<text x="1000" y="940" text-anchor="end" font-family="Tahoma,sans-serif" font-size="36" font-weight="700" fill="#b9f6ca">تحلیل ساختاری</text>
+<text x="1000" y="980" text-anchor="end" font-family="Tahoma,sans-serif" font-size="20" fill="#546e7a">فصل ۱۰–۱۲: جهان معاصر · روان‌شناسی اجتماعی · اقتصاد سیاسی</text>
+
+<!-- Part 5 -->
+<rect x="60" y="1030" width="960" height="160" rx="18" fill="#111a2e" stroke="#b388ff" stroke-width="2"/>
+<rect x="60" y="1030" width="8" height="160" rx="4" fill="#b388ff"/>
+<text x="1000" y="1080" text-anchor="end" font-family="Tahoma,sans-serif" font-size="22" font-weight="700" fill="#b388ff">بخش پنجم</text>
+<text x="1000" y="1125" text-anchor="end" font-family="Tahoma,sans-serif" font-size="36" font-weight="700" fill="#d1c4e9">نتیجه‌گیری و جایگزین</text>
+<text x="1000" y="1165" text-anchor="end" font-family="Tahoma,sans-serif" font-size="20" fill="#546e7a">فصل ۱۳–۱۵: عاملیت جمعی · رهایی ترکیبی · مدافع شیطان</text>
+
+<!-- bottom stat -->
+<rect x="300" y="1240" width="480" height="56" rx="28" fill="#1a2540" stroke="#253350" stroke-width="1"/>
+<text x="540" y="1277" text-anchor="middle" font-family="Tahoma,sans-serif" font-size="24" fill="#5580aa">بیش از ۵۰۰ منبع علمی</text>
+</svg>

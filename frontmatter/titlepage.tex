@@ -1,0 +1,62 @@
+% ═══════════════════════════════════════════════════════════════════════════
+%  صفحه‌ی عنوان
+% ═══════════════════════════════════════════════════════════════════════════
+\begin{titlepage}
+\begin{tikzpicture}[remember picture, overlay]
+
+  % پس‌زمینه گرادیان
+  \fill[top color=PrimaryDeep, bottom color=PrimaryMid]
+    (current page.south west) rectangle (current page.north east);
+
+  % نوار تزئینی طلایی
+  \fill[AccentGold, opacity=0.9]
+    ([yshift=8cm]current page.south west) rectangle
+    ([yshift=8.4cm]current page.south east);
+
+  \fill[AccentGold, opacity=0.9]
+    ([yshift=16cm]current page.south west) rectangle
+    ([yshift=16.4cm]current page.south east);
+
+  % نام نویسنده
+  \node[anchor=center, text=AccentGold, font=\Large\bfseries]
+    at ([yshift=18cm]current page.south) {\rl{مهدی سالم}};
+
+  % عنوان اصلی
+  \node[anchor=center, text=white, font=\Huge\bfseries,
+        text width=14cm, align=center]
+    at ([yshift=14cm]current page.south)
+    {\rl{ملت‌ها و نجات‌بخشی}};
+
+  % زیرعنوان
+  \node[anchor=center, text=NeutralLight, font=\LARGE,
+        text width=14cm, align=center]
+    at ([yshift=12cm]current page.south)
+    {\rl{آرزواندیشی و خام‌اندیشی یا فرصت‌طلبی و عمل‌گرایی}};
+
+  % توضیح
+  \node[anchor=center, text=NeutralMid, font=\large,
+        text width=12cm, align=center]
+    at ([yshift=9.5cm]current page.south)
+    {\rl{بررسی تطبیقی مداخلات خارجی و استمداد نظامی \\ در تاریخ ایران و جهان}};
+
+  % پایین صفحه
+  \node[anchor=center, text=NeutralMid, font=\normalsize]
+    at ([yshift=2cm]current page.south)
+    {\rl{چاپ نخست — ۱۴۰۴}};
+
+\end{tikzpicture}
+\end{titlepage}
+
+% صفحه‌ی حق چاپ
+\thispagestyle{empty}
+\vspace*{\fill}
+\begin{center}
+  {\large\bfseries ملت‌ها و نجات‌بخشی}\\[6pt]
+  {\normalsize آرزواندیشی و خام‌اندیشی یا فرصت‌طلبی و عمل‌گرایی}\\[18pt]
+  {\normalsize نویسنده: مهدی سالم}\\[12pt]
+  {\small چاپ نخست: ۱۴۰۴}\\[6pt]
+  {\small تمامی حقوق مادی و معنوی این اثر محفوظ است.}\\[6pt]
+  {\small حروف‌چینی با \lr{XeLaTeX}}
+\end{center}
+\vspace*{\fill}
+\cleardoublepage
