@@ -1,0 +1,99 @@
+﻿<svg width="1080" height="1350" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0.5" y2="1">
+      <stop offset="0%" stop-color="#060818"/>
+      <stop offset="100%" stop-color="#0a1020"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1080" height="1350" fill="url(#bg3)"/>
+
+  <!-- Tag -->
+  <rect x="330" y="70" width="420" height="56" rx="28" fill="rgba(249,168,37,0.1)" stroke="#F9A825" stroke-width="1"/>
+  <foreignObject x="330" y="78" width="420" height="42">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl"
+         style="text-align:center;font-family:'Estedad','Vazirmatn',sans-serif;
+                font-size:24px;color:#F9A825;">اعدادی که باید بدانید</div>
+  </foreignObject>
+
+  <!-- Stat 1 -->
+  <rect x="80" y="170" width="920" height="230" rx="28" fill="#0c1225" stroke="#1A237E" stroke-width="1.5"/>
+  <foreignObject x="100" y="185" width="880" height="200">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl" style="text-align:center;
+         font-family:'IRANSansX','Vazirmatn',sans-serif;">
+      <div style="font-size:100px;font-weight:900;color:#EF5350;
+                  text-shadow:0 0 40px rgba(239,83,80,0.3);">۹۰٪</div>
+      <div style="font-size:28px;color:#ECEFF1;font-weight:400;margin-top:-5px;">
+        مداخلات خارجی به نتیجه‌ی مثبت پایدار <span style="color:#EF5350;font-weight:700;">نرسیده‌اند</span>
+      </div>
+    </div>
+  </foreignObject>
+
+  <!-- Stat 2 -->
+  <rect x="80" y="430" width="440" height="220" rx="28" fill="#0c1225" stroke="#1A237E" stroke-width="1.5"/>
+  <foreignObject x="100" y="445" width="400" height="190">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl" style="text-align:center;
+         font-family:'IRANSansX','Vazirmatn',sans-serif;">
+      <div style="font-size:72px;font-weight:900;color:#F9A825;">$۵T+</div>
+      <div style="font-size:24px;color:#CFD8DC;margin-top:5px;">
+        هزینه‌ی مداخلات آمریکا<br/>فقط در عراق و افغانستان
+      </div>
+    </div>
+  </foreignObject>
+
+  <!-- Stat 3 -->
+  <rect x="560" y="430" width="440" height="220" rx="28" fill="#0c1225" stroke="#1A237E" stroke-width="1.5"/>
+  <foreignObject x="580" y="445" width="400" height="190">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl" style="text-align:center;
+         font-family:'IRANSansX','Vazirmatn',sans-serif;">
+      <div style="font-size:72px;font-weight:900;color:#69F0AE;">۲–۳</div>
+      <div style="font-size:24px;color:#CFD8DC;margin-top:5px;">
+        فقط ۲ تا ۳ مداخله از ۳۰+<br/>به «رهایی پایدار» رسیده
+      </div>
+    </div>
+  </foreignObject>
+
+  <!-- Stat 4 -->
+  <rect x="80" y="680" width="440" height="220" rx="28" fill="#0c1225" stroke="#1A237E" stroke-width="1.5"/>
+  <foreignObject x="100" y="695" width="400" height="190">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl" style="text-align:center;
+         font-family:'IRANSansX','Vazirmatn',sans-serif;">
+      <div style="font-size:72px;font-weight:900;color:#CE93D8;">۳۰۰۰</div>
+      <div style="font-size:24px;color:#CFD8DC;margin-top:5px;">
+        سال تاریخ بررسی‌شده<br/>از ایران باستان تا ۲۰۲۴
+      </div>
+    </div>
+  </foreignObject>
+
+  <!-- Stat 5 -->
+  <rect x="560" y="680" width="440" height="220" rx="28" fill="#0c1225" stroke="#1A237E" stroke-width="1.5"/>
+  <foreignObject x="580" y="695" width="400" height="190">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl" style="text-align:center;
+         font-family:'IRANSansX','Vazirmatn',sans-serif;">
+      <div style="font-size:72px;font-weight:900;color:#FFB74D;">۷۰٪</div>
+      <div style="font-size:24px;color:#CFD8DC;margin-top:5px;">
+        مداخلات بزرگ در<br/>کشورهای نفت‌خیز بوده‌اند
+      </div>
+    </div>
+  </foreignObject>
+
+  <!-- Bottom message -->
+  <foreignObject x="80" y="950" width="920" height="200">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl"
+         style="text-align:center;font-family:'Sahel','Shabnam','Vazirmatn',sans-serif;">
+      <div style="font-size:34px;color:#FFFFFF;font-weight:700;line-height:1.7;">
+        این اعداد <span style="color:#F9A825;">تصادفی</span> نیستند
+      </div>
+      <div style="font-size:26px;color:#90A4AE;line-height:1.7;margin-top:12px;">
+        فصل ۱۰ تا ۱۲ کتاب نشان می‌دهد چرا الگوی شکست تکرار می‌شود<br/>
+        و چه عواملی مانع «نجات واقعی» شده‌اند
+      </div>
+    </div>
+  </foreignObject>
+
+  <foreignObject x="0" y="1280" width="1080" height="50">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl"
+         style="text-align:center;font-family:'Sahel','Vazirmatn',sans-serif;
+                font-size:22px;color:#546E7A;">nations_salvation@ · ۳ از ۱۰</div>
+  </foreignObject>
+</svg>

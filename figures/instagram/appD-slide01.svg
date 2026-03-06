@@ -1,0 +1,226 @@
+﻿<svg width="1080" height="1350" viewBox="0 0 1080 1350" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      :root { direction:rtl; font-family:"Vazirmatn","Segoe UI",Tahoma,sans-serif; }
+      .bg { fill:#060610; }
+      .header-bar { fill:#1A237E; }
+      .accent { fill:#F9A825; }
+      .card { fill:#0e0e1c; stroke:#283593; stroke-width:1.4; rx:28; ry:28; }
+      .table-card { fill:#0e0e1c; stroke:#F9A825; stroke-width:2; rx:28; ry:28; }
+      .row-h { fill:#1A237E; }
+      .row-a { fill:#0a1a0a; stroke:#2E7D32; stroke-width:1; }
+      .row-c { fill:#1a1a0a; stroke:#FF8F00; stroke-width:1; }
+      .row-e { fill:#1a0a0a; stroke:#C62828; stroke-width:1; }
+      .shadow { filter:drop-shadow(0px 16px 36px rgba(0,0,0,0.5)); }
+      .title { font-size:44px; font-weight:800; color:#FFFFFF; }
+      .subtitle { font-size:26px; color:#CFD8DC; line-height:1.6; }
+      .card-title { font-size:30px; font-weight:700; color:#FFFFFF; }
+      .card-text { font-size:25px; line-height:1.7; color:#ECEFF1; }
+      .th { font-size:19px; font-weight:700; color:#F9A825; }
+      .td { font-size:18px; color:#ECEFF1; }
+      .gold { color:#F9A825; font-weight:700; }
+      .green { color:#69F0AE; font-weight:700; }
+      .orange { color:#FFB74D; font-weight:700; }
+      .red { color:#EF5350; font-weight:700; }
+      .footer { font-size:24px; color:#78909C; }
+    </style>
+  </defs>
+
+  <rect class="bg" x="0" y="0" width="1080" height="1350"/>
+
+  <rect class="header-bar" x="60" y="60" width="960" height="90" rx="22"/>
+  <rect class="accent" x="80" y="82" width="10" height="46" rx="5"/>
+  <foreignObject x="110" y="70" width="900" height="80">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl"
+         style="display:flex;justify-content:space-between;align-items:center;color:#FFF;font-size:28px;font-weight:600;">
+      <span>پیوست ت • جدول تطبیقی جامع</span>
+      <span style="opacity:0.8;">ملت‌ها و نجات‌بخشی</span>
+    </div>
+  </foreignObject>
+
+  <foreignObject x="80" y="175" width="920" height="120">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl" style="text-align:right;">
+      <div class="title">📊 ۳۰+ مداخله در یک نگاه</div>
+      <div class="subtitle" style="margin-top:10px;">
+        از ایران باستان تا اوکراین ۲۰۲۴ — رنگ‌بندی بر اساس طیف نتایج
+      </div>
+    </div>
+  </foreignObject>
+
+  <!-- Table header -->
+  <rect class="row-h" x="40" y="300" width="1000" height="50" rx="10"/>
+  <foreignObject x="50" y="306" width="980" height="40">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl"
+         style="display:flex;justify-content:space-between;text-align:center;">
+      <span class="th" style="width:150px;">مورد</span>
+      <span class="th" style="width:80px;">سال</span>
+      <span class="th" style="width:130px;">مداخله‌گر</span>
+      <span class="th" style="width:100px;">نوع</span>
+      <span class="th" style="width:80px;">دعوت؟</span>
+      <span class="th" style="width:80px;">حقوقی؟</span>
+      <span class="th" style="width:140px;">نتیجه</span>
+      <span class="th" style="width:60px;">طیف</span>
+    </div>
+  </foreignObject>
+
+  <!-- Row: Germany (A) -->
+  <rect class="row-a" x="40" y="355" width="1000" height="55" rx="4"/>
+  <foreignObject x="50" y="360" width="980" height="45">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl"
+         style="display:flex;justify-content:space-between;text-align:center;align-items:center;">
+      <span class="td" style="width:150px;">آلمان غربی</span>
+      <span class="td" style="width:80px;">۱۹۴۵</span>
+      <span class="td" style="width:130px;">متفقین</span>
+      <span class="td" style="width:100px;">اشغال</span>
+      <span class="td" style="width:80px;">خیر</span>
+      <span class="td" style="width:80px;">بله</span>
+      <span class="td" style="width:140px;">دموکراسی پایدار</span>
+      <span class="td" style="width:60px;"><span class="green">A</span></span>
+    </div>
+  </foreignObject>
+
+  <!-- Row: Iraq (C/D) -->
+  <rect class="row-c" x="40" y="415" width="1000" height="55" rx="4"/>
+  <foreignObject x="50" y="420" width="980" height="45">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl"
+         style="display:flex;justify-content:space-between;text-align:center;align-items:center;">
+      <span class="td" style="width:150px;">عراق</span>
+      <span class="td" style="width:80px;">۲۰۰۳</span>
+      <span class="td" style="width:130px;">آمریکا+ائتلاف</span>
+      <span class="td" style="width:100px;">اشغال</span>
+      <span class="td" style="width:80px;">خیر</span>
+      <span class="td" style="width:80px;">خیر</span>
+      <span class="td" style="width:140px;">بی‌ثباتی مزمن</span>
+      <span class="td" style="width:60px;"><span class="orange">C/D</span></span>
+    </div>
+  </foreignObject>
+
+  <!-- Row: Libya (E) -->
+  <rect class="row-e" x="40" y="475" width="1000" height="55" rx="4"/>
+  <foreignObject x="50" y="480" width="980" height="45">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl"
+         style="display:flex;justify-content:space-between;text-align:center;align-items:center;">
+      <span class="td" style="width:150px;">لیبی</span>
+      <span class="td" style="width:80px;">۲۰۱۱</span>
+      <span class="td" style="width:130px;">ناتو</span>
+      <span class="td" style="width:100px;">هوایی+R2P</span>
+      <span class="td" style="width:80px;">بخشی</span>
+      <span class="td" style="width:80px;">بله</span>
+      <span class="td" style="width:140px;">دولت شکست‌خورده</span>
+      <span class="td" style="width:60px;"><span class="red">E</span></span>
+    </div>
+  </foreignObject>
+
+  <!-- Row: Afghanistan (D) -->
+  <rect class="row-c" x="40" y="535" width="1000" height="55" rx="4"/>
+  <foreignObject x="50" y="540" width="980" height="45">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl"
+         style="display:flex;justify-content:space-between;text-align:center;align-items:center;">
+      <span class="td" style="width:150px;">افغانستان</span>
+      <span class="td" style="width:80px;">۲۰۰۱</span>
+      <span class="td" style="width:130px;">آمریکا+ناتو</span>
+      <span class="td" style="width:100px;">اشغال</span>
+      <span class="td" style="width:80px;">بخشی</span>
+      <span class="td" style="width:80px;">بله</span>
+      <span class="td" style="width:140px;">بازگشت طالبان</span>
+      <span class="td" style="width:60px;"><span class="orange">D</span></span>
+    </div>
+  </foreignObject>
+
+  <!-- Row: Rwanda (E) -->
+  <rect class="row-e" x="40" y="595" width="1000" height="55" rx="4"/>
+  <foreignObject x="50" y="600" width="980" height="45">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl"
+         style="display:flex;justify-content:space-between;text-align:center;align-items:center;">
+      <span class="td" style="width:150px;">رواندا</span>
+      <span class="td" style="width:80px;">۱۹۹۴</span>
+      <span class="td" style="width:130px;">عدم مداخله</span>
+      <span class="td" style="width:100px;">—</span>
+      <span class="td" style="width:80px;">—</span>
+      <span class="td" style="width:80px;">—</span>
+      <span class="td" style="width:140px;">نسل‌کشی ۸۰۰K</span>
+      <span class="td" style="width:60px;"><span class="red">E</span></span>
+    </div>
+  </foreignObject>
+
+  <!-- Row: Syria (D/E) -->
+  <rect class="row-e" x="40" y="655" width="1000" height="55" rx="4"/>
+  <foreignObject x="50" y="660" width="980" height="45">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl"
+         style="display:flex;justify-content:space-between;text-align:center;align-items:center;">
+      <span class="td" style="width:150px;">سوریه</span>
+      <span class="td" style="width:80px;">۲۰۱۱+</span>
+      <span class="td" style="width:130px;">چندجانبه</span>
+      <span class="td" style="width:100px;">نیابتی</span>
+      <span class="td" style="width:80px;">بخشی</span>
+      <span class="td" style="width:80px;">خیر</span>
+      <span class="td" style="width:140px;">ویرانی کامل</span>
+      <span class="td" style="width:60px;"><span class="red">D/E</span></span>
+    </div>
+  </foreignObject>
+
+  <!-- Row: Ukraine -->
+  <rect class="row-c" x="40" y="715" width="1000" height="55" rx="4"/>
+  <foreignObject x="50" y="720" width="980" height="45">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl"
+         style="display:flex;justify-content:space-between;text-align:center;align-items:center;">
+      <span class="td" style="width:150px;">اوکراین</span>
+      <span class="td" style="width:80px;">۲۰۲۲+</span>
+      <span class="td" style="width:130px;">روسیه</span>
+      <span class="td" style="width:100px;">اشغال</span>
+      <span class="td" style="width:80px;">خیر</span>
+      <span class="td" style="width:80px;">خیر</span>
+      <span class="td" style="width:140px;">جنگ ادامه‌دار</span>
+      <span class="td" style="width:60px;"><span class="orange">C?</span></span>
+    </div>
+  </foreignObject>
+
+  <!-- Row: Iran 1953 -->
+  <rect class="row-e" x="40" y="775" width="1000" height="55" rx="4"/>
+  <foreignObject x="50" y="780" width="980" height="45">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl"
+         style="display:flex;justify-content:space-between;text-align:center;align-items:center;">
+      <span class="td" style="width:150px;">ایران (کودتا)</span>
+      <span class="td" style="width:80px;">۱۹۵۳</span>
+      <span class="td" style="width:130px;">CIA+MI6</span>
+      <span class="td" style="width:100px;">کودتا</span>
+      <span class="td" style="width:80px;">خیر</span>
+      <span class="td" style="width:80px;">خیر</span>
+      <span class="td" style="width:140px;">دیکتاتوری → انقلاب</span>
+      <span class="td" style="width:60px;"><span class="red">D</span></span>
+    </div>
+  </foreignObject>
+
+  <!-- Legend -->
+  <rect class="table-card shadow" x="80" y="865" width="920" height="160"/>
+  <foreignObject x="100" y="880" width="880" height="130">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl" style="text-align:right;">
+      <div class="card-title">راهنمای رنگ‌ها</div>
+      <div class="card-text" style="margin-top:10px;">
+        <span class="green">■ سبز (A/B):</span> رهایی پایدار — فقط ۲–۳ مورد در تاریخ &nbsp;&nbsp;
+        <span class="orange">■ نارنجی (C/D):</span> بی‌ثباتی یا وابستگی &nbsp;&nbsp;
+        <span class="red">■ قرمز (E/F):</span> فروپاشی یا استعمار
+      </div>
+    </div>
+  </foreignObject>
+
+  <!-- Bottom CTA -->
+  <rect class="card shadow" x="80" y="1060" width="920" height="150"/>
+  <foreignObject x="100" y="1080" width="880" height="110">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl" style="text-align:center;">
+      <div style="font-size:30px;color:#F9A825;font-weight:800;">📖 جدول کامل ۳۰+ مداخله در پیوست ت</div>
+      <div class="card-text" style="margin-top:12px;">
+        شامل ایران باستان، هند، آفریقا، آمریکای لاتین و همه‌ی موارد معاصر<br/>
+        <span class="gold">→ لینک دانلود PDF در بیو</span>
+      </div>
+    </div>
+  </foreignObject>
+
+  <foreignObject x="80" y="1260" width="920" height="60">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl" class="footer"
+         style="display:flex;justify-content:space-between;align-items:center;">
+      <span>nations_salvation@ • لینک مطالعه در بیو</span>
+      <span>پیوست ت • اسلاید ۱ از ۱</span>
+    </div>
+  </foreignObject>
+</svg>

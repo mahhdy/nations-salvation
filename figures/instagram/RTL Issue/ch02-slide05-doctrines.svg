@@ -1,0 +1,77 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1350" width="1080" height="1350">
+  <style>
+    text { 
+      direction: rtl; 
+      unicode-bidi: bidi-override;
+    }
+    .rtl-text {
+      direction: rtl;
+      unicode-bidi: embed;
+      text-anchor: end;
+    }
+  </style>
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0D1117"/>
+      <stop offset="100%" style="stop-color:#161B22"/>
+    </linearGradient>
+    <linearGradient id="titleGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#00D9FF"/>
+      <stop offset="50%" style="stop-color:#A855F7"/>
+      <stop offset="100%" style="stop-color:#EC4899"/>
+    </linearGradient>
+  </defs>
+  
+  <rect width="1080" height="1350" fill="url(#bgGrad)"/>
+  
+  <!-- Header -->
+  <rect x="660" y="30" width="380" height="50" rx="25" fill="#1A237E"/>
+  <text x="850" y="65" font-family="Vazirmatn, Tahoma" font-size="28" fill="#FFFFFF" text-anchor="middle" direction="rtl">فصل ۲ • اسلاید ۵ از ۸</text>
+  
+  <!-- Title -->
+  <text x="540" y="140" font-family="Vazirmatn, Tahoma" font-size="48" font-weight="bold" fill="url(#titleGrad)" text-anchor="middle" direction="rtl">دکترین‌های توجیه‌گر</text>
+  <text x="540" y="190" font-family="Vazirmatn, Tahoma" font-size="28" fill="#94A3B8" text-anchor="middle" direction="rtl">چگونه مداخله «مشروع» می‌شود؟</text>
+  
+  <!-- Doctrine 1: Monroe -->
+  <rect x="60" y="230" width="960" height="130" rx="15" fill="#DC2626" fill-opacity="0.1" stroke="#DC2626" stroke-width="2"/>
+  <text x="980" y="275" font-family="Vazirmatn, Tahoma" font-size="28" fill="#F87171" text-anchor="end" direction="rtl" font-weight="bold">🇺🇸 دکترین مونرو (۱۸۲۳)</text>
+  <text x="980" y="315" font-family="Vazirmatn, Tahoma" font-size="24" fill="#FFFFFF" text-anchor="end" direction="rtl">آمریکا «حافظ» قاره‌ی آمریکاست</text>
+  <text x="980" y="350" font-family="Vazirmatn, Tahoma" font-size="22" fill="#94A3B8" text-anchor="end" direction="rtl">← توجیه ۵۰+ مداخله در آمریکای لاتین</text>
+  
+  <!-- Doctrine 2: Brezhnev -->
+  <rect x="60" y="375" width="960" height="130" rx="15" fill="#DC2626" fill-opacity="0.1" stroke="#F97316" stroke-width="2"/>
+  <text x="980" y="420" font-family="Vazirmatn, Tahoma" font-size="28" fill="#F97316" text-anchor="end" direction="rtl" font-weight="bold">☭ دکترین برژنف (۱۹۶۸)</text>
+  <text x="980" y="460" font-family="Vazirmatn, Tahoma" font-size="24" fill="#FFFFFF" text-anchor="end" direction="rtl">حق مداخله در کشورهای سوسیالیستی «منحرف»</text>
+  <text x="980" y="495" font-family="Vazirmatn, Tahoma" font-size="22" fill="#94A3B8" text-anchor="end" direction="rtl">← چکسلواکی ۱۹۶۸، افغانستان ۱۹۷۹</text>
+  
+  <!-- Doctrine 3: Reagan -->
+  <rect x="60" y="520" width="960" height="130" rx="15" fill="#009EDB" fill-opacity="0.1" stroke="#009EDB" stroke-width="2"/>
+  <text x="980" y="565" font-family="Vazirmatn, Tahoma" font-size="28" fill="#4FC3F7" text-anchor="end" direction="rtl" font-weight="bold">🇺🇸 دکترین ریگان (۱۹۸۰s)</text>
+  <text x="980" y="605" font-family="Vazirmatn, Tahoma" font-size="24" fill="#FFFFFF" text-anchor="end" direction="rtl">حمایت از «مبارزان آزادی» علیه کمونیسم</text>
+  <text x="980" y="640" font-family="Vazirmatn, Tahoma" font-size="22" fill="#94A3B8" text-anchor="end" direction="rtl">← نیکاراگوئه، افغانستان، آنگولا</text>
+  
+  <!-- Doctrine 4: Bush -->
+  <rect x="60" y="665" width="960" height="130" rx="15" fill="#A855F7" fill-opacity="0.1" stroke="#A855F7" stroke-width="2"/>
+  <text x="980" y="710" font-family="Vazirmatn, Tahoma" font-size="28" fill="#C084FC" text-anchor="end" direction="rtl" font-weight="bold">🇺🇸 دکترین بوش (۲۰۰۲)</text>
+  <text x="980" y="750" font-family="Vazirmatn, Tahoma" font-size="24" fill="#FFFFFF" text-anchor="end" direction="rtl">جنگ پیشگیرانه علیه تروریسم و WMD</text>
+  <text x="980" y="785" font-family="Vazirmatn, Tahoma" font-size="22" fill="#94A3B8" text-anchor="end" direction="rtl">← عراق ۲۰۰۳ (بدون مجوز شورای امنیت)</text>
+  
+  <!-- Doctrine 5: Putin -->
+  <rect x="60" y="810" width="960" height="130" rx="15" fill="#22C55E" fill-opacity="0.1" stroke="#22C55E" stroke-width="2"/>
+  <text x="980" y="855" font-family="Vazirmatn, Tahoma" font-size="28" fill="#4ADE80" text-anchor="end" direction="rtl" font-weight="bold">🇷🇺 دکترین پوتین (۲۰۱۴+)</text>
+  <text x="980" y="895" font-family="Vazirmatn, Tahoma" font-size="24" fill="#FFFFFF" text-anchor="end" direction="rtl">حفاظت از روس‌زبانان و «دنیای روسی»</text>
+  <text x="980" y="930" font-family="Vazirmatn, Tahoma" font-size="22" fill="#94A3B8" text-anchor="end" direction="rtl">← کریمه ۲۰۱۴، اوکراین ۲۰۲۲</text>
+  
+  <!-- Pattern box -->
+  <rect x="100" y="970" width="880" height="140" rx="20" fill="#1A237E" stroke="#F9A825" stroke-width="3"/>
+  <text x="540" y="1020" font-family="Vazirmatn, Tahoma" font-size="30" fill="#F9A825" text-anchor="middle" direction="rtl" font-weight="bold">🔍 الگوی مشترک:</text>
+  <text x="540" y="1070" font-family="Vazirmatn, Tahoma" font-size="26" fill="#FFFFFF" text-anchor="middle" direction="rtl">هر قدرت بزرگ دکترینی برای توجیه مداخله‌ی خود دارد</text>
+  <text x="540" y="1105" font-family="Vazirmatn, Tahoma" font-size="24" fill="#94A3B8" text-anchor="middle" direction="rtl">اما مداخله‌ی دیگران را «تجاوز» می‌نامد.</text>
+  
+  <!-- Key insight -->
+  <text x="540" y="1180" font-family="Vazirmatn, Tahoma" font-size="28" fill="#EC4899" text-anchor="middle" direction="rtl" font-weight="bold">⚡ حقوق بین‌الملل = ابزار قدرت؟</text>
+  
+  <text x="540" y="1270" font-family="Vazirmatn, Tahoma" font-size="26" fill="#00D9FF" text-anchor="middle" direction="rtl">بعدی: شکاف نظر و عمل ←</text>
+  
+  <rect x="40" y="1306" width="1000" height="4" rx="2" fill="url(#titleGrad)"/>
+</svg>

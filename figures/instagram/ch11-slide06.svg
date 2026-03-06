@@ -1,0 +1,118 @@
+﻿<svg width="1080" height="1350" viewBox="0 0 1080 1350" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      :root { direction:rtl; font-family:"Vazirmatn","Segoe UI",Tahoma,sans-serif; }
+      .bg { fill:#0a0a1a; }
+      .header-bar { fill:#1A237E; }
+      .accent { fill:#F9A825; }
+      .card { fill:#111428; stroke:#2a2f4a; stroke-width:1.4; rx:28; ry:28; }
+      .vs-card-l { fill:#0d1a10; stroke:#2E7D32; stroke-width:2; rx:24; ry:24; }
+      .vs-card-r { fill:#1a0d0d; stroke:#C62828; stroke-width:2; rx:24; ry:24; }
+      .shadow { filter:drop-shadow(0px 16px 36px rgba(0,0,0,0.45)); }
+      .title { font-size:46px; font-weight:800; color:#FFFFFF; }
+      .subtitle { font-size:26px; color:#CFD8DC; line-height:1.6; }
+      .card-title { font-size:30px; font-weight:700; color:#FFFFFF; }
+      .card-text { font-size:25px; line-height:1.7; color:#ECEFF1; }
+      .gold { color:#F9A825; font-weight:700; }
+      .green { color:#69F0AE; font-weight:700; }
+      .red { color:#EF5350; font-weight:700; }
+      .footer { font-size:24px; color:#78909C; }
+      .vs { font-size:48px; font-weight:900; color:#F9A825; }
+    </style>
+  </defs>
+
+  <rect class="bg" x="0" y="0" width="1080" height="1350"/>
+
+  <rect class="header-bar" x="60" y="60" width="960" height="90" rx="22"/>
+  <rect class="accent" x="80" y="82" width="10" height="46" rx="5"/>
+  <foreignObject x="110" y="70" width="900" height="80">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl"
+         style="display:flex;justify-content:space-between;align-items:center;color:#FFF;font-size:28px;font-weight:600;">
+      <span>نظریه‌ی هویت اجتماعی</span>
+      <span style="opacity:0.8;">فصل ۱۱ • روان‌شناسی نجات‌طلبی</span>
+    </div>
+  </foreignObject>
+
+  <foreignObject x="80" y="180" width="920" height="130">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl" style="text-align:right;">
+      <div class="title">مرز <span class="green">خودی</span> و <span class="red">بیگانه</span>: کجا خط می‌کشیم؟</div>
+      <div class="subtitle" style="margin-top:14px;">
+        نظریه‌ی تاجفل و ترنر: انسان‌ها هویتشان را بر اساس عضویت در گروه‌ها
+        تعریف می‌کنند و <span class="gold">مرز خودی/بیگانه</span> سیال است.
+      </div>
+    </div>
+  </foreignObject>
+
+  <!-- VS comparison -->
+  <rect class="vs-card-l shadow" x="80" y="320" width="420" height="380"/>
+  <foreignObject x="100" y="340" width="380" height="340">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl" style="text-align:right;">
+      <div class="card-title"><span class="green">درون‌گروه (خودی)</span></div>
+      <div class="card-text" style="margin-top:14px;">
+        • «ما» ایرانی‌ها، عراقی‌ها، سوری‌ها…<br/>
+        • در بحران، مرز «ما» تنگ‌تر می‌شود:<br/>
+        &nbsp;&nbsp;فقط هم‌قومِ من، هم‌مذهبِ من.<br/>
+        • اپوزیسیونی که با «بیگانه» متحد می‌شود
+        ممکن است از دایره‌ی «خودی» خارج شود.<br/>
+        • یا برعکس: «بیگانه‌ی مفید» به «خودی» ارتقا پیدا کند.
+      </div>
+    </div>
+  </foreignObject>
+
+  <foreignObject x="490" y="460" width="100" height="80">
+    <div xmlns="http://www.w3.org/1999/xhtml" style="text-align:center;">
+      <span class="vs">VS</span>
+    </div>
+  </foreignObject>
+
+  <rect class="vs-card-r shadow" x="580" y="320" width="420" height="380"/>
+  <foreignObject x="600" y="340" width="380" height="340">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl" style="text-align:right;">
+      <div class="card-title"><span class="red">برون‌گروه (بیگانه)</span></div>
+      <div class="card-text" style="margin-top:14px;">
+        • رژیم حاکم، قدرت خارجی، گروه رقیب…<br/>
+        • نکته‌ی کلیدی: در نجات‌طلبی، مداخله‌گر
+        خارجی <span class="gold">جابجایی هویتی</span> انجام می‌دهد:<br/>
+        &nbsp;&nbsp;از «بیگانه» به «متحد» و حتی «نجات‌دهنده».<br/>
+        • اما پس از مداخله، اغلب دوباره
+        <span class="red">«اشغالگر»</span> تلقی می‌شود.
+      </div>
+    </div>
+  </foreignObject>
+
+  <!-- Insight card -->
+  <rect class="card shadow" x="80" y="730" width="920" height="360"/>
+  <foreignObject x="100" y="750" width="880" height="320">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl" style="text-align:right;">
+      <div class="card-title">پارادوکسِ هویتیِ نجات‌طلبی</div>
+      <div class="card-text" style="margin-top:18px;">
+        ۱. ملتی که از رژیم خود ناراضی است، <span class="gold">مرز خودی/بیگانه</span>
+        را جابجا می‌کند: رژیم = بیگانه، مداخله‌گر = نجات‌دهنده.<br/><br/>
+        ۲. اما پس از مداخله، واقعیتِ «بیگانه بودنِ» مداخله‌گر آشکار می‌شود:
+        فرهنگ، زبان، منافع متفاوت.<br/><br/>
+        ۳. نتیجه: <span class="red">بحران هویت مضاعف</span> — نه رژیم قبلی قابل بازگشت است
+        و نه مداخله‌گر قابل اعتماد.<br/><br/>
+        ۴. فصل ۱۱ استدلال می‌کند: تنها راه خروج، بازسازی
+        <span class="green">هویت ملیِ مستقل از هر دو</span> است.
+      </div>
+    </div>
+  </foreignObject>
+
+  <!-- CTA -->
+  <rect class="card shadow" x="80" y="1120" width="920" height="100"/>
+  <foreignObject x="100" y="1135" width="880" height="70">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl" style="text-align:center;">
+      <div style="font-size:28px;color:#F9A825;font-weight:700;">
+        📖 برای جدول کامل سوگیری‌ها و نمودار ذهنی TikZ → متن کامل فصل ۱۱
+      </div>
+    </div>
+  </foreignObject>
+
+  <foreignObject x="80" y="1260" width="920" height="60">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl" class="footer"
+         style="display:flex;justify-content:space-between;align-items:center;">
+      <span>nations_salvation@ • لینک مطالعه در بیو</span>
+      <span>اسلاید ۶ از ۶</span>
+    </div>
+  </foreignObject>
+</svg>

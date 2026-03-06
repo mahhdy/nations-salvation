@@ -1,0 +1,125 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1350" width="1080" height="1350">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0D1117"/>
+      <stop offset="100%" style="stop-color:#161B22"/>
+    </linearGradient>
+    <linearGradient id="titleGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#00D9FF"/>
+      <stop offset="50%" style="stop-color:#A855F7"/>
+      <stop offset="100%" style="stop-color:#EC4899"/>
+    </linearGradient>
+    <style>
+      .rtl { direction: rtl; text-align: center; font-family: 'Vazirmatn', 'Segoe UI', Tahoma, sans-serif; }
+      .rtl-right { direction: rtl; text-align: right; font-family: 'Vazirmatn', 'Segoe UI', Tahoma, sans-serif; padding-right: 20px; }
+    </style>
+  </defs>
+  
+  <rect width="1080" height="1350" fill="url(#bgGrad)"/>
+  
+  <!-- Header -->
+  <rect x="660" y="30" width="380" height="50" rx="25" fill="#22C55E"/>
+  <foreignObject x="660" y="30" width="380" height="50">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl" style="color:#FFFFFF; font-size:28px; line-height:50px;">فصل   اسلاید </div>
+  </foreignObject>
+  
+  <!-- Title -->
+  <foreignObject x="40" y="100" width="1000" height="60">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl" style="font-size:50px; font-weight:bold; color:#22C55E;"> شاخصهای موفقیت</div>
+  </foreignObject>
+  <foreignObject x="40" y="160" width="1000" height="40">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl" style="color:#94A3B8; font-size:28px;">چه شرایطی احتمال موفقیت را بالا میبرد</div>
+  </foreignObject>
+  
+  <!-- Indicator 1 -->
+  <rect x="60" y="220" width="960" height="100" rx="15" fill="#22C55E" fill-opacity="0.15" stroke="#22C55E" stroke-width="2"/>
+  <foreignObject x="900" y="240" width="100" height="65">
+    <div xmlns="http://www.w3.org/1999/xhtml" style="color:#22C55E; font-size:42px; font-weight:bold; text-align:center;"></div>
+  </foreignObject>
+  <foreignObject x="80" y="245" width="810" height="35">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl-right" style="color:#4ADE80; font-size:28px; font-weight:bold;">تعهد بلندمدت مداخلهگر</div>
+  </foreignObject>
+  <foreignObject x="80" y="280" width="810" height="32">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl-right" style="color:#FFFFFF; font-size:22px;">نه فقط تغییر رژیم بلکه بازسازی و نهادسازی (+ سال)</div>
+  </foreignObject>
+  
+  <!-- Indicator 2 -->
+  <rect x="60" y="335" width="960" height="100" rx="15" fill="#22C55E" fill-opacity="0.15" stroke="#22C55E" stroke-width="2"/>
+  <foreignObject x="900" y="355" width="100" height="65">
+    <div xmlns="http://www.w3.org/1999/xhtml" style="color:#22C55E; font-size:42px; font-weight:bold; text-align:center;"></div>
+  </foreignObject>
+  <foreignObject x="80" y="360" width="810" height="35">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl-right" style="color:#4ADE80; font-size:28px; font-weight:bold;">سرمایهگذاری اقتصادی عظیم</div>
+  </foreignObject>
+  <foreignObject x="80" y="395" width="810" height="32">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl-right" style="color:#FFFFFF; font-size:22px;">مثل طرح مارشال: بازسازی زیرساخت + ایجاد شغل</div>
+  </foreignObject>
+  
+  <!-- Indicator 3 -->
+  <rect x="60" y="450" width="960" height="100" rx="15" fill="#22C55E" fill-opacity="0.15" stroke="#22C55E" stroke-width="2"/>
+  <foreignObject x="900" y="470" width="100" height="65">
+    <div xmlns="http://www.w3.org/1999/xhtml" style="color:#22C55E; font-size:42px; font-weight:bold; text-align:center;"></div>
+  </foreignObject>
+  <foreignObject x="80" y="475" width="810" height="35">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl-right" style="color:#4ADE80; font-size:28px; font-weight:bold;">تهدید خارجی مشترک</div>
+  </foreignObject>
+  <foreignObject x="80" y="510" width="810" height="32">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl-right" style="color:#FFFFFF; font-size:22px;">دشمن مشترک باعث همکاری میشود (مثل جنگ سرد)</div>
+  </foreignObject>
+  
+  <!-- Indicator 4 -->
+  <rect x="60" y="565" width="960" height="100" rx="15" fill="#22C55E" fill-opacity="0.15" stroke="#22C55E" stroke-width="2"/>
+  <foreignObject x="900" y="585" width="100" height="65">
+    <div xmlns="http://www.w3.org/1999/xhtml" style="color:#22C55E; font-size:42px; font-weight:bold; text-align:center;"></div>
+  </foreignObject>
+  <foreignObject x="80" y="590" width="810" height="35">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl-right" style="color:#4ADE80; font-size:28px; font-weight:bold;">زیرساخت انسانی موجود</div>
+  </foreignObject>
+  <foreignObject x="80" y="625" width="810" height="32">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl-right" style="color:#FFFFFF; font-size:22px;">نخبگان تحصیلکرده طبقهی متوسط نهادهای مدنی</div>
+  </foreignObject>
+  
+  <!-- Indicator 5 -->
+  <rect x="60" y="680" width="960" height="100" rx="15" fill="#22C55E" fill-opacity="0.15" stroke="#22C55E" stroke-width="2"/>
+  <foreignObject x="900" y="700" width="100" height="65">
+    <div xmlns="http://www.w3.org/1999/xhtml" style="color:#22C55E; font-size:42px; font-weight:bold; text-align:center;"></div>
+  </foreignObject>
+  <foreignObject x="80" y="705" width="810" height="35">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl-right" style="color:#4ADE80; font-size:28px; font-weight:bold;">همگنی نسبی جامعه</div>
+  </foreignObject>
+  <foreignObject x="80" y="740" width="810" height="32">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl-right" style="color:#FFFFFF; font-size:22px;">تنشهای قومی/مذهبی کم = ثبات بیشتر</div>
+  </foreignObject>
+  
+  <!-- Indicator 6 -->
+  <rect x="60" y="795" width="960" height="100" rx="15" fill="#22C55E" fill-opacity="0.15" stroke="#22C55E" stroke-width="2"/>
+  <foreignObject x="900" y="815" width="100" height="65">
+    <div xmlns="http://www.w3.org/1999/xhtml" style="color:#22C55E; font-size:42px; font-weight:bold; text-align:center;"></div>
+  </foreignObject>
+  <foreignObject x="80" y="820" width="810" height="35">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl-right" style="color:#4ADE80; font-size:28px; font-weight:bold;">حمایت افکار عمومی داخلی</div>
+  </foreignObject>
+  <foreignObject x="80" y="855" width="810" height="32">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl-right" style="color:#FFFFFF; font-size:22px;">مردم کشور هدف باید مداخله را بپذیرند</div>
+  </foreignObject>
+  
+  <!-- Warning box -->
+  <rect x="100" y="920" width="880" height="110" rx="20" fill="#F9A825" fill-opacity="0.1" stroke="#F9A825" stroke-width="2"/>
+  <foreignObject x="100" y="940" width="880" height="40">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl" style="color:#F9A825; font-size:28px; font-weight:bold;"> هشدار مهم:</div>
+  </foreignObject>
+  <foreignObject x="100" y="980" width="880" height="40">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl" style="color:#FFFFFF; font-size:24px;">این شرایط در هیچ مداخلهی پس از  وجود نداشته!</div>
+  </foreignObject>
+  
+  <!-- Navigation -->
+  <foreignObject x="40" y="1060" width="1000" height="40">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl" style="color:#00D9FF; font-size:26px;">بعدی: علائم هشدار شکست </div>
+  </foreignObject>
+  
+  <foreignObject x="40" y="1120" width="1000" height="40">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl" style="color:#64748B; font-size:22px;">@nations_salvation</div>
+  </foreignObject>
+  
+  <rect x="40" y="1306" width="1000" height="4" rx="2" fill="url(#titleGrad)"/>
+</svg>

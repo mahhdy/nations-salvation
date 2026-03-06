@@ -1,0 +1,100 @@
+﻿<svg width="1080" height="1350" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="0.3" y2="1">
+      <stop offset="0%" stop-color="#0B0E2C"/>
+      <stop offset="50%" stop-color="#111640"/>
+      <stop offset="100%" stop-color="#060818"/>
+    </linearGradient>
+    <linearGradient id="gold1" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#F9A825"/>
+      <stop offset="100%" stop-color="#FFD54F"/>
+    </linearGradient>
+    <filter id="glow1">
+      <feGaussianBlur stdDeviation="18" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1080" height="1350" fill="url(#bg1)"/>
+
+  <!-- Decorative circles -->
+  <circle cx="900" cy="200" r="300" fill="#F9A825" opacity="0.03"/>
+  <circle cx="180" cy="1100" r="250" fill="#3F51B5" opacity="0.05"/>
+  <circle cx="540" cy="675" r="500" fill="#1A237E" opacity="0.04"/>
+
+  <!-- Top ornament line -->
+  <rect x="390" y="180" width="300" height="4" rx="2" fill="url(#gold1)" opacity="0.6"/>
+
+  <!-- Book icon -->
+  <foreignObject x="0" y="210" width="1080" height="100">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl"
+         style="text-align:center;font-size:64px;">📖</div>
+  </foreignObject>
+
+  <!-- Main Title -->
+  <foreignObject x="60" y="310" width="960" height="380">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl"
+         style="text-align:center;font-family:'IRANSansX','IRANSans','Vazirmatn',sans-serif;">
+      <div style="font-size:82px;font-weight:900;color:#FFFFFF;line-height:1.35;
+                  text-shadow:0 0 60px rgba(249,168,37,0.3);">
+        ملت‌ها و<br/>نجات‌بخشی
+      </div>
+    </div>
+  </foreignObject>
+
+  <!-- Subtitle -->
+  <foreignObject x="80" y="710" width="920" height="160">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl"
+         style="text-align:center;font-family:'Sahel','Shabnam','Vazirmatn',sans-serif;">
+      <div style="font-size:36px;font-weight:400;color:#F9A825;line-height:1.7;
+                  letter-spacing:1px;">
+        آرزواندیشی و خام‌اندیشی<br/>
+        یا فرصت‌طلبی و عمل‌گرایی؟
+      </div>
+    </div>
+  </foreignObject>
+
+  <!-- Divider -->
+  <rect x="420" y="900" width="240" height="3" rx="1.5" fill="#F9A825" opacity="0.4"/>
+
+  <!-- Author -->
+  <foreignObject x="0" y="935" width="1080" height="80">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl"
+         style="text-align:center;font-family:'Estedad','IRANSansX','Vazirmatn',sans-serif;
+                font-size:30px;color:#CFD8DC;font-weight:300;">
+      نویسنده: مهدی سالم
+    </div>
+  </foreignObject>
+
+  <!-- Stats pills -->
+  <rect x="120" y="1060" width="240" height="70" rx="35" fill="rgba(249,168,37,0.1)" stroke="#F9A825" stroke-width="1.5"/>
+  <foreignObject x="120" y="1068" width="240" height="55">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl"
+         style="text-align:center;font-family:'IRANSansX','Vazirmatn',sans-serif;
+                font-size:24px;color:#F9A825;font-weight:600;">۱۴ فصل</div>
+  </foreignObject>
+
+  <rect x="420" y="1060" width="240" height="70" rx="35" fill="rgba(249,168,37,0.1)" stroke="#F9A825" stroke-width="1.5"/>
+  <foreignObject x="420" y="1068" width="240" height="55">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl"
+         style="text-align:center;font-family:'IRANSansX','Vazirmatn',sans-serif;
+                font-size:24px;color:#F9A825;font-weight:600;">۴ پیوست</div>
+  </foreignObject>
+
+  <rect x="720" y="1060" width="240" height="70" rx="35" fill="rgba(249,168,37,0.1)" stroke="#F9A825" stroke-width="1.5"/>
+  <foreignObject x="720" y="1068" width="240" height="55">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl"
+         style="text-align:center;font-family:'IRANSansX','Vazirmatn',sans-serif;
+                font-size:24px;color:#F9A825;font-weight:600;">۳۰+ مورد</div>
+  </foreignObject>
+
+  <!-- Footer -->
+  <rect x="390" y="1220" width="300" height="3" rx="1.5" fill="#283593" opacity="0.5"/>
+  <foreignObject x="0" y="1250" width="1080" height="60">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl"
+         style="text-align:center;font-family:'Sahel','Vazirmatn',sans-serif;
+                font-size:24px;color:#546E7A;">
+      nations_salvation@ · لینک مطالعه در بیو
+    </div>
+  </foreignObject>
+</svg>

@@ -1,0 +1,112 @@
+﻿<svg width="1080" height="1350" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg6" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0a0610"/>
+      <stop offset="100%" stop-color="#060412"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1080" height="1350" fill="url(#bg6)"/>
+
+  <!-- Title -->
+  <foreignObject x="60" y="60" width="960" height="140">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl"
+         style="text-align:center;font-family:'IRANSansX','Vazirmatn',sans-serif;">
+      <div style="font-size:52px;font-weight:900;color:#FFFFFF;">
+        ⚠️ ۵ نشانه‌ی <span style="color:#EF5350;">خطر</span>
+      </div>
+      <div style="font-size:26px;color:#90A4AE;margin-top:10px;">
+        اگر این نشانه‌ها را دیدید، «نجات» نیست — فاجعه است
+      </div>
+    </div>
+  </foreignObject>
+
+  <!-- Pattern 1 -->
+  <rect x="80" y="240" width="920" height="155" rx="24" fill="#120a18" stroke="#AB47BC" stroke-width="1.8"/>
+  <foreignObject x="100" y="255" width="880" height="125">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl"
+         style="font-family:'IRANSansX','Vazirmatn',sans-serif;display:flex;align-items:flex-start;gap:18px;">
+      <div style="font-size:50px;font-weight:900;color:#CE93D8;min-width:60px;text-align:center;">۱</div>
+      <div style="text-align:right;">
+        <div style="font-size:28px;font-weight:700;color:#FFFFFF;">بهانه ساده، واقعیت پیچیده</div>
+        <div style="font-size:22px;color:#B0BEC5;margin-top:6px;line-height:1.5;">
+          «نجات مردم X از دیکتاتور Y» — بدون هیچ توضیحی درباره‌ی ساختار و تاریخ آن جامعه
+        </div>
+      </div>
+    </div>
+  </foreignObject>
+
+  <!-- Pattern 2 -->
+  <rect x="80" y="420" width="920" height="155" rx="24" fill="#120a18" stroke="#AB47BC" stroke-width="1.8"/>
+  <foreignObject x="100" y="435" width="880" height="125">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl"
+         style="font-family:'IRANSansX','Vazirmatn',sans-serif;display:flex;align-items:flex-start;gap:18px;">
+      <div style="font-size:50px;font-weight:900;color:#CE93D8;min-width:60px;text-align:center;">۲</div>
+      <div style="text-align:right;">
+        <div style="font-size:28px;font-weight:700;color:#FFFFFF;">وعده‌ی «کوتاه و محدود»</div>
+        <div style="font-size:22px;color:#B0BEC5;margin-top:6px;line-height:1.5;">
+          تقریباً هیچ مداخله‌ای در تاریخ مطابق وعده‌ی اولیه‌اش پیش نرفته. هرگز.
+        </div>
+      </div>
+    </div>
+  </foreignObject>
+
+  <!-- Pattern 3 -->
+  <rect x="80" y="600" width="920" height="155" rx="24" fill="#120a18" stroke="#AB47BC" stroke-width="1.8"/>
+  <foreignObject x="100" y="615" width="880" height="125">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl"
+         style="font-family:'IRANSansX','Vazirmatn',sans-serif;display:flex;align-items:flex-start;gap:18px;">
+      <div style="font-size:50px;font-weight:900;color:#CE93D8;min-width:60px;text-align:center;">۳</div>
+      <div style="text-align:right;">
+        <div style="font-size:28px;font-weight:700;color:#FFFFFF;">بدون نقشه برای «روز بعد»</div>
+        <div style="font-size:22px;color:#B0BEC5;margin-top:6px;line-height:1.5;">
+          چه دولتی ساخته می‌شود؟ چه کسی هزینه می‌دهد؟ پاسخ: معمولاً هیچ‌کس نمی‌داند
+        </div>
+      </div>
+    </div>
+  </foreignObject>
+
+  <!-- Pattern 4 -->
+  <rect x="80" y="780" width="920" height="155" rx="24" fill="#120a18" stroke="#AB47BC" stroke-width="1.8"/>
+  <foreignObject x="100" y="795" width="880" height="125">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl"
+         style="font-family:'IRANSansX','Vazirmatn',sans-serif;display:flex;align-items:flex-start;gap:18px;">
+      <div style="font-size:50px;font-weight:900;color:#CE93D8;min-width:60px;text-align:center;">۴</div>
+      <div style="text-align:right;">
+        <div style="font-size:28px;font-weight:700;color:#FFFFFF;">توهم «مهندسی جامعه از بیرون»</div>
+        <div style="font-size:22px;color:#B0BEC5;margin-top:6px;line-height:1.5;">
+          گمان اینکه با چند هزار سرباز می‌توان هویت و نهادهای یک ملت را بازنویسی کرد
+        </div>
+      </div>
+    </div>
+  </foreignObject>
+
+  <!-- Pattern 5 -->
+  <rect x="80" y="960" width="920" height="155" rx="24" fill="#120a18" stroke="#AB47BC" stroke-width="1.8"/>
+  <foreignObject x="100" y="975" width="880" height="125">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl"
+         style="font-family:'IRANSansX','Vazirmatn',sans-serif;display:flex;align-items:flex-start;gap:18px;">
+      <div style="font-size:50px;font-weight:900;color:#CE93D8;min-width:60px;text-align:center;">۵</div>
+      <div style="text-align:right;">
+        <div style="font-size:28px;font-weight:700;color:#FFFFFF;">هزینه بر دوش ملت میزبان</div>
+        <div style="font-size:22px;color:#B0BEC5;margin-top:6px;line-height:1.5;">
+          بیشترین تلفات و خسارت اقتصادی را همان مردمی می‌پردازند که قرار بود «نجات» یابند
+        </div>
+      </div>
+    </div>
+  </foreignObject>
+
+  <foreignObject x="0" y="1170" width="1080" height="80">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl"
+         style="text-align:center;font-family:'Sahel','Vazirmatn',sans-serif;
+                font-size:28px;color:#F9A825;font-weight:600;">
+      این ۵ نشانه در فصل ۱۰ با ۳۰+ مداخله مستند شده‌اند
+    </div>
+  </foreignObject>
+
+  <foreignObject x="0" y="1280" width="1080" height="50">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl"
+         style="text-align:center;font-family:'Sahel','Vazirmatn',sans-serif;
+                font-size:22px;color:#546E7A;">nations_salvation@ · ۶ از ۱۰</div>
+  </foreignObject>
+</svg>

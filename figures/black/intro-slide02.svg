@@ -1,0 +1,49 @@
+﻿<svg width="1080" height="1350" viewBox="0 0 1080 1350"
+     xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      :root{
+        direction:rtl;
+        font-family:"Vazirmatn","Shabnam","Sahel","IRANSansX","Segoe UI",sans-serif;
+      }
+      .bg{fill:#05030a;}
+      .card{fill:#0f101f;stroke:#4A148C;stroke-width:2;rx:34;ry:34;}
+      .shadow{filter:drop-shadow(0 20px 50px rgba(0,0,0,0.6));}
+      .big-q{font-size:80px;font-weight:900;color:#F9A825;}
+      .title{font-size:50px;font-weight:800;color:#FFFFFF;}
+      .text{font-size:30px;color:#ECEFF1;line-height:1.9;}
+      .accent{color:#F48FB1;font-weight:800;}
+      .footer{font-size:24px;color:#90A4AE;}
+    </style>
+  </defs>
+
+  <rect class="bg" width="1080" height="1350"/>
+
+  <rect class="card shadow" x="80" y="160" width="920" height="880"/>
+  <foreignObject x="120" y="210" width="840" height="780">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl" style="text-align:center;">
+      <div class="big-q">نجات می‌خواهیم؛</div>
+      <div class="title" style="margin-top:8px;">
+        اما از <span style="color:#F9A825;">چه کسی</span> و به <span style="color:#F9A825;">چه قیمتی</span>؟
+      </div>
+      <div class="text" style="margin-top:60px;text-align:right;">
+        این کتاب از یک پرسش ساده شروع می‌کند:<br/><br/>
+        <span class="accent">چرا ملت‌ها به جای اصلاح درون، به نجات‌دهنده‌ی بیرونی دل می‌بندند؟</span><br/><br/>
+        • چرا مردمی که از دیکتاتور خسته‌اند، حاضر می‌شوند تانک بیگانه را
+        به شهرشان دعوت کنند؟<br/>
+        • چرا مداخله‌گران همیشه با زبان «اخلاق» و «انسانیت» حرف می‌زنند،
+        اما با منطق <span style="color:#F9A825;">منافع و قدرت</span> عمل می‌کنند؟<br/>
+        • و مهم‌تر از همه: <span class="accent">بدیلِ نجات‌طلبی چیست؟</span>
+      </div>
+    </div>
+  </foreignObject>
+
+  <foreignObject x="80" y="1180" width="920" height="80">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl"
+         class="footer"
+         style="display:flex;justify-content:space-between;align-items:center;">
+      <span>مسئله‌ی محوری: «نجات از بیرون» یا «خودسازی از درون»؟</span>
+      <span>اسلاید ۲ از ۱۰</span>
+    </div>
+  </foreignObject>
+</svg>

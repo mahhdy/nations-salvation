@@ -1,0 +1,91 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1350" width="1080" height="1350">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0D1117"/>
+      <stop offset="100%" style="stop-color:#161B22"/>
+    </linearGradient>
+    <linearGradient id="titleGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#00D9FF"/>
+      <stop offset="50%" style="stop-color:#A855F7"/>
+      <stop offset="100%" style="stop-color:#EC4899"/>
+    </linearGradient>
+    <style>
+      .rtl { direction: rtl; text-align: center; font-family: 'Vazirmatn', 'Segoe UI', Tahoma, sans-serif; }
+      .rtl-right { direction: rtl; text-align: right; font-family: 'Vazirmatn', 'Segoe UI', Tahoma, sans-serif; padding-right: 20px; }
+    </style>
+  </defs>
+  
+  <rect width="1080" height="1350" fill="url(#bgGrad)"/>
+  
+  <!-- Top decorative line -->
+  <rect x="40" y="40" width="1000" height="4" rx="2" fill="url(#titleGrad)"/>
+  
+  <!-- Chapter badge -->
+  <rect x="700" y="60" width="340" height="60" rx="30" fill="#A855F7" stroke="#00D9FF" stroke-width="2"/>
+  <foreignObject x="700" y="60" width="340" height="60">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl" style="color:#FFFFFF; font-size:32px; font-weight:bold; line-height:60px;">فصل </div>
+  </foreignObject>
+  
+  <!-- Analysis icon -->
+  <circle cx="540" cy="250" r="90" fill="none" stroke="#A855F7" stroke-width="3"/>
+  <foreignObject x="480" y="195" width="120" height="115">
+    <div xmlns="http://www.w3.org/1999/xhtml" style="font-size:80px; text-align:center;"></div>
+  </foreignObject>
+  
+  <!-- Main Title -->
+  <foreignObject x="40" y="380" width="1000" height="75">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl" style="font-size:58px; font-weight:bold; color:#A855F7;">مدلهای تحلیلی</div>
+  </foreignObject>
+  <foreignObject x="40" y="460" width="1000" height="55">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl" style="font-size:38px; color:#FFFFFF;">چارچوب علمی برای تحلیل مداخله</div>
+  </foreignObject>
+  
+  <!-- Divider -->
+  <rect x="300" y="535" width="480" height="4" rx="2" fill="url(#titleGrad)"/>
+  
+  <!-- Key topics title -->
+  <foreignObject x="40" y="570" width="1000" height="50">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl" style="color:#F9A825; font-size:32px; font-weight:bold;">در این فصل یاد میگیرید:</div>
+  </foreignObject>
+  
+  <!-- Topics box -->
+  <rect x="100" y="630" width="880" height="400" rx="20" fill="#1A237E" fill-opacity="0.3" stroke="#1A237E" stroke-width="2"/>
+  
+  <foreignObject x="100" y="660" width="880" height="45">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl-right" style="color:#00D9FF; font-size:30px;"> مدل ششوجهی تحلیل مداخله</div>
+  </foreignObject>
+  <foreignObject x="100" y="710" width="880" height="45">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl-right" style="color:#4ADE80; font-size:30px;"> طیف نتایج (A تا F) با جزئیات</div>
+  </foreignObject>
+  <foreignObject x="100" y="760" width="880" height="45">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl-right" style="color:#F9A825; font-size:30px;"> شاخصهای پیشبینی موفقیت</div>
+  </foreignObject>
+  <foreignObject x="100" y="810" width="880" height="45">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl-right" style="color:#EC4899; font-size:30px;"> علائم هشدار شکست</div>
+  </foreignObject>
+  <foreignObject x="100" y="860" width="880" height="45">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl-right" style="color:#C084FC; font-size:30px;"> چکلیست ارزیابی</div>
+  </foreignObject>
+  <foreignObject x="100" y="910" width="880" height="45">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl-right" style="color:#94A3B8; font-size:30px;"> کاربرد در موارد تاریخی</div>
+  </foreignObject>
+  <foreignObject x="100" y="960" width="880" height="45">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl-right" style="color:#F87171; font-size:30px;"> ماتریس تصمیمگیری</div>
+  </foreignObject>
+  
+  <!-- Key question -->
+  <rect x="150" y="1060" width="780" height="100" rx="20" fill="none" stroke="#00D9FF" stroke-width="2"/>
+  <foreignObject x="150" y="1080" width="780" height="40">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl" style="color:#00D9FF; font-size:28px; font-weight:bold;"> هدف: تبدیل حدس به تحلیل علمی</div>
+  </foreignObject>
+  <foreignObject x="150" y="1120" width="780" height="35">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl" style="color:#94A3B8; font-size:24px;">آیا این مداخله احتمال موفقیت دارد</div>
+  </foreignObject>
+  
+  <!-- Social -->
+  <foreignObject x="40" y="1190" width="1000" height="40">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl" style="color:#64748B; font-size:22px;">@nations_salvation | ادامه دهید </div>
+  </foreignObject>
+  
+  <rect x="40" y="1306" width="1000" height="4" rx="2" fill="url(#titleGrad)"/>
+</svg>

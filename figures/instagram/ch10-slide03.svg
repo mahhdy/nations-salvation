@@ -1,0 +1,96 @@
+﻿<svg width="1080" height="1350" viewBox="0 0 1080 1350" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      :root { direction: rtl; font-family:"Vazirmatn","Segoe UI",Tahoma,sans-serif; }
+      .bg { fill:#050816; }
+      .header-bar { fill:#1A237E; }
+      .header-accent { fill:#F9A825; }
+      .col-card { fill:#101322; stroke:#263238; stroke-width:1.4; rx:26; ry:26; }
+      .shadow { filter: drop-shadow(0px 16px 36px rgba(0,0,0,0.45)); }
+      .title { font-size:46px; font-weight:800; color:#FFFFFF; }
+      .subtitle { font-size:26px; color:#CFD8DC; }
+      .card-title { font-size:30px; font-weight:700; color:#FFFFFF; }
+      .card-text { font-size:25px; line-height:1.7; color:#ECEFF1; }
+      .gold { color:#F9A825; font-weight:700; }
+      .green { color:#2E7D32; font-weight:700; }
+      .red { color:#EF5350; font-weight:700; }
+      .tag { font-size:22px; color:#B0BEC5; }
+      .footer { font-size:24px; color:#90A4AE; }
+    </style>
+  </defs>
+
+  <rect class="bg" x="0" y="0" width="1080" height="1350"/>
+
+  <!-- Header -->
+  <rect class="header-bar" x="60" y="70" width="960" height="90" rx="22" ry="22"/>
+  <rect class="header-accent" x="80" y="92" width="10" height="46" rx="5" ry="5"/>
+
+  <foreignObject x="110" y="80" width="900" height="80">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl"
+         style="display:flex;justify-content:space-between;align-items:center;color:#FFFFFF;font-size:28px;font-weight:600;">
+      <span>مطالعه‌ی موردی ۲ • افغانستان و لیبی</span>
+      <span style="opacity:0.85;">فصل ۱۰ • مداخلات معاصر</span>
+    </div>
+  </foreignObject>
+
+  <!-- Title -->
+  <foreignObject x="80" y="190" width="920" height="130">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl" style="text-align:right;">
+      <div class="title">وقتی «نجات» ۲۰ سال طول می‌کشد یا سه ماه</div>
+      <div class="subtitle" style="margin-top:14px;">
+        افغانستان: طولانی‌ترین جنگ آمریکا. لیبی: سریع‌ترین مداخله‌ی
+        <span class="gold">R2P</span>. هر دو با وعده‌ی نجات، هر دو با
+        <span class="red">خلأ حاکمیت</span> پایان می‌یابند.
+      </div>
+    </div>
+  </foreignObject>
+
+  <!-- Afghanistan card -->
+  <rect class="col-card shadow" x="80" y="330" width="430" height="560"/>
+  <foreignObject x="100" y="345" width="390" height="530">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl" style="text-align:right;">
+      <div class="tag">افغانستان ۲۰۰۱–۲۰۲۱</div>
+      <div class="card-title" style="margin-top:8px;">۲۰ سال «ملت‌سازی» ناموفق</div>
+      <div class="card-text" style="margin-top:16px;">
+        • شعار رسمی: مبارزه با تروریسم، دفاع از زنان، دموکراسی‌سازی.<br/>
+        • واقعیت میدانی: دولتِ کاملاً وابسته به کمک خارجی؛
+          طالبان هرگز به‌طور کامل شکست نخورد.<br/>
+        • اقتصاد: بیش از <span class="gold">۷۰۰ میلیارد دلار</span> هزینه‌ی مستقیم آمریکا،
+          اما زیرساخت و تولید داخلی اندک.<br/>
+        • پایان داستان: خروج شتاب‌زده و بازگشت طالبان؛
+          طیف نتیجه: <span class="red">C → D</span>.<br/><br/>
+        <span class="gold">نکته‌ی کلیدی:</span> اگر ستون‌های ساختاری
+        و اقتصادیِ یک ملت بازسازی نشود، حضور نظامیِ طولانی فقط
+        «تعویق فروپاشی» است، نه نجات.
+      </div>
+    </div>
+  </foreignObject>
+
+  <!-- Libya card -->
+  <rect class="col-card shadow" x="570" y="330" width="430" height="560"/>
+  <foreignObject x="590" y="345" width="390" height="530">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl" style="text-align:right;">
+      <div class="tag">لیبی ۲۰۱۱ تا امروز</div>
+      <div class="card-title" style="margin-top:8px;">R2P؛ از «حفاظت شهروندان» تا دولت شکست‌خورده</div>
+      <div class="card-text" style="margin-top:16px;">
+        • مجوز شورای امنیت با عنوان <span class="gold">Responsibility to Protect</span>؛
+          مأموریتِ ظاهراً محدود به «منطقه‌ی پرواز ممنوع».<br/>
+        • واقعیت: سرنگونی قذافی بدون طرحِ جدی برای نظمِ پس از او.<br/>
+        • پیامدها: دو دولت موازی، میلیشیاهای رقیب، مداخله‌ی بازیگران
+          منطقه‌ای، گسترش قاچاق انسان به اروپا.<br/><br/>
+        <span class="gold">نتیجه:</span> مداخله‌ای «حقوقی و کوتاه» نیز
+        می‌تواند در نهایت به <span class="red">E: هرج‌ومرج و دولت شکست‌خورده</span> ختم شود.
+      </div>
+    </div>
+  </foreignObject>
+
+  <!-- Footer -->
+  <foreignObject x="80" y="1160" width="920" height="90">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl"
+         class="footer"
+         style="display:flex;justify-content:space-between;align-items:center;">
+      <span>دو مسیر متفاوت، یک درس مشترک: «نجات وارداتی» بدون معماری نهادی پایدار نمی‌ماند.</span>
+      <span>nations_salvation • متن کامل فصل ۱۰</span>
+    </div>
+  </foreignObject>
+</svg>

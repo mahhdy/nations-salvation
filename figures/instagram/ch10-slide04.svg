@@ -1,0 +1,103 @@
+﻿<svg width="1080" height="1350" viewBox="0 0 1080 1350" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      :root { direction: rtl; font-family:"Vazirmatn","Segoe UI",Tahoma,sans-serif; }
+      .bg { fill:#050816; }
+      .header-bar { fill:#1A237E; }
+      .header-accent { fill:#F9A825; }
+      .card-main { fill:#101322; stroke:#263238; stroke-width:1.4; rx:30; ry:30; }
+      .row-card { fill:#151a2b; stroke:#37474F; stroke-width:1.2; rx:22; ry:22; }
+      .shadow { filter: drop-shadow(0px 16px 36px rgba(0,0,0,0.45)); }
+      .title { font-size:44px; font-weight:800; color:#FFFFFF; }
+      .subtitle { font-size:26px; color:#CFD8DC; }
+      .card-title { font-size:30px; font-weight:700; color:#FFFFFF; }
+      .card-text { font-size:25px; line-height:1.7; color:#ECEFF1; }
+      .gold { color:#F9A825; font-weight:700; }
+      .red { color:#EF5350; font-weight:700; }
+      .footer { font-size:24px; color:#90A4AE; }
+      .tag { font-size:22px; color:#B0BEC5; }
+    </style>
+  </defs>
+
+  <rect class="bg" x="0" y="0" width="1080" height="1350"/>
+
+  <!-- Header -->
+  <rect class="header-bar" x="60" y="70" width="960" height="90" rx="22" ry="22"/>
+  <rect class="header-accent" x="80" y="92" width="10" height="46" rx="5" ry="5"/>
+
+  <foreignObject x="110" y="80" width="900" height="80">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl"
+         style="display:flex;justify-content:space-between;align-items:center;color:#FFFFFF;font-size:28px;font-weight:600;">
+      <span>مطالعه‌ی موردی ۳ • سوریه، یمن، رواندا</span>
+      <span style="opacity:0.85;">فصل ۱۰ • مداخلات معاصر</span>
+    </div>
+  </foreignObject>
+
+  <!-- Title -->
+  <foreignObject x="80" y="190" width="920" height="130">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl" style="text-align:right;">
+      <div class="title">وقتی «مداخله» و «عدم مداخله» هر دو می‌سوزانند</div>
+      <div class="subtitle" style="margin-top:14px;">
+        این سه پرونده نشان می‌دهند که گاهی <span class="gold">مداخله‌ی ناقص</span> و
+        گاهی <span class="gold">عدم مداخله‌ی کامل</span>، هر دو می‌توانند
+        به فاجعه‌ی انسانی منتهی شوند.
+      </div>
+    </div>
+  </foreignObject>
+
+  <!-- Syria & Yemen card -->
+  <rect class="card-main shadow" x="80" y="320" width="920" height="420"/>
+  <foreignObject x="100" y="340" width="880" height="380">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl" style="text-align:right;">
+      <div class="card-title">سوریه و یمن: جنگ‌های نیابتیِ بی‌پایان</div>
+      <div class="card-text" style="margin-top:18px;">
+        • چندین قدرت منطقه‌ای و جهانی هم‌زمان درگیر می‌شوند؛
+          هیچ‌یک مسئولیت کاملِ «نجات» را نمی‌پذیرد.<br/>
+        • <span class="gold">سوریه:</span> مداخله‌ی هوایی روسیه، ائتلاف آمریکا، ایران،
+          ترکیه، گروه‌های غیردولتی؛ دولت مرکزی تضعیف اما باقی است.<br/>
+        • <span class="gold">یمن:</span> مداخله‌ی عربستان و امارات در برابر حوثی‌ها؛
+          بحران انسانی عظیم، فروپاشی زیرساخت، قحطی گسترده.<br/>
+        • در هر دو مورد، مداخله نه‌تنها جنگ را کوتاه نکرد،
+          بلکه <span class="red">مدت و شدت رنج غیرنظامیان</span> را چند برابر کرد.
+      </div>
+    </div>
+  </foreignObject>
+
+  <!-- Rwanda row -->
+  <rect class="row-card shadow" x="80" y="770" width="920" height="210"/>
+  <foreignObject x="100" y="785" width="880" height="180">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl" style="text-align:right;">
+      <div class="tag">رواندا ۱۹۹۴</div>
+      <div class="card-title" style="margin-top:4px;">نمونه‌ی کلاسیک «عدم مداخله»</div>
+      <div class="card-text" style="margin-top:10px;">
+        • در کمتر از ۱۰۰ روز، حدود <span class="red">۸۰۰ هزار نفر</span> کشته شدند،
+          در حالی که نیروهای سازمان ملل دستور داشتند «تماشا کنند».<br/>
+        • این پرونده بعداً به توجیه اخلاقیِ R2P تبدیل شد؛
+          اما همان منطق، در لیبی و جاهای دیگر دوباره به هرج‌ومرج انجامید.
+      </div>
+    </div>
+  </foreignObject>
+
+  <!-- Key lesson -->
+  <rect class="row-card shadow" x="80" y="1010" width="920" height="170"/>
+  <foreignObject x="100" y="1025" width="880" height="140">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl" style="text-align:right;">
+      <div class="card-title">درس فصل ۱۰ از این سه پرونده</div>
+      <div class="card-text" style="margin-top:10px;">
+        پرسش اصلی این نیست که «مداخله کنیم یا نه؟»؛
+        بلکه این است که <span class="gold">چه کسی، چگونه، با چه هدفی
+        و تحت چه قاعده‌ی پاسخ‌گویی</span> وارد می‌شود.
+      </div>
+    </div>
+  </foreignObject>
+
+  <!-- Footer -->
+  <foreignObject x="80" y="1205" width="920" height="70">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl"
+         class="footer"
+         style="display:flex;justify-content:space-between;align-items:center;">
+      <span>در متن کامل، تحلیل شش‌وجهی هر سه پرونده و مقایسه‌ی آن‌ها روی طیف A–F آمده است.</span>
+      <span>nations_salvation • لینک در بیو</span>
+    </div>
+  </foreignObject>
+</svg>

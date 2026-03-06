@@ -1,0 +1,102 @@
+﻿<svg width="1080" height="1350" viewBox="0 0 1080 1350" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      :root { direction: rtl; font-family: "Vazirmatn","Segoe UI",Tahoma,sans-serif; }
+      .bg { fill:#050816; }
+      .header-bar { fill:#1A237E; }
+      .header-accent { fill:#F9A825; }
+      .card-main { fill:#101322; stroke:#263238; stroke-width:1.5; rx:32; ry:32; }
+      .mini-card { fill:#151a2b; stroke:#37474F; stroke-width:1.3; rx:22; ry:22; }
+      .shadow { filter: drop-shadow(0px 18px 40px rgba(0,0,0,0.5)); }
+      .title { font-size:46px; font-weight:800; color:#FFFFFF; }
+      .subtitle { font-size:26px; color:#CFD8DC; }
+      .label { font-size:24px; color:#B0BEC5; }
+      .stat { font-size:40px; font-weight:800; color:#F9A825; }
+      .stat-caption { font-size:22px; color:#ECEFF1; }
+      .card-title { font-size:32px; font-weight:700; color:#FFFFFF; }
+      .card-text { font-size:26px; line-height:1.7; color:#ECEFF1; }
+      .gold { color:#F9A825; font-weight:700; }
+      .red { color:#EF5350; font-weight:700; }
+      .footer { font-size:24px; color:#90A4AE; }
+    </style>
+  </defs>
+
+  <rect class="bg" x="0" y="0" width="1080" height="1350"/>
+
+  <!-- Header -->
+  <rect class="header-bar" x="60" y="70" width="960" height="90" rx="22" ry="22"/>
+  <rect class="header-accent" x="80" y="92" width="10" height="46" rx="5" ry="5"/>
+
+  <foreignObject x="110" y="80" width="900" height="80">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl"
+         style="display:flex;justify-content:space-between;align-items:center;color:#FFFFFF;font-size:28px;font-weight:600;">
+      <span>مطالعه‌ی موردی ۱ • عراق</span>
+      <span style="opacity:0.85;">فصل ۱۰ • مداخلات معاصر</span>
+    </div>
+  </foreignObject>
+
+  <!-- Title -->
+  <foreignObject x="80" y="190" width="920" height="130">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl" style="text-align:right;">
+      <div class="title">از «منطقه‌ی پرواز ممنوع» تا <span class="red">اشغال کامل</span></div>
+      <div class="subtitle" style="margin-top:14px;">
+        عراق نمونه‌ای است که در آن هر شش وجهِ مداخله تقریباً تا آخرین حد ممکن
+        درگیر شد، اما نتیجه روی طیف فقط به <span class="gold">C/D</span> رسید.
+      </div>
+    </div>
+  </foreignObject>
+
+  <!-- Main card -->
+  <rect class="card-main shadow" x="80" y="320" width="920" height="500"/>
+  <foreignObject x="100" y="340" width="880" height="460">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl" style="text-align:right;">
+      <div class="card-title">شش‌وجهی عراق ۱۹۹۱–۲۰۰۳ به‌اختصار</div>
+      <div class="card-text" style="margin-top:18px;">
+        • <span class="gold">ساختاری–سیاسی:</span> رژیم اقتدارگرا، محاصره‌ی بین‌المللی، سرکوب اقلیت‌ها؛
+          اعتماد داخلی فروپاشیده است.<br/>
+        • <span class="gold">حقوقی–هنجاری:</span> ۱۹۹۱ با مجوز شورای امنیت؛ ۲۰۰۳ بدون مجوز،
+          با استدلال «سلاح‌های کشتار جمعی» که بعداً نادرست از آب درآمد.<br/>
+        • <span class="gold">اقتصادی:</span> تحریم‌های همه‌جانبه، نابودی طبقه‌ی متوسط،
+          وابستگی شدید به نفت و واردات غذا.<br/>
+        • <span class="gold">نظامی–امنیتی:</span> ارتش تضعیف، ساختار امنیتی فروپاشیده؛
+          پس از اشغال، خلأ قدرت و ظهور گروه‌های مسلح.<br/>
+        • <span class="gold">روان‌شناختی–فرهنگی:</span> ترکیبِ احساس «رهایی از دیکتاتور» و
+          «تحقیر اشغال»؛ هویت‌های قومی–مذهبی سیاسی می‌شوند.<br/>
+        • <span class="gold">ژئوپولیتیک:</span> حذف یک رقیب منطقه‌ای، تقویت نفوذ ایران،
+          بازطراحی موازنه‌ی خلیج فارس به نفع آمریکا.
+      </div>
+    </div>
+  </foreignObject>
+
+  <!-- Mini stats cards -->
+  <rect class="mini-card shadow" x="80" y="850" width="430" height="210"/>
+  <foreignObject x="100" y="865" width="390" height="180">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl" style="text-align:right;">
+      <div class="stat">۵۰۰٬۰۰۰+</div>
+      <div class="stat-caption">کودک عراقی که طبق برخی برآوردها
+        در دهه‌ی ۹۰ به‌دلیل تحریم‌ها جان باختند.</div>
+    </div>
+  </foreignObject>
+
+  <rect class="mini-card shadow" x="570" y="850" width="430" height="210"/>
+  <foreignObject x="590" y="865" width="390" height="180">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl" style="text-align:right;">
+      <div class="card-title">نتیجه روی طیف A–F</div>
+      <div class="card-text" style="margin-top:10px;">
+        سقوط دیکتاتور اما جنگ داخلی، تجزیه‌ی de facto
+        و دولت ضعیف: مداخله‌ی عراق بیشتر به <span class="red">C/D</span> شبیه است
+        تا «رهایی» واقعی.
+      </div>
+    </div>
+  </foreignObject>
+
+  <!-- Footer -->
+  <foreignObject x="80" y="1125" width="920" height="90">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl"
+         class="footer"
+         style="display:flex;justify-content:space-between;align-items:center;">
+      <span>فصل ۱۰ نشان می‌دهد چرا «پیروزی نظامی» لزوماً به نجات ملت منجر نمی‌شود.</span>
+      <span>nations_salvation • لینک فصل در بیو</span>
+    </div>
+  </foreignObject>
+</svg>

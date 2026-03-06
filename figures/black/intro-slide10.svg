@@ -1,0 +1,58 @@
+﻿<svg width="1080" height="1350" viewBox="0 0 1080 1350"
+     xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      :root{
+        direction:rtl;
+        font-family:"Vazirmatn","Shabnam","Sahel","IRANSansX","Segoe UI",sans-serif;
+      }
+      .bg{fill:#050816;}
+      .hero{fill:#0c1020;stroke:#F9A825;stroke-width:3;rx:40;ry:40;}
+      .shadow{filter:drop-shadow(0 22px 56px rgba(0,0,0,0.65));}
+      .title{font-size:54px;font-weight:900;color:#FFFFFF;line-height:1.7;}
+      .sub{font-size:28px;color:#CFD8DC;line-height:1.8;}
+      .cta{fill:#1A237E;stroke:#F9A825;stroke-width:2.2;rx:26;ry:26;}
+      .cta-text{font-size:32px;font-weight:800;color:#FFFFFF;}
+      .footer{font-size:24px;color:#90A4AE;}
+    </style>
+  </defs>
+
+  <rect class="bg" width="1080" height="1350"/>
+
+  <rect class="hero shadow" x="70" y="160" width="940" height="760"/>
+  <foreignObject x="110" y="200" width="860" height="680">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl" style="text-align:center;">
+      <div class="title">
+        اگر به فکر آینده‌ی کشورت هستی،<br/>
+        این کتاب را باید بخوانی.
+      </div>
+      <div class="sub" style="margin-top:26px;">
+        • نه تبلیغ مداخله است، نه توجیه استبداد.<br/>
+        • تلاشی است برای دیدن <span style="color:#F9A825;">تمامِ تصویر</span>:
+        از حقوق و اخلاق تا اقتصاد و روان‌شناسی.<br/><br/>
+        قبل از آن‌که درباره‌ی «دعوت از بیگانه» یا «حمایت خارجی» تصمیم بگیری،
+        حداقل یک‌بار این ۱۴ فصل را مرور کن.
+      </div>
+      <div class="sub" style="margin-top:40px;color:#F9A825;font-weight:700;">
+        شاید بعد از خواندنش، معنای «نجات» برایت عوض شود.
+      </div>
+    </div>
+  </foreignObject>
+
+  <rect class="cta shadow" x="170" y="960" width="740" height="120"/>
+  <foreignObject x="190" y="985" width="700" height="80">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl"
+         style="display:flex;justify-content:center;align-items:center;">
+      <span class="cta-text">📥 لینک مطالعه و دانلود در بیوی صفحه</span>
+    </div>
+  </foreignObject>
+
+  <foreignObject x="70" y="1160" width="940" height="80">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl"
+         class="footer"
+         style="display:flex;justify-content:space-between;align-items:center;">
+      <span>nations_salvation@ • بازنشر آزاد با ذکر منبع</span>
+      <span>اسلاید ۱۰ از ۱۰</span>
+    </div>
+  </foreignObject>
+</svg>

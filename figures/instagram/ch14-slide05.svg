@@ -1,0 +1,92 @@
+﻿<svg width="1080" height="1350" viewBox="0 0 1080 1350" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      :root { direction:rtl; font-family:"Vazirmatn","Segoe UI",Tahoma,sans-serif; }
+      .bg { fill:#080410; }
+      .header-bar { fill:#1A237E; }
+      .accent { fill:#F9A825; }
+      .final-card { fill:#100e1c; stroke:#F9A825; stroke-width:3; rx:32; ry:32; }
+      .card { fill:#100e1c; stroke:#283593; stroke-width:1.4; rx:28; ry:28; }
+      .shadow { filter:drop-shadow(0px 20px 50px rgba(0,0,0,0.6)); }
+      .title { font-size:50px; font-weight:800; color:#FFFFFF; }
+      .quote { font-size:34px; font-weight:700; color:#F9A825; line-height:1.8; }
+      .card-text { font-size:26px; line-height:1.7; color:#ECEFF1; }
+      .gold { color:#F9A825; font-weight:700; }
+      .green { color:#69F0AE; font-weight:700; }
+      .red { color:#EF5350; font-weight:700; }
+      .author { font-size:28px; color:#B0BEC5; font-style:italic; }
+      .footer { font-size:24px; color:#78909C; }
+      .cta { font-size:30px; color:#F9A825; font-weight:700; }
+    </style>
+  </defs>
+
+  <rect class="bg" x="0" y="0" width="1080" height="1350"/>
+
+  <rect class="header-bar" x="60" y="60" width="960" height="90" rx="22"/>
+  <rect class="accent" x="80" y="82" width="10" height="46" rx="5"/>
+  <foreignObject x="110" y="70" width="900" height="80">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl"
+         style="display:flex;justify-content:space-between;align-items:center;color:#FFF;font-size:28px;font-weight:600;">
+      <span>پیام پایانی</span>
+      <span style="opacity:0.8;">ملت‌ها و نجات‌بخشی</span>
+    </div>
+  </foreignObject>
+
+  <foreignObject x="80" y="190" width="920" height="120">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl" style="text-align:center;">
+      <div class="title">🏁 سخن آخر</div>
+    </div>
+  </foreignObject>
+
+  <!-- Main quote card -->
+  <rect class="final-card shadow" x="80" y="310" width="920" height="340"/>
+  <foreignObject x="100" y="340" width="880" height="280">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl" style="text-align:center;">
+      <div class="quote">
+        «آزادی‌ای که از بیرون بیاید،<br/>
+        آزادی نیست؛<br/>
+        هدیه‌ای است که هر لحظه<br/>
+        پس گرفته می‌شود.»
+      </div>
+      <div class="author" style="margin-top:20px;">
+        — جان استوارت میل (با بسط مفهومی نویسنده)
+      </div>
+    </div>
+  </foreignObject>
+
+  <!-- Summary message -->
+  <rect class="card shadow" x="80" y="685" width="920" height="340"/>
+  <foreignObject x="100" y="705" width="880" height="300">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl" style="text-align:right;">
+      <div class="card-text">
+        این کتاب در ۱۴ فصل و ۴ پیوست نشان داد:<br/><br/>
+        ✅ <span class="gold">نجات‌طلبی</span> الگویی تکرارشونده در تاریخ بشر است.<br/>
+        ✅ ریشه‌هایش <span class="gold">روان‌شناختی، اقتصادی و ایدئولوژیک</span> است.<br/>
+        ✅ تقریباً هیچ مداخله‌ای به <span class="green">«رهایی پایدار»</span> منجر نشده.<br/>
+        ✅ تنها مسیر واقعی: <span class="green">خودسازی ملی</span> از طریق آموزش،
+        نهادسازی، استقلال اقتصادی و تفکر انتقادی.<br/><br/>
+        <span class="red">نجات وارداتی، آزادی نیست — قفسی با درِ باز است
+        که هر لحظه بسته می‌شود.</span>
+      </div>
+    </div>
+  </foreignObject>
+
+  <!-- CTA -->
+  <rect class="final-card shadow" x="80" y="1060" width="920" height="160"/>
+  <foreignObject x="100" y="1080" width="880" height="120">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl" style="text-align:center;">
+      <div class="cta">📖 متن کامل کتاب «ملت‌ها و نجات‌بخشی» را بخوانید</div>
+      <div class="card-text" style="margin-top:12px;">
+        نویسنده: <span class="gold">مهدی سالم</span> • لینک دانلود در بیو
+      </div>
+    </div>
+  </foreignObject>
+
+  <foreignObject x="80" y="1270" width="920" height="60">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl" class="footer"
+         style="display:flex;justify-content:space-between;align-items:center;">
+      <span>nations_salvation@ • لینک مطالعه در بیو</span>
+      <span>اسلاید ۵ از ۵ • پایان فصل ۱۴</span>
+    </div>
+  </foreignObject>
+</svg>

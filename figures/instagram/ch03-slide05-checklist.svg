@@ -1,0 +1,114 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1350" width="1080" height="1350">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0D1117"/>
+      <stop offset="100%" style="stop-color:#161B22"/>
+    </linearGradient>
+    <linearGradient id="titleGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#00D9FF"/>
+      <stop offset="50%" style="stop-color:#A855F7"/>
+      <stop offset="100%" style="stop-color:#EC4899"/>
+    </linearGradient>
+    <style>
+      .rtl { direction: rtl; text-align: center; font-family: 'Vazirmatn', 'Segoe UI', Tahoma, sans-serif; }
+      .rtl-right { direction: rtl; text-align: right; font-family: 'Vazirmatn', 'Segoe UI', Tahoma, sans-serif; padding-right: 15px; }
+    </style>
+  </defs>
+  
+  <rect width="1080" height="1350" fill="url(#bgGrad)"/>
+  
+  <!-- Header -->
+  <rect x="660" y="30" width="380" height="50" rx="25" fill="#F9A825"/>
+  <foreignObject x="660" y="30" width="380" height="50">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl" style="color:#0D1117; font-size:28px; font-weight:bold; line-height:50px;">فصل   اسلاید </div>
+  </foreignObject>
+  
+  <!-- Title -->
+  <foreignObject x="40" y="100" width="1000" height="60">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl" style="font-size:50px; font-weight:bold; color:#F9A825;"> چکلیست تصمیمگیری</div>
+  </foreignObject>
+  <foreignObject x="40" y="160" width="1000" height="40">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl" style="color:#94A3B8; font-size:26px;">قبل از حمایت از مداخله این سوالات را بپرسید:</div>
+  </foreignObject>
+  
+  <!-- Question 1 -->
+  <rect x="60" y="220" width="960" height="85" rx="12" fill="#1A237E" fill-opacity="0.4" stroke="#00D9FF" stroke-width="2"/>
+  <foreignObject x="920" y="240" width="80" height="50">
+    <div xmlns="http://www.w3.org/1999/xhtml" style="color:#00D9FF; font-size:28px; text-align:center;"></div>
+  </foreignObject>
+  <foreignObject x="80" y="250" width="830" height="50">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl-right" style="color:#FFFFFF; font-size:24px;">مداخلهگر چه منافعی دارد آیا صادقانه بیان شده</div>
+  </foreignObject>
+  
+  <!-- Question 2 -->
+  <rect x="60" y="320" width="960" height="85" rx="12" fill="#1A237E" fill-opacity="0.4" stroke="#4ADE80" stroke-width="2"/>
+  <foreignObject x="920" y="340" width="80" height="50">
+    <div xmlns="http://www.w3.org/1999/xhtml" style="color:#4ADE80; font-size:28px; text-align:center;"></div>
+  </foreignObject>
+  <foreignObject x="80" y="350" width="830" height="50">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl-right" style="color:#FFFFFF; font-size:24px;">برنامهی روز بعد چیست چه کسی حکومت میکند</div>
+  </foreignObject>
+  
+  <!-- Question 3 -->
+  <rect x="60" y="420" width="960" height="85" rx="12" fill="#1A237E" fill-opacity="0.4" stroke="#F9A825" stroke-width="2"/>
+  <foreignObject x="920" y="440" width="80" height="50">
+    <div xmlns="http://www.w3.org/1999/xhtml" style="color:#F9A825; font-size:28px; text-align:center;"></div>
+  </foreignObject>
+  <foreignObject x="80" y="450" width="830" height="50">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl-right" style="color:#FFFFFF; font-size:24px;">آیا مداخلهی مشابه قبلا موفق بوده است</div>
+  </foreignObject>
+  
+  <!-- Question 4 -->
+  <rect x="60" y="520" width="960" height="85" rx="12" fill="#1A237E" fill-opacity="0.4" stroke="#EC4899" stroke-width="2"/>
+  <foreignObject x="920" y="540" width="80" height="50">
+    <div xmlns="http://www.w3.org/1999/xhtml" style="color:#EC4899; font-size:28px; text-align:center;"></div>
+  </foreignObject>
+  <foreignObject x="80" y="550" width="830" height="50">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl-right" style="color:#FFFFFF; font-size:24px;">چند علامت هشدار از اسلاید قبل وجود دارد</div>
+  </foreignObject>
+  
+  <!-- Question 5 -->
+  <rect x="60" y="620" width="960" height="85" rx="12" fill="#1A237E" fill-opacity="0.4" stroke="#A855F7" stroke-width="2"/>
+  <foreignObject x="920" y="640" width="80" height="50">
+    <div xmlns="http://www.w3.org/1999/xhtml" style="color:#A855F7; font-size:28px; text-align:center;"></div>
+  </foreignObject>
+  <foreignObject x="80" y="650" width="830" height="50">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl-right" style="color:#FFFFFF; font-size:24px;">آیا راهحل غیرنظامی امتحان شده است</div>
+  </foreignObject>
+  
+  <!-- Question 6 -->
+  <rect x="60" y="720" width="960" height="85" rx="12" fill="#1A237E" fill-opacity="0.4" stroke="#DC2626" stroke-width="2"/>
+  <foreignObject x="920" y="740" width="80" height="50">
+    <div xmlns="http://www.w3.org/1999/xhtml" style="color:#F87171; font-size:28px; text-align:center;"></div>
+  </foreignObject>
+  <foreignObject x="80" y="750" width="830" height="50">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl-right" style="color:#FFFFFF; font-size:24px;">اگر شکست بخورد عواقب چیست بدتر میشود</div>
+  </foreignObject>
+  
+  <!-- Scoring guide -->
+  <rect x="80" y="830" width="920" height="200" rx="20" fill="#0D1117" stroke="#F9A825" stroke-width="2"/>
+  <foreignObject x="80" y="850" width="920" height="40">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl" style="color:#F9A825; font-size:28px; font-weight:bold;"> راهنمای امتیازدهی:</div>
+  </foreignObject>
+  
+  <foreignObject x="100" y="900" width="880" height="35">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl-right" style="color:#4ADE80; font-size:24px;"> همهی جوابها مثبت  احتیاط کنید (شاید!)</div>
+  </foreignObject>
+  <foreignObject x="100" y="940" width="880" height="35">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl-right" style="color:#F9A825; font-size:24px;"> - جواب منفی  خطر جدی</div>
+  </foreignObject>
+  <foreignObject x="100" y="980" width="880" height="35">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl-right" style="color:#F87171; font-size:24px;"> + جواب منفی  فاجعه تقریبا حتمی!</div>
+  </foreignObject>
+  
+  <!-- Navigation -->
+  <foreignObject x="40" y="1060" width="1000" height="40">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl" style="color:#00D9FF; font-size:26px;">بعدی: مثالهای تاریخی </div>
+  </foreignObject>
+  
+  <foreignObject x="40" y="1120" width="1000" height="40">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl" style="color:#64748B; font-size:22px;">این چکلیست را ذخیره کنید! </div>
+  </foreignObject>
+  
+  <rect x="40" y="1306" width="1000" height="4" rx="2" fill="url(#titleGrad)"/>
+</svg>

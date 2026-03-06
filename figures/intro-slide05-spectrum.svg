@@ -1,0 +1,116 @@
+﻿<svg width="1080" height="1350" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg5" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#060818"/>
+      <stop offset="100%" stop-color="#0a0e20"/>
+    </linearGradient>
+    <linearGradient id="spectrum" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#2E7D32"/>
+      <stop offset="30%" stop-color="#F9A825"/>
+      <stop offset="60%" stop-color="#FF8F00"/>
+      <stop offset="100%" stop-color="#C62828"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1080" height="1350" fill="url(#bg5)"/>
+
+  <!-- Title -->
+  <foreignObject x="60" y="70" width="960" height="130">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl"
+         style="text-align:center;font-family:'IRANSansX','Vazirmatn',sans-serif;">
+      <div style="font-size:56px;font-weight:900;color:#FFFFFF;">
+        طیف نتایج مداخله
+      </div>
+      <div style="font-size:26px;color:#90A4AE;margin-top:8px;">
+        هر مداخله‌ای روی این طیف جایی دارد
+      </div>
+    </div>
+  </foreignObject>
+
+  <!-- Spectrum bar -->
+  <rect x="80" y="230" width="920" height="24" rx="12" fill="url(#spectrum)"/>
+
+  <!-- A -->
+  <rect x="80" y="290" width="920" height="130" rx="22" fill="#0a1a0a" stroke="#2E7D32" stroke-width="2"/>
+  <foreignObject x="100" y="300" width="880" height="110">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl"
+         style="font-family:'IRANSansX','Vazirmatn',sans-serif;display:flex;align-items:center;gap:20px;">
+      <div style="font-size:60px;font-weight:900;color:#69F0AE;min-width:80px;text-align:center;">A</div>
+      <div style="text-align:right;">
+        <div style="font-size:28px;font-weight:700;color:#69F0AE;">رهایی کامل و استقلال پایدار</div>
+        <div style="font-size:22px;color:#B0BEC5;margin-top:4px;">آلمان و ژاپن پس از ۱۹۴۵ — موارد بسیار نادر</div>
+      </div>
+    </div>
+  </foreignObject>
+
+  <!-- B -->
+  <rect x="80" y="440" width="920" height="130" rx="22" fill="#0a180a" stroke="#43A047" stroke-width="1.5"/>
+  <foreignObject x="100" y="450" width="880" height="110">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl"
+         style="font-family:'IRANSansX','Vazirmatn',sans-serif;display:flex;align-items:center;gap:20px;">
+      <div style="font-size:60px;font-weight:900;color:#A5D6A7;min-width:80px;text-align:center;">B</div>
+      <div style="text-align:right;">
+        <div style="font-size:28px;font-weight:700;color:#A5D6A7;">رهایی با وابستگی محدود</div>
+        <div style="font-size:22px;color:#B0BEC5;margin-top:4px;">کره‌ی جنوبی — وابستگی امنیتی اما رشد مستقل</div>
+      </div>
+    </div>
+  </foreignObject>
+
+  <!-- C -->
+  <rect x="80" y="590" width="920" height="130" rx="22" fill="#1a1a0a" stroke="#F9A825" stroke-width="1.5"/>
+  <foreignObject x="100" y="600" width="880" height="110">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl"
+         style="font-family:'IRANSansX','Vazirmatn',sans-serif;display:flex;align-items:center;gap:20px;">
+      <div style="font-size:60px;font-weight:900;color:#F9A825;min-width:80px;text-align:center;">C</div>
+      <div style="text-align:right;">
+        <div style="font-size:28px;font-weight:700;color:#F9A825;">تغییر رژیم اما بی‌ثباتی</div>
+        <div style="font-size:22px;color:#B0BEC5;margin-top:4px;">عراق پس از ۲۰۰۳ — سقوط صدام اما هرج‌ومرج مزمن</div>
+      </div>
+    </div>
+  </foreignObject>
+
+  <!-- D -->
+  <rect x="80" y="740" width="920" height="130" rx="22" fill="#1a140a" stroke="#FF8F00" stroke-width="1.5"/>
+  <foreignObject x="100" y="750" width="880" height="110">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl"
+         style="font-family:'IRANSansX','Vazirmatn',sans-serif;display:flex;align-items:center;gap:20px;">
+      <div style="font-size:60px;font-weight:900;color:#FFB74D;min-width:80px;text-align:center;">D</div>
+      <div style="text-align:right;">
+        <div style="font-size:28px;font-weight:700;color:#FFB74D;">رژیم دست‌نشانده و وابستگی</div>
+        <div style="font-size:22px;color:#B0BEC5;margin-top:4px;">ایران ۲۸ مرداد — کودتا → دیکتاتوری → انقلاب</div>
+      </div>
+    </div>
+  </foreignObject>
+
+  <!-- E -->
+  <rect x="80" y="890" width="920" height="130" rx="22" fill="#1a0e0a" stroke="#E53935" stroke-width="1.5"/>
+  <foreignObject x="100" y="900" width="880" height="110">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl"
+         style="font-family:'IRANSansX','Vazirmatn',sans-serif;display:flex;align-items:center;gap:20px;">
+      <div style="font-size:60px;font-weight:900;color:#EF5350;min-width:80px;text-align:center;">E</div>
+      <div style="text-align:right;">
+        <div style="font-size:28px;font-weight:700;color:#EF5350;">هرج‌ومرج و دولت شکست‌خورده</div>
+        <div style="font-size:22px;color:#B0BEC5;margin-top:4px;">لیبی پس از ۲۰۱۱ — سقوط قذافی → فروپاشی کامل</div>
+      </div>
+    </div>
+  </foreignObject>
+
+  <!-- F -->
+  <rect x="80" y="1040" width="920" height="130" rx="22" fill="#1a0808" stroke="#B71C1C" stroke-width="2"/>
+  <foreignObject x="100" y="1050" width="880" height="110">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl"
+         style="font-family:'IRANSansX','Vazirmatn',sans-serif;display:flex;align-items:center;gap:20px;">
+      <div style="font-size:60px;font-weight:900;color:#E57373;min-width:80px;text-align:center;">F</div>
+      <div style="text-align:right;">
+        <div style="font-size:28px;font-weight:700;color:#E57373;">استعمار یا الحاق</div>
+        <div style="font-size:22px;color:#B0BEC5;margin-top:4px;">هند، آفریقا — اشغال کامل و از دست دادن حاکمیت</div>
+      </div>
+    </div>
+  </foreignObject>
+
+  <foreignObject x="0" y="1280" width="1080" height="50">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl"
+         style="text-align:center;font-family:'Sahel','Vazirmatn',sans-serif;
+                font-size:22px;color:#546E7A;">nations_salvation@ · ۵ از ۱۰</div>
+  </foreignObject>
+</svg>

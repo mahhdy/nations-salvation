@@ -1,0 +1,86 @@
+﻿<svg width="1080" height="1350" viewBox="0 0 1080 1350"
+     xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      :root{
+        direction:rtl;
+        font-family:"Vazirmatn","Shabnam","Sahel","IRANSansX","Segoe UI",sans-serif;
+      }
+      .bg{fill:#060712;}
+      .card{fill:#0e1420;stroke:#263238;stroke-width:1.6;rx:30;ry:30;}
+      .shadow{filter:drop-shadow(0 18px 44px rgba(0,0,0,0.55));}
+      .title{font-size:46px;font-weight:900;color:#FFFFFF;}
+      .subtitle{font-size:26px;color:#CFD8DC;}
+      .icon{font-size:60px;}
+      .h{font-size:30px;font-weight:700;color:#FFFFFF;}
+      .t{font-size:24px;color:#ECEFF1;line-height:1.7;}
+      .footer{font-size:24px;color:#90A4AE;}
+    </style>
+  </defs>
+
+  <rect class="bg" width="1080" height="1350"/>
+
+  <foreignObject x="80" y="80" width="920" height="120">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl">
+      <div class="title">چرا اکثر «نجات‌ها» به فاجعه ختم می‌شوند؟</div>
+      <div class="subtitle" style="margin-top:10px;">
+        کتاب سه خطای تکرارشونده را در تقریباً همه‌ی مداخلات معاصر نشان می‌دهد.
+      </div>
+    </div>
+  </foreignObject>
+
+  <rect class="card shadow" x="80" y="230" width="920" height="270"/>
+  <foreignObject x="110" y="250" width="860" height="230">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl"
+         style="display:flex;gap:26px;align-items:flex-start;">
+      <div class="icon">🎯</div>
+      <div>
+        <div class="h">۱. هدف مبهم، شعار جذاب</div>
+        <div class="t" style="margin-top:6px;">
+          «مبارزه با تروریسم»، «حفاظت از غیرنظامیان»، «آوردن دموکراسی»...
+          اما در اسناد محرمانه، هدف چیز دیگری است: <b style="color:#F9A825;">مهار رقیب، کنترل منابع، تغییر موازنه‌ی قدرت</b>.
+        </div>
+      </div>
+    </div>
+  </foreignObject>
+
+  <rect class="card shadow" x="80" y="530" width="920" height="270"/>
+  <foreignObject x="110" y="550" width="860" height="230">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl"
+         style="display:flex;gap:26px;align-items:flex-start;">
+      <div class="icon">⏱️</div>
+      <div>
+        <div class="h">۲. توهم «عملیات کوتاه و تمیز»</div>
+        <div class="t" style="margin-top:6px;">
+          تقریباً همه‌جا گفته‌اند: «چند هفته»، «چند ماه»، «محدود».
+          اما عراق، افغانستان، لیبی و سوریه نشان می‌دهند که
+          <b style="color:#EF5350;">جنگ‌ها خیلی راحت درازمدت و کثیف می‌شوند.</b>
+        </div>
+      </div>
+    </div>
+  </foreignObject>
+
+  <rect class="card shadow" x="80" y="830" width="920" height="270"/>
+  <foreignObject x="110" y="850" width="860" height="230">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl"
+         style="display:flex;gap:26px;align-items:flex-start;">
+      <div class="icon">📉</div>
+      <div>
+        <div class="h">۳. بی‌توجهی به اقتصاد و جامعه</div>
+        <div class="t" style="margin-top:6px;">
+          ساختن یک دولت پایدار یعنی فهم <b style="color:#F9A825;">اقتصاد، نهادها، هویت‌ها</b>.
+          اما بسیاری از مداخله‌گران فقط به نقشه‌ی نظامی نگاه کرده‌اند؛
+          نتیجه: <span style="color:#EF5350;">دولت‌های شکست‌خورده، موج پناهجویان، تروماهای نسل‌بعد.</span>
+        </div>
+      </div>
+    </div>
+  </foreignObject>
+
+  <foreignObject x="80" y="1180" width="920" height="70">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl" class="footer"
+         style="display:flex;justify-content:space-between;align-items:center;">
+      <span>فصل ۱۰ و ۱۲ با داده و نمودار نشان می‌دهند این سه خطا چقدر تکرار شده‌اند.</span>
+      <span>اسلاید ۵ از ۱۰</span>
+    </div>
+  </foreignObject>
+</svg>

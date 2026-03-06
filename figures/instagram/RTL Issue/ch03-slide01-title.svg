@@ -1,0 +1,60 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1350" width="1080" height="1350">
+  <style>
+    text { 
+      direction: rtl; 
+      unicode-bidi: bidi-override;
+    }
+    .rtl-text {
+      direction: rtl;
+      unicode-bidi: embed;
+      text-anchor: end;
+    }
+  </style>
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0D1117"/>
+      <stop offset="100%" style="stop-color:#161B22"/>
+    </linearGradient>
+    <linearGradient id="titleGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#00D9FF"/>
+      <stop offset="50%" style="stop-color:#A855F7"/>
+      <stop offset="100%" style="stop-color:#EC4899"/>
+    </linearGradient>
+  </defs>
+  
+  <rect width="1080" height="1350" fill="url(#bgGrad)"/>
+  
+  <!-- Chapter badge -->
+  <rect x="700" y="50" width="340" height="60" rx="30" fill="#A855F7" stroke="#00D9FF" stroke-width="2"/>
+  <text x="870" y="90" font-family="Vazirmatn, Tahoma" font-size="32" fill="#FFFFFF" text-anchor="middle" direction="rtl" font-weight="bold">فصل ۳</text>
+  
+  <!-- Analysis icon -->
+  <circle cx="540" cy="280" r="100" fill="none" stroke="#A855F7" stroke-width="3"/>
+  <text x="540" y="305" font-family="Vazirmatn, Tahoma" font-size="80" fill="#A855F7" text-anchor="middle">📊</text>
+  
+  <!-- Main Title -->
+  <text x="540" y="450" font-family="Vazirmatn, Tahoma" font-size="60" font-weight="bold" fill="url(#titleGrad)" text-anchor="middle" direction="rtl">مدل‌های تحلیلی</text>
+  <text x="540" y="520" font-family="Vazirmatn, Tahoma" font-size="38" fill="#FFFFFF" text-anchor="middle" direction="rtl">چارچوب علمی برای تحلیل مداخله</text>
+  
+  <!-- Divider -->
+  <rect x="300" y="570" width="480" height="4" rx="2" fill="url(#titleGrad)"/>
+  
+  <!-- Key topics -->
+  <text x="540" y="660" font-family="Vazirmatn, Tahoma" font-size="32" fill="#F9A825" text-anchor="middle" direction="rtl" font-weight="bold">در این فصل یاد می‌گیرید:</text>
+  
+  <rect x="100" y="700" width="880" height="380" rx="20" fill="#1A237E" fill-opacity="0.3" stroke="#1A237E" stroke-width="2"/>
+  
+  <text x="920" y="760" font-family="Vazirmatn, Tahoma" font-size="30" fill="#00D9FF" text-anchor="end" direction="rtl">🔬 مدل شش‌وجهی تحلیل مداخله</text>
+  <text x="920" y="820" font-family="Vazirmatn, Tahoma" font-size="30" fill="#4ADE80" text-anchor="end" direction="rtl">📈 طیف نتایج (A تا F)</text>
+  <text x="920" y="880" font-family="Vazirmatn, Tahoma" font-size="30" fill="#F9A825" text-anchor="end" direction="rtl">🎯 شاخص‌های پیش‌بینی موفقیت</text>
+  <text x="920" y="940" font-family="Vazirmatn, Tahoma" font-size="30" fill="#EC4899" text-anchor="end" direction="rtl">⚠️ علائم هشدار شکست</text>
+  <text x="920" y="1000" font-family="Vazirmatn, Tahoma" font-size="30" fill="#C084FC" text-anchor="end" direction="rtl">📋 چک‌لیست ارزیابی</text>
+  <text x="920" y="1060" font-family="Vazirmatn, Tahoma" font-size="30" fill="#94A3B8" text-anchor="end" direction="rtl">🔄 کاربرد در موارد تاریخی</text>
+  
+  <!-- Key question -->
+  <rect x="150" y="1120" width="780" height="100" rx="20" fill="none" stroke="#00D9FF" stroke-width="2"/>
+  <text x="540" y="1165" font-family="Vazirmatn, Tahoma" font-size="28" fill="#00D9FF" text-anchor="middle" direction="rtl" font-weight="bold">🎯 هدف: تبدیل «حدس» به «تحلیل علمی»</text>
+  <text x="540" y="1205" font-family="Vazirmatn, Tahoma" font-size="24" fill="#94A3B8" text-anchor="middle" direction="rtl">آیا این مداخله احتمال موفقیت دارد؟</text>
+  
+  <rect x="40" y="1306" width="1000" height="4" rx="2" fill="url(#titleGrad)"/>
+</svg>

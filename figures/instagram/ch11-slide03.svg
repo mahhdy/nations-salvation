@@ -1,0 +1,131 @@
+﻿<svg width="1080" height="1350" viewBox="0 0 1080 1350" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      :root { direction:rtl; font-family:"Vazirmatn","Segoe UI",Tahoma,sans-serif; }
+      .bg { fill:#0a0a1a; }
+      .header-bar { fill:#1A237E; }
+      .accent { fill:#F9A825; }
+      .card { fill:#111428; stroke:#2a2f4a; stroke-width:1.4; rx:28; ry:28; }
+      .bias-card { fill:#151a30; stroke:#FF6F00; stroke-width:1.6; rx:22; ry:22; }
+      .shadow { filter:drop-shadow(0px 16px 36px rgba(0,0,0,0.45)); }
+      .title { font-size:46px; font-weight:800; color:#FFFFFF; }
+      .subtitle { font-size:26px; color:#CFD8DC; line-height:1.6; }
+      .card-title { font-size:30px; font-weight:700; color:#FFFFFF; }
+      .card-text { font-size:25px; line-height:1.7; color:#ECEFF1; }
+      .gold { color:#F9A825; font-weight:700; }
+      .orange { color:#FFB74D; font-weight:700; }
+      .red { color:#EF5350; font-weight:700; }
+      .footer { font-size:24px; color:#78909C; }
+    </style>
+  </defs>
+
+  <rect class="bg" x="0" y="0" width="1080" height="1350"/>
+
+  <rect class="header-bar" x="60" y="60" width="960" height="90" rx="22"/>
+  <rect class="accent" x="80" y="82" width="10" height="46" rx="5"/>
+  <foreignObject x="110" y="70" width="900" height="80">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl"
+         style="display:flex;justify-content:space-between;align-items:center;color:#FFF;font-size:28px;font-weight:600;">
+      <span>آرزواندیشی و سوگیری‌ها</span>
+      <span style="opacity:0.8;">فصل ۱۱ • روان‌شناسی نجات‌طلبی</span>
+    </div>
+  </foreignObject>
+
+  <foreignObject x="80" y="180" width="920" height="130">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl" style="text-align:right;">
+      <div class="title">۶ سوگیری که ملت‌ها را به <span class="orange">دام نجات‌طلبی</span> می‌اندازد</div>
+    </div>
+  </foreignObject>
+
+  <!-- Bias 1 -->
+  <rect class="bias-card shadow" x="80" y="300" width="440" height="220"/>
+  <foreignObject x="100" y="315" width="400" height="190">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl" style="text-align:right;">
+      <div class="card-title"><span class="orange">۱.</span> آرزواندیشی</div>
+      <div class="card-text" style="margin-top:10px;">
+        باور به اینکه «اگر آن‌ها بیایند همه‌چیز درست می‌شود»
+        بدون تحلیل هزینه‌ها و ریسک‌های واقعی.
+      </div>
+    </div>
+  </foreignObject>
+
+  <!-- Bias 2 -->
+  <rect class="bias-card shadow" x="560" y="300" width="440" height="220"/>
+  <foreignObject x="580" y="315" width="400" height="190">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl" style="text-align:right;">
+      <div class="card-title"><span class="orange">۲.</span> سوگیری تأیید</div>
+      <div class="card-text" style="margin-top:10px;">
+        فقط شواهدی دیده می‌شود که نجات‌بخشِ خارجی را «خوب» و رژیم فعلی
+        را «مطلقاً بد» نشان دهد.
+      </div>
+    </div>
+  </foreignObject>
+
+  <!-- Bias 3 -->
+  <rect class="bias-card shadow" x="80" y="545" width="440" height="220"/>
+  <foreignObject x="100" y="560" width="400" height="190">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl" style="text-align:right;">
+      <div class="card-title"><span class="orange">۳.</span> اثر هاله‌ای</div>
+      <div class="card-text" style="margin-top:10px;">
+        چون کشور X «پیشرفته» است، پس مداخله‌اش هم حتماً
+        «خیرخواهانه و حرفه‌ای» خواهد بود. واقعیت؟ نه لزوماً.
+      </div>
+    </div>
+  </foreignObject>
+
+  <!-- Bias 4 -->
+  <rect class="bias-card shadow" x="560" y="545" width="440" height="220"/>
+  <foreignObject x="580" y="560" width="400" height="190">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl" style="text-align:right;">
+      <div class="card-title"><span class="orange">۴.</span> سوگیری بازماندگان</div>
+      <div class="card-text" style="margin-top:10px;">
+        فقط «آلمان و ژاپن» را مثال می‌زنند، نه <span class="red">لیبی، عراق، افغانستان</span>
+        و ده‌ها پرونده‌ی شکست‌خورده.
+      </div>
+    </div>
+  </foreignObject>
+
+  <!-- Bias 5 -->
+  <rect class="bias-card shadow" x="80" y="790" width="440" height="220"/>
+  <foreignObject x="100" y="805" width="400" height="190">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl" style="text-align:right;">
+      <div class="card-title"><span class="orange">۵.</span> اثر دانینگ-کروگر</div>
+      <div class="card-text" style="margin-top:10px;">
+        کسانی که کمترین شناخت را از پیچیدگی ژئوپولیتیک دارند،
+        بیشترین اطمینان را به <span class="gold">«راه‌حل ساده»</span> دارند.
+      </div>
+    </div>
+  </foreignObject>
+
+  <!-- Bias 6 -->
+  <rect class="bias-card shadow" x="560" y="790" width="440" height="220"/>
+  <foreignObject x="580" y="805" width="400" height="190">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl" style="text-align:right;">
+      <div class="card-title"><span class="orange">۶.</span> تفکر سیاه‌وسفید</div>
+      <div class="card-text" style="margin-top:10px;">
+        «یا این رژیم، یا مداخله‌ی خارجی». طیف وسیعی از
+        <span class="gold">گزینه‌های میانی</span> نادیده گرفته می‌شود.
+      </div>
+    </div>
+  </foreignObject>
+
+  <!-- Bottom card -->
+  <rect class="card shadow" x="80" y="1045" width="920" height="160"/>
+  <foreignObject x="100" y="1060" width="880" height="130">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl" style="text-align:center;">
+      <div style="font-size:30px;color:#FFB74D;font-weight:800;">🔑 کلید فصل ۱۱</div>
+      <div class="card-text" style="margin-top:10px;">
+        شناختنِ این سوگیری‌ها اولین قدم برای <span class="gold">مقاومت در برابر
+        بازاریابیِ نجات‌طلبی</span> است — چه از جانب قدرت‌های خارجی و چه اپوزیسیون.
+      </div>
+    </div>
+  </foreignObject>
+
+  <foreignObject x="80" y="1250" width="920" height="60">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl" class="footer"
+         style="display:flex;justify-content:space-between;align-items:center;">
+      <span>nations_salvation@ • لینک مطالعه در بیو</span>
+      <span>اسلاید ۳ از ۶</span>
+    </div>
+  </foreignObject>
+</svg>

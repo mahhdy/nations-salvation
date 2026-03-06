@@ -1,0 +1,130 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1350" width="1080" height="1350">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0D1117"/>
+      <stop offset="100%" style="stop-color:#161B22"/>
+    </linearGradient>
+    <linearGradient id="titleGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#00D9FF"/>
+      <stop offset="50%" style="stop-color:#A855F7"/>
+      <stop offset="100%" style="stop-color:#EC4899"/>
+    </linearGradient>
+    <linearGradient id="redGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#DC2626"/>
+      <stop offset="100%" style="stop-color:#F97316"/>
+    </linearGradient>
+    <style>
+      .rtl { direction: rtl; text-align: center; font-family: 'Vazirmatn', 'Segoe UI', Tahoma, sans-serif; }
+    </style>
+  </defs>
+  
+  <rect width="1080" height="1350" fill="url(#bgGrad)"/>
+  
+  <!-- Header -->
+  <rect x="660" y="30" width="380" height="50" rx="25" fill="#DC2626"/>
+  <foreignObject x="660" y="30" width="380" height="50">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl" style="color:#FFFFFF; font-size:28px; line-height:50px;"> فکتهای تکاندهنده</div>
+  </foreignObject>
+  
+  <!-- Title -->
+  <foreignObject x="40" y="100" width="1000" height="70">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl" style="font-size:52px; font-weight:bold; color:#DC2626;">آمار شوکهکننده</div>
+  </foreignObject>
+  <foreignObject x="40" y="170" width="1000" height="40">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl" style="color:#94A3B8; font-size:28px;">نتایج واقعی مداخلات خارجی</div>
+  </foreignObject>
+  
+  <!-- Stat 1 - Big number -->
+  <rect x="60" y="230" width="960" height="160" rx="20" fill="#DC2626" fill-opacity="0.1" stroke="#DC2626" stroke-width="3"/>
+  <foreignObject x="60" y="250" width="960" height="80">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl" style="color:#DC2626; font-size:72px; font-weight:bold;"></div>
+  </foreignObject>
+  <foreignObject x="60" y="330" width="960" height="45">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl" style="color:#FFFFFF; font-size:32px;">مداخلات به نتایج C تا F منجر شدهاند</div>
+  </foreignObject>
+  
+  <!-- Stat 2 -->
+  <rect x="60" y="410" width="465" height="180" rx="20" fill="#F97316" fill-opacity="0.1" stroke="#F97316" stroke-width="2"/>
+  <foreignObject x="60" y="430" width="465" height="70">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl" style="color:#F97316; font-size:60px; font-weight:bold;">.</div>
+  </foreignObject>
+  <foreignObject x="60" y="500" width="465" height="40">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl" style="color:#FFFFFF; font-size:28px;">میلیون کشته</div>
+  </foreignObject>
+  <foreignObject x="60" y="540" width="465" height="35">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl" style="color:#94A3B8; font-size:24px;">جنگ عراق -</div>
+  </foreignObject>
+  
+  <!-- Stat 3 -->
+  <rect x="555" y="410" width="465" height="180" rx="20" fill="#A855F7" fill-opacity="0.1" stroke="#A855F7" stroke-width="2"/>
+  <foreignObject x="555" y="430" width="465" height="70">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl" style="color:#A855F7; font-size:60px; font-weight:bold;"></div>
+  </foreignObject>
+  <foreignObject x="555" y="500" width="465" height="40">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl" style="color:#FFFFFF; font-size:28px;">سال اشغال</div>
+  </foreignObject>
+  <foreignObject x="555" y="540" width="465" height="35">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl" style="color:#94A3B8; font-size:24px;">افغانستان  فروپاشی در  روز</div>
+  </foreignObject>
+  
+  <!-- Stat 4 -->
+  <rect x="60" y="610" width="465" height="180" rx="20" fill="#22C55E" fill-opacity="0.1" stroke="#22C55E" stroke-width="2"/>
+  <foreignObject x="60" y="630" width="465" height="70">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl" style="color:#22C55E; font-size:60px; font-weight:bold;"></div>
+  </foreignObject>
+  <foreignObject x="60" y="700" width="465" height="40">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl" style="color:#FFFFFF; font-size:28px;">موفقیت کامل (A)</div>
+  </foreignObject>
+  <foreignObject x="60" y="740" width="465" height="35">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl" style="color:#94A3B8; font-size:24px;">در  مورد بررسیشده</div>
+  </foreignObject>
+  
+  <!-- Stat 5 -->
+  <rect x="555" y="610" width="465" height="180" rx="20" fill="#00D9FF" fill-opacity="0.1" stroke="#00D9FF" stroke-width="2"/>
+  <foreignObject x="555" y="630" width="465" height="70">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl" style="color:#00D9FF; font-size:60px; font-weight:bold;"></div>
+  </foreignObject>
+  <foreignObject x="555" y="700" width="465" height="40">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl" style="color:#FFFFFF; font-size:28px;">تریلیون دلار</div>
+  </foreignObject>
+  <foreignObject x="555" y="740" width="465" height="35">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl" style="color:#94A3B8; font-size:24px;">هزینهی جنگهای آمریکا پس از </div>
+  </foreignObject>
+  
+  <!-- Key insight -->
+  <rect x="80" y="820" width="920" height="160" rx="20" fill="#1A237E" stroke="#F9A825" stroke-width="3"/>
+  <foreignObject x="80" y="845" width="920" height="45">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl" style="color:#F9A825; font-size:36px; font-weight:bold;"> نتیجهگیری:</div>
+  </foreignObject>
+  <foreignObject x="80" y="890" width="920" height="40">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl" style="color:#FFFFFF; font-size:30px;">مداخلهی خارجی در بیشتر موارد</div>
+  </foreignObject>
+  <foreignObject x="80" y="930" width="920" height="45">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl" style="color:#EC4899; font-size:30px; font-weight:bold;">نه آزادی بلکه هرجومرج یا وابستگی به ارمغان آورده.</div>
+  </foreignObject>
+  
+  <!-- Source -->
+  <foreignObject x="40" y="1000" width="1000" height="35">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl" style="color:#64748B; font-size:22px;">منابع: Brown University Costs of War Project / UN Reports</div>
+  </foreignObject>
+  
+  <!-- Question -->
+  <rect x="200" y="1050" width="680" height="90" rx="15" fill="none" stroke="#00D9FF" stroke-width="2"/>
+  <foreignObject x="200" y="1060" width="680" height="40">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl" style="color:#00D9FF; font-size:28px;"> پس چرا هنوز به مداخله امید میبندیم</div>
+  </foreignObject>
+  <foreignObject x="200" y="1100" width="680" height="35">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl" style="color:#94A3B8; font-size:24px;">پاسخ در فصلهای  و </div>
+  </foreignObject>
+  
+  <!-- Social -->
+  <foreignObject x="40" y="1170" width="1000" height="40">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl" style="color:#64748B; font-size:24px;">این آمار را به اشتراک بگذارید! </div>
+  </foreignObject>
+  
+  <foreignObject x="40" y="1220" width="1000" height="40">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl" style="color:#00D9FF; font-size:24px;">@nations_salvation | لینک کتاب در بیو</div>
+  </foreignObject>
+  
+  <rect x="40" y="1306" width="1000" height="4" rx="2" fill="url(#titleGrad)"/>
+</svg>

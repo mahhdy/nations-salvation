@@ -1,0 +1,53 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1350" width="1080" height="1350">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0D1117"/>
+      <stop offset="100%" style="stop-color:#161B22"/>
+    </linearGradient>
+    <linearGradient id="titleGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#00D9FF"/>
+      <stop offset="50%" style="stop-color:#A855F7"/>
+      <stop offset="100%" style="stop-color:#EC4899"/>
+    </linearGradient>
+    <linearGradient id="legalGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#1A237E"/>
+      <stop offset="100%" style="stop-color:#3949AB"/>
+    </linearGradient>
+  </defs>
+  
+  <rect width="1080" height="1350" fill="url(#bgGrad)"/>
+  
+  <!-- Chapter badge -->
+  <rect x="700" y="50" width="340" height="60" rx="30" fill="url(#legalGrad)" stroke="#00D9FF" stroke-width="2"/>
+  <text x="870" y="90" font-family="Vazirmatn, Tahoma" font-size="32" fill="#FFFFFF" text-anchor="middle" direction="rtl" font-weight="bold">فصل </text>
+  
+  <!-- Scale of Justice icon -->
+  <circle cx="540" cy="280" r="100" fill="none" stroke="#F9A825" stroke-width="3"/>
+  <text x="540" y="305" font-family="Vazirmatn, Tahoma" font-size="80" fill="#F9A825" text-anchor="middle"></text>
+  
+  <!-- Main Title -->
+  <text x="540" y="450" font-family="Vazirmatn, Tahoma" font-size="60" font-weight="bold" fill="url(#titleGrad)" text-anchor="middle" direction="rtl">مبانی حقوقی</text>
+  <text x="540" y="530" font-family="Vazirmatn, Tahoma" font-size="44" fill="#FFFFFF" text-anchor="middle" direction="rtl">حاکمیت ملی در برابر مداخله</text>
+  
+  <!-- Divider -->
+  <rect x="300" y="580" width="480" height="4" rx="2" fill="url(#titleGrad)"/>
+  
+  <!-- Key topics -->
+  <text x="540" y="670" font-family="Vazirmatn, Tahoma" font-size="32" fill="#F9A825" text-anchor="middle" direction="rtl" font-weight="bold">موضوعات این فصل:</text>
+  
+  <rect x="100" y="710" width="880" height="400" rx="20" fill="#1A237E" fill-opacity="0.3" stroke="#1A237E" stroke-width="2"/>
+  
+  <text x="920" y="770" font-family="Vazirmatn, Tahoma" font-size="30" fill="#00D9FF" text-anchor="end" direction="rtl"> اصل حاکمیت وستفالیایی</text>
+  <text x="920" y="830" font-family="Vazirmatn, Tahoma" font-size="30" fill="#4ADE80" text-anchor="end" direction="rtl"> منشور سازمان ملل (ماده .)</text>
+  <text x="920" y="890" font-family="Vazirmatn, Tahoma" font-size="30" fill="#F9A825" text-anchor="end" direction="rtl"> مسئولیت حمایت (R2P)</text>
+  <text x="920" y="950" font-family="Vazirmatn, Tahoma" font-size="30" fill="#EC4899" text-anchor="end" direction="rtl"> مداخلهی بشردوستانه</text>
+  <text x="920" y="1010" font-family="Vazirmatn, Tahoma" font-size="30" fill="#C084FC" text-anchor="end" direction="rtl"> دکترینهای توجیهگر مداخله</text>
+  <text x="920" y="1070" font-family="Vazirmatn, Tahoma" font-size="30" fill="#94A3B8" text-anchor="end" direction="rtl"> شکاف بین نظر و عمل</text>
+  
+  <!-- Key question -->
+  <rect x="150" y="1140" width="780" height="100" rx="20" fill="none" stroke="#DC2626" stroke-width="2"/>
+  <text x="540" y="1185" font-family="Vazirmatn, Tahoma" font-size="30" fill="#DC2626" text-anchor="middle" direction="rtl" font-weight="bold"> پرسش محوری:</text>
+  <text x="540" y="1225" font-family="Vazirmatn, Tahoma" font-size="28" fill="#FFFFFF" text-anchor="middle" direction="rtl">آیا مداخله میتواند قانونی باشد</text>
+  
+  <rect x="40" y="1306" width="1000" height="4" rx="2" fill="url(#titleGrad)"/>
+</svg>

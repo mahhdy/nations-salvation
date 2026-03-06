@@ -1,0 +1,83 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1350" width="1080" height="1350">
+  <style>
+    text { 
+      direction: rtl; 
+      unicode-bidi: bidi-override;
+    }
+    .rtl-text {
+      direction: rtl;
+      unicode-bidi: embed;
+      text-anchor: end;
+    }
+  </style>
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0D1117"/>
+      <stop offset="100%" style="stop-color:#161B22"/>
+    </linearGradient>
+    <linearGradient id="titleGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#00D9FF"/>
+      <stop offset="50%" style="stop-color:#A855F7"/>
+      <stop offset="100%" style="stop-color:#EC4899"/>
+    </linearGradient>
+    <linearGradient id="redGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#DC2626"/>
+      <stop offset="100%" style="stop-color:#F97316"/>
+    </linearGradient>
+  </defs>
+  
+  <rect width="1080" height="1350" fill="url(#bgGrad)"/>
+  
+  <!-- Header -->
+  <rect x="660" y="30" width="380" height="50" rx="25" fill="#DC2626"/>
+  <text x="850" y="65" font-family="Vazirmatn, Tahoma" font-size="28" fill="#FFFFFF" text-anchor="middle" direction="rtl">⚠️ فکت‌های تکان‌دهنده</text>
+  
+  <!-- Title -->
+  <text x="540" y="150" font-family="Vazirmatn, Tahoma" font-size="52" font-weight="bold" fill="url(#redGrad)" text-anchor="middle" direction="rtl">آمار شوکه‌کننده</text>
+  <text x="540" y="200" font-family="Vazirmatn, Tahoma" font-size="28" fill="#94A3B8" text-anchor="middle" direction="rtl">نتایج واقعی مداخلات خارجی</text>
+  
+  <!-- Stat 1 -->
+  <rect x="60" y="250" width="960" height="160" rx="20" fill="#DC2626" fill-opacity="0.1" stroke="#DC2626" stroke-width="3"/>
+  <text x="540" y="310" font-family="Vazirmatn, Tahoma" font-size="72" fill="#DC2626" text-anchor="middle" font-weight="bold">۷۳٪</text>
+  <text x="540" y="380" font-family="Vazirmatn, Tahoma" font-size="32" fill="#FFFFFF" text-anchor="middle" direction="rtl">مداخلات به نتایج C تا F منجر شده‌اند</text>
+  
+  <!-- Stat 2 -->
+  <rect x="60" y="430" width="465" height="200" rx="20" fill="#F97316" fill-opacity="0.1" stroke="#F97316" stroke-width="2"/>
+  <text x="292" y="500" font-family="Vazirmatn, Tahoma" font-size="60" fill="#F97316" text-anchor="middle" font-weight="bold">۲.۳</text>
+  <text x="292" y="550" font-family="Vazirmatn, Tahoma" font-size="28" fill="#FFFFFF" text-anchor="middle" direction="rtl">میلیون کشته</text>
+  <text x="292" y="600" font-family="Vazirmatn, Tahoma" font-size="24" fill="#94A3B8" text-anchor="middle" direction="rtl">جنگ عراق ۲۰۰۳-۲۰۱۱</text>
+  
+  <!-- Stat 3 -->
+  <rect x="555" y="430" width="465" height="200" rx="20" fill="#A855F7" fill-opacity="0.1" stroke="#A855F7" stroke-width="2"/>
+  <text x="787" y="500" font-family="Vazirmatn, Tahoma" font-size="60" fill="#A855F7" text-anchor="middle" font-weight="bold">۲۰</text>
+  <text x="787" y="550" font-family="Vazirmatn, Tahoma" font-size="28" fill="#FFFFFF" text-anchor="middle" direction="rtl">سال اشغال</text>
+  <text x="787" y="600" font-family="Vazirmatn, Tahoma" font-size="24" fill="#94A3B8" text-anchor="middle" direction="rtl">افغانستان → فروپاشی در ۱۵ روز</text>
+  
+  <!-- Stat 4 -->
+  <rect x="60" y="650" width="465" height="200" rx="20" fill="#22C55E" fill-opacity="0.1" stroke="#22C55E" stroke-width="2"/>
+  <text x="292" y="720" font-family="Vazirmatn, Tahoma" font-size="60" fill="#22C55E" text-anchor="middle" font-weight="bold">۵٪</text>
+  <text x="292" y="770" font-family="Vazirmatn, Tahoma" font-size="28" fill="#FFFFFF" text-anchor="middle" direction="rtl">موفقیت کامل (A)</text>
+  <text x="292" y="820" font-family="Vazirmatn, Tahoma" font-size="24" fill="#94A3B8" text-anchor="middle" direction="rtl">در ۳۰ مورد بررسی‌شده</text>
+  
+  <!-- Stat 5 -->
+  <rect x="555" y="650" width="465" height="200" rx="20" fill="#00D9FF" fill-opacity="0.1" stroke="#00D9FF" stroke-width="2"/>
+  <text x="787" y="720" font-family="Vazirmatn, Tahoma" font-size="60" fill="#00D9FF" text-anchor="middle" font-weight="bold">۱۳</text>
+  <text x="787" y="770" font-family="Vazirmatn, Tahoma" font-size="28" fill="#FFFFFF" text-anchor="middle" direction="rtl">تریلیون دلار</text>
+  <text x="787" y="820" font-family="Vazirmatn, Tahoma" font-size="24" fill="#94A3B8" text-anchor="middle" direction="rtl">هزینه‌ی جنگ‌های آمریکا پس از ۲۰۰۱</text>
+  
+  <!-- Key insight -->
+  <rect x="80" y="880" width="920" height="180" rx="20" fill="#1A237E" stroke="#F9A825" stroke-width="3"/>
+  <text x="540" y="940" font-family="Vazirmatn, Tahoma" font-size="36" fill="#F9A825" text-anchor="middle" direction="rtl" font-weight="bold">💡 نتیجه‌گیری:</text>
+  <text x="540" y="1000" font-family="Vazirmatn, Tahoma" font-size="30" fill="#FFFFFF" text-anchor="middle" direction="rtl">مداخله‌ی خارجی در بیشتر موارد</text>
+  <text x="540" y="1045" font-family="Vazirmatn, Tahoma" font-size="30" fill="#EC4899" text-anchor="middle" direction="rtl" font-weight="bold">نه آزادی، بلکه هرج‌ومرج یا وابستگی به ارمغان آورده.</text>
+  
+  <!-- Source -->
+  <text x="540" y="1120" font-family="Vazirmatn, Tahoma" font-size="22" fill="#64748B" text-anchor="middle" direction="rtl">منابع: Brown University Costs of War Project / UN Reports</text>
+  
+  <!-- Question -->
+  <rect x="200" y="1160" width="680" height="90" rx="15" fill="none" stroke="#00D9FF" stroke-width="2"/>
+  <text x="540" y="1195" font-family="Vazirmatn, Tahoma" font-size="28" fill="#00D9FF" text-anchor="middle" direction="rtl">❓ پس چرا هنوز به مداخله امید می‌بندیم؟</text>
+  <text x="540" y="1235" font-family="Vazirmatn, Tahoma" font-size="24" fill="#94A3B8" text-anchor="middle" direction="rtl">پاسخ در فصل‌های ۱۱ و ۱۲</text>
+  
+  <rect x="40" y="1306" width="1000" height="4" rx="2" fill="url(#titleGrad)"/>
+</svg>

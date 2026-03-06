@@ -1,0 +1,137 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1350" width="1080" height="1350">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0D1117"/>
+      <stop offset="100%" style="stop-color:#161B22"/>
+    </linearGradient>
+    <linearGradient id="titleGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#00D9FF"/>
+      <stop offset="50%" style="stop-color:#A855F7"/>
+      <stop offset="100%" style="stop-color:#EC4899"/>
+    </linearGradient>
+    <style>
+      .rtl { direction: rtl; text-align: center; font-family: 'Vazirmatn', 'Segoe UI', Tahoma, sans-serif; }
+      .rtl-right { direction: rtl; text-align: right; font-family: 'Vazirmatn', 'Segoe UI', Tahoma, sans-serif; padding-right: 15px; }
+    </style>
+  </defs>
+  
+  <rect width="1080" height="1350" fill="url(#bgGrad)"/>
+  
+  <!-- Header -->
+  <rect x="660" y="30" width="380" height="50" rx="25" fill="#1A237E"/>
+  <foreignObject x="660" y="30" width="380" height="50">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl" style="color:#FFFFFF; font-size:28px; line-height:50px;">فصل   اسلاید </div>
+  </foreignObject>
+  
+  <!-- Title -->
+  <foreignObject x="40" y="100" width="1000" height="55">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl" style="font-size:50px; font-weight:bold; color:#00D9FF;">شکاف نظر و عمل</div>
+  </foreignObject>
+  
+  <!-- Two columns comparison -->
+  <!-- Theory column (Right) -->
+  <rect x="555" y="175" width="465" height="360" rx="20" fill="#22C55E" fill-opacity="0.1" stroke="#22C55E" stroke-width="2"/>
+  <foreignObject x="555" y="190" width="465" height="42">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl" style="color:#4ADE80; font-size:30px; font-weight:bold;"> در نظر (قانون)</div>
+  </foreignObject>
+  <foreignObject x="565" y="240" width="445" height="32">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl-right" style="color:#FFFFFF; font-size:22px;"> مداخله فقط با مجوز شورای امنیت</div>
+  </foreignObject>
+  <foreignObject x="565" y="275" width="445" height="32">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl-right" style="color:#FFFFFF; font-size:22px;"> همهی دولتها برابرند</div>
+  </foreignObject>
+  <foreignObject x="565" y="310" width="445" height="32">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl-right" style="color:#FFFFFF; font-size:22px;"> حاکمیت ملی محترم است</div>
+  </foreignObject>
+  <foreignObject x="565" y="345" width="445" height="32">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl-right" style="color:#FFFFFF; font-size:22px;"> R2P برای حفاظت از مردم</div>
+  </foreignObject>
+  <foreignObject x="565" y="380" width="445" height="32">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl-right" style="color:#FFFFFF; font-size:22px;"> مداخلهگر باید بیطرف باشد</div>
+  </foreignObject>
+  <foreignObject x="565" y="415" width="445" height="32">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl-right" style="color:#FFFFFF; font-size:22px;"> هدف: صلح و ثبات</div>
+  </foreignObject>
+  <foreignObject x="565" y="450" width="445" height="32">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl-right" style="color:#FFFFFF; font-size:22px;"> خروج پس از تثبیت</div>
+  </foreignObject>
+  
+  <!-- Practice column (Left) -->
+  <rect x="60" y="175" width="465" height="360" rx="20" fill="#DC2626" fill-opacity="0.1" stroke="#DC2626" stroke-width="2"/>
+  <foreignObject x="60" y="190" width="465" height="42">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl" style="color:#F87171; font-size:30px; font-weight:bold;"> در عمل (واقعیت)</div>
+  </foreignObject>
+  <foreignObject x="70" y="240" width="445" height="32">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl-right" style="color:#FFFFFF; font-size:22px;"> قدرتها بدون مجوز هم عمل میکنند</div>
+  </foreignObject>
+  <foreignObject x="70" y="275" width="445" height="32">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl-right" style="color:#FFFFFF; font-size:22px;"> قدرتهای بزرگ مصون هستند</div>
+  </foreignObject>
+  <foreignObject x="70" y="310" width="445" height="32">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl-right" style="color:#FFFFFF; font-size:22px;"> حاکمیت ضعفا زیر سوال میرود</div>
+  </foreignObject>
+  <foreignObject x="70" y="345" width="445" height="32">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl-right" style="color:#FFFFFF; font-size:22px;"> R2P بهانهی تغییر رژیم میشود</div>
+  </foreignObject>
+  <foreignObject x="70" y="380" width="445" height="32">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl-right" style="color:#FFFFFF; font-size:22px;"> مداخلهگر منافع خود را دنبال میکند</div>
+  </foreignObject>
+  <foreignObject x="70" y="415" width="445" height="32">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl-right" style="color:#FFFFFF; font-size:22px;"> هدف: منافع استراتژیک</div>
+  </foreignObject>
+  <foreignObject x="70" y="450" width="445" height="32">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl-right" style="color:#FFFFFF; font-size:22px;"> ماندن طولانی یا ترک زودهنگام</div>
+  </foreignObject>
+  
+  <!-- VS symbol -->
+  <circle cx="540" cy="355" r="30" fill="#F9A825"/>
+  <foreignObject x="515" y="335" width="50" height="45">
+    <div xmlns="http://www.w3.org/1999/xhtml" style="color:#0D1117; font-size:22px; font-weight:bold; text-align:center; line-height:45px;">VS</div>
+  </foreignObject>
+  
+  <!-- Examples title -->
+  <foreignObject x="40" y="560" width="1000" height="40">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl" style="color:#F9A825; font-size:30px; font-weight:bold;"> نمونههای واضح:</div>
+  </foreignObject>
+  
+  <!-- Examples box -->
+  <rect x="60" y="610" width="960" height="200" rx="15" fill="#1A237E" fill-opacity="0.4"/>
+  
+  <foreignObject x="70" y="630" width="940" height="38">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl-right" style="color:#00D9FF; font-size:26px;"> عراق : بدون مجوز  هرجومرج  ساله</div>
+  </foreignObject>
+  <foreignObject x="70" y="675" width="940" height="38">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl-right" style="color:#EC4899; font-size:26px;"> لیبی : R2P  تغییر رژیم  فروپاشی کامل</div>
+  </foreignObject>
+  <foreignObject x="70" y="720" width="940" height="38">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl-right" style="color:#4ADE80; font-size:26px;"> سوریه: R2P اعمال نشد  نسلکشی ادامه یافت</div>
+  </foreignObject>
+  <foreignObject x="70" y="765" width="940" height="38">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl-right" style="color:#F9A825; font-size:26px;"> کریمه : روسیه همان کاری کرد که غرب میکرد</div>
+  </foreignObject>
+  
+  <!-- Conclusion -->
+  <rect x="150" y="840" width="780" height="110" rx="20" fill="none" stroke="#A855F7" stroke-width="3"/>
+  <foreignObject x="150" y="860" width="780" height="40">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl" style="color:#A855F7; font-size:28px; font-weight:bold;"> نتیجه:</div>
+  </foreignObject>
+  <foreignObject x="150" y="900" width="780" height="40">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl" style="color:#FFFFFF; font-size:26px;">حقوق بینالملل قانون است اما ضمانت اجرا ندارد.</div>
+  </foreignObject>
+  
+  <!-- Bottom note -->
+  <foreignObject x="40" y="980" width="1000" height="40">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl" style="color:#94A3B8; font-size:24px;">هر کشور قوی میتواند آن را نقض کند و محاکمه نشود.</div>
+  </foreignObject>
+  
+  <!-- Navigation -->
+  <foreignObject x="40" y="1050" width="1000" height="40">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl" style="color:#00D9FF; font-size:26px;">بعدی: پرسشهای حلنشده </div>
+  </foreignObject>
+  
+  <foreignObject x="40" y="1110" width="1000" height="40">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl" style="color:#64748B; font-size:22px;">@nations_salvation</div>
+  </foreignObject>
+  
+  <rect x="40" y="1306" width="1000" height="4" rx="2" fill="url(#titleGrad)"/>
+</svg>

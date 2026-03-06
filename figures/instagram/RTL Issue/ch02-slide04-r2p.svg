@@ -1,0 +1,81 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1350" width="1080" height="1350">
+  <style>
+    text { 
+      direction: rtl; 
+      unicode-bidi: bidi-override;
+    }
+    .rtl-text {
+      direction: rtl;
+      unicode-bidi: embed;
+      text-anchor: end;
+    }
+  </style>
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0D1117"/>
+      <stop offset="100%" style="stop-color:#161B22"/>
+    </linearGradient>
+    <linearGradient id="titleGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#00D9FF"/>
+      <stop offset="50%" style="stop-color:#A855F7"/>
+      <stop offset="100%" style="stop-color:#EC4899"/>
+    </linearGradient>
+  </defs>
+  
+  <rect width="1080" height="1350" fill="url(#bgGrad)"/>
+  
+  <!-- Header -->
+  <rect x="660" y="30" width="380" height="50" rx="25" fill="#1A237E"/>
+  <text x="850" y="65" font-family="Vazirmatn, Tahoma" font-size="28" fill="#FFFFFF" text-anchor="middle" direction="rtl">فصل ۲ • اسلاید ۴ از ۸</text>
+  
+  <!-- Title -->
+  <text x="540" y="150" font-family="Vazirmatn, Tahoma" font-size="52" font-weight="bold" fill="url(#titleGrad)" text-anchor="middle" direction="rtl">مسئولیت حمایت</text>
+  <text x="540" y="210" font-family="Vazirmatn, Tahoma" font-size="40" fill="#F9A825" text-anchor="middle" font-weight="bold">R2P</text>
+  <text x="540" y="260" font-family="Vazirmatn, Tahoma" font-size="26" fill="#94A3B8" text-anchor="middle" direction="rtl">اجلاس جهانی سازمان ملل ۲۰۰۵</text>
+  
+  <!-- Main concept -->
+  <rect x="60" y="300" width="960" height="150" rx="20" fill="#A855F7" fill-opacity="0.15" stroke="#A855F7" stroke-width="3"/>
+  <text x="540" y="360" font-family="Vazirmatn, Tahoma" font-size="30" fill="#C084FC" text-anchor="middle" direction="rtl" font-weight="bold">🛡️ ایده‌ی محوری:</text>
+  <text x="540" y="410" font-family="Vazirmatn, Tahoma" font-size="28" fill="#FFFFFF" text-anchor="middle" direction="rtl">حاکمیت یک «مسئولیت» است، نه فقط یک «حق».</text>
+  <text x="540" y="445" font-family="Vazirmatn, Tahoma" font-size="24" fill="#94A3B8" text-anchor="middle" direction="rtl">دولت‌ها باید از شهروندان خود محافظت کنند.</text>
+  
+  <!-- Three pillars of R2P -->
+  <text x="540" y="520" font-family="Vazirmatn, Tahoma" font-size="32" fill="#F9A825" text-anchor="middle" direction="rtl" font-weight="bold">سه ستون R2P:</text>
+  
+  <!-- Pillar 1 -->
+  <rect x="720" y="560" width="300" height="160" rx="15" fill="#22C55E" fill-opacity="0.15" stroke="#22C55E" stroke-width="2"/>
+  <text x="870" y="610" font-family="Vazirmatn, Tahoma" font-size="26" fill="#4ADE80" text-anchor="middle" direction="rtl" font-weight="bold">۱. مسئولیت دولت</text>
+  <text x="870" y="660" font-family="Vazirmatn, Tahoma" font-size="22" fill="#FFFFFF" text-anchor="middle" direction="rtl">حفاظت از جمعیت</text>
+  <text x="870" y="695" font-family="Vazirmatn, Tahoma" font-size="22" fill="#FFFFFF" text-anchor="middle" direction="rtl">در برابر جنایات فجیع</text>
+  
+  <!-- Pillar 2 -->
+  <rect x="390" y="560" width="300" height="160" rx="15" fill="#009EDB" fill-opacity="0.15" stroke="#009EDB" stroke-width="2"/>
+  <text x="540" y="610" font-family="Vazirmatn, Tahoma" font-size="26" fill="#4FC3F7" text-anchor="middle" direction="rtl" font-weight="bold">۲. کمک بین‌المللی</text>
+  <text x="540" y="660" font-family="Vazirmatn, Tahoma" font-size="22" fill="#FFFFFF" text-anchor="middle" direction="rtl">جامعه‌ی جهانی کمک</text>
+  <text x="540" y="695" font-family="Vazirmatn, Tahoma" font-size="22" fill="#FFFFFF" text-anchor="middle" direction="rtl">می‌کند (غیرنظامی)</text>
+  
+  <!-- Pillar 3 -->
+  <rect x="60" y="560" width="300" height="160" rx="15" fill="#DC2626" fill-opacity="0.15" stroke="#DC2626" stroke-width="2"/>
+  <text x="210" y="610" font-family="Vazirmatn, Tahoma" font-size="26" fill="#F87171" text-anchor="middle" direction="rtl" font-weight="bold">۳. مداخله‌ی قاطع</text>
+  <text x="210" y="660" font-family="Vazirmatn, Tahoma" font-size="22" fill="#FFFFFF" text-anchor="middle" direction="rtl">اگر دولت ناتوان یا</text>
+  <text x="210" y="695" font-family="Vazirmatn, Tahoma" font-size="22" fill="#FFFFFF" text-anchor="middle" direction="rtl">عامل جنایت باشد</text>
+  
+  <!-- Four crimes -->
+  <rect x="80" y="750" width="920" height="140" rx="15" fill="#1A237E" stroke="#F9A825" stroke-width="2"/>
+  <text x="540" y="800" font-family="Vazirmatn, Tahoma" font-size="28" fill="#F9A825" text-anchor="middle" direction="rtl" font-weight="bold">چهار جنایت مشمول R2P:</text>
+  <text x="540" y="860" font-family="Vazirmatn, Tahoma" font-size="30" fill="#FFFFFF" text-anchor="middle" direction="rtl">نسل‌کشی • جنایات جنگی • پاک‌سازی قومی • جنایات علیه بشریت</text>
+  
+  <!-- Criticism box -->
+  <rect x="60" y="920" width="960" height="200" rx="20" fill="#DC2626" fill-opacity="0.1" stroke="#DC2626" stroke-width="2"/>
+  <text x="540" y="970" font-family="Vazirmatn, Tahoma" font-size="30" fill="#DC2626" text-anchor="middle" direction="rtl" font-weight="bold">⚠️ نقدهای اصلی:</text>
+  <text x="920" y="1020" font-family="Vazirmatn, Tahoma" font-size="26" fill="#FFFFFF" text-anchor="end" direction="rtl">• استفاده‌ی گزینشی (لیبی ۲۰۱۱ بله، سوریه نه)</text>
+  <text x="920" y="1065" font-family="Vazirmatn, Tahoma" font-size="26" fill="#FFFFFF" text-anchor="end" direction="rtl">• ابزاری برای مشروعیت‌بخشی به تغییر رژیم</text>
+  <text x="920" y="1110" font-family="Vazirmatn, Tahoma" font-size="26" fill="#FFFFFF" text-anchor="end" direction="rtl">• قدرت‌های بزرگ خود مشمول نمی‌شوند</text>
+  
+  <!-- Quote -->
+  <text x="540" y="1180" font-family="Vazirmatn, Tahoma" font-size="24" fill="#A855F7" text-anchor="middle" direction="rtl" font-style="italic">«R2P در لیبی به کار رفت و لیبی به جهنم تبدیل شد.»</text>
+  
+  <text x="540" y="1270" font-family="Vazirmatn, Tahoma" font-size="26" fill="#00D9FF" text-anchor="middle" direction="rtl">بعدی: دکترین‌های توجیه‌گر ←</text>
+  
+  <rect x="40" y="1306" width="1000" height="4" rx="2" fill="url(#titleGrad)"/>
+</svg>

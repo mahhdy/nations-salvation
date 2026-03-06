@@ -1,0 +1,70 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1350" width="1080" height="1350">
+  <style>
+    text { 
+      direction: rtl; 
+      unicode-bidi: bidi-override;
+    }
+    .rtl-text {
+      direction: rtl;
+      unicode-bidi: embed;
+      text-anchor: end;
+    }
+  </style>
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0D1117"/>
+      <stop offset="100%" style="stop-color:#161B22"/>
+    </linearGradient>
+    <linearGradient id="titleGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#00D9FF"/>
+      <stop offset="50%" style="stop-color:#A855F7"/>
+      <stop offset="100%" style="stop-color:#EC4899"/>
+    </linearGradient>
+  </defs>
+  
+  <rect width="1080" height="1350" fill="url(#bgGrad)"/>
+  
+  <!-- Header -->
+  <rect x="660" y="30" width="380" height="50" rx="25" fill="#F9A825"/>
+  <text x="850" y="65" font-family="Vazirmatn, Tahoma" font-size="28" fill="#0D1117" text-anchor="middle" direction="rtl" font-weight="bold">فصل ۲ • خلاصه</text>
+  
+  <!-- Title -->
+  <text x="540" y="150" font-family="Vazirmatn, Tahoma" font-size="52" font-weight="bold" fill="url(#titleGrad)" text-anchor="middle" direction="rtl">📋 خلاصه‌ی فصل ۲</text>
+  
+  <!-- Key points -->
+  <rect x="60" y="200" width="960" height="600" rx="20" fill="#1A237E" fill-opacity="0.3" stroke="#1A237E" stroke-width="2"/>
+  
+  <text x="920" y="260" font-family="Vazirmatn, Tahoma" font-size="28" fill="#00D9FF" text-anchor="end" direction="rtl" font-weight="bold">✓ اصل وستفالیایی:</text>
+  <text x="920" y="300" font-family="Vazirmatn, Tahoma" font-size="24" fill="#FFFFFF" text-anchor="end" direction="rtl">حاکمیت ملی بنیان نظام بین‌الملل است.</text>
+  
+  <text x="920" y="370" font-family="Vazirmatn, Tahoma" font-size="28" fill="#4ADE80" text-anchor="end" direction="rtl" font-weight="bold">✓ منشور ملل متحد:</text>
+  <text x="920" y="410" font-family="Vazirmatn, Tahoma" font-size="24" fill="#FFFFFF" text-anchor="end" direction="rtl">ممنوعیت زور، اما با استثناهایی.</text>
+  
+  <text x="920" y="480" font-family="Vazirmatn, Tahoma" font-size="28" fill="#F9A825" text-anchor="end" direction="rtl" font-weight="bold">✓ R2P:</text>
+  <text x="920" y="520" font-family="Vazirmatn, Tahoma" font-size="24" fill="#FFFFFF" text-anchor="end" direction="rtl">ایده‌ی جذاب، اجرای مشکل‌دار.</text>
+  
+  <text x="920" y="590" font-family="Vazirmatn, Tahoma" font-size="28" fill="#C084FC" text-anchor="end" direction="rtl" font-weight="bold">✓ دکترین‌ها:</text>
+  <text x="920" y="630" font-family="Vazirmatn, Tahoma" font-size="24" fill="#FFFFFF" text-anchor="end" direction="rtl">هر قدرت توجیهی برای مداخله‌ی خود دارد.</text>
+  
+  <text x="920" y="700" font-family="Vazirmatn, Tahoma" font-size="28" fill="#F87171" text-anchor="end" direction="rtl" font-weight="bold">✓ واقعیت:</text>
+  <text x="920" y="740" font-family="Vazirmatn, Tahoma" font-size="24" fill="#FFFFFF" text-anchor="end" direction="rtl">قانون بدون ضمانت اجرا = ابزار قدرت.</text>
+  
+  <!-- Key takeaway -->
+  <rect x="100" y="830" width="880" height="130" rx="20" fill="none" stroke="#EC4899" stroke-width="3"/>
+  <text x="540" y="885" font-family="Vazirmatn, Tahoma" font-size="30" fill="#EC4899" text-anchor="middle" direction="rtl" font-weight="bold">💡 درس اصلی:</text>
+  <text x="540" y="935" font-family="Vazirmatn, Tahoma" font-size="26" fill="#FFFFFF" text-anchor="middle" direction="rtl">قبل از درخواست مداخله، بدانید قانون از شما حمایت نمی‌کند.</text>
+  
+  <!-- Next chapter preview -->
+  <rect x="100" y="990" width="880" height="160" rx="20" fill="#22C55E" fill-opacity="0.15" stroke="#22C55E" stroke-width="2"/>
+  <text x="540" y="1045" font-family="Vazirmatn, Tahoma" font-size="32" fill="#4ADE80" text-anchor="middle" direction="rtl" font-weight="bold">📖 فصل بعدی:</text>
+  <text x="540" y="1095" font-family="Vazirmatn, Tahoma" font-size="28" fill="#FFFFFF" text-anchor="middle" direction="rtl">مدل‌های تحلیلی</text>
+  <text x="540" y="1135" font-family="Vazirmatn, Tahoma" font-size="24" fill="#94A3B8" text-anchor="middle" direction="rtl">چگونه مداخله را علمی تحلیل کنیم؟</text>
+  
+  <!-- CTA -->
+  <rect x="300" y="1180" width="480" height="70" rx="35" fill="url(#titleGrad)"/>
+  <text x="540" y="1227" font-family="Vazirmatn, Tahoma" font-size="30" fill="#0D1117" text-anchor="middle" direction="rtl" font-weight="bold">ذخیره کنید 🔖 | ادامه ←</text>
+  
+  <text x="540" y="1280" font-family="Vazirmatn, Tahoma" font-size="22" fill="#94A3B8" text-anchor="middle" direction="rtl">@nations_salvation | لینک کتاب در بیو</text>
+  
+  <rect x="40" y="1306" width="1000" height="4" rx="2" fill="url(#titleGrad)"/>
+</svg>

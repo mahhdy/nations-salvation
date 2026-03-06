@@ -1,0 +1,105 @@
+﻿<svg width="1080" height="1350" viewBox="0 0 1080 1350"
+     xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      :root{
+        direction:rtl;
+        font-family:"Vazirmatn","Shabnam","Sahel","IRANSansX","Segoe UI",sans-serif;
+      }
+      .bg{fill:#050816;}
+      .title{font-size:48px;font-weight:900;color:#FFFFFF;}
+      .subtitle{font-size:26px;color:#CFD8DC;}
+      .center{fill:#1A237E;stroke:#F9A825;stroke-width:2.2;rx:80;ry:80;}
+      .center-text{font-size:30px;color:#FFFFFF;font-weight:700;}
+      .pill{rx:26;ry:26;stroke-width:1.5;}
+      .p1{fill:#102027;stroke:#26A69A;}
+      .p2{fill:#1B5E20;stroke:#66BB6A;}
+      .p3{fill:#212121;stroke:#FFB300;}
+      .p4{fill:#311B92;stroke:#7E57C2;}
+      .p5{fill:#4A148C;stroke:#BA68C8;}
+      .p6{fill:#BF360C;stroke:#FF7043;}
+      .pill-text{font-size:24px;color:#ECEFF1;line-height:1.6;}
+      .footer{font-size:24px;color:#90A4AE;}
+    </style>
+  </defs>
+
+  <rect class="bg" width="1080" height="1350"/>
+
+  <foreignObject x="80" y="80" width="920" height="120">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl" style="text-align:right;">
+      <div class="title">مدل شش‌وجهی نجات‌طلبی</div>
+      <div class="subtitle" style="margin-top:8px;">
+        هر مداخله‌ی خارجی باید از این ۶ زاویه تحلیل شود؛ وگرنه تحلیل‌مان ناقص است.
+      </div>
+    </div>
+  </foreignObject>
+
+  <!-- Center node -->
+  <rect class="center" x="230" y="260" width="650" height="170"/>
+  <foreignObject x="280" y="290" width="550" height="170">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl"
+         style="text-align:center;">
+      <div class="center-text">مداخله‌ی خارجی</div>
+      <div style="font-size:24px;color:#CFD8DC;margin-top:10px;">
+        پرسش: این «نجات» به کدام سمت طیف A یا F می‌رود؟
+      </div>
+    </div>
+  </foreignObject>
+
+  <!-- Pills around -->
+  <rect class="pill p1" x="80" y="480" width="420" height="150"/>
+  <foreignObject x="100" y="495" width="380" height="110">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl" class="pill-text">
+      <strong>۱. ساختاری-سیاسی</strong><br/>
+      ماهیت رژیم، بحران مشروعیت، انسجام نخبگان
+    </div>
+  </foreignObject>
+
+  <rect class="pill p2" x="580" y="480" width="420" height="150"/>
+  <foreignObject x="600" y="495" width="380" height="110">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl" class="pill-text">
+     <strong> ۲. حقوقی-هنجاری</strong><br/>
+      مجوز بینالمللی، مشروعیت اخلاقی، دعوت یا تحمیل؟
+    </div>
+  </foreignObject>
+
+  <rect class="pill p3" x="80" y="670" width="420" height="150"/>
+  <foreignObject x="100" y="685" width="380" height="110">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl" class="pill-text">
+      <strong>۳. اقتصادی</strong><br/>
+      منابع طبیعی، وابستگی، هزینه‌ی بازسازی، رانت
+    </div>
+  </foreignObject>
+
+  <rect class="pill p4" x="580" y="670" width="420" height="150"/>
+  <foreignObject x="600" y="685" width="380" height="110">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl" class="pill-text">
+      <strong>۴. نظامی-امنیتی</strong><br/>
+      توازن قوا، گروههای مسلح، جنگ نیابتی، تروریسم
+    </div>
+  </foreignObject>
+
+  <rect class="pill p5" x="80" y="860" width="420" height="150"/>
+  <foreignObject x="100" y="875" width="380" height="110">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl" class="pill-text">
+      <strong>۵. روانشناختی-فرهنگی</strong><br/>
+      ناامیدی آموختهشده، هویت قربانی، تروماهای جمعی
+    </div>
+  </foreignObject>
+
+  <rect class="pill p6" x="580" y="860" width="420" height="150"/>
+  <foreignObject x="600" y="875" width="380" height="110">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl" class="pill-text">
+      <strong>۶. ژئوپولیتیک</strong><br/>
+      رقابت قدرت‌ها، موقعیت استراتژیک، اتحادها
+    </div>
+  </foreignObject>
+
+  <foreignObject x="80" y="1180" width="920" height="70">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl" class="footer"
+         style="display:flex;justify-content:space-between;align-items:center;">
+      <span>قانون طلایی کتاب: تحلیل تک‌بعدی = تصمیم اشتباه</span>
+      <span>اسلاید ۳ از ۱۰</span>
+    </div>
+  </foreignObject>
+</svg>

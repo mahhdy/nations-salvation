@@ -1,0 +1,127 @@
+﻿<svg width="1080" height="1350" viewBox="0 0 1080 1350" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      :root { direction:rtl; font-family:"Vazirmatn","Segoe UI",Tahoma,sans-serif; }
+      .bg { fill:#080410; }
+      .header-bar { fill:#1A237E; }
+      .accent { fill:#F9A825; }
+      .card { fill:#100e1c; stroke:#283593; stroke-width:1.4; rx:28; ry:28; }
+      .road-card { fill:#0a1610; stroke:#2E7D32; stroke-width:2; rx:24; ry:24; }
+      .shadow { filter:drop-shadow(0px 16px 36px rgba(0,0,0,0.45)); }
+      .title { font-size:46px; font-weight:800; color:#FFFFFF; }
+      .card-title { font-size:30px; font-weight:700; color:#FFFFFF; }
+      .card-text { font-size:25px; line-height:1.7; color:#ECEFF1; }
+      .gold { color:#F9A825; font-weight:700; }
+      .green { color:#69F0AE; font-weight:700; }
+      .red { color:#EF5350; font-weight:700; }
+      .num { font-size:52px; font-weight:900; color:#2E7D32; }
+      .footer { font-size:24px; color:#78909C; }
+    </style>
+  </defs>
+
+  <rect class="bg" x="0" y="0" width="1080" height="1350"/>
+
+  <rect class="header-bar" x="60" y="60" width="960" height="90" rx="22"/>
+  <rect class="accent" x="80" y="82" width="10" height="46" rx="5"/>
+  <foreignObject x="110" y="70" width="900" height="80">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl"
+         style="display:flex;justify-content:space-between;align-items:center;color:#FFF;font-size:28px;font-weight:600;">
+      <span>نقشه‌ی راه</span>
+      <span style="opacity:0.8;">فصل ۱۴ • جمع‌بندی نهایی</span>
+    </div>
+  </foreignObject>
+
+  <foreignObject x="80" y="175" width="920" height="100">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl" style="text-align:right;">
+      <div class="title">🗺️ پنج قدم از <span class="red">نجات‌طلبی</span> به <span class="green">خودسازی</span></div>
+    </div>
+  </foreignObject>
+
+  <!-- Step 1 -->
+  <rect class="road-card shadow" x="80" y="280" width="920" height="170"/>
+  <foreignObject x="100" y="295" width="880" height="140">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl"
+         style="display:flex;align-items:flex-start;gap:20px;text-align:right;">
+      <div class="num">۱</div>
+      <div>
+        <div class="card-title"><span class="green">بازسازی عاملیت جمعی</span></div>
+        <div class="card-text" style="margin-top:8px;">
+          باور به اینکه «ما می‌توانیم» باید جایگزین «ما نمی‌توانیم» شود.
+          این کار با آموزش تاریخ واقعی، نه تاریخِ قربانی‌محور، شروع می‌شود.
+        </div>
+      </div>
+    </div>
+  </foreignObject>
+
+  <!-- Step 2 -->
+  <rect class="road-card shadow" x="80" y="475" width="920" height="170"/>
+  <foreignObject x="100" y="490" width="880" height="140">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl"
+         style="display:flex;align-items:flex-start;gap:20px;text-align:right;">
+      <div class="num">۲</div>
+      <div>
+        <div class="card-title"><span class="green">تفکر انتقادی و سواد رسانه‌ای</span></div>
+        <div class="card-text" style="margin-top:8px;">
+          تشخیص «اطلاع‌رسانی» از «عملیات نفوذ»، «تحلیل» از «تبلیغ»
+          و «واقعیت» از «دیپ‌فیک». مهم‌ترین مهارتِ قرن ۲۱.
+        </div>
+      </div>
+    </div>
+  </foreignObject>
+
+  <!-- Step 3 -->
+  <rect class="road-card shadow" x="80" y="670" width="920" height="170"/>
+  <foreignObject x="100" y="685" width="880" height="140">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl"
+         style="display:flex;align-items:flex-start;gap:20px;text-align:right;">
+      <div class="num">۳</div>
+      <div>
+        <div class="card-title"><span class="green">استقلال اقتصادی و تنوع تولید</span></div>
+        <div class="card-text" style="margin-top:8px;">
+          اقتصاد تک‌محصولی = آسیب‌پذیری. تنوع صنعتی، تجارت منطقه‌ای
+          و کاهش وابستگی به واردات مواد غذایی و فناوری.
+        </div>
+      </div>
+    </div>
+  </foreignObject>
+
+  <!-- Step 4 -->
+  <rect class="road-card shadow" x="80" y="865" width="920" height="170"/>
+  <foreignObject x="100" y="880" width="880" height="140">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl"
+         style="display:flex;align-items:flex-start;gap:20px;text-align:right;">
+      <div class="num">۴</div>
+      <div>
+        <div class="card-title"><span class="green">نهادسازی مستقل</span></div>
+        <div class="card-text" style="margin-top:8px;">
+          دانشگاه‌های مستقل، قوه‌ی قضاییه‌ی غیرسیاسی، رسانه‌های آزاد
+          و جامعه‌ی مدنیِ بدون بودجه‌ی خارجی. نهاد = سنگر دموکراسی.
+        </div>
+      </div>
+    </div>
+  </foreignObject>
+
+  <!-- Step 5 -->
+  <rect class="road-card shadow" x="80" y="1060" width="920" height="170"/>
+  <foreignObject x="100" y="1075" width="880" height="140">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl"
+         style="display:flex;align-items:flex-start;gap:20px;text-align:right;">
+      <div class="num">۵</div>
+      <div>
+        <div class="card-title"><span class="green">گفتگوی ملی و توافق حداقلی نخبگان</span></div>
+        <div class="card-text" style="margin-top:8px;">
+          بدون حداقل توافق بین نیروهای سیاسی بر سر «قواعد بازی»،
+          هر تغییری فقط جابجایی قدرت است نه دموکراسی.
+        </div>
+      </div>
+    </div>
+  </foreignObject>
+
+  <foreignObject x="80" y="1270" width="920" height="60">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl" class="footer"
+         style="display:flex;justify-content:space-between;align-items:center;">
+      <span>nations_salvation@ • لینک مطالعه در بیو</span>
+      <span>اسلاید ۴ از ۵</span>
+    </div>
+  </foreignObject>
+</svg>

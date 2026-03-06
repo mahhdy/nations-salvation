@@ -1,0 +1,107 @@
+﻿<svg width="1080" height="1350" viewBox="0 0 1080 1350" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      :root { direction:rtl; font-family:"Vazirmatn","Segoe UI",Tahoma,sans-serif; }
+      .bg { fill:#0c0812; }
+      .header-bar { fill:#1A237E; }
+      .accent { fill:#F9A825; }
+      .card { fill:#12101e; stroke:#311B92; stroke-width:1.4; rx:28; ry:28; }
+      .flag-card { fill:#0d1020; stroke:#1565C0; stroke-width:2; rx:24; ry:24; }
+      .shadow { filter:drop-shadow(0px 16px 36px rgba(0,0,0,0.45)); }
+      .title { font-size:44px; font-weight:800; color:#FFFFFF; }
+      .subtitle { font-size:26px; color:#CFD8DC; line-height:1.6; }
+      .card-title { font-size:30px; font-weight:700; color:#FFFFFF; }
+      .card-text { font-size:25px; line-height:1.7; color:#ECEFF1; }
+      .gold { color:#F9A825; font-weight:700; }
+      .blue { color:#64B5F6; font-weight:700; }
+      .red { color:#EF5350; font-weight:700; }
+      .stat { font-size:50px; font-weight:900; color:#1565C0; }
+      .footer { font-size:24px; color:#78909C; }
+    </style>
+  </defs>
+
+  <rect class="bg" x="0" y="0" width="1080" height="1350"/>
+
+  <rect class="header-bar" x="60" y="60" width="960" height="90" rx="22"/>
+  <rect class="accent" x="80" y="82" width="10" height="46" rx="5"/>
+  <foreignObject x="110" y="70" width="900" height="80">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl"
+         style="display:flex;justify-content:space-between;align-items:center;color:#FFF;font-size:28px;font-weight:600;">
+      <span>دموکراسی‌سازی آمریکایی</span>
+      <span style="opacity:0.8;">فصل ۱۳ • میسیونری و ایدئولوژی</span>
+    </div>
+  </foreignObject>
+
+  <foreignObject x="80" y="180" width="920" height="130">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl" style="text-align:right;">
+      <div class="title">🗽 وقتی <span class="blue">«دموکراسی»</span> ابزار سیاست خارجی می‌شود</div>
+      <div class="subtitle" style="margin-top:14px;">
+        NED، USAID، رسانه‌های فارسی‌زبان و NGOها: آیا هدف واقعاً
+        <span class="gold">دموکراسی</span> است یا <span class="gold">تغییر رژیم</span>؟
+      </div>
+    </div>
+  </foreignObject>
+
+  <!-- Main card -->
+  <rect class="card shadow" x="80" y="320" width="920" height="440"/>
+  <foreignObject x="100" y="340" width="880" height="400">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl" style="text-align:right;">
+      <div class="card-title">ابزارهای «نجاتِ دموکراتیک»</div>
+      <div class="card-text" style="margin-top:18px;">
+        • <span class="blue">NED</span> (بنیاد ملی دموکراسی): تأسیس ۱۹۸۳، بودجه‌ی سالانه
+        بیش از <span class="gold">۳۰۰ میلیون دلار</span>. مؤسس آن گفت:
+        «کاری می‌کنیم که CIA مخفیانه انجام می‌داد.»<br/><br/>
+        • <span class="blue">USAID</span>: توسعه‌ی بین‌المللی با شرط «اصلاحات دموکراتیک».
+        در عمل، حمایت از نیروهای هم‌سو با منافع آمریکا.<br/><br/>
+        • <span class="blue">رسانه‌های فارسی‌زبان</span>: صدای آمریکا، رادیو فردا، ایران اینترنشنال…
+        آیا اطلاع‌رسانی‌اند یا ابزار نفوذ؟<br/><br/>
+        • <span class="blue">NGOها</span>: سازمان‌های مدنی که بودجه‌شان را از دولت‌های خارجی
+        می‌گیرند. مرز «جامعه‌ی مدنی» و «عملیات نفوذ» کجاست؟
+      </div>
+    </div>
+  </foreignObject>
+
+  <!-- Stat cards -->
+  <rect class="flag-card shadow" x="80" y="790" width="440" height="200"/>
+  <foreignObject x="100" y="810" width="400" height="160">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl" style="text-align:center;">
+      <div class="stat">+</div>
+      <div class="card-text" style="margin-top:10px;">
+        بودجه‌ی سالانه‌ی NED برای «ترویج دموکراسی»
+        در بیش از <span class="gold">۱۰۰ کشور</span>
+      </div>
+    </div>
+  </foreignObject>
+
+  <rect class="flag-card shadow" x="560" y="790" width="440" height="200"/>
+  <foreignObject x="580" y="810" width="400" height="160">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl" style="text-align:center;">
+      <div class="stat">۲۸ کشور</div>
+      <div class="card-text" style="margin-top:10px;">
+        تعداد کشورهایی که آمریکا از ۱۹۴۵ تاکنون
+        مستقیماً در تغییر رژیمشان <span class="red">دخالت کرده</span>
+      </div>
+    </div>
+  </foreignObject>
+
+  <!-- Bottom insight -->
+  <rect class="card shadow" x="80" y="1025" width="920" height="180"/>
+  <foreignObject x="100" y="1045" width="880" height="140">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl" style="text-align:center;">
+      <div style="font-size:30px;color:#64B5F6;font-weight:800;">🔑 نکته‌ی کلیدی</div>
+      <div class="card-text" style="margin-top:12px;">
+        فصل ۱۳ نمی‌گوید دموکراسی بد است؛ می‌گوید وقتی
+        <span class="gold">دموکراسی‌سازی ابزار سیاست خارجی</span> شود،
+        نتیجه‌اش دموکراسی نیست بلکه <span class="red">وابستگی</span> است.
+      </div>
+    </div>
+  </foreignObject>
+
+  <foreignObject x="80" y="1260" width="920" height="60">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl" class="footer"
+         style="display:flex;justify-content:space-between;align-items:center;">
+      <span>nations_salvation@ • لینک مطالعه در بیو</span>
+      <span>اسلاید ۳ از ۵</span>
+    </div>
+  </foreignObject>
+</svg>

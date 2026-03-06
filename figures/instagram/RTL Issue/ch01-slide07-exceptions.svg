@@ -1,0 +1,82 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1350" width="1080" height="1350">
+  <style>
+    text { 
+      direction: rtl; 
+      unicode-bidi: bidi-override;
+    }
+    .rtl-text {
+      direction: rtl;
+      unicode-bidi: embed;
+      text-anchor: end;
+    }
+  </style>
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0D1117"/>
+      <stop offset="100%" style="stop-color:#161B22"/>
+    </linearGradient>
+    <linearGradient id="titleGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#00D9FF"/>
+      <stop offset="50%" style="stop-color:#A855F7"/>
+      <stop offset="100%" style="stop-color:#EC4899"/>
+    </linearGradient>
+    <linearGradient id="greenGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#22C55E"/>
+      <stop offset="100%" style="stop-color:#4ADE80"/>
+    </linearGradient>
+  </defs>
+  
+  <rect width="1080" height="1350" fill="url(#bgGrad)"/>
+  
+  <!-- Header -->
+  <rect x="660" y="30" width="380" height="50" rx="25" fill="#22C55E"/>
+  <text x="850" y="65" font-family="Vazirmatn, Tahoma" font-size="28" fill="#FFFFFF" text-anchor="middle" direction="rtl">✓ استثناها</text>
+  
+  <!-- Title -->
+  <text x="540" y="150" font-family="Vazirmatn, Tahoma" font-size="52" font-weight="bold" fill="url(#greenGrad)" text-anchor="middle" direction="rtl">اما استثناهایی هم هست!</text>
+  <text x="540" y="200" font-family="Vazirmatn, Tahoma" font-size="28" fill="#94A3B8" text-anchor="middle" direction="rtl">موارد موفق و شرایط آن‌ها</text>
+  
+  <!-- Success Case 1 -->
+  <rect x="60" y="250" width="960" height="180" rx="20" fill="#22C55E" fill-opacity="0.1" stroke="#22C55E" stroke-width="2"/>
+  <circle cx="970" cy="290" r="30" fill="#22C55E"/>
+  <text x="970" y="300" font-family="Vazirmatn, Tahoma" font-size="28" fill="#FFFFFF" text-anchor="middle" font-weight="bold">A</text>
+  <text x="920" y="295" font-family="Vazirmatn, Tahoma" font-size="36" fill="#22C55E" text-anchor="end" direction="rtl" font-weight="bold">🇩🇪 آلمان و ژاپن پس از ۱۹۴۵</text>
+  <text x="920" y="350" font-family="Vazirmatn, Tahoma" font-size="26" fill="#FFFFFF" text-anchor="end" direction="rtl">شکست کامل نظامی + اشغال طولانی‌مدت +</text>
+  <text x="920" y="390" font-family="Vazirmatn, Tahoma" font-size="26" fill="#FFFFFF" text-anchor="end" direction="rtl">سرمایه‌گذاری عظیم (طرح مارشال) + جنگ سرد</text>
+  <text x="920" y="420" font-family="Vazirmatn, Tahoma" font-size="22" fill="#94A3B8" text-anchor="end" direction="rtl">شرایط کاملاً استثنایی و غیرقابل تکرار</text>
+  
+  <!-- Success Case 2 -->
+  <rect x="60" y="450" width="960" height="150" rx="20" fill="#84CC16" fill-opacity="0.1" stroke="#84CC16" stroke-width="2"/>
+  <circle cx="970" cy="490" r="30" fill="#84CC16"/>
+  <text x="970" y="500" font-family="Vazirmatn, Tahoma" font-size="28" fill="#FFFFFF" text-anchor="middle" font-weight="bold">B</text>
+  <text x="920" y="495" font-family="Vazirmatn, Tahoma" font-size="36" fill="#84CC16" text-anchor="end" direction="rtl" font-weight="bold">🇰🇷 کره جنوبی</text>
+  <text x="920" y="545" font-family="Vazirmatn, Tahoma" font-size="26" fill="#FFFFFF" text-anchor="end" direction="rtl">حمایت آمریکا + تهدید شمال + رشد اقتصادی درون‌زا</text>
+  <text x="920" y="585" font-family="Vazirmatn, Tahoma" font-size="22" fill="#94A3B8" text-anchor="end" direction="rtl">دموکراسی پس از ۴۰ سال دیکتاتوری نظامی</text>
+  
+  <!-- Success Case 3 -->
+  <rect x="60" y="620" width="960" height="150" rx="20" fill="#4ADE80" fill-opacity="0.1" stroke="#4ADE80" stroke-width="2"/>
+  <circle cx="970" cy="660" r="30" fill="#4ADE80"/>
+  <text x="970" y="670" font-family="Vazirmatn, Tahoma" font-size="28" fill="#0D1117" text-anchor="middle" font-weight="bold">B</text>
+  <text x="920" y="665" font-family="Vazirmatn, Tahoma" font-size="36" fill="#4ADE80" text-anchor="end" direction="rtl" font-weight="bold">🇹🇼 تایوان</text>
+  <text x="920" y="715" font-family="Vazirmatn, Tahoma" font-size="26" fill="#FFFFFF" text-anchor="end" direction="rtl">حمایت نظامی + رقابت با چین + توسعه‌ی صنعتی</text>
+  <text x="920" y="755" font-family="Vazirmatn, Tahoma" font-size="22" fill="#94A3B8" text-anchor="end" direction="rtl">گذار به دموکراسی در دهه‌ی ۱۹۸۰</text>
+  
+  <!-- Key conditions box -->
+  <rect x="60" y="800" width="960" height="280" rx="20" fill="#1A237E" stroke="#F9A825" stroke-width="3"/>
+  <text x="540" y="850" font-family="Vazirmatn, Tahoma" font-size="36" fill="#F9A825" text-anchor="middle" direction="rtl" font-weight="bold">🔑 شرایط مشترک موفقیت:</text>
+  
+  <text x="920" y="910" font-family="Vazirmatn, Tahoma" font-size="28" fill="#FFFFFF" text-anchor="end" direction="rtl">✓ تعهد بلندمدت مداخله‌گر (نه فقط تغییر رژیم)</text>
+  <text x="920" y="955" font-family="Vazirmatn, Tahoma" font-size="28" fill="#FFFFFF" text-anchor="end" direction="rtl">✓ سرمایه‌گذاری اقتصادی عظیم</text>
+  <text x="920" y="1000" font-family="Vazirmatn, Tahoma" font-size="28" fill="#FFFFFF" text-anchor="end" direction="rtl">✓ تهدید خارجی مشترک (جنگ سرد)</text>
+  <text x="920" y="1045" font-family="Vazirmatn, Tahoma" font-size="28" fill="#FFFFFF" text-anchor="end" direction="rtl">✓ زیرساخت انسانی و صنعتی از قبل</text>
+  
+  <!-- Warning -->
+  <rect x="100" y="1110" width="880" height="100" rx="15" fill="#DC2626" fill-opacity="0.1" stroke="#DC2626" stroke-width="2"/>
+  <text x="540" y="1155" font-family="Vazirmatn, Tahoma" font-size="28" fill="#DC2626" text-anchor="middle" direction="rtl" font-weight="bold">⚠️ هشدار:</text>
+  <text x="540" y="1195" font-family="Vazirmatn, Tahoma" font-size="26" fill="#FFFFFF" text-anchor="middle" direction="rtl">این شرایط در هیچ‌کدام از مداخلات پس از ۱۹۹۰ وجود نداشته است.</text>
+  
+  <!-- Navigation -->
+  <text x="540" y="1270" font-family="Vazirmatn, Tahoma" font-size="26" fill="#00D9FF" text-anchor="middle" direction="rtl">بعدی: ساختار کتاب ←</text>
+  
+  <rect x="40" y="1306" width="1000" height="4" rx="2" fill="url(#titleGrad)"/>
+</svg>

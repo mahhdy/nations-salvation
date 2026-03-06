@@ -1,0 +1,82 @@
+﻿<svg width="1080" height="1350" viewBox="0 0 1080 1350"
+     xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      :root{
+        direction:rtl;
+        font-family:"Vazirmatn","Shabnam","Sahel","IRANSansX","Segoe UI",sans-serif;
+      }
+      .bg{fill:#031015;}
+      .header{font-size:44px;font-weight:900;color:#FFFFFF;}
+      .sub{font-size:26px;color:#CFD8DC;}
+      .stat-card{fill:#061a20;stroke:#00897B;stroke-width:1.8;rx:28;ry:28;}
+      .shadow{filter:drop-shadow(0 18px 44px rgba(0,0,0,0.55));}
+      .stat{font-size:52px;font-weight:900;color:#4DB6AC;}
+      .label{font-size:28px;color:#ECEFF1;line-height:1.7;}
+      .footer{font-size:24px;color:#90A4AE;}
+    </style>
+  </defs>
+
+  <rect class="bg" width="1080" height="1350"/>
+
+  <foreignObject x="80" y="80" width="920" height="120">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl">
+      <div class="header">اقتصاد نجات‌طلبی: عددها دروغ نمی‌گویند</div>
+      <div class="sub" style="margin-top:10px;">
+        فصل ۱۲ نشان می‌دهد هزینه‌ی «نجات» برای ملت‌ها چقدر سنگین است.
+      </div>
+    </div>
+  </foreignObject>
+
+  <rect class="stat-card shadow" x="80" y="230" width="920" height="260"/>
+  <foreignObject x="110" y="250" width="860" height="220">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl"
+         style="display:flex;justify-content:space-between;align-items:center;">
+      <div style="text-align:center;width:33%;">
+        <div class="stat">۲.۴T$</div>
+        <div class="label">هزینه‌ی مستقیم جنگ عراق برای آمریکا</div>
+      </div>
+      <div style="text-align:center;width:33%;">
+        <div class="stat">۲.۳T$</div>
+        <div class="label">هزینه‌ی جنگ افغانستان</div>
+      </div>
+      <div style="text-align:center;width:33%;">
+        <div class="stat">۵۰۰B$</div>
+        <div class="label">برآورد خسارت زیرساختی سوریه</div>
+      </div>
+    </div>
+  </foreignObject>
+
+  <rect class="stat-card shadow" x="80" y="530" width="920" height="380"/>
+  <foreignObject x="110" y="550" width="860" height="360">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl" style="text-align:right;">
+      <div class="label">
+        با بخشی از این پول‌ها می‌شد:<br/>
+        • کل آفریقا را برق‌رسانی کرد.<br/>
+        • آب آشامیدنی سالم برای همه‌ی انسان‌ها فراهم کرد.<br/>
+        • واکسیناسیون جهانی علیه ده‌ها بیماری را تکمیل کرد.<br/><br/>
+        اما در عوض، جهان چه گرفت؟<br/>
+        <b style="color:#EF5350;">دولت‌های شکست‌خورده، موج پناهجویان، ناامنی منطقه‌ای.</b>
+      </div>
+    </div>
+  </foreignObject>
+
+  <rect class="stat-card shadow" x="80" y="940" width="920" height="130"/>
+  <foreignObject x="110" y="960" width="860" height="190">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl" style="text-align:center;">
+      <div class="label" style="font-size:28px;">
+        وقتی کسی می‌گوید «برای نجات شما می‌آییم»،
+        یک سؤال ساده بپرسید:<br/>
+        <span style="color:#F9A825;font-weight:700;">چه کسی هزینه را می‌دهد و چه کسی سود را می‌برد؟</span>
+      </div>
+    </div>
+  </foreignObject>
+
+  <foreignObject x="80" y="1180" width="920" height="70">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl" class="footer"
+         style="display:flex;justify-content:space-between;align-items:center;">
+      <span>فصل ۱۲: نظریه‌ی وابستگی، نفرین منابع، اقتصاد بازسازی</span>
+      <span>اسلاید ۷ از ۱۰</span>
+    </div>
+  </foreignObject>
+</svg>

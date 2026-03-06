@@ -1,0 +1,76 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1350" width="1080" height="1350">
+  <style>
+    text { 
+      direction: rtl; 
+      unicode-bidi: bidi-override;
+    }
+    .rtl-text {
+      direction: rtl;
+      unicode-bidi: embed;
+      text-anchor: end;
+    }
+  </style>
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0D1117"/>
+      <stop offset="100%" style="stop-color:#161B22"/>
+    </linearGradient>
+    <linearGradient id="titleGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#00D9FF"/>
+      <stop offset="50%" style="stop-color:#A855F7"/>
+      <stop offset="100%" style="stop-color:#EC4899"/>
+    </linearGradient>
+  </defs>
+  
+  <rect width="1080" height="1350" fill="url(#bgGrad)"/>
+  
+  <!-- Header -->
+  <rect x="660" y="30" width="380" height="50" rx="25" fill="#1A237E"/>
+  <text x="850" y="65" font-family="Vazirmatn, Tahoma" font-size="28" fill="#FFFFFF" text-anchor="middle" direction="rtl">فصل ۲ • اسلاید ۶ از ۸</text>
+  
+  <!-- Title -->
+  <text x="540" y="150" font-family="Vazirmatn, Tahoma" font-size="52" font-weight="bold" fill="url(#titleGrad)" text-anchor="middle" direction="rtl">شکاف نظر و عمل</text>
+  <text x="540" y="210" font-family="Vazirmatn, Tahoma" font-size="28" fill="#94A3B8" text-anchor="middle" direction="rtl">تفاوت قانون و واقعیت</text>
+  
+  <!-- Two columns comparison -->
+  <!-- Theory column -->
+  <rect x="555" y="260" width="465" height="450" rx="20" fill="#22C55E" fill-opacity="0.1" stroke="#22C55E" stroke-width="2"/>
+  <text x="787" y="310" font-family="Vazirmatn, Tahoma" font-size="32" fill="#4ADE80" text-anchor="middle" direction="rtl" font-weight="bold">📚 در نظر (قانون)</text>
+  <text x="900" y="370" font-family="Vazirmatn, Tahoma" font-size="24" fill="#FFFFFF" text-anchor="end" direction="rtl">• مداخله فقط با مجوز شورای امنیت</text>
+  <text x="900" y="420" font-family="Vazirmatn, Tahoma" font-size="24" fill="#FFFFFF" text-anchor="end" direction="rtl">• همه‌ی دولت‌ها برابرند</text>
+  <text x="900" y="470" font-family="Vazirmatn, Tahoma" font-size="24" fill="#FFFFFF" text-anchor="end" direction="rtl">• حاکمیت ملی محترم است</text>
+  <text x="900" y="520" font-family="Vazirmatn, Tahoma" font-size="24" fill="#FFFFFF" text-anchor="end" direction="rtl">• R2P برای حفاظت از مردم</text>
+  <text x="900" y="570" font-family="Vazirmatn, Tahoma" font-size="24" fill="#FFFFFF" text-anchor="end" direction="rtl">• مداخله‌گر باید بی‌طرف باشد</text>
+  <text x="900" y="620" font-family="Vazirmatn, Tahoma" font-size="24" fill="#FFFFFF" text-anchor="end" direction="rtl">• هدف: صلح و ثبات</text>
+  <text x="900" y="670" font-family="Vazirmatn, Tahoma" font-size="24" fill="#FFFFFF" text-anchor="end" direction="rtl">• خروج پس از تثبیت</text>
+  
+  <!-- Practice column -->
+  <rect x="60" y="260" width="465" height="450" rx="20" fill="#DC2626" fill-opacity="0.1" stroke="#DC2626" stroke-width="2"/>
+  <text x="292" y="310" font-family="Vazirmatn, Tahoma" font-size="32" fill="#F87171" text-anchor="middle" direction="rtl" font-weight="bold">⚡ در عمل (واقعیت)</text>
+  <text x="405" y="370" font-family="Vazirmatn, Tahoma" font-size="24" fill="#FFFFFF" text-anchor="end" direction="rtl">• قدرت‌ها بدون مجوز هم عمل می‌کنند</text>
+  <text x="405" y="420" font-family="Vazirmatn, Tahoma" font-size="24" fill="#FFFFFF" text-anchor="end" direction="rtl">• قدرت‌های بزرگ مصون هستند</text>
+  <text x="405" y="470" font-family="Vazirmatn, Tahoma" font-size="24" fill="#FFFFFF" text-anchor="end" direction="rtl">• حاکمیت ضعفا زیر سوال می‌رود</text>
+  <text x="405" y="520" font-family="Vazirmatn, Tahoma" font-size="24" fill="#FFFFFF" text-anchor="end" direction="rtl">• R2P بهانه‌ی تغییر رژیم می‌شود</text>
+  <text x="405" y="570" font-family="Vazirmatn, Tahoma" font-size="24" fill="#FFFFFF" text-anchor="end" direction="rtl">• مداخله‌گر منافع خود را دنبال می‌کند</text>
+  <text x="405" y="620" font-family="Vazirmatn, Tahoma" font-size="24" fill="#FFFFFF" text-anchor="end" direction="rtl">• هدف: منافع استراتژیک</text>
+  <text x="405" y="670" font-family="Vazirmatn, Tahoma" font-size="24" fill="#FFFFFF" text-anchor="end" direction="rtl">• ماندن طولانی یا ترک زودهنگام</text>
+  
+  <!-- Examples -->
+  <text x="540" y="760" font-family="Vazirmatn, Tahoma" font-size="30" fill="#F9A825" text-anchor="middle" direction="rtl" font-weight="bold">📌 نمونه‌های واضح:</text>
+  
+  <rect x="60" y="800" width="960" height="220" rx="15" fill="#1A237E" fill-opacity="0.4"/>
+  
+  <text x="920" y="850" font-family="Vazirmatn, Tahoma" font-size="26" fill="#00D9FF" text-anchor="end" direction="rtl">🇮🇶 عراق ۲۰۰۳: بدون مجوز → هرج‌ومرج</text>
+  <text x="920" y="900" font-family="Vazirmatn, Tahoma" font-size="26" fill="#EC4899" text-anchor="end" direction="rtl">🇱🇾 لیبی ۲۰۱۱: R2P → تغییر رژیم → فروپاشی</text>
+  <text x="920" y="950" font-family="Vazirmatn, Tahoma" font-size="26" fill="#4ADE80" text-anchor="end" direction="rtl">🇸🇾 سوریه: R2P اعمال نشد → نسل‌کشی ادامه یافت</text>
+  <text x="920" y="1000" font-family="Vazirmatn, Tahoma" font-size="26" fill="#F9A825" text-anchor="end" direction="rtl">🇺🇦 کریمه ۲۰۱۴: روسیه همان کاری کرد که غرب می‌کرد</text>
+  
+  <!-- Conclusion -->
+  <rect x="150" y="1050" width="780" height="120" rx="20" fill="none" stroke="#A855F7" stroke-width="3"/>
+  <text x="540" y="1100" font-family="Vazirmatn, Tahoma" font-size="28" fill="#A855F7" text-anchor="middle" direction="rtl" font-weight="bold">💡 نتیجه:</text>
+  <text x="540" y="1145" font-family="Vazirmatn, Tahoma" font-size="26" fill="#FFFFFF" text-anchor="middle" direction="rtl">حقوق بین‌الملل «قانون» است اما «ضمانت اجرا» ندارد.</text>
+  
+  <text x="540" y="1230" font-family="Vazirmatn, Tahoma" font-size="24" fill="#94A3B8" text-anchor="middle" direction="rtl">هر کشور قوی می‌تواند آن را نقض کند.</text>
+  
+  <rect x="40" y="1306" width="1000" height="4" rx="2" fill="url(#titleGrad)"/>
+</svg>

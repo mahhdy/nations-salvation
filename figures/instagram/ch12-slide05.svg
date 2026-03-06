@@ -1,0 +1,96 @@
+﻿<svg width="1080" height="1350" viewBox="0 0 1080 1350" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      :root { direction:rtl; font-family:"Vazirmatn","Segoe UI",Tahoma,sans-serif; }
+      .bg { fill:#060d18; }
+      .header-bar { fill:#1A237E; }
+      .accent { fill:#F9A825; }
+      .card { fill:#0e1628; stroke:#1e3a5f; stroke-width:1.4; rx:28; ry:28; }
+      .summary-card { fill:#0e1628; stroke:#F9A825; stroke-width:2; rx:28; ry:28; }
+      .shadow { filter:drop-shadow(0px 16px 36px rgba(0,0,0,0.45)); }
+      .title { font-size:46px; font-weight:800; color:#FFFFFF; }
+      .card-title { font-size:30px; font-weight:700; color:#FFFFFF; }
+      .card-text { font-size:25px; line-height:1.7; color:#ECEFF1; }
+      .gold { color:#F9A825; font-weight:700; }
+      .teal { color:#4DB6AC; font-weight:700; }
+      .red { color:#EF5350; font-weight:700; }
+      .green { color:#69F0AE; font-weight:700; }
+      .footer { font-size:24px; color:#78909C; }
+    </style>
+  </defs>
+
+  <rect class="bg" x="0" y="0" width="1080" height="1350"/>
+
+  <rect class="header-bar" x="60" y="60" width="960" height="90" rx="22"/>
+  <rect class="accent" x="80" y="82" width="10" height="46" rx="5"/>
+  <foreignObject x="110" y="70" width="900" height="80">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl"
+         style="display:flex;justify-content:space-between;align-items:center;color:#FFF;font-size:28px;font-weight:600;">
+      <span>جمع‌بندی فصل ۱۲</span>
+      <span style="opacity:0.8;">ملت‌ها و نجات‌بخشی</span>
+    </div>
+  </foreignObject>
+
+  <foreignObject x="80" y="180" width="920" height="100">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl" style="text-align:right;">
+      <div class="title">🎯 سه درس اقتصادی از مداخلات</div>
+    </div>
+  </foreignObject>
+
+  <!-- Lesson 1 -->
+  <rect class="summary-card shadow" x="80" y="290" width="920" height="240"/>
+  <foreignObject x="100" y="310" width="880" height="200">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl" style="text-align:right;">
+      <div class="card-title"><span class="gold">درس ۱:</span> مداخله اقتصادی را «بازتوزیع» می‌کند، نه «رشد»</div>
+      <div class="card-text" style="margin-top:14px;">
+        ثروت ملی از دست مردمِ میزبان خارج شده و به شرکت‌های بین‌المللی،
+        پیمانکاران نظامی و نخبگان جدید منتقل می‌شود. GDP ممکن است
+        بالا برود، اما <span class="red">نابرابری</span> و فقر افزایش می‌یابد.
+      </div>
+    </div>
+  </foreignObject>
+
+  <!-- Lesson 2 -->
+  <rect class="summary-card shadow" x="80" y="560" width="920" height="240"/>
+  <foreignObject x="100" y="580" width="880" height="200">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl" style="text-align:right;">
+      <div class="card-title"><span class="gold">درس ۲:</span> تحریم هم نوعی مداخله‌ی اقتصادی است</div>
+      <div class="card-text" style="margin-top:14px;">
+        تحریم‌ها اغلب به‌عنوان «جایگزین صلح‌آمیز جنگ» معرفی می‌شوند، اما
+        در عمل <span class="red">طبقه‌ی متوسط و فقرا</span> را نابود کرده و
+        نخبگان حاکم را قدرتمندتر (از طریق بازار سیاه و رانت) می‌کنند.
+      </div>
+    </div>
+  </foreignObject>
+
+  <!-- Lesson 3 -->
+  <rect class="summary-card shadow" x="80" y="830" width="920" height="240"/>
+  <foreignObject x="100" y="850" width="880" height="200">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl" style="text-align:right;">
+      <div class="card-title"><span class="gold">درس ۳:</span> استقلال اقتصادی = مقاومت در برابر مداخله</div>
+      <div class="card-text" style="margin-top:14px;">
+        ملت‌هایی که اقتصاد متنوع، صنعت داخلی و طبقه‌ی متوسط قوی دارند،
+        بسیار کمتر هدف مداخله قرار می‌گیرند. <span class="green">استقلال اقتصادی</span>
+        مؤثرترین سپر در برابر نجات‌طلبی وارداتی است.
+      </div>
+    </div>
+  </foreignObject>
+
+  <!-- CTA -->
+  <rect class="card shadow" x="80" y="1105" width="920" height="100"/>
+  <foreignObject x="100" y="1120" width="880" height="65">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl" style="text-align:center;">
+      <div style="font-size:28px;color:#F9A825;font-weight:700;">
+        📖 نمودارها و جداول تطبیقی در متن کامل فصل ۱۲ → لینک در بیو
+      </div>
+    </div>
+  </foreignObject>
+
+  <foreignObject x="80" y="1260" width="920" height="60">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl" class="footer"
+         style="display:flex;justify-content:space-between;align-items:center;">
+      <span>nations_salvation@ • لینک مطالعه در بیو</span>
+      <span>اسلاید ۵ از ۵</span>
+    </div>
+  </foreignObject>
+</svg>

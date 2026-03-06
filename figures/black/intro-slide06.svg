@@ -1,0 +1,75 @@
+﻿<svg width="1080" height="1350" viewBox="0 0 1080 1350"
+     xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      :root{
+        direction:rtl;
+        font-family:"Vazirmatn","Shabnam","Sahel","IRANSansX","Segoe UI",sans-serif;
+      }
+      .bg{fill:#060312;}
+      .card{fill:#0f1024;stroke:#7C4DFF;stroke-width:1.8;rx:34;ry:34;}
+      .shadow{filter:drop-shadow(0 18px 44px rgba(0,0,0,0.55));}
+      .title{font-size:44px;font-weight:900;color:#FFFFFF;}
+      .subtitle{font-size:26px;color:#CFD8DC;}
+      .icon{font-size:70px;}
+      .h{font-size:30px;font-weight:700;color:#FFFFFF;}
+      .t{font-size:24px;color:#ECEFF1;line-height:1.7;}
+      .purple{color:#B388FF;font-weight:700;}
+      .footer{font-size:24px;color:#90A4AE;}
+    </style>
+  </defs>
+
+  <rect class="bg" width="1080" height="1350"/>
+
+  <foreignObject x="80" y="80" width="920" height="120">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl">
+      <div class="title">روان‌شناسی نجات‌طلبی: مغز ما چه می‌کند؟</div>
+      <div class="subtitle" style="margin-top:10px;">
+        فصل ۱۱ نشان می‌دهد نجات‌طلبی فقط یک بحث سیاسی نیست؛
+        ریشه در مکانیسم‌های عمیق ذهن دارد.
+      </div>
+    </div>
+  </foreignObject>
+
+  <rect class="card shadow" x="80" y="230" width="920" height="860"/>
+  <foreignObject x="110" y="260" width="860" height="800">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl">
+      <div style="display:flex;gap:26px;align-items:flex-start;">
+        <div class="icon">🧠</div>
+        <div>
+          <div class="h">سه نیروی پنهان در ذهن ملت‌های ناامید</div>
+        </div>
+      </div>
+
+      <div class="t" style="margin-top:30px;">
+        ۱. <span class="purple">ناامیدی آموخته‌شده</span><br/>
+        ملت بارها تلاش کرده و شکست خورده؛ مغز جمعی می‌گوید:
+        «هر کاری کنیم فایده ندارد» — و به‌جای اصلاح درون،
+        به «نجات‌دهنده‌ی بیرونی» چنگ می‌زند.<br/><br/>
+
+        ۲. <span class="purple">آرزواندیشی و سوگیری تأیید</span><br/>
+        فقط خبرهایی را می‌بینیم که امیدمان به مداخله را تقویت کند:
+        «اگر فلان کشور بیاید، سه‌ماهه همه‌چیز درست می‌شود».
+        شواهد مخالف را نادیده می‌گیریم.<br/><br/>
+
+        ۳. <span class="purple">روان‌شناسی قربانی</span><br/>
+        هویت ما حول «ستم‌دیده بودن» شکل می‌گیرد.
+        وقتی خود را فقط قربانی ببینیم، <b>مسئولیت</b> را هم به دیگران می‌سپاریم؛
+        از جمله مسئولیت نجات.
+      </div>
+
+      <div class="t" style="margin-top:40px;color:#F9A825;font-weight:700;text-align:center;">
+        اگر این سه نیرو را نشناسیم، هر بار که بحران می‌آید،
+        دوباره همان خطای نجات‌طلبی را تکرار می‌کنیم.
+      </div>
+    </div>
+  </foreignObject>
+
+  <foreignObject x="80" y="1180" width="920" height="70">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl" class="footer"
+         style="display:flex;justify-content:space-between;align-items:center;">
+      <span>فصل ۱۱: ناامیدی آموخته‌شده، سوگیری‌ها، تروما و هویت قربانی</span>
+      <span>اسلاید ۶ از ۱۰</span>
+    </div>
+  </foreignObject>
+</svg>

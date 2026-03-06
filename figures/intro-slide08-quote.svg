@@ -1,0 +1,69 @@
+﻿<svg width="1080" height="1350" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg8" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0c0614"/>
+      <stop offset="100%" stop-color="#06040c"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1080" height="1350" fill="url(#bg8)"/>
+
+  <!-- Large decorative quote marks -->
+  <foreignObject x="60" y="100" width="200" height="200">
+    <div xmlns="http://www.w3.org/1999/xhtml"
+         style="font-size:180px;color:rgba(249,168,37,0.08);font-family:serif;">&#171;</div>
+  </foreignObject>
+
+  <foreignObject x="820" y="600" width="200" height="200">
+    <div xmlns="http://www.w3.org/1999/xhtml"
+         style="font-size:180px;color:rgba(249,168,37,0.08);font-family:serif;">&#187;</div>
+  </foreignObject>
+
+  <!-- Main quote -->
+  <foreignObject x="80" y="280" width="920" height="500">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl"
+         style="text-align:center;font-family:'Mikhak','Dirooz','IRANSansX','Vazirmatn',sans-serif;">
+      <div style="font-size:60px;font-weight:700;color:#F9A825;line-height:1.7;">
+        آزادی‌ای که
+      </div>
+      <div style="font-size:60px;font-weight:700;color:#FFFFFF;line-height:1.7;">
+        از بیرون بیاید
+      </div>
+      <div style="font-size:60px;font-weight:700;color:#F9A825;line-height:1.7;">
+        آزادی نیست
+      </div>
+    </div>
+  </foreignObject>
+
+  <!-- Author -->
+  <foreignObject x="0" y="790" width="1080" height="80">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl"
+         style="text-align:center;font-family:'Sahel','Vazirmatn',sans-serif;
+                font-size:30px;color:#78909C;font-style:italic;">
+      — جان استوارت میل
+    </div>
+  </foreignObject>
+
+  <!-- Divider -->
+  <rect x="420" y="910" width="240" height="3" rx="1.5" fill="#F9A825" opacity="0.3"/>
+
+  <!-- Expansion -->
+  <foreignObject x="80" y="960" width="920" height="250">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl"
+         style="text-align:center;font-family:'Sahel','Shabnam','Vazirmatn',sans-serif;">
+      <div style="font-size:32px;color:#ECEFF1;line-height:1.8;font-weight:400;">
+        هدیه‌ای است که<br/>
+        <span style="color:#EF5350;font-weight:700;font-size:38px;">هر لحظه پس گرفته می‌شود</span>
+      </div>
+      <div style="font-size:24px;color:#78909C;margin-top:28px;line-height:1.6;">
+        این جمله خلاصه‌ی ۱۴ فصل و ۳۰۰۰ سال تاریخ مداخله است
+      </div>
+    </div>
+  </foreignObject>
+
+  <foreignObject x="0" y="1280" width="1080" height="50">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl"
+         style="text-align:center;font-family:'Sahel','Vazirmatn',sans-serif;
+                font-size:22px;color:#546E7A;">nations_salvation@ · ۸ از ۱۰</div>
+  </foreignObject>
+</svg>

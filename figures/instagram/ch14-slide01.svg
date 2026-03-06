@@ -1,0 +1,86 @@
+﻿<svg width="1080" height="1350" viewBox="0 0 1080 1350" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      :root { direction:rtl; font-family:"Vazirmatn","Segoe UI",Tahoma,sans-serif; }
+      .bg { fill:#080410; }
+      .header-bar { fill:#1A237E; }
+      .accent { fill:#F9A825; }
+      .card { fill:#100e1c; stroke:#283593; stroke-width:1.4; rx:28; ry:28; }
+      .final-card { fill:#100e1c; stroke:#F9A825; stroke-width:2.5; rx:30; ry:30; }
+      .shadow { filter:drop-shadow(0px 18px 44px rgba(0,0,0,0.55)); }
+      .title { font-size:48px; font-weight:800; color:#FFFFFF; }
+      .subtitle { font-size:26px; color:#CFD8DC; line-height:1.6; }
+      .card-title { font-size:32px; font-weight:700; color:#FFFFFF; }
+      .card-text { font-size:25px; line-height:1.7; color:#ECEFF1; }
+      .gold { color:#F9A825; font-weight:700; }
+      .green { color:#69F0AE; font-weight:700; }
+      .red { color:#EF5350; font-weight:700; }
+      .footer { font-size:24px; color:#78909C; }
+    </style>
+  </defs>
+
+  <rect class="bg" x="0" y="0" width="1080" height="1350"/>
+
+  <rect class="header-bar" x="60" y="60" width="960" height="90" rx="22"/>
+  <rect class="accent" x="80" y="82" width="10" height="46" rx="5"/>
+  <foreignObject x="110" y="70" width="900" height="80">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl"
+         style="display:flex;justify-content:space-between;align-items:center;color:#FFF;font-size:28px;font-weight:600;">
+      <span>فصل ۱۴ • جمع‌بندی نهایی</span>
+      <span style="opacity:0.8;">ملت‌ها و نجات‌بخشی</span>
+    </div>
+  </foreignObject>
+
+  <foreignObject x="80" y="180" width="920" height="200">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl" style="text-align:right;">
+      <div class="title">🏁 <span class="gold">آرزواندیشی</span> یا <span class="green">واقع‌نگری</span>؟</div>
+      <div class="subtitle" style="margin-top:16px;">
+        فصل پایانی کتاب، یافته‌های ۱۳ فصل قبلی را کنار هم می‌چیند
+        و یک <span class="gold">نقشه‌ی راهِ عملی</span> پیشنهاد می‌کند:
+        چگونه ملتی می‌تواند بدون وابستگی به بیگانه، سرنوشت خود را بسازد.
+      </div>
+    </div>
+  </foreignObject>
+
+  <!-- Summary card -->
+  <rect class="card shadow" x="80" y="400" width="920" height="450"/>
+  <foreignObject x="100" y="420" width="880" height="410">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl" style="text-align:right;">
+      <div class="card-title">خلاصه‌ی یافته‌های کل کتاب</div>
+      <div class="card-text" style="margin-top:18px;">
+        ✅ از ایران باستان تا اوکراین ۲۰۲۴، الگوی تکرارشونده یکی است:<br/>
+        <span class="gold">بحران → ناامیدی → نجات‌طلبی → مداخله → وابستگی یا فروپاشی</span><br/><br/>
+        ✅ مدل شش‌وجهی نشان داد: مداخلاتی که فقط یک یا دو بُعد را
+        در نظر می‌گیرند، محکوم به <span class="red">شکست</span>‌اند.<br/><br/>
+        ✅ طیف A–F: از ۳۰+ مورد بررسی‌شده، فقط ۲–۳ مورد
+        (آلمان و ژاپن پس از جنگ دوم) به <span class="green">A/B</span> رسیدند
+        و آن‌ها هم شرایط بسیار استثنایی داشتند.<br/><br/>
+        ✅ سوگیری‌های روان‌شناختی (فصل ۱۱) و ساختار اقتصادی (فصل ۱۲)
+        و ایدئولوژی (فصل ۱۳) سه ضلع مثلثی‌اند که نجات‌طلبی را تقویت می‌کنند.
+      </div>
+    </div>
+  </foreignObject>
+
+  <!-- Final message -->
+  <rect class="final-card shadow" x="80" y="880" width="920" height="300"/>
+  <foreignObject x="100" y="900" width="880" height="260">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl" style="text-align:center;">
+      <div style="font-size:36px;color:#F9A825;font-weight:800;">💡 نتیجه‌ی نهایی کتاب</div>
+      <div class="card-text" style="margin-top:18px;">
+        <span class="gold">«آزادی‌ای که از بیرون بیاید، آزادی نیست.»</span><br/>
+        — جان استوارت میل<br/><br/>
+        نجات واقعی فقط از درون ممکن است: با <span class="green">آموزش، تفکر انتقادی،
+        استقلال اقتصادی و بازسازی عاملیت جمعی</span>.<br/>
+        هر مسیر دیگری فقط شکل جدیدی از <span class="red">وابستگی</span> است.
+      </div>
+    </div>
+  </foreignObject>
+
+  <foreignObject x="80" y="1250" width="920" height="60">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl" class="footer"
+         style="display:flex;justify-content:space-between;align-items:center;">
+      <span>nations_salvation@ • لینک مطالعه در بیو</span>
+      <span>اسلاید ۱ از ۵</span>
+    </div>
+  </foreignObject>
+</svg>

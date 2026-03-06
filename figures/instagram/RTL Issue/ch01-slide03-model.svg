@@ -1,0 +1,95 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1350" width="1080" height="1350">
+  <style>
+    text { 
+      direction: rtl; 
+      unicode-bidi: bidi-override;
+    }
+    .rtl-text {
+      direction: rtl;
+      unicode-bidi: embed;
+      text-anchor: end;
+    }
+  </style>
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0D1117"/>
+      <stop offset="100%" style="stop-color:#161B22"/>
+    </linearGradient>
+    <linearGradient id="titleGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#00D9FF"/>
+      <stop offset="50%" style="stop-color:#A855F7"/>
+      <stop offset="100%" style="stop-color:#EC4899"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="2" result="coloredBlur"/>
+      <feMerge><feMergeNode in="coloredBlur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  
+  <rect width="1080" height="1350" fill="url(#bgGrad)"/>
+  
+  <!-- Header -->
+  <rect x="660" y="30" width="380" height="50" rx="25" fill="#1A237E"/>
+  <text x="850" y="65" font-family="Vazirmatn, Tahoma" font-size="28" fill="#FFFFFF" text-anchor="middle" direction="rtl">فصل ۱ • اسلاید ۳ از ۱۰</text>
+  
+  <!-- Title -->
+  <text x="540" y="150" font-family="Vazirmatn, Tahoma" font-size="56" font-weight="bold" fill="url(#titleGrad)" text-anchor="middle" direction="rtl" filter="url(#glow)">مدل شش‌وجهی تحلیل</text>
+  <text x="540" y="210" font-family="Vazirmatn, Tahoma" font-size="32" fill="#94A3B8" text-anchor="middle" direction="rtl">هر مداخله از ۶ زاویه بررسی می‌شود</text>
+  
+  <!-- Hexagon layout - 6 boxes -->
+  <!-- Box 1 - Political -->
+  <rect x="370" y="260" width="340" height="130" rx="15" fill="none" stroke="#1A237E" stroke-width="3"/>
+  <rect x="370" y="260" width="340" height="130" rx="15" fill="#1A237E" fill-opacity="0.3"/>
+  <text x="540" y="310" font-family="Vazirmatn, Tahoma" font-size="36" fill="#00D9FF" text-anchor="middle" direction="rtl" font-weight="bold">۱. ساختاری-سیاسی</text>
+  <text x="540" y="360" font-family="Vazirmatn, Tahoma" font-size="26" fill="#FFFFFF" text-anchor="middle" direction="rtl">ماهیت رژیم، بحران مشروعیت</text>
+  
+  <!-- Box 2 - Legal -->
+  <rect x="60" y="420" width="340" height="130" rx="15" fill="none" stroke="#2E7D32" stroke-width="3"/>
+  <rect x="60" y="420" width="340" height="130" rx="15" fill="#2E7D32" fill-opacity="0.2"/>
+  <text x="230" y="470" font-family="Vazirmatn, Tahoma" font-size="36" fill="#4ADE80" text-anchor="middle" direction="rtl" font-weight="bold">۲. حقوقی-هنجاری</text>
+  <text x="230" y="520" font-family="Vazirmatn, Tahoma" font-size="26" fill="#FFFFFF" text-anchor="middle" direction="rtl">مبنای حقوقی مداخله</text>
+  
+  <!-- Box 3 - Economic -->
+  <rect x="680" y="420" width="340" height="130" rx="15" fill="none" stroke="#F9A825" stroke-width="3"/>
+  <rect x="680" y="420" width="340" height="130" rx="15" fill="#F9A825" fill-opacity="0.2"/>
+  <text x="850" y="470" font-family="Vazirmatn, Tahoma" font-size="36" fill="#F9A825" text-anchor="middle" direction="rtl" font-weight="bold">۳. اقتصادی</text>
+  <text x="850" y="520" font-family="Vazirmatn, Tahoma" font-size="26" fill="#FFFFFF" text-anchor="middle" direction="rtl">منابع، وابستگی ساختاری</text>
+  
+  <!-- Box 4 - Military -->
+  <rect x="60" y="580" width="340" height="130" rx="15" fill="none" stroke="#DC2626" stroke-width="3"/>
+  <rect x="60" y="580" width="340" height="130" rx="15" fill="#DC2626" fill-opacity="0.2"/>
+  <text x="230" y="630" font-family="Vazirmatn, Tahoma" font-size="36" fill="#F87171" text-anchor="middle" direction="rtl" font-weight="bold">۴. نظامی-امنیتی</text>
+  <text x="230" y="680" font-family="Vazirmatn, Tahoma" font-size="26" fill="#FFFFFF" text-anchor="middle" direction="rtl">توازن قوا، ظرفیت دفاعی</text>
+  
+  <!-- Box 5 - Psychology -->
+  <rect x="680" y="580" width="340" height="130" rx="15" fill="none" stroke="#A855F7" stroke-width="3"/>
+  <rect x="680" y="580" width="340" height="130" rx="15" fill="#A855F7" fill-opacity="0.2"/>
+  <text x="850" y="630" font-family="Vazirmatn, Tahoma" font-size="34" fill="#C084FC" text-anchor="middle" direction="rtl" font-weight="bold">۵. روان‌شناختی-فرهنگی</text>
+  <text x="850" y="680" font-family="Vazirmatn, Tahoma" font-size="26" fill="#FFFFFF" text-anchor="middle" direction="rtl">هویت، سوگیری‌های شناختی</text>
+  
+  <!-- Box 6 - Geopolitical -->
+  <rect x="370" y="740" width="340" height="130" rx="15" fill="none" stroke="#EC4899" stroke-width="3"/>
+  <rect x="370" y="740" width="340" height="130" rx="15" fill="#EC4899" fill-opacity="0.2"/>
+  <text x="540" y="790" font-family="Vazirmatn, Tahoma" font-size="36" fill="#EC4899" text-anchor="middle" direction="rtl" font-weight="bold">۶. ژئوپولیتیک</text>
+  <text x="540" y="840" font-family="Vazirmatn, Tahoma" font-size="26" fill="#FFFFFF" text-anchor="middle" direction="rtl">منافع قدرت‌های بزرگ</text>
+  
+  <!-- Connecting lines (simplified) -->
+  <line x1="540" y1="390" x2="400" y2="420" stroke="#00D9FF" stroke-width="1" opacity="0.4"/>
+  <line x1="540" y1="390" x2="680" y2="420" stroke="#00D9FF" stroke-width="1" opacity="0.4"/>
+  
+  <!-- Key message -->
+  <rect x="80" y="910" width="920" height="140" rx="20" fill="none" stroke="#F9A825" stroke-width="2"/>
+  <text x="540" y="960" font-family="Vazirmatn, Tahoma" font-size="32" fill="#F9A825" text-anchor="middle" direction="rtl" font-weight="bold">⚠️ نکته مهم:</text>
+  <text x="540" y="1010" font-family="Vazirmatn, Tahoma" font-size="28" fill="#FFFFFF" text-anchor="middle" direction="rtl">مداخله‌ای که فقط از یک وجه تحلیل شود،</text>
+  <text x="540" y="1045" font-family="Vazirmatn, Tahoma" font-size="28" fill="#FFFFFF" text-anchor="middle" direction="rtl">تحلیل ناقص و گمراه‌کننده خواهد بود.</text>
+  
+  <!-- Examples preview -->
+  <text x="540" y="1130" font-family="Vazirmatn, Tahoma" font-size="30" fill="#00D9FF" text-anchor="middle" direction="rtl">📚 نمونه‌ها در فصول آینده:</text>
+  <text x="540" y="1180" font-family="Vazirmatn, Tahoma" font-size="26" fill="#94A3B8" text-anchor="middle" direction="rtl">عراق ۲۰۰۳ • لیبی ۲۰۱۱ • سوریه ۲۰۱۱ • افغانستان ۲۰۰۱</text>
+  
+  <!-- Bottom CTA -->
+  <rect x="360" y="1230" width="360" height="60" rx="30" fill="url(#titleGrad)"/>
+  <text x="540" y="1272" font-family="Vazirmatn, Tahoma" font-size="28" fill="#0D1117" text-anchor="middle" direction="rtl" font-weight="bold">بعدی: طیف نتایج ←</text>
+  
+  <rect x="40" y="1306" width="1000" height="4" rx="2" fill="url(#titleGrad)"/>
+</svg>

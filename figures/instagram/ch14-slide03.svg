@@ -1,0 +1,121 @@
+﻿<svg width="1080" height="1350" viewBox="0 0 1080 1350" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      :root { direction:rtl; font-family:"Vazirmatn","Segoe UI",Tahoma,sans-serif; }
+      .bg { fill:#080410; }
+      .header-bar { fill:#1A237E; }
+      .accent { fill:#F9A825; }
+      .card { fill:#100e1c; stroke:#283593; stroke-width:1.4; rx:28; ry:28; }
+      .cyber-card { fill:#0a101a; stroke:#00BCD4; stroke-width:2; rx:24; ry:24; }
+      .shadow { filter:drop-shadow(0px 16px 36px rgba(0,0,0,0.45)); }
+      .title { font-size:44px; font-weight:800; color:#FFFFFF; }
+      .subtitle { font-size:26px; color:#CFD8DC; line-height:1.6; }
+      .card-title { font-size:30px; font-weight:700; color:#FFFFFF; }
+      .card-text { font-size:24px; line-height:1.65; color:#ECEFF1; }
+      .gold { color:#F9A825; font-weight:700; }
+      .cyan { color:#4DD0E1; font-weight:700; }
+      .red { color:#EF5350; font-weight:700; }
+      .green { color:#69F0AE; font-weight:700; }
+      .footer { font-size:24px; color:#78909C; }
+    </style>
+  </defs>
+
+  <rect class="bg" x="0" y="0" width="1080" height="1350"/>
+
+  <rect class="header-bar" x="60" y="60" width="960" height="90" rx="22"/>
+  <rect class="accent" x="80" y="82" width="10" height="46" rx="5"/>
+  <foreignObject x="110" y="70" width="900" height="80">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl"
+         style="display:flex;justify-content:space-between;align-items:center;color:#FFF;font-size:28px;font-weight:600;">
+      <span>نجات‌طلبی دیجیتال</span>
+      <span style="opacity:0.8;">فصل ۱۴ • جمع‌بندی نهایی</span>
+    </div>
+  </foreignObject>
+
+  <foreignObject x="80" y="175" width="920" height="110">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl" style="text-align:right;">
+      <div class="title">🌐 آینده: مداخله بدون یک گلوله</div>
+    </div>
+  </foreignObject>
+
+  <!-- Card 1: Social Media -->
+  <rect class="cyber-card shadow" x="80" y="280" width="440" height="260"/>
+  <foreignObject x="100" y="295" width="400" height="230">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl" style="text-align:right;">
+      <div class="card-title"><span class="cyan">📱</span> شبکه‌های اجتماعی</div>
+      <div class="card-text" style="margin-top:12px;">
+        • بسیج سریع اما <span class="red">بدون رهبری</span><br/>
+        • الگوریتم‌ها سوگیری تأیید را تقویت<br/>
+        • حباب فیلتر: هر گروه فقط «حقیقتِ خودش» را می‌بیند<br/>
+        • ابزار پروپاگاندای قدرت‌ها
+      </div>
+    </div>
+  </foreignObject>
+
+  <!-- Card 2: Cyber War -->
+  <rect class="cyber-card shadow" x="560" y="280" width="440" height="260"/>
+  <foreignObject x="580" y="295" width="400" height="230">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl" style="text-align:right;">
+      <div class="card-title"><span class="cyan">💻</span> جنگ سایبری</div>
+      <div class="card-text" style="margin-top:12px;">
+        • <span class="gold">Stuxnet</span>: اولین سلاح سایبری<br/>
+        • حمله به برق، بانک، حمل‌ونقل<br/>
+        • <span class="red">بدون اعلان جنگ</span>، بدون تلفات مهاجم<br/>
+        • انکارپذیری کامل (plausible deniability)
+      </div>
+    </div>
+  </foreignObject>
+
+  <!-- Card 3: AI -->
+  <rect class="cyber-card shadow" x="80" y="570" width="440" height="260"/>
+  <foreignObject x="100" y="585" width="400" height="230">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl" style="text-align:right;">
+      <div class="card-title"><span class="cyan">🤖</span> هوش مصنوعی</div>
+      <div class="card-text" style="margin-top:12px;">
+        • تولید انبوه <span class="red">دیپ‌فیک</span> و اخبار جعلی<br/>
+        • شبیه‌سازی افکار عمومی و مهندسی اجتماعی<br/>
+        • تحلیل داده برای شناسایی نقاط ضعف جوامع<br/>
+        • مداخله‌ی «هوشمند» و غیرقابل ردیابی
+      </div>
+    </div>
+  </foreignObject>
+
+  <!-- Card 4: Sanctions 2.0 -->
+  <rect class="cyber-card shadow" x="560" y="570" width="440" height="260"/>
+  <foreignObject x="580" y="585" width="400" height="230">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl" style="text-align:right;">
+      <div class="card-title"><span class="cyan">💰</span> تحریم‌های هوشمند</div>
+      <div class="card-text" style="margin-top:12px;">
+        • قطع دسترسی به <span class="gold">SWIFT</span> و سیستم مالی جهانی<br/>
+        • تحریم‌های ثانویه: مجازات متحدان هدف<br/>
+        • <span class="red">فشار اقتصادی بدون شلیک</span><br/>
+        • اثر: فقر مردم، تقویت رانتیرها
+      </div>
+    </div>
+  </foreignObject>
+
+  <!-- Bottom insight -->
+  <rect class="card shadow" x="80" y="865" width="920" height="310"/>
+  <foreignObject x="100" y="885" width="880" height="270">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl" style="text-align:right;">
+      <div class="card-title">⚡ پیام فصل ۱۴ درباره‌ی آینده</div>
+      <div class="card-text" style="margin-top:16px;">
+        مداخله‌ی آینده <span class="cyan">نامرئی‌تر، ارزان‌تر و مؤثرتر</span> خواهد بود.
+        دیگر نیازی به لشکرکشی نیست:<br/><br/>
+        • یک حمله‌ی سایبری می‌تواند شبکه‌ی برق یک کشور را فلج کند.<br/>
+        • یک کمپین دیپ‌فیک می‌تواند انتخابات را تغییر دهد.<br/>
+        • یک تحریم مالی می‌تواند طبقه‌ی متوسط را نابود کند.<br/><br/>
+        <span class="green">تنها دفاع:</span> ملتی آگاه، باسواد دیجیتال، با اقتصاد متنوع
+        و نهادهای مستقل.
+      </div>
+    </div>
+  </foreignObject>
+
+  <foreignObject x="80" y="1250" width="920" height="60">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl" class="footer"
+         style="display:flex;justify-content:space-between;align-items:center;">
+      <span>nations_salvation@ • لینک مطالعه در بیو</span>
+      <span>اسلاید ۳ از ۵</span>
+    </div>
+  </foreignObject>
+</svg>

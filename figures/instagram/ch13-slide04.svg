@@ -1,0 +1,99 @@
+﻿<svg width="1080" height="1350" viewBox="0 0 1080 1350" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      :root { direction:rtl; font-family:"Vazirmatn","Segoe UI",Tahoma,sans-serif; }
+      .bg { fill:#0c0812; }
+      .header-bar { fill:#1A237E; }
+      .accent { fill:#F9A825; }
+      .card { fill:#12101e; stroke:#311B92; stroke-width:1.4; rx:28; ry:28; }
+      .rev-card { fill:#1a0e0e; stroke:#C62828; stroke-width:1.8; rx:24; ry:24; }
+      .sov-card { fill:#1a0e16; stroke:#880E4F; stroke-width:1.8; rx:24; ry:24; }
+      .shadow { filter:drop-shadow(0px 16px 36px rgba(0,0,0,0.45)); }
+      .title { font-size:44px; font-weight:800; color:#FFFFFF; }
+      .subtitle { font-size:26px; color:#CFD8DC; line-height:1.6; }
+      .card-title { font-size:30px; font-weight:700; color:#FFFFFF; }
+      .card-text { font-size:25px; line-height:1.7; color:#ECEFF1; }
+      .gold { color:#F9A825; font-weight:700; }
+      .red { color:#EF5350; font-weight:700; }
+      .pink-dark { color:#F06292; font-weight:700; }
+      .footer { font-size:24px; color:#78909C; }
+    </style>
+  </defs>
+
+  <rect class="bg" x="0" y="0" width="1080" height="1350"/>
+
+  <rect class="header-bar" x="60" y="60" width="960" height="90" rx="22"/>
+  <rect class="accent" x="80" y="82" width="10" height="46" rx="5"/>
+  <foreignObject x="110" y="70" width="900" height="80">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl"
+         style="display:flex;justify-content:space-between;align-items:center;color:#FFF;font-size:28px;font-weight:600;">
+      <span>صدور انقلاب و انترناسیونالیسم</span>
+      <span style="opacity:0.8;">فصل ۱۳ • میسیونری و ایدئولوژی</span>
+    </div>
+  </foreignObject>
+
+  <foreignObject x="80" y="180" width="920" height="130">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl" style="text-align:right;">
+      <div class="title">دو «انقلاب صادراتی»: <span class="red">اسلامی</span> و <span class="pink-dark">کمونیستی</span></div>
+      <div class="subtitle" style="margin-top:14px;">
+        هر دو ادعا کردند جهان‌شمول‌اند. هر دو بهای صادراتشان را
+        ملت‌های دیگر پرداختند.
+      </div>
+    </div>
+  </foreignObject>
+
+  <!-- Islamic Revolution export -->
+  <rect class="rev-card shadow" x="80" y="320" width="920" height="360"/>
+  <foreignObject x="100" y="340" width="880" height="320">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl" style="text-align:right;">
+      <div class="card-title">☪️ صدور انقلاب اسلامی ایران</div>
+      <div class="card-text" style="margin-top:16px;">
+        • <span class="red">لبنان:</span> تأسیس حزب‌الله (۱۹۸۲)، تبدیل شدن به
+        قدرتمندترین بازیگر غیردولتیِ خاورمیانه.<br/><br/>
+        • <span class="red">عراق:</span> حمایت از گروه‌های شیعی، نفوذ عمیق
+        پس از ۲۰۰۳ تا حدی که گفته می‌شود «عراق را ایران مدیریت می‌کند.»<br/><br/>
+        • <span class="red">یمن:</span> حمایت از حوثی‌ها و درگیری منطقه‌ای.<br/><br/>
+        • <span class="gold">الگوی مشترک:</span> شعار «حمایت از مظلومان»
+        اما در عمل: ایجاد <span class="red">گروه‌های نیابتیِ وابسته</span>
+        که منافع ایران را پیش می‌برند.
+      </div>
+    </div>
+  </foreignObject>
+
+  <!-- Soviet export -->
+  <rect class="sov-card shadow" x="80" y="710" width="920" height="360"/>
+  <foreignObject x="100" y="730" width="880" height="320">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl" style="text-align:right;">
+      <div class="card-title">⚒️ انترناسیونالیسم کمونیستی</div>
+      <div class="card-text" style="margin-top:16px;">
+        • <span class="pink-dark">افغانستان:</span> اشغال ۱۹۷۹ با شعار «حمایت از
+        انقلاب ثور»، ۱۰ سال جنگ، ۱ میلیون کشته.<br/><br/>
+        • <span class="pink-dark">آفریقا:</span> حمایت از جنبش‌های رهایی‌بخش
+        (آنگولا، موزامبیک، اتیوپی) که پس از پیروزی به
+        دیکتاتوری‌های تک‌حزبی تبدیل شدند.<br/><br/>
+        • <span class="pink-dark">آمریکای لاتین:</span> کوبا به‌عنوان پایگاه
+        صدور انقلاب. نتیجه: ۶۰ سال تحریم و فقر.<br/><br/>
+        • <span class="gold">الگوی مشترک:</span> «رهاییِ کارگران» = تبدیل شدن به
+        <span class="red">ماهواره‌ی شوروی</span> با اقتصاد وابسته.
+      </div>
+    </div>
+  </foreignObject>
+
+  <!-- Bottom -->
+  <rect class="card shadow" x="80" y="1100" width="920" height="120"/>
+  <foreignObject x="100" y="1115" width="880" height="85">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl" style="text-align:center;">
+      <div style="font-size:28px;color:#F9A825;font-weight:700;">
+        هر انقلابی که «صادراتی» شود، دیگر متعلق به ملتش نیست — متعلق به صادرکننده‌اش می‌شود.
+      </div>
+    </div>
+  </foreignObject>
+
+  <foreignObject x="80" y="1260" width="920" height="60">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl" class="footer"
+         style="display:flex;justify-content:space-between;align-items:center;">
+      <span>nations_salvation@ • لینک مطالعه در بیو</span>
+      <span>اسلاید ۴ از ۵</span>
+    </div>
+  </foreignObject>
+</svg>

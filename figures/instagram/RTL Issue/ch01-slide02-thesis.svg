@@ -1,0 +1,94 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1350" width="1080" height="1350">
+  <style>
+    text { 
+      direction: rtl; 
+      unicode-bidi: bidi-override;
+    }
+    .rtl-text {
+      direction: rtl;
+      unicode-bidi: embed;
+      text-anchor: end;
+    }
+  </style>
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0D1117"/>
+      <stop offset="100%" style="stop-color:#161B22"/>
+    </linearGradient>
+    <linearGradient id="titleGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#00D9FF"/>
+      <stop offset="50%" style="stop-color:#A855F7"/>
+      <stop offset="100%" style="stop-color:#EC4899"/>
+    </linearGradient>
+    <linearGradient id="warnGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#F97316"/>
+      <stop offset="100%" style="stop-color:#EC4899"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+      <feMerge><feMergeNode in="coloredBlur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  
+  <rect width="1080" height="1350" fill="url(#bgGrad)"/>
+  
+  <!-- Header -->
+  <rect x="660" y="30" width="380" height="50" rx="25" fill="#1A237E"/>
+  <text x="850" y="65" font-family="Vazirmatn, Tahoma" font-size="28" fill="#FFFFFF" text-anchor="middle" direction="rtl">فصل ۱ • اسلاید ۲ از ۱۰</text>
+  
+  <!-- Title -->
+  <text x="540" y="160" font-family="Vazirmatn, Tahoma" font-size="64" font-weight="bold" fill="url(#titleGrad)" text-anchor="middle" direction="rtl" filter="url(#glow)">تز اصلی کتاب</text>
+  
+  <rect x="240" y="190" width="600" height="3" fill="#00D9FF" opacity="0.5"/>
+  
+  <!-- Main thesis box -->
+  <rect x="50" y="240" width="980" height="260" rx="20" fill="none" stroke="#00D9FF" stroke-width="3"/>
+  <rect x="50" y="240" width="980" height="260" rx="20" fill="#0D1117" fill-opacity="0.9"/>
+  
+  <text x="540" y="310" font-family="Vazirmatn, Tahoma" font-size="38" fill="#00D9FF" text-anchor="middle" direction="rtl">نجات‌طلبی — امیدبستن به نیروی خارجی —</text>
+  <text x="540" y="370" font-family="Vazirmatn, Tahoma" font-size="38" fill="url(#warnGrad)" text-anchor="middle" direction="rtl" font-weight="bold">در اکثر موارد تاریخی نه به رهایی</text>
+  <text x="540" y="430" font-family="Vazirmatn, Tahoma" font-size="38" fill="url(#warnGrad)" text-anchor="middle" direction="rtl" font-weight="bold">بلکه به وابستگی جدید منجر شده است.</text>
+  
+  <text x="540" y="530" font-family="Vazirmatn, Tahoma" font-size="30" fill="#94A3B8" text-anchor="middle" direction="rtl">اما: استثناهای مهمی وجود دارند (فصل ۱۵)</text>
+  
+  <!-- Three pillars -->
+  <text x="540" y="620" font-family="Vazirmatn, Tahoma" font-size="44" fill="#F9A825" text-anchor="middle" direction="rtl" font-weight="bold">سه ستون اصلی استدلال</text>
+  
+  <!-- Pillar 1 -->
+  <rect x="720" y="680" width="300" height="240" rx="15" fill="none" stroke="#2E7D32" stroke-width="2"/>
+  <circle cx="870" cy="740" r="40" fill="none" stroke="#2E7D32" stroke-width="2"/>
+  <text x="870" y="755" font-family="Vazirmatn, Tahoma" font-size="40" fill="#F9A825" text-anchor="middle" font-weight="bold">۱</text>
+  <text x="870" y="820" font-family="Vazirmatn, Tahoma" font-size="36" fill="#FFFFFF" text-anchor="middle" direction="rtl" font-weight="bold">تاریخ</text>
+  <text x="870" y="865" font-family="Vazirmatn, Tahoma" font-size="26" fill="#94A3B8" text-anchor="middle" direction="rtl">شواهد تجربی از</text>
+  <text x="870" y="900" font-family="Vazirmatn, Tahoma" font-size="26" fill="#94A3B8" text-anchor="middle" direction="rtl">۲۵۰۰ سال تاریخ</text>
+  
+  <!-- Pillar 2 -->
+  <rect x="390" y="680" width="300" height="240" rx="15" fill="none" stroke="#F9A825" stroke-width="2"/>
+  <circle cx="540" cy="740" r="40" fill="none" stroke="#F9A825" stroke-width="2"/>
+  <text x="540" y="755" font-family="Vazirmatn, Tahoma" font-size="40" fill="#F9A825" text-anchor="middle" font-weight="bold">۲</text>
+  <text x="540" y="820" font-family="Vazirmatn, Tahoma" font-size="36" fill="#FFFFFF" text-anchor="middle" direction="rtl" font-weight="bold">نظریه</text>
+  <text x="540" y="865" font-family="Vazirmatn, Tahoma" font-size="26" fill="#94A3B8" text-anchor="middle" direction="rtl">حقوق بین‌الملل و</text>
+  <text x="540" y="900" font-family="Vazirmatn, Tahoma" font-size="26" fill="#94A3B8" text-anchor="middle" direction="rtl">علوم سیاسی</text>
+  
+  <!-- Pillar 3 -->
+  <rect x="60" y="680" width="300" height="240" rx="15" fill="none" stroke="#EC4899" stroke-width="2"/>
+  <circle cx="210" cy="740" r="40" fill="none" stroke="#EC4899" stroke-width="2"/>
+  <text x="210" y="755" font-family="Vazirmatn, Tahoma" font-size="40" fill="#F9A825" text-anchor="middle" font-weight="bold">۳</text>
+  <text x="210" y="820" font-family="Vazirmatn, Tahoma" font-size="36" fill="#FFFFFF" text-anchor="middle" direction="rtl" font-weight="bold">روان‌شناسی</text>
+  <text x="210" y="865" font-family="Vazirmatn, Tahoma" font-size="26" fill="#94A3B8" text-anchor="middle" direction="rtl">سوگیری‌ها و</text>
+  <text x="210" y="900" font-family="Vazirmatn, Tahoma" font-size="26" fill="#94A3B8" text-anchor="middle" direction="rtl">آرزواندیشی</text>
+  
+  <!-- Next chapter box -->
+  <rect x="100" y="970" width="880" height="120" rx="15" fill="#1A237E" fill-opacity="0.5" stroke="#F9A825" stroke-width="2"/>
+  <text x="540" y="1020" font-family="Vazirmatn, Tahoma" font-size="36" fill="#F9A825" text-anchor="middle" direction="rtl" font-weight="bold">← فصل بعدی:</text>
+  <text x="540" y="1070" font-family="Vazirmatn, Tahoma" font-size="30" fill="#FFFFFF" text-anchor="middle" direction="rtl">مبانی حقوقی: حاکمیت ملی در برابر مداخله</text>
+  
+  <!-- Bottom decoration -->
+  <rect x="40" y="1130" width="1000" height="2" fill="#00D9FF" opacity="0.3"/>
+  
+  <!-- Key insight -->
+  <text x="540" y="1200" font-family="Vazirmatn, Tahoma" font-size="32" fill="#00D9FF" text-anchor="middle" direction="rtl">💡 نکته کلیدی:</text>
+  <text x="540" y="1260" font-family="Vazirmatn, Tahoma" font-size="28" fill="#FFFFFF" text-anchor="middle" direction="rtl">این کتاب نه ضد غرب است، نه ضد تغییر — بلکه ضد ساده‌اندیشی است.</text>
+  
+  <rect x="40" y="1306" width="1000" height="4" rx="2" fill="url(#titleGrad)"/>
+</svg>

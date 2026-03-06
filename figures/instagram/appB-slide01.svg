@@ -1,0 +1,90 @@
+﻿<svg width="1080" height="1350" viewBox="0 0 1080 1350" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      :root { direction:rtl; font-family:"Vazirmatn","Segoe UI",Tahoma,sans-serif; }
+      .bg { fill:#100808; }
+      .header-bar { fill:#4A148C; }
+      .accent { fill:#F9A825; }
+      .card { fill:#1a1018; stroke:#6A1B9A; stroke-width:1.4; rx:28; ry:28; }
+      .pandora-card { fill:#1a1018; stroke:#EF5350; stroke-width:2.5; rx:30; ry:30; }
+      .shadow { filter:drop-shadow(0px 18px 44px rgba(0,0,0,0.55)); }
+      .title { font-size:44px; font-weight:800; color:#FFFFFF; }
+      .subtitle { font-size:26px; color:#CFD8DC; line-height:1.6; }
+      .card-title { font-size:30px; font-weight:700; color:#FFFFFF; }
+      .card-text { font-size:25px; line-height:1.7; color:#ECEFF1; }
+      .gold { color:#F9A825; font-weight:700; }
+      .purple { color:#CE93D8; font-weight:700; }
+      .red { color:#EF5350; font-weight:700; }
+      .quote { font-size:36px; font-weight:700; color:#CE93D8; line-height:1.6; }
+      .footer { font-size:24px; color:#78909C; }
+    </style>
+  </defs>
+
+  <rect class="bg" x="0" y="0" width="1080" height="1350"/>
+
+  <rect class="header-bar" x="60" y="60" width="960" height="90" rx="22"/>
+  <rect class="accent" x="80" y="82" width="10" height="46" rx="5"/>
+  <foreignObject x="110" y="70" width="900" height="80">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl"
+         style="display:flex;justify-content:space-between;align-items:center;color:#FFF;font-size:28px;font-weight:600;">
+      <span>پیوست ب • نقد نقادانه</span>
+      <span style="opacity:0.8;">ملت‌ها و نجات‌بخشی</span>
+    </div>
+  </foreignObject>
+
+  <!-- Quote -->
+  <rect class="pandora-card shadow" x="80" y="190" width="920" height="260"/>
+  <foreignObject x="100" y="220" width="880" height="200">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl" style="text-align:center;">
+      <div class="quote">
+        «مست گیرند،<br/>
+        در شهر هر آنکه هست گیرند»
+      </div>
+      <div style="font-size:24px;color:#B0BEC5;margin-top:16px;font-style:italic;">
+        وقتی جعبه‌ی پاندورای مداخله باز شود، دیگر بسته نمی‌شود.
+      </div>
+    </div>
+  </foreignObject>
+
+  <!-- Main card -->
+  <rect class="card shadow" x="80" y="485" width="920" height="480"/>
+  <foreignObject x="100" y="505" width="880" height="440">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl" style="text-align:right;">
+      <div class="card-title">استدلال‌های این نقد</div>
+      <div class="card-text" style="margin-top:18px;">
+        ۱. <span class="purple">مشروعیت‌بخشی به مداخله = باز کردن جعبه‌ی پاندورا</span><br/>
+        وقتی اصل «عدم مداخله» نقض شود، هر قدرتی بهانه‌ی خودش را دارد.<br/><br/>
+        ۲. <span class="purple">R2P: ابزار حقوق بشر یا سلطه؟</span><br/>
+        «مسئولیت حمایت» در عمل فقط علیه کشورهای ضعیف اجرا شده،
+        هرگز علیه قدرت‌های بزرگ.<br/><br/>
+        ۳. <span class="purple">آیا ملتی حق دارد بیگانه را دعوت کند؟</span><br/>
+        «دعوت» توسط چه کسی؟ دولت مشروع؟ اپوزیسیون؟
+        یک جناح سیاسی؟ <span class="red">چه کسی «ملت» را نمایندگی می‌کند؟</span><br/><br/>
+        ۴. <span class="purple">مداخله «کنترل‌شده» وجود ندارد</span><br/>
+        تاریخ نشان داده: هیچ مداخله‌ای در چارچوب اولیه‌اش نمانده.
+        همیشه <span class="red">گسترش یافته</span>، همیشه طولانی‌تر شده.
+      </div>
+    </div>
+  </foreignObject>
+
+  <!-- Bottom -->
+  <rect class="card shadow" x="80" y="1000" width="920" height="200"/>
+  <foreignObject x="100" y="1020" width="880" height="160">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl" style="text-align:center;">
+      <div style="font-size:32px;color:#EF5350;font-weight:800;">⚠️ هشدار نویسنده</div>
+      <div class="card-text" style="margin-top:14px;">
+        این پیوست <span class="gold">صدای شخصی نویسنده</span> است، نه تحلیل آکادمیک محض.
+        نقدی است بر همه‌ی کسانی که — از هر سو — مداخله‌ی خارجی را
+        «راه‌حل» می‌دانند.
+      </div>
+    </div>
+  </foreignObject>
+
+  <foreignObject x="80" y="1260" width="920" height="60">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl" class="footer"
+         style="display:flex;justify-content:space-between;align-items:center;">
+      <span>nations_salvation@ • لینک مطالعه در بیو</span>
+      <span>پیوست ب • اسلاید ۱ از ۱</span>
+    </div>
+  </foreignObject>
+</svg>

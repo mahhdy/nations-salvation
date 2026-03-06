@@ -1,0 +1,85 @@
+﻿<svg width="1080" height="1350" viewBox="0 0 1080 1350" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      :root { direction:rtl; font-family:"Vazirmatn","Segoe UI",Tahoma,sans-serif; }
+      .bg { fill:#0c0812; }
+      .header-bar { fill:#1A237E; }
+      .accent { fill:#F9A825; }
+      .card { fill:#12101e; stroke:#311B92; stroke-width:1.4; rx:28; ry:28; }
+      .ideo-card { fill:#160e22; stroke:#D81B60; stroke-width:1.8; rx:24; ry:24; }
+      .shadow { filter:drop-shadow(0px 16px 40px rgba(0,0,0,0.5)); }
+      .title { font-size:46px; font-weight:800; color:#FFFFFF; }
+      .subtitle { font-size:26px; color:#CFD8DC; line-height:1.6; }
+      .card-title { font-size:30px; font-weight:700; color:#FFFFFF; }
+      .card-text { font-size:25px; line-height:1.7; color:#ECEFF1; }
+      .gold { color:#F9A825; font-weight:700; }
+      .pink { color:#F48FB1; font-weight:700; }
+      .red { color:#EF5350; font-weight:700; }
+      .footer { font-size:24px; color:#78909C; }
+    </style>
+  </defs>
+
+  <rect class="bg" x="0" y="0" width="1080" height="1350"/>
+
+  <rect class="header-bar" x="60" y="60" width="960" height="90" rx="22"/>
+  <rect class="accent" x="80" y="82" width="10" height="46" rx="5"/>
+  <foreignObject x="110" y="70" width="900" height="80">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl"
+         style="display:flex;justify-content:space-between;align-items:center;color:#FFF;font-size:28px;font-weight:600;">
+      <span>فصل ۱۳ • میسیونری و ایدئولوژی</span>
+      <span style="opacity:0.8;">ملت‌ها و نجات‌بخشی</span>
+    </div>
+  </foreignObject>
+
+  <foreignObject x="80" y="180" width="920" height="200">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl" style="text-align:right;">
+      <div class="title">✝️☪️⚒️ وقتی <span class="pink">ایدئولوژی</span> لباسِ نجات می‌پوشد</div>
+      <div class="subtitle" style="margin-top:16px;">
+        از میسیونرهای مسیحی قرن ۱۶ تا صدور انقلاب اسلامی،
+        از پان‌اسلاویسم تا «دموکراسی‌سازی» آمریکایی:
+        <span class="gold">هر ایدئولوژی نسخه‌ی خودش از «نجات» را دارد.</span>
+      </div>
+    </div>
+  </foreignObject>
+
+  <!-- Main card -->
+  <rect class="card shadow" x="80" y="400" width="920" height="540"/>
+  <foreignObject x="100" y="420" width="880" height="500">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl" style="text-align:right;">
+      <div class="card-title">هفت پرونده‌ی ایدئولوژیکِ نجات‌طلبی</div>
+      <div class="card-text" style="margin-top:18px;">
+        ۱. <span class="pink">میسیونرهای مسیحی</span>: مدرسه و بیمارستان ساختند،
+        اما راه را برای استعمار هموار کردند.<br/><br/>
+        ۲. <span class="pink">صدور انقلاب اسلامی ایران</span>: حمایت از جنبش‌های شیعی
+        در لبنان، عراق، بحرین و یمن.<br/><br/>
+        ۳. <span class="pink">پان‌اسلاویسم</span>: روسیه به‌عنوان «حامی اسلاوها»
+        در بالکان — مقدمه‌ی جنگ جهانی اول.<br/><br/>
+        ۴. <span class="pink">پان‌ترکیسم</span>: عثمانی و سپس ترکیه‌ی مدرن.<br/><br/>
+        ۵. <span class="pink">پان‌عربیسم</span>: ناصریسم و رؤیای وحدت عربی.<br/><br/>
+        ۶. <span class="pink">انترناسیونالیسم کمونیستی</span>: شوروی و صدور انقلاب.<br/><br/>
+        ۷. <span class="pink">دموکراسی‌سازی آمریکایی</span>: NED، USAID و رسانه‌ها.
+      </div>
+    </div>
+  </foreignObject>
+
+  <!-- Bottom card -->
+  <rect class="ideo-card shadow" x="80" y="970" width="920" height="210"/>
+  <foreignObject x="100" y="990" width="880" height="170">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl" style="text-align:center;">
+      <div style="font-size:32px;color:#F48FB1;font-weight:800;">🔑 تعریف کلیدی فصل ۱۳</div>
+      <div class="card-text" style="margin-top:14px;">
+        <span class="gold">«تسهیل‌گری فرهنگیِ مداخله»</span>: فرایندی که در آن
+        ایدئولوژی یا مذهب، زمینه‌ی فکری و اجتماعی را برای
+        پذیرش مداخله‌ی سیاسی-نظامیِ بعدی آماده می‌کند.
+      </div>
+    </div>
+  </foreignObject>
+
+  <foreignObject x="80" y="1250" width="920" height="60">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl" class="footer"
+         style="display:flex;justify-content:space-between;align-items:center;">
+      <span>nations_salvation@ • لینک مطالعه در بیو</span>
+      <span>اسلاید ۱ از ۵</span>
+    </div>
+  </foreignObject>
+</svg>

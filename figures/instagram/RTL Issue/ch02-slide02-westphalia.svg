@@ -1,0 +1,80 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1350" width="1080" height="1350">
+  <style>
+    text { 
+      direction: rtl; 
+      unicode-bidi: bidi-override;
+    }
+    .rtl-text {
+      direction: rtl;
+      unicode-bidi: embed;
+      text-anchor: end;
+    }
+  </style>
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0D1117"/>
+      <stop offset="100%" style="stop-color:#161B22"/>
+    </linearGradient>
+    <linearGradient id="titleGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#00D9FF"/>
+      <stop offset="50%" style="stop-color:#A855F7"/>
+      <stop offset="100%" style="stop-color:#EC4899"/>
+    </linearGradient>
+  </defs>
+  
+  <rect width="1080" height="1350" fill="url(#bgGrad)"/>
+  
+  <!-- Header -->
+  <rect x="660" y="30" width="380" height="50" rx="25" fill="#1A237E"/>
+  <text x="850" y="65" font-family="Vazirmatn, Tahoma" font-size="28" fill="#FFFFFF" text-anchor="middle" direction="rtl">فصل ۲ • اسلاید ۲ از ۸</text>
+  
+  <!-- Title -->
+  <text x="540" y="160" font-family="Vazirmatn, Tahoma" font-size="52" font-weight="bold" fill="url(#titleGrad)" text-anchor="middle" direction="rtl">صلح وستفالی ۱۶۴۸</text>
+  <text x="540" y="220" font-family="Vazirmatn, Tahoma" font-size="30" fill="#94A3B8" text-anchor="middle" direction="rtl">تولد نظام بین‌الملل مدرن</text>
+  
+  <!-- Timeline marker -->
+  <rect x="100" y="270" width="880" height="8" rx="4" fill="#1A237E"/>
+  <circle cx="540" cy="274" r="20" fill="#F9A825"/>
+  <text x="540" y="330" font-family="Vazirmatn, Tahoma" font-size="28" fill="#F9A825" text-anchor="middle" font-weight="bold">۱۶۴۸</text>
+  
+  <!-- Main concept box -->
+  <rect x="60" y="370" width="960" height="200" rx="20" fill="#1A237E" fill-opacity="0.4" stroke="#00D9FF" stroke-width="3"/>
+  <text x="540" y="430" font-family="Vazirmatn, Tahoma" font-size="36" fill="#00D9FF" text-anchor="middle" direction="rtl" font-weight="bold">🏛️ اصل حاکمیت ملی:</text>
+  <text x="540" y="490" font-family="Vazirmatn, Tahoma" font-size="32" fill="#FFFFFF" text-anchor="middle" direction="rtl">هر دولت در قلمرو خود حاکم مطلق است</text>
+  <text x="540" y="545" font-family="Vazirmatn, Tahoma" font-size="32" fill="#FFFFFF" text-anchor="middle" direction="rtl">و هیچ قدرت خارجی حق دخالت ندارد.</text>
+  
+  <!-- Three pillars -->
+  <text x="540" y="630" font-family="Vazirmatn, Tahoma" font-size="32" fill="#F9A825" text-anchor="middle" direction="rtl" font-weight="bold">سه ستون وستفالیایی:</text>
+  
+  <rect x="720" y="680" width="300" height="150" rx="15" fill="#2E7D32" fill-opacity="0.2" stroke="#2E7D32" stroke-width="2"/>
+  <text x="870" y="730" font-family="Vazirmatn, Tahoma" font-size="28" fill="#4ADE80" text-anchor="middle" direction="rtl" font-weight="bold">تمامیت ارضی</text>
+  <text x="870" y="775" font-family="Vazirmatn, Tahoma" font-size="22" fill="#FFFFFF" text-anchor="middle" direction="rtl">مرزها مقدس و</text>
+  <text x="870" y="805" font-family="Vazirmatn, Tahoma" font-size="22" fill="#FFFFFF" text-anchor="middle" direction="rtl">غیرقابل تغییر هستند</text>
+  
+  <rect x="390" y="680" width="300" height="150" rx="15" fill="#F9A825" fill-opacity="0.2" stroke="#F9A825" stroke-width="2"/>
+  <text x="540" y="730" font-family="Vazirmatn, Tahoma" font-size="28" fill="#F9A825" text-anchor="middle" direction="rtl" font-weight="bold">عدم مداخله</text>
+  <text x="540" y="775" font-family="Vazirmatn, Tahoma" font-size="22" fill="#FFFFFF" text-anchor="middle" direction="rtl">امور داخلی هر کشور</text>
+  <text x="540" y="805" font-family="Vazirmatn, Tahoma" font-size="22" fill="#FFFFFF" text-anchor="middle" direction="rtl">به خودش مربوط است</text>
+  
+  <rect x="60" y="680" width="300" height="150" rx="15" fill="#A855F7" fill-opacity="0.2" stroke="#A855F7" stroke-width="2"/>
+  <text x="210" y="730" font-family="Vazirmatn, Tahoma" font-size="28" fill="#C084FC" text-anchor="middle" direction="rtl" font-weight="bold">برابری دولت‌ها</text>
+  <text x="210" y="775" font-family="Vazirmatn, Tahoma" font-size="22" fill="#FFFFFF" text-anchor="middle" direction="rtl">همه‌ی دولت‌ها</text>
+  <text x="210" y="805" font-family="Vazirmatn, Tahoma" font-size="22" fill="#FFFFFF" text-anchor="middle" direction="rtl">حقوقاً برابرند</text>
+  
+  <!-- Challenge box -->
+  <rect x="80" y="870" width="920" height="180" rx="20" fill="#DC2626" fill-opacity="0.1" stroke="#DC2626" stroke-width="2"/>
+  <text x="540" y="920" font-family="Vazirmatn, Tahoma" font-size="30" fill="#DC2626" text-anchor="middle" direction="rtl" font-weight="bold">⚠️ چالش اصلی:</text>
+  <text x="540" y="975" font-family="Vazirmatn, Tahoma" font-size="28" fill="#FFFFFF" text-anchor="middle" direction="rtl">اگر دولتی به مردم خود ظلم کند،</text>
+  <text x="540" y="1020" font-family="Vazirmatn, Tahoma" font-size="28" fill="#FFFFFF" text-anchor="middle" direction="rtl">آیا جامعه‌ی جهانی باید «بی‌طرف» بماند؟</text>
+  
+  <!-- This tension -->
+  <rect x="200" y="1080" width="680" height="80" rx="15" fill="#1A237E" stroke="#F9A825" stroke-width="2"/>
+  <text x="540" y="1130" font-family="Vazirmatn, Tahoma" font-size="28" fill="#F9A825" text-anchor="middle" direction="rtl">این تنش محور اصلی حقوق بین‌الملل معاصر است.</text>
+  
+  <!-- Stat -->
+  <text x="540" y="1210" font-family="Vazirmatn, Tahoma" font-size="26" fill="#94A3B8" text-anchor="middle" direction="rtl">📊 بیش از ۱۹۰ کشور عضو سازمان ملل بر این اصل بنا شده‌اند.</text>
+  
+  <text x="540" y="1270" font-family="Vazirmatn, Tahoma" font-size="26" fill="#00D9FF" text-anchor="middle" direction="rtl">بعدی: منشور ملل متحد ←</text>
+  
+  <rect x="40" y="1306" width="1000" height="4" rx="2" fill="url(#titleGrad)"/>
+</svg>

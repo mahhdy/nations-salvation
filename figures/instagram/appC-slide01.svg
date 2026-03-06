@@ -1,0 +1,123 @@
+﻿<svg width="1080" height="1350" viewBox="0 0 1080 1350" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      :root { direction:rtl; font-family:"Vazirmatn","Segoe UI",Tahoma,sans-serif; }
+      .bg { fill:#080a10; }
+      .header-bar { fill:#1B5E20; }
+      .accent { fill:#F9A825; }
+      .card { fill:#0e1418; stroke:#2E7D32; stroke-width:1.4; rx:28; ry:28; }
+      .doc-card { fill:#101a14; stroke:#4CAF50; stroke-width:1.8; rx:24; ry:24; }
+      .shadow { filter:drop-shadow(0px 16px 36px rgba(0,0,0,0.45)); }
+      .title { font-size:44px; font-weight:800; color:#FFFFFF; }
+      .subtitle { font-size:26px; color:#CFD8DC; line-height:1.6; }
+      .card-title { font-size:30px; font-weight:700; color:#FFFFFF; }
+      .card-text { font-size:24px; line-height:1.65; color:#ECEFF1; }
+      .gold { color:#F9A825; font-weight:700; }
+      .green { color:#69F0AE; font-weight:700; }
+      .red { color:#EF5350; font-weight:700; }
+      .footer { font-size:24px; color:#78909C; }
+    </style>
+  </defs>
+
+  <rect class="bg" x="0" y="0" width="1080" height="1350"/>
+
+  <rect class="header-bar" x="60" y="60" width="960" height="90" rx="22"/>
+  <rect class="accent" x="80" y="82" width="10" height="46" rx="5"/>
+  <foreignObject x="110" y="70" width="900" height="80">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl"
+         style="display:flex;justify-content:space-between;align-items:center;color:#FFF;font-size:28px;font-weight:600;">
+      <span>پیوست پ • ایران پس از ۱۳۵۷</span>
+      <span style="opacity:0.8;">ملت‌ها و نجات‌بخشی</span>
+    </div>
+  </foreignObject>
+
+  <foreignObject x="80" y="175" width="920" height="110">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl" style="text-align:right;">
+      <div class="title">🇮🇷 اسناد، عملیات‌ها و ابزارهای مداخله</div>
+    </div>
+  </foreignObject>
+
+  <!-- Card 1: CIA -->
+  <rect class="doc-card shadow" x="80" y="280" width="440" height="230"/>
+  <foreignObject x="100" y="295" width="400" height="200">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl" style="text-align:right;">
+      <div class="card-title"><span class="green">📂</span> اسناد CIA</div>
+      <div class="card-text" style="margin-top:10px;">
+        • اسناد کودتای ۲۸ مرداد<br/>
+        • ارزیابی‌های پس از انقلاب ۵۷<br/>
+        • گزارش‌های جنگ ایران-عراق<br/>
+        • پرونده‌ی هسته‌ای ایران
+      </div>
+    </div>
+  </foreignObject>
+
+  <!-- Card 2: Operations -->
+  <rect class="doc-card shadow" x="560" y="280" width="440" height="230"/>
+  <foreignObject x="580" y="295" width="400" height="200">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl" style="text-align:right;">
+      <div class="card-title"><span class="green">🔐</span> عملیات‌های مستند</div>
+      <div class="card-text" style="margin-top:10px;">
+        • <span class="gold">Stuxnet</span>: سلاح سایبری<br/>
+        • ترور دانشمندان هسته‌ای<br/>
+        • حمایت از گروه‌های مسلح<br/>
+        • جنگ اطلاعاتی هدفمند
+      </div>
+    </div>
+  </foreignObject>
+
+  <!-- Card 3: Sanctions -->
+  <rect class="doc-card shadow" x="80" y="535" width="440" height="230"/>
+  <foreignObject x="100" y="550" width="400" height="200">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl" style="text-align:right;">
+      <div class="card-title"><span class="green">💰</span> تحریم‌ها</div>
+      <div class="card-text" style="margin-top:10px;">
+        • تحریم = <span class="red">مداخله‌ی اقتصادی</span><br/>
+        • نابودی طبقه‌ی متوسط<br/>
+        • تحریم‌های ثانویه بر متحدان<br/>
+        • «فشار حداکثری» ۲۰۱۸–۲۰۲۰
+      </div>
+    </div>
+  </foreignObject>
+
+  <!-- Card 4: Media -->
+  <rect class="doc-card shadow" x="560" y="535" width="440" height="230"/>
+  <foreignObject x="580" y="550" width="400" height="200">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl" style="text-align:right;">
+      <div class="card-title"><span class="green">📡</span> رسانه‌های فارسی‌زبان</div>
+      <div class="card-text" style="margin-top:10px;">
+        • صدای آمریکا، BBC فارسی<br/>
+        • رادیو فردا، ایران اینترنشنال<br/>
+        • بودجه‌ی سالانه: <span class="gold">صدها میلیون دلار</span><br/>
+        • مرز «خبر» و «عملیات نفوذ»
+      </div>
+    </div>
+  </foreignObject>
+
+  <!-- Main analysis card -->
+  <rect class="card shadow" x="80" y="795" width="920" height="360"/>
+  <foreignObject x="100" y="815" width="880" height="320">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl" style="text-align:right;">
+      <div class="card-title">چرا ایران پس از ۱۳۵۷ مهم است؟</div>
+      <div class="card-text" style="margin-top:16px;">
+        ایران نمونه‌ای منحصربه‌فرد است زیرا:<br/><br/>
+        • <span class="gold">همه‌ی ابزارهای مداخله</span> علیه آن به‌کار رفته:
+        کودتا، جنگ نیابتی، تحریم، حمله‌ی سایبری، جنگ رسانه‌ای.<br/><br/>
+        • اما رژیم <span class="red">سقوط نکرده</span>. چرا؟ آیا به‌دلیل «مقاومت ملی»
+        یا «سرکوب داخلی» یا ترکیبی از هر دو؟<br/><br/>
+        • این پرسش، کل مدل کتاب را به چالش می‌کشد:
+        <span class="gold">آیا مداخله‌ی خارجی واقعاً توان تغییر رژیمِ مقاوم را دارد؟</span><br/><br/>
+        • و اگر ندارد، چرا همچنان ادامه می‌یابد؟
+        پاسخ: <span class="red">منافع مداخله‌گر ≠ سقوط رژیم</span>؛
+        تضعیف کافی است.
+      </div>
+    </div>
+  </foreignObject>
+
+  <foreignObject x="80" y="1260" width="920" height="60">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl" class="footer"
+         style="display:flex;justify-content:space-between;align-items:center;">
+      <span>nations_salvation@ • لینک مطالعه در بیو</span>
+      <span>پیوست پ • اسلاید ۱ از ۲</span>
+    </div>
+  </foreignObject>
+</svg>

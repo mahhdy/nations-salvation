@@ -1,0 +1,102 @@
+﻿<svg width="1080" height="1350" viewBox="0 0 1080 1350" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      :root { direction: rtl; font-family:"Vazirmatn","Segoe UI",Tahoma,sans-serif; }
+      .bg { fill:#050816; }
+      .header-bar { fill:#1A237E; }
+      .header-accent { fill:#F9A825; }
+      .card-main { fill:#101322; stroke:#263238; stroke-width:1.5; rx:32; ry:32; }
+      .pill { fill:rgba(255,255,255,0.05); stroke:#3949AB; stroke-width:1; rx:18; ry:18; }
+      .shadow { filter: drop-shadow(0px 18px 40px rgba(0,0,0,0.5)); }
+      .title { font-size:46px; font-weight:800; color:#FFFFFF; }
+      .subtitle { font-size:26px; color:#CFD8DC; }
+      .card-title { font-size:32px; font-weight:700; color:#FFFFFF; }
+      .card-text { font-size:26px; line-height:1.7; color:#ECEFF1; }
+      .gold { color:#F9A825; font-weight:700; }
+      .green { color:#2E7D32; font-weight:700; }
+      .red { color:#EF5350; font-weight:700; }
+      .footer { font-size:24px; color:#90A4AE; }
+    </style>
+  </defs>
+
+  <rect class="bg" x="0" y="0" width="1080" height="1350"/>
+
+  <!-- Header -->
+  <rect class="header-bar" x="60" y="70" width="960" height="90" rx="22" ry="22"/>
+  <rect class="header-accent" x="80" y="92" width="10" height="46" rx="5" ry="5"/>
+
+  <foreignObject x="110" y="80" width="900" height="80">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl"
+         style="display:flex;justify-content:space-between;align-items:center;color:#FFFFFF;font-size:28px;font-weight:600;">
+      <span>نقشه‌ی جمع‌بندی • فصل ۱۰</span>
+      <span style="opacity:0.85;">ملت‌ها و نجات‌بخشی</span>
+    </div>
+  </foreignObject>
+
+  <!-- Title -->
+  <foreignObject x="80" y="190" width="920" height="130">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl" style="text-align:right;">
+      <div class="title">پنج الگوی تکرارشونده در مداخلات معاصر</div>
+      <div class="subtitle" style="margin-top:14px;">
+        اگر این پنج علامت را کنار هم دیدید، احتمالاً در آستانه‌ی
+        یک <span class="red">فاجعه‌ی نجات‌طلبانه</span> هستیم، نه رهایی.
+      </div>
+    </div>
+  </foreignObject>
+
+  <!-- Main card -->
+  <rect class="card-main shadow" x="80" y="320" width="920" height="620"/>
+  <foreignObject x="100" y="340" width="880" height="580">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl" style="text-align:right;">
+      <div class="card-title">مدل ذهنی برای خواندن اخبار مداخله</div>
+      <div class="card-text" style="margin-top:20px;">
+        ۱. <span class="gold">بهانه‌ی اخلاقیِ بسیار ساده، واقعیت میدانیِ بسیار پیچیده</span><br/>
+        &nbsp;&nbsp;&nbsp;• «نجات مردم X از دیکتاتور Y»؛ بدون توضیح درباره‌ی ساختار،
+        اقتصاد، هویت‌ها و تاریخ آن جامعه.<br/><br/>
+        ۲. <span class="gold">وعده‌ی «محدود، دقیق، کوتاه» بودن عملیات</span><br/>
+        &nbsp;&nbsp;&nbsp;• عراق، افغانستان، لیبی، سوریه… تقریباً هیچ‌کدام مطابق
+        با افق زمانیِ وعده داده‌شده پیش نرفتند.<br/><br/>
+        ۳. <span class="gold">ابهام در معماری «روز بعد»</span><br/>
+        &nbsp;&nbsp;&nbsp;• چه نوع دولتی قرار است ساخته شود؟ چه کسی هزینه‌ی بازسازی
+        را می‌دهد؟ پاسخ روشن نیست.<br/><br/>
+        ۴. <span class="gold">بزرگ‌نمایی توانِ «مهندسی جامعه» از بیرون</span><br/>
+        &nbsp;&nbsp;&nbsp;• گمان اینکه با چند هزار سرباز یا چند صد حمله‌ی هوایی
+        می‌توان هویت‌ها، نخبگان و نهادهای یک ملت را بازنویسی کرد.<br/><br/>
+        ۵. <span class="gold">انتقال ریسک و هزینه به مردمِ میزبان</span><br/>
+        &nbsp;&nbsp;&nbsp;• در همه‌ی پرونده‌ها، بیشترین تلفات و هزینه‌ی اقتصادی را
+        همان مردمی می‌پردازند که قرار بود «نجات» یابند.
+      </div>
+    </div>
+  </foreignObject>
+
+  <!-- Pills -->
+  <rect class="pill" x="80" y="970" width="430" height="90"/>
+  <foreignObject x="100" y="980" width="390" height="70">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl"
+         style="text-align:right;font-size:24px;color:#BBDEFB;">
+      این الگوها در فصل ۱۰ با جدول تطبیقیِ ۳۰ مداخله مستند شده‌اند.
+    </div>
+  </foreignObject>
+
+  <rect class="pill" x="570" y="970" width="430" height="90"/>
+  <foreignObject x="590" y="980" width="390" height="70">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl"
+         style="text-align:right;font-size:24px;color:#C8E6C9;">
+      <span class="green">پیشنهاد خواندن:</span> قبل از قضاوت درباره‌ی هر مداخله‌ی جدید،
+      این پنج سؤال را روی آن پیاده کنید.
+    </div>
+  </foreignObject>
+
+  <!-- Footer -->
+  <foreignObject x="80" y="1110" width="920" height="120">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl"
+         class="footer"
+         style="display:flex;flex-direction:column;align-items:flex-end;gap:10px;">
+      <div>برای دسترسی به نسخه‌ی PDF و منابع، به لینک معرفی کتاب «ملت‌ها و نجات‌بخشی» مراجعه کنید.</div>
+      <div style="display:flex;justify-content:space-between;width:100%;align-items:center;">
+        <span>nations_salvation • لینک مطالعه در بیو</span>
+        <span>فصل ۱۰ • مداخلات معاصر</span>
+      </div>
+    </div>
+  </foreignObject>
+</svg>

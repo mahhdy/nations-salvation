@@ -1,0 +1,167 @@
+﻿<svg width="1080" height="1350" viewBox="0 0 1080 1350" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      :root { direction:rtl; font-family:"Vazirmatn","Segoe UI",Tahoma,sans-serif; }
+      .bg { fill:#080a10; }
+      .header-bar { fill:#1B5E20; }
+      .accent { fill:#F9A825; }
+      .card { fill:#0e1418; stroke:#2E7D32; stroke-width:1.4; rx:28; ry:28; }
+      .tl-card { fill:#101a14; stroke:#388E3C; stroke-width:1.6; rx:20; ry:20; }
+      .shadow { filter:drop-shadow(0px 14px 32px rgba(0,0,0,0.4)); }
+      .title { font-size:42px; font-weight:800; color:#FFFFFF; }
+      .card-title { font-size:28px; font-weight:700; color:#FFFFFF; }
+      .card-text { font-size:23px; line-height:1.6; color:#ECEFF1; }
+      .gold { color:#F9A825; font-weight:700; }
+      .green { color:#69F0AE; font-weight:700; }
+      .red { color:#EF5350; font-weight:700; }
+      .year { font-size:36px; font-weight:900; color:#4CAF50; }
+      .footer { font-size:24px; color:#78909C; }
+      .line { stroke:#4CAF50; stroke-width:3; }
+      .dot { fill:#4CAF50; }
+    </style>
+  </defs>
+
+  <rect class="bg" x="0" y="0" width="1080" height="1350"/>
+
+  <rect class="header-bar" x="60" y="60" width="960" height="90" rx="22"/>
+  <rect class="accent" x="80" y="82" width="10" height="46" rx="5"/>
+  <foreignObject x="110" y="70" width="900" height="80">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl"
+         style="display:flex;justify-content:space-between;align-items:center;color:#FFF;font-size:28px;font-weight:600;">
+      <span>تایم‌لاین مداخلات</span>
+      <span style="opacity:0.8;">پیوست پ • ایران پس از ۱۳۵۷</span>
+    </div>
+  </foreignObject>
+
+  <foreignObject x="80" y="168" width="920" height="70">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl" style="text-align:right;">
+      <div class="title">۴۵ سال مداخله: از جنگ تا سایبر</div>
+    </div>
+  </foreignObject>
+
+  <!-- Timeline line -->
+  <line class="line" x1="140" y1="260" x2="140" y2="1180"/>
+
+  <!-- 1980 -->
+  <circle class="dot" cx="140" cy="285" r="10"/>
+  <rect class="tl-card shadow" x="180" y="255" width="820" height="110"/>
+  <foreignObject x="200" y="265" width="780" height="90">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl" style="text-align:right;">
+      <div style="display:flex;gap:16px;align-items:flex-start;">
+        <div class="year">۱۹۸۰</div>
+        <div>
+          <div class="card-title">حمایت از صدام در جنگ ایران-عراق</div>
+          <div class="card-text">اطلاعات ماهواره‌ای، سلاح شیمیایی، وام‌های میلیاردی</div>
+        </div>
+      </div>
+    </div>
+  </foreignObject>
+
+  <!-- 1988 -->
+  <circle class="dot" cx="140" cy="400" r="10"/>
+  <rect class="tl-card shadow" x="180" y="370" width="820" height="110"/>
+  <foreignObject x="200" y="380" width="780" height="90">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl" style="text-align:right;">
+      <div style="display:flex;gap:16px;align-items:flex-start;">
+        <div class="year">۱۹۸۸</div>
+        <div>
+          <div class="card-title">سرنگونی پرواز ۶۵۵ ایران‌ایر</div>
+          <div class="card-text">۲۹۰ مسافر غیرنظامی. آمریکا: <span class="red">«عذرخواهی نمی‌کنیم»</span></div>
+        </div>
+      </div>
+    </div>
+  </foreignObject>
+
+  <!-- 1995-2010 -->
+  <circle class="dot" cx="140" cy="515" r="10"/>
+  <rect class="tl-card shadow" x="180" y="485" width="820" height="110"/>
+  <foreignObject x="200" y="495" width="780" height="90">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl" style="text-align:right;">
+      <div style="display:flex;gap:16px;align-items:flex-start;">
+        <div class="year">۱۹۹۵</div>
+        <div>
+          <div class="card-title">شروع تحریم‌های جامع</div>
+          <div class="card-text">فشار اقتصادی فزاینده: نفت، بانک، فناوری، دارو</div>
+        </div>
+      </div>
+    </div>
+  </foreignObject>
+
+  <!-- 2010 -->
+  <circle class="dot" cx="140" cy="630" r="10"/>
+  <rect class="tl-card shadow" x="180" y="600" width="820" height="110"/>
+  <foreignObject x="200" y="610" width="780" height="90">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl" style="text-align:right;">
+      <div style="display:flex;gap:16px;align-items:flex-start;">
+        <div class="year">۲۰۱۰</div>
+        <div>
+          <div class="card-title"><span class="gold">Stuxnet</span>: اولین سلاح سایبری دولتی</div>
+          <div class="card-text">حمله به سانتریفیوژهای نطنز — آغاز عصر جنگ سایبری</div>
+        </div>
+      </div>
+    </div>
+  </foreignObject>
+
+  <!-- 2010-2020 -->
+  <circle class="dot" cx="140" cy="745" r="10"/>
+  <rect class="tl-card shadow" x="180" y="715" width="820" height="110"/>
+  <foreignObject x="200" y="725" width="780" height="90">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl" style="text-align:right;">
+      <div style="display:flex;gap:16px;align-items:flex-start;">
+        <div class="year">۱۰–۲۰</div>
+        <div>
+          <div class="card-title">ترور دانشمندان هسته‌ای</div>
+          <div class="card-text">حداقل ۵ دانشمند ترور شدند. <span class="red">عملیات زمینی در قلب ایران</span></div>
+        </div>
+      </div>
+    </div>
+  </foreignObject>
+
+  <!-- 2018 -->
+  <circle class="dot" cx="140" cy="860" r="10"/>
+  <rect class="tl-card shadow" x="180" y="830" width="820" height="110"/>
+  <foreignObject x="200" y="840" width="780" height="90">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl" style="text-align:right;">
+      <div style="display:flex;gap:16px;align-items:flex-start;">
+        <div class="year">۲۰۱۸</div>
+        <div>
+          <div class="card-title">خروج آمریکا از برجام و «فشار حداکثری»</div>
+          <div class="card-text">هدف اعلام‌شده: تغییر رفتار. هدف واقعی؟ <span class="gold">تغییر رژیم؟</span></div>
+        </div>
+      </div>
+    </div>
+  </foreignObject>
+
+  <!-- 2020+ -->
+  <circle class="dot" cx="140" cy="975" r="10"/>
+  <rect class="tl-card shadow" x="180" y="945" width="820" height="110"/>
+  <foreignObject x="200" y="955" width="780" height="90">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl" style="text-align:right;">
+      <div style="display:flex;gap:16px;align-items:flex-start;">
+        <div class="year">۲۰+</div>
+        <div>
+          <div class="card-title">جنگ ترکیبی: سایبر + رسانه + تحریم + اعتراضات</div>
+          <div class="card-text">همه‌ی ابزارها هم‌زمان فعال‌اند. <span class="red">ایران: آزمایشگاه جنگ ترکیبی</span></div>
+        </div>
+      </div>
+    </div>
+  </foreignObject>
+
+  <!-- Bottom -->
+  <rect class="card shadow" x="80" y="1085" width="920" height="130"/>
+  <foreignObject x="100" y="1100" width="880" height="95">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl" style="text-align:center;">
+      <div style="font-size:28px;color:#F9A825;font-weight:700;">
+        📖 اسناد و منابع کامل در پیوست پ کتاب → لینک در بیو
+      </div>
+    </div>
+  </foreignObject>
+
+  <foreignObject x="80" y="1260" width="920" height="60">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl" class="footer"
+         style="display:flex;justify-content:space-between;align-items:center;">
+      <span>nations_salvation@ • لینک مطالعه در بیو</span>
+      <span>پیوست پ • اسلاید ۲ از ۲</span>
+    </div>
+  </foreignObject>
+</svg>

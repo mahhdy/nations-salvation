@@ -1,0 +1,118 @@
+﻿<svg width="1080" height="1350" viewBox="0 0 1080 1350" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      :root { direction:rtl; font-family:"Vazirmatn","Segoe UI",Tahoma,sans-serif; }
+      .bg { fill:#060d18; }
+      .header-bar { fill:#1A237E; }
+      .accent { fill:#F9A825; }
+      .card { fill:#0e1628; stroke:#1e3a5f; stroke-width:1.4; rx:28; ry:28; }
+      .oil-card { fill:#1a1400; stroke:#FF8F00; stroke-width:2; rx:24; ry:24; }
+      .shadow { filter:drop-shadow(0px 16px 36px rgba(0,0,0,0.45)); }
+      .title { font-size:46px; font-weight:800; color:#FFFFFF; }
+      .subtitle { font-size:26px; color:#CFD8DC; line-height:1.6; }
+      .card-title { font-size:30px; font-weight:700; color:#FFFFFF; }
+      .card-text { font-size:25px; line-height:1.7; color:#ECEFF1; }
+      .gold { color:#F9A825; font-weight:700; }
+      .orange { color:#FFB74D; font-weight:700; }
+      .red { color:#EF5350; font-weight:700; }
+      .teal { color:#4DB6AC; font-weight:700; }
+      .stat { font-size:52px; font-weight:900; color:#FF8F00; }
+      .footer { font-size:24px; color:#78909C; }
+    </style>
+  </defs>
+
+  <rect class="bg" x="0" y="0" width="1080" height="1350"/>
+
+  <rect class="header-bar" x="60" y="60" width="960" height="90" rx="22"/>
+  <rect class="accent" x="80" y="82" width="10" height="46" rx="5"/>
+  <foreignObject x="110" y="70" width="900" height="80">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl"
+         style="display:flex;justify-content:space-between;align-items:center;color:#FFF;font-size:28px;font-weight:600;">
+      <span>نفرین منابع</span>
+      <span style="opacity:0.8;">فصل ۱۲ • جامعه‌شناسی و اقتصاد</span>
+    </div>
+  </foreignObject>
+
+  <foreignObject x="80" y="180" width="920" height="130">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl" style="text-align:right;">
+      <div class="title">🛢️ نفت: <span class="orange">نعمت یا نقمت؟</span></div>
+      <div class="subtitle" style="margin-top:14px;">
+        چرا کشورهای نفت‌خیز بیشتر در معرض مداخله، کودتا و بی‌ثباتی هستند؟
+      </div>
+    </div>
+  </foreignObject>
+
+  <!-- Main explanation -->
+  <rect class="card shadow" x="80" y="310" width="920" height="400"/>
+  <foreignObject x="100" y="330" width="880" height="360">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl" style="text-align:right;">
+      <div class="card-title">مکانیسم نفرین منابع</div>
+      <div class="card-text" style="margin-top:18px;">
+        • <span class="orange">دولت رانتیر</span>: درآمد از فروش منابع، نه مالیات مردم.
+        بنابراین دولت <span class="gold">پاسخ‌گوی مردم نیست</span>، پاسخ‌گوی خریداران
+        منابع است.<br/><br/>
+        • <span class="orange">بیماری هلندی</span>: صنایع غیرنفتی ضعیف می‌شوند؛
+        اقتصاد تک‌محصولی و آسیب‌پذیر.<br/><br/>
+        • <span class="orange">جذابیت برای مداخله‌گر</span>: کشور نفت‌خیز = جایزه‌ی بزرگ.
+        بهانه‌ی اخلاقی (دموکراسی، حقوق بشر) + انگیزه‌ی اقتصادی
+        (دسترسی به منابع) = <span class="red">ترکیب خطرناک</span>.<br/><br/>
+        • <span class="orange">اثر سرکوب</span>: رانت نفتی به دولت قدرت سرکوبِ
+        بدون وابستگی به رضایت عمومی را می‌دهد.
+      </div>
+    </div>
+  </foreignObject>
+
+  <!-- Oil stat cards -->
+  <rect class="oil-card shadow" x="80" y="740" width="290" height="230"/>
+  <foreignObject x="100" y="760" width="250" height="190">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl" style="text-align:center;">
+      <div class="stat">۷۰٪</div>
+      <div class="card-text" style="margin-top:10px;">
+        از مداخلات بزرگ ۵۰ سال اخیر در کشورهای <span class="orange">نفت‌خیز</span> رخ داده
+      </div>
+    </div>
+  </foreignObject>
+
+  <rect class="oil-card shadow" x="395" y="740" width="290" height="230"/>
+  <foreignObject x="415" y="760" width="250" height="190">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl" style="text-align:center;">
+      <div class="stat">عراق</div>
+      <div class="card-text" style="margin-top:10px;">
+        ذخایر اثبات‌شده‌ی نفت عراق: رتبه‌ی پنجم جهان.
+        <span class="orange">تصادفی؟</span>
+      </div>
+    </div>
+  </foreignObject>
+
+  <rect class="oil-card shadow" x="710" y="740" width="290" height="230"/>
+  <foreignObject x="730" y="760" width="250" height="190">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl" style="text-align:center;">
+      <div class="stat">لیبی</div>
+      <div class="card-text" style="margin-top:10px;">
+        بزرگ‌ترین ذخایر نفتی آفریقا.
+        مداخله‌ی ۲۰۱۱: <span class="red">«حفاظت» یا «تصاحب»؟</span>
+      </div>
+    </div>
+  </foreignObject>
+
+  <!-- Bottom insight -->
+  <rect class="card shadow" x="80" y="1005" width="920" height="180"/>
+  <foreignObject x="100" y="1025" width="880" height="140">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl" style="text-align:center;">
+      <div style="font-size:32px;color:#FFB74D;font-weight:800;">⚡ نتیجه‌گیری</div>
+      <div class="card-text" style="margin-top:12px;">
+        <span class="gold">نفرین منابع</span> فقط یک نظریه‌ی اقتصادی نیست؛
+        ابزاری تحلیلی است برای فهم اینکه چرا بعضی ملت‌ها
+        بیشتر از دیگران هدف «نجات‌بخشی» قرار می‌گیرند.
+      </div>
+    </div>
+  </foreignObject>
+
+  <foreignObject x="80" y="1250" width="920" height="60">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl" class="footer"
+         style="display:flex;justify-content:space-between;align-items:center;">
+      <span>nations_salvation@ • لینک مطالعه در بیو</span>
+      <span>اسلاید ۲ از ۵</span>
+    </div>
+  </foreignObject>
+</svg>

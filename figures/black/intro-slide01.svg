@@ -1,0 +1,84 @@
+﻿<svg width="1080" height="1350" viewBox="0 0 1080 1350"
+     xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      :root{
+        direction:rtl;
+        font-family:"Vazirmatn","Shabnam","Sahel","IRANSansX","Segoe UI",sans-serif;
+      }
+      .bg{fill:#050816;}
+      .hero{fill:#0c1020;stroke:#F9A825;stroke-width:3;rx:40;ry:40;}
+      .header-bar{fill:#1A237E;}
+      .accent{fill:#F9A825;}
+      .shadow{filter:drop-shadow(0 24px 60px rgba(0,0,0,0.7));}
+      .title{font-size:62px;font-weight:900;color:#FFFFFF;line-height:1.6;}
+      .subtitle{font-size:30px;color:#CFD8DC;line-height:1.8;}
+      .pill{fill:rgba(255,255,255,0.05);stroke:#3949AB;stroke-width:1.4;rx:20;ry:20;}
+      .pill-text{font-size:26px;color:#BBDEFB;}
+      .footer{font-size:24px;color:#90A4AE;}
+    </style>
+  </defs>
+
+  <rect class="bg" width="1080" height="1350"/>
+
+  <!-- Header small bar -->
+  <rect class="header-bar" x="70" y="70" width="940" height="86" rx="24"/>
+  <rect class="accent" x="90" y="90" width="10" height="46" rx="5"/>
+  <foreignObject x="115" y="78" width="880" height="70">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl"
+         style="display:flex;justify-content:space-between;align-items:center;color:#fff;font-size:28px;font-weight:600;">
+      <span>معرفی کتاب</span>
+      <span style="opacity:.8;">ملت‌ها و نجات‌بخشی</span>
+    </div>
+  </foreignObject>
+
+  <!-- Hero card -->
+  <rect class="hero shadow" x="70" y="190" width="940" height="650"/>
+  <foreignObject x="110" y="230" width="860" height="580">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl"
+         style="text-align:center;">
+      <div class="title">
+        ملت‌ها و نجات‌بخشی
+      </div>
+      <div style="font-size:34px;color:#F9A825;font-weight:700;margin-top:18px;">
+        آرزواندیشی و خام‌اندیشی<br/>یا فرصت‌طلبی و عمل‌گرایی؟
+      </div>
+      <div class="subtitle" style="margin-top:30px;">
+        از ایران باستان تا جنگ اوکراین، این کتاب نشان می‌دهد چرا
+        تقریباً همه‌ی مداخلات خارجی با شعار <span style="color:#F9A825;">«نجات»</span>
+        شروع می‌شوند اما اغلب به <span style="color:#EF5350;">آشوب و وابستگی</span> می‌انجامند.
+      </div>
+      <div style="font-size:28px;color:#ECEFF1;margin-top:40px;">
+        نویسنده: <span style="color:#F9A825;font-weight:700;">مهدی سالم</span><br/>
+        سطح: پژوهشی-آکادمیک • ۱۴ فصل + ۴ پیوست
+      </div>
+    </div>
+  </foreignObject>
+
+  <!-- Pills -->
+  <rect class="pill" x="70" y="880" width="430" height="80"/>
+  <foreignObject x="90" y="892" width="390" height="60">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl"
+         class="pill-text" style="text-align:right;">
+      ۳۰+ مطالعه‌ی موردی از عراق، افغانستان، لیبی، سوریه، اوکراین و...
+    </div>
+  </foreignObject>
+
+  <rect class="pill" x="580" y="880" width="430" height="80"/>
+  <foreignObject x="600" y="892" width="390" height="60">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl"
+         class="pill-text" style="text-align:right;">
+      مدل شش‌وجهی برای تحلیل هر مداخله‌ی خارجی
+    </div>
+  </foreignObject>
+
+  <!-- Footer -->
+  <foreignObject x="70" y="1180" width="940" height="80">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl"
+         class="footer"
+         style="display:flex;justify-content:space-between;align-items:center;">
+      <span>nations_salvation@ • لینک مطالعه در بیو</span>
+      <span>اسلاید ۱ از ۱۰</span>
+    </div>
+  </foreignObject>
+</svg>

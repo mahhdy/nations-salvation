@@ -1,0 +1,116 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1350" width="1080" height="1350">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0D1117"/>
+      <stop offset="100%" style="stop-color:#161B22"/>
+    </linearGradient>
+    <linearGradient id="titleGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#00D9FF"/>
+      <stop offset="50%" style="stop-color:#A855F7"/>
+      <stop offset="100%" style="stop-color:#EC4899"/>
+    </linearGradient>
+    <style>
+      .rtl { direction: rtl; text-align: center; font-family: 'Vazirmatn', 'Segoe UI', Tahoma, sans-serif; }
+    </style>
+  </defs>
+  
+  <rect width="1080" height="1350" fill="url(#bgGrad)"/>
+  
+  <!-- Header -->
+  <rect x="660" y="30" width="380" height="50" rx="25" fill="#1A237E"/>
+  <foreignObject x="660" y="30" width="380" height="50">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl" style="color:#FFFFFF; font-size:28px; line-height:50px;">فصل   اسلاید </div>
+  </foreignObject>
+  
+  <!-- Title -->
+  <foreignObject x="40" y="100" width="1000" height="70">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl" style="font-size:56px; font-weight:bold; background: linear-gradient(90deg, #00D9FF, #A855F7, #EC4899); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">مدل ششوجهی تحلیل</div>
+  </foreignObject>
+  <foreignObject x="40" y="170" width="1000" height="40">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl" style="color:#94A3B8; font-size:32px;">هر مداخله از  زاویه بررسی میشود</div>
+  </foreignObject>
+  
+  <!-- Hexagon layout - 6 boxes -->
+  <!-- Box 1 - Political (top center) -->
+  <rect x="370" y="240" width="340" height="120" rx="15" fill="#1A237E" fill-opacity="0.3" stroke="#1A237E" stroke-width="3"/>
+  <foreignObject x="370" y="255" width="340" height="45">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl" style="color:#00D9FF; font-size:32px; font-weight:bold;">. ساختاری-سیاسی</div>
+  </foreignObject>
+  <foreignObject x="370" y="305" width="340" height="35">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl" style="color:#FFFFFF; font-size:24px;">ماهیت رژیم بحران مشروعیت</div>
+  </foreignObject>
+  
+  <!-- Box 2 - Legal (left upper) -->
+  <rect x="60" y="390" width="340" height="120" rx="15" fill="#2E7D32" fill-opacity="0.2" stroke="#2E7D32" stroke-width="3"/>
+  <foreignObject x="60" y="405" width="340" height="45">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl" style="color:#4ADE80; font-size:32px; font-weight:bold;">. حقوقی-هنجاری</div>
+  </foreignObject>
+  <foreignObject x="60" y="455" width="340" height="35">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl" style="color:#FFFFFF; font-size:24px;">مبنای حقوقی مداخله</div>
+  </foreignObject>
+  
+  <!-- Box 3 - Economic (right upper) -->
+  <rect x="680" y="390" width="340" height="120" rx="15" fill="#F9A825" fill-opacity="0.2" stroke="#F9A825" stroke-width="3"/>
+  <foreignObject x="680" y="405" width="340" height="45">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl" style="color:#F9A825; font-size:32px; font-weight:bold;">. اقتصادی</div>
+  </foreignObject>
+  <foreignObject x="680" y="455" width="340" height="35">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl" style="color:#FFFFFF; font-size:24px;">منابع وابستگی ساختاری</div>
+  </foreignObject>
+  
+  <!-- Box 4 - Military (left lower) -->
+  <rect x="60" y="540" width="340" height="120" rx="15" fill="#DC2626" fill-opacity="0.2" stroke="#DC2626" stroke-width="3"/>
+  <foreignObject x="60" y="555" width="340" height="45">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl" style="color:#F87171; font-size:32px; font-weight:bold;">. نظامی-امنیتی</div>
+  </foreignObject>
+  <foreignObject x="60" y="605" width="340" height="35">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl" style="color:#FFFFFF; font-size:24px;">توازن قوا ظرفیت دفاعی</div>
+  </foreignObject>
+  
+  <!-- Box 5 - Psychology (right lower) -->
+  <rect x="680" y="540" width="340" height="120" rx="15" fill="#A855F7" fill-opacity="0.2" stroke="#A855F7" stroke-width="3"/>
+  <foreignObject x="680" y="555" width="340" height="45">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl" style="color:#C084FC; font-size:30px; font-weight:bold;">. روانشناختی-فرهنگی</div>
+  </foreignObject>
+  <foreignObject x="680" y="605" width="340" height="35">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl" style="color:#FFFFFF; font-size:24px;">هویت سوگیریهای شناختی</div>
+  </foreignObject>
+  
+  <!-- Box 6 - Geopolitical (bottom center) -->
+  <rect x="370" y="690" width="340" height="120" rx="15" fill="#EC4899" fill-opacity="0.2" stroke="#EC4899" stroke-width="3"/>
+  <foreignObject x="370" y="705" width="340" height="45">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl" style="color:#EC4899; font-size:32px; font-weight:bold;">. ژئوپولیتیک</div>
+  </foreignObject>
+  <foreignObject x="370" y="755" width="340" height="35">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl" style="color:#FFFFFF; font-size:24px;">منافع قدرتهای بزرگ</div>
+  </foreignObject>
+  
+  <!-- Key message -->
+  <rect x="80" y="840" width="920" height="130" rx="20" fill="none" stroke="#F9A825" stroke-width="2"/>
+  <foreignObject x="80" y="860" width="920" height="45">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl" style="color:#F9A825; font-size:32px; font-weight:bold;"> نکته مهم:</div>
+  </foreignObject>
+  <foreignObject x="80" y="905" width="920" height="60">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl" style="color:#FFFFFF; font-size:26px; line-height:1.4;">مداخلهای که فقط از یک وجه تحلیل شود تحلیل ناقص و گمراهکننده خواهد بود.</div>
+  </foreignObject>
+  
+  <!-- Examples preview -->
+  <foreignObject x="40" y="1000" width="1000" height="40">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl" style="color:#00D9FF; font-size:30px;"> نمونهها در فصول آینده:</div>
+  </foreignObject>
+  <foreignObject x="40" y="1050" width="1000" height="40">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl" style="color:#94A3B8; font-size:26px;">عراق   لیبی   سوریه   افغانستان </div>
+  </foreignObject>
+  
+  <!-- Bottom CTA -->
+  <rect x="360" y="1120" width="360" height="60" rx="30" fill="url(#titleGrad)"/>
+  <foreignObject x="360" y="1120" width="360" height="60">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl" style="color:#0D1117; font-size:28px; font-weight:bold; line-height:60px;">بعدی: طیف نتایج </div>
+  </foreignObject>
+  
+  <foreignObject x="40" y="1210" width="1000" height="40">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl" style="color:#64748B; font-size:22px;">@nations_salvation</div>
+  </foreignObject>
+  
+  <rect x="40" y="1306" width="1000" height="4" rx="2" fill="url(#titleGrad)"/>
+</svg>

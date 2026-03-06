@@ -1,0 +1,76 @@
+﻿<svg width="1080" height="1350" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg2" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#1a0a00"/>
+      <stop offset="100%" stop-color="#0a0610"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1080" height="1350" fill="url(#bg2)"/>
+
+  <!-- Large decorative question mark -->
+  <foreignObject x="0" y="60" width="1080" height="300">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl"
+         style="text-align:center;font-size:220px;color:rgba(249,168,37,0.06);
+                font-family:'IRANSansX',sans-serif;font-weight:900;">؟</div>
+  </foreignObject>
+
+  <!-- Tag -->
+  <rect x="340" y="100" width="400" height="56" rx="28" fill="rgba(249,168,37,0.12)" stroke="#F9A825" stroke-width="1"/>
+  <foreignObject x="340" y="108" width="400" height="42">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl"
+         style="text-align:center;font-family:'Estedad','Vazirmatn',sans-serif;
+                font-size:24px;color:#F9A825;font-weight:500;">سؤال اصلی این کتاب</div>
+  </foreignObject>
+
+  <!-- Main question -->
+  <foreignObject x="60" y="220" width="960" height="500">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl"
+         style="text-align:center;font-family:'IRANSansX','IRANSans','Vazirmatn',sans-serif;">
+      <div style="font-size:62px;font-weight:900;color:#FFFFFF;line-height:1.5;">
+        چرا ملت‌ها
+      </div>
+      <div style="font-size:62px;font-weight:900;color:#F9A825;line-height:1.5;">
+        نجات‌دهنده‌ی خارجی
+      </div>
+      <div style="font-size:62px;font-weight:900;color:#FFFFFF;line-height:1.5;">
+        می‌خواهند؟
+      </div>
+    </div>
+  </foreignObject>
+
+  <!-- Divider -->
+  <rect x="440" y="740" width="200" height="4" rx="2" fill="#EF5350" opacity="0.6"/>
+
+  <!-- Sub text -->
+  <foreignObject x="80" y="790" width="920" height="300">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl"
+         style="text-align:center;font-family:'Sahel','Shabnam','Vazirmatn',sans-serif;">
+      <div style="font-size:32px;color:#ECEFF1;line-height:1.85;font-weight:400;">
+        و چرا این «نجات» تقریباً
+        <span style="color:#EF5350;font-weight:700;">هیچ‌وقت</span>
+        کار نکرده؟
+      </div>
+      <div style="font-size:28px;color:#90A4AE;line-height:1.8;margin-top:30px;">
+        از ایران باستان تا عراق و افغانستان و اوکراین…<br/>
+        ۳۰۰۰ سال تاریخ، یک الگوی تکرارشونده
+      </div>
+    </div>
+  </foreignObject>
+
+  <!-- Bottom accent -->
+  <rect x="60" y="1140" width="960" height="100" rx="20" fill="rgba(239,83,80,0.08)" stroke="#EF5350" stroke-width="1"/>
+  <foreignObject x="80" y="1155" width="920" height="70">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl"
+         style="text-align:center;font-family:'IRANSansX','Vazirmatn',sans-serif;
+                font-size:28px;color:#EF5350;font-weight:700;">
+      ⬅ بکشید برای پاسخ
+    </div>
+  </foreignObject>
+
+  <foreignObject x="0" y="1280" width="1080" height="50">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl"
+         style="text-align:center;font-family:'Sahel','Vazirmatn',sans-serif;
+                font-size:22px;color:#546E7A;">nations_salvation@</div>
+  </foreignObject>
+</svg>

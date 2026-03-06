@@ -1,0 +1,104 @@
+﻿<svg width="1080" height="1350" viewBox="0 0 1080 1350" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      :root { direction:rtl; font-family:"Vazirmatn","Segoe UI",Tahoma,sans-serif; }
+      .bg { fill:#050816; }
+      .header-bar { fill:#1A237E; }
+      .accent { fill:#F9A825; }
+      .hero-card { fill:#0c0e20; stroke:#F9A825; stroke-width:3; rx:36; ry:36; }
+      .info-card { fill:#0c0e20; stroke:#283593; stroke-width:1.5; rx:24; ry:24; }
+      .cta-card { fill:#1A237E; stroke:#F9A825; stroke-width:2; rx:28; ry:28; }
+      .shadow { filter:drop-shadow(0px 20px 50px rgba(0,0,0,0.6)); }
+      .title { font-size:50px; font-weight:900; color:#FFFFFF; line-height:1.4; }
+      .subtitle { font-size:28px; color:#CFD8DC; line-height:1.6; }
+      .card-text { font-size:25px; line-height:1.7; color:#ECEFF1; }
+      .gold { color:#F9A825; font-weight:700; }
+      .green { color:#69F0AE; font-weight:700; }
+      .red { color:#EF5350; font-weight:700; }
+      .author { font-size:32px; color:#F9A825; font-weight:700; }
+      .footer { font-size:24px; color:#78909C; }
+      .cta-text { font-size:34px; font-weight:800; color:#FFFFFF; }
+    </style>
+  </defs>
+
+  <rect class="bg" x="0" y="0" width="1080" height="1350"/>
+
+  <!-- Hero section -->
+  <rect class="hero-card shadow" x="60" y="60" width="960" height="500"/>
+  <foreignObject x="80" y="90" width="920" height="450">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl" style="text-align:center;">
+      <div style="font-size:28px;color:#F9A825;font-weight:600;margin-bottom:20px;">📖 کتاب</div>
+      <div class="title">
+        ملت‌ها و نجات‌بخشی
+      </div>
+      <div style="font-size:30px;color:#CFD8DC;margin-top:16px;line-height:1.5;">
+        آرزواندیشی و خام‌اندیشی<br/>
+        یا فرصت‌طلبی و عمل‌گرایی
+      </div>
+      <div class="author" style="margin-top:30px;">نویسنده: مهدی سالم</div>
+      <div style="font-size:24px;color:#90A4AE;margin-top:10px;">
+        پژوهشی آکادمیک • ۱۴ فصل • ۴ پیوست • ۳۰+ مطالعه‌ی موردی
+      </div>
+    </div>
+  </foreignObject>
+
+  <!-- Stats row -->
+  <rect class="info-card shadow" x="60" y="590" width="300" height="180"/>
+  <foreignObject x="80" y="610" width="260" height="140">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl" style="text-align:center;">
+      <div style="font-size:48px;font-weight:900;color:#F9A825;">۳۰+</div>
+      <div class="card-text" style="margin-top:8px;">مطالعه‌ی موردیِ مداخله‌ی خارجی</div>
+    </div>
+  </foreignObject>
+
+  <rect class="info-card shadow" x="390" y="590" width="300" height="180"/>
+  <foreignObject x="410" y="610" width="260" height="140">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl" style="text-align:center;">
+      <div style="font-size:48px;font-weight:900;color:#69F0AE;">۳۰۰۰+</div>
+      <div class="card-text" style="margin-top:8px;">سال تاریخ بررسی‌شده</div>
+    </div>
+  </foreignObject>
+
+  <rect class="info-card shadow" x="720" y="590" width="300" height="180"/>
+  <foreignObject x="740" y="610" width="260" height="140">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl" style="text-align:center;">
+      <div style="font-size:48px;font-weight:900;color:#EF5350;">۶</div>
+      <div class="card-text" style="margin-top:8px;">بُعد تحلیلی در مدل شش‌وجهی</div>
+    </div>
+  </foreignObject>
+
+  <!-- Key message -->
+  <rect class="info-card shadow" x="60" y="800" width="960" height="260"/>
+  <foreignObject x="80" y="820" width="920" height="220">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl" style="text-align:right;">
+      <div style="font-size:30px;font-weight:700;color:#FFFFFF;">این کتاب برای کیست؟</div>
+      <div class="card-text" style="margin-top:14px;">
+        • هر ایرانی (و غیرایرانی) که می‌خواهد بداند چرا <span class="gold">«نجات وارداتی»</span>
+        تقریباً هرگز کار نکرده.<br/>
+        • فعالان سیاسی که می‌خواهند قبل از هر تصمیم،
+        <span class="gold">تاریخ ۳۰۰۰ ساله‌ی مداخلات</span> را ببینند.<br/>
+        • دانشجویان و پژوهشگران علوم سیاسی و روابط بین‌الملل.<br/>
+        • هر کسی که از <span class="red">ساده‌سازی‌های رسانه‌ای</span> خسته شده.
+      </div>
+    </div>
+  </foreignObject>
+
+  <!-- CTA -->
+  <rect class="cta-card shadow" x="60" y="1090" width="960" height="140"/>
+  <foreignObject x="80" y="1110" width="920" height="100">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl" style="text-align:center;">
+      <div class="cta-text">📥 لینک مطالعه و دانلود رایگان در بیو</div>
+      <div style="font-size:26px;color:#CFD8DC;margin-top:12px;">
+        nations_salvation@ • بازنشر = کمک به آگاهی جمعی ❤️
+      </div>
+    </div>
+  </foreignObject>
+
+  <foreignObject x="80" y="1270" width="920" height="60">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl" class="footer"
+         style="display:flex;justify-content:space-between;align-items:center;">
+      <span>nations_salvation@</span>
+      <span>اسلاید پایانی • معرفی کتاب</span>
+    </div>
+  </foreignObject>
+</svg>

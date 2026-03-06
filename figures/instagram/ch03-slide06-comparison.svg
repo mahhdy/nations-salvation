@@ -1,0 +1,155 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1350" width="1080" height="1350">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0D1117"/>
+      <stop offset="100%" style="stop-color:#161B22"/>
+    </linearGradient>
+    <linearGradient id="titleGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#00D9FF"/>
+      <stop offset="50%" style="stop-color:#A855F7"/>
+      <stop offset="100%" style="stop-color:#EC4899"/>
+    </linearGradient>
+    <style>
+      .rtl { direction: rtl; text-align: center; font-family: 'Vazirmatn', 'Segoe UI', Tahoma, sans-serif; }
+      .rtl-right { direction: rtl; text-align: right; font-family: 'Vazirmatn', 'Segoe UI', Tahoma, sans-serif; padding-right: 10px; }
+    </style>
+  </defs>
+  
+  <rect width="1080" height="1350" fill="url(#bgGrad)"/>
+  
+  <!-- Header -->
+  <rect x="660" y="30" width="380" height="50" rx="25" fill="#1A237E"/>
+  <foreignObject x="660" y="30" width="380" height="50">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl" style="color:#FFFFFF; font-size:28px; line-height:50px;">فصل   اسلاید </div>
+  </foreignObject>
+  
+  <!-- Title -->
+  <foreignObject x="40" y="100" width="1000" height="55">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl" style="font-size:46px; font-weight:bold; color:#00D9FF;"> مقایسهی موارد تاریخی</div>
+  </foreignObject>
+  
+  <!-- Table Header -->
+  <rect x="60" y="170" width="960" height="50" rx="10" fill="#1A237E"/>
+  <foreignObject x="60" y="175" width="200" height="45">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl" style="color:#F9A825; font-size:22px; font-weight:bold;">نتیجه</div>
+  </foreignObject>
+  <foreignObject x="260" y="175" width="200" height="45">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl" style="color:#F9A825; font-size:22px; font-weight:bold;">هشدارها</div>
+  </foreignObject>
+  <foreignObject x="460" y="175" width="200" height="45">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl" style="color:#F9A825; font-size:22px; font-weight:bold;">شرایط</div>
+  </foreignObject>
+  <foreignObject x="660" y="175" width="360" height="45">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl" style="color:#F9A825; font-size:22px; font-weight:bold;">مورد</div>
+  </foreignObject>
+  
+  <!-- Row 1: Germany - Success -->
+  <rect x="60" y="230" width="960" height="80" rx="8" fill="#22C55E" fill-opacity="0.1" stroke="#22C55E" stroke-width="1"/>
+  <foreignObject x="60" y="250" width="200" height="50">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl" style="color:#22C55E; font-size:28px; font-weight:bold;">A </div>
+  </foreignObject>
+  <foreignObject x="260" y="250" width="200" height="50">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl" style="color:#FFFFFF; font-size:22px;"></div>
+  </foreignObject>
+  <foreignObject x="460" y="250" width="200" height="50">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl" style="color:#FFFFFF; font-size:22px;">/</div>
+  </foreignObject>
+  <foreignObject x="660" y="245" width="360" height="60">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl-right" style="color:#FFFFFF; font-size:22px;"> آلمان </div>
+  </foreignObject>
+  
+  <!-- Row 2: Japan - Success -->
+  <rect x="60" y="320" width="960" height="80" rx="8" fill="#22C55E" fill-opacity="0.1" stroke="#22C55E" stroke-width="1"/>
+  <foreignObject x="60" y="340" width="200" height="50">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl" style="color:#22C55E; font-size:28px; font-weight:bold;">A </div>
+  </foreignObject>
+  <foreignObject x="260" y="340" width="200" height="50">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl" style="color:#FFFFFF; font-size:22px;"></div>
+  </foreignObject>
+  <foreignObject x="460" y="340" width="200" height="50">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl" style="color:#FFFFFF; font-size:22px;">/</div>
+  </foreignObject>
+  <foreignObject x="660" y="335" width="360" height="60">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl-right" style="color:#FFFFFF; font-size:22px;"> ژاپن </div>
+  </foreignObject>
+  
+  <!-- Row 3: Korea - Partial -->
+  <rect x="60" y="410" width="960" height="80" rx="8" fill="#84CC16" fill-opacity="0.1" stroke="#84CC16" stroke-width="1"/>
+  <foreignObject x="60" y="430" width="200" height="50">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl" style="color:#84CC16; font-size:28px; font-weight:bold;">B</div>
+  </foreignObject>
+  <foreignObject x="260" y="430" width="200" height="50">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl" style="color:#FFFFFF; font-size:22px;"></div>
+  </foreignObject>
+  <foreignObject x="460" y="430" width="200" height="50">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl" style="color:#FFFFFF; font-size:22px;">/</div>
+  </foreignObject>
+  <foreignObject x="660" y="425" width="360" height="60">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl-right" style="color:#FFFFFF; font-size:22px;"> کره جنوبی</div>
+  </foreignObject>
+  
+  <!-- Row 4: Iraq - Failure -->
+  <rect x="60" y="500" width="960" height="80" rx="8" fill="#DC2626" fill-opacity="0.1" stroke="#DC2626" stroke-width="1"/>
+  <foreignObject x="60" y="520" width="200" height="50">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl" style="color:#DC2626; font-size:28px; font-weight:bold;">E </div>
+  </foreignObject>
+  <foreignObject x="260" y="520" width="200" height="50">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl" style="color:#FFFFFF; font-size:22px;"></div>
+  </foreignObject>
+  <foreignObject x="460" y="520" width="200" height="50">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl" style="color:#FFFFFF; font-size:22px;">/</div>
+  </foreignObject>
+  <foreignObject x="660" y="515" width="360" height="60">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl-right" style="color:#FFFFFF; font-size:22px;"> عراق </div>
+  </foreignObject>
+  
+  <!-- Row 5: Libya - Failure -->
+  <rect x="60" y="590" width="960" height="80" rx="8" fill="#DC2626" fill-opacity="0.1" stroke="#DC2626" stroke-width="1"/>
+  <foreignObject x="60" y="610" width="200" height="50">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl" style="color:#DC2626; font-size:28px; font-weight:bold;">E </div>
+  </foreignObject>
+  <foreignObject x="260" y="610" width="200" height="50">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl" style="color:#FFFFFF; font-size:22px;"></div>
+  </foreignObject>
+  <foreignObject x="460" y="610" width="200" height="50">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl" style="color:#FFFFFF; font-size:22px;">/</div>
+  </foreignObject>
+  <foreignObject x="660" y="605" width="360" height="60">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl-right" style="color:#FFFFFF; font-size:22px;"> لیبی </div>
+  </foreignObject>
+  
+  <!-- Row 6: Afghanistan - Failure -->
+  <rect x="60" y="680" width="960" height="80" rx="8" fill="#991B1B" fill-opacity="0.15" stroke="#991B1B" stroke-width="1"/>
+  <foreignObject x="60" y="700" width="200" height="50">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl" style="color:#F87171; font-size:28px; font-weight:bold;">F </div>
+  </foreignObject>
+  <foreignObject x="260" y="700" width="200" height="50">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl" style="color:#FFFFFF; font-size:22px;"></div>
+  </foreignObject>
+  <foreignObject x="460" y="700" width="200" height="50">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl" style="color:#FFFFFF; font-size:22px;">/</div>
+  </foreignObject>
+  <foreignObject x="660" y="695" width="360" height="60">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl-right" style="color:#FFFFFF; font-size:22px;"> افغانستان </div>
+  </foreignObject>
+  
+  <!-- Key insight -->
+  <rect x="80" y="790" width="920" height="140" rx="20" fill="#1A237E" stroke="#F9A825" stroke-width="3"/>
+  <foreignObject x="80" y="815" width="920" height="40">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl" style="color:#F9A825; font-size:30px; font-weight:bold;"> الگوی واضح:</div>
+  </foreignObject>
+  <foreignObject x="80" y="860" width="920" height="60">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl" style="color:#FFFFFF; font-size:26px; line-height:1.4;">شرایط موفقیت بالا + هشدار کم = موفقیت | شرایط کم + هشدار زیاد = فاجعه</div>
+  </foreignObject>
+  
+  <!-- Navigation -->
+  <foreignObject x="40" y="960" width="1000" height="40">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl" style="color:#00D9FF; font-size:26px;">بعدی: خلاصهی فصل </div>
+  </foreignObject>
+  
+  <foreignObject x="40" y="1020" width="1000" height="40">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl" style="color:#64748B; font-size:22px;">@nations_salvation</div>
+  </foreignObject>
+  
+  <rect x="40" y="1306" width="1000" height="4" rx="2" fill="url(#titleGrad)"/>
+</svg>

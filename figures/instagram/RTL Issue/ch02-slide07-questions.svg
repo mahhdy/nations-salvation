@@ -1,0 +1,70 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1350" width="1080" height="1350">
+  <style>
+    text { 
+      direction: rtl; 
+      unicode-bidi: bidi-override;
+    }
+    .rtl-text {
+      direction: rtl;
+      unicode-bidi: embed;
+      text-anchor: end;
+    }
+  </style>
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0D1117"/>
+      <stop offset="100%" style="stop-color:#161B22"/>
+    </linearGradient>
+    <linearGradient id="titleGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#00D9FF"/>
+      <stop offset="50%" style="stop-color:#A855F7"/>
+      <stop offset="100%" style="stop-color:#EC4899"/>
+    </linearGradient>
+  </defs>
+  
+  <rect width="1080" height="1350" fill="url(#bgGrad)"/>
+  
+  <!-- Header -->
+  <rect x="660" y="30" width="380" height="50" rx="25" fill="#1A237E"/>
+  <text x="850" y="65" font-family="Vazirmatn, Tahoma" font-size="28" fill="#FFFFFF" text-anchor="middle" direction="rtl">فصل ۲ • اسلاید ۷ از ۸</text>
+  
+  <!-- Title -->
+  <text x="540" y="150" font-family="Vazirmatn, Tahoma" font-size="52" font-weight="bold" fill="url(#titleGrad)" text-anchor="middle" direction="rtl">❓ پرسش‌های حقوقی کلیدی</text>
+  
+  <!-- Question 1 -->
+  <rect x="60" y="200" width="960" height="130" rx="15" fill="none" stroke="#00D9FF" stroke-width="2"/>
+  <text x="920" y="250" font-family="Vazirmatn, Tahoma" font-size="32" fill="#00D9FF" text-anchor="end" direction="rtl" font-weight="bold">۱. آیا ملتی حق دعوت از بیگانه دارد؟</text>
+  <text x="920" y="300" font-family="Vazirmatn, Tahoma" font-size="24" fill="#94A3B8" text-anchor="end" direction="rtl">اگر دولتی ظالم باشد، آیا اپوزیسیون می‌تواند کمک بخواهد؟</text>
+  
+  <!-- Question 2 -->
+  <rect x="60" y="350" width="960" height="130" rx="15" fill="none" stroke="#F9A825" stroke-width="2"/>
+  <text x="920" y="400" font-family="Vazirmatn, Tahoma" font-size="32" fill="#F9A825" text-anchor="end" direction="rtl" font-weight="bold">۲. «دعوت» چه کسی معتبر است؟</text>
+  <text x="920" y="450" font-family="Vazirmatn, Tahoma" font-size="24" fill="#94A3B8" text-anchor="end" direction="rtl">دولت؟ پارلمان؟ مردم؟ اپوزیسیون؟ گروه مسلح؟</text>
+  
+  <!-- Question 3 -->
+  <rect x="60" y="500" width="960" height="130" rx="15" fill="none" stroke="#2E7D32" stroke-width="2"/>
+  <text x="920" y="550" font-family="Vazirmatn, Tahoma" font-size="32" fill="#4ADE80" text-anchor="end" direction="rtl" font-weight="bold">۳. مداخله‌ی «محدود» ممکن است؟</text>
+  <text x="920" y="600" font-family="Vazirmatn, Tahoma" font-size="24" fill="#94A3B8" text-anchor="end" direction="rtl">آیا می‌توان مداخله را کنترل‌شده نگه داشت؟</text>
+  
+  <!-- Question 4 -->
+  <rect x="60" y="650" width="960" height="130" rx="15" fill="none" stroke="#A855F7" stroke-width="2"/>
+  <text x="920" y="700" font-family="Vazirmatn, Tahoma" font-size="32" fill="#C084FC" text-anchor="end" direction="rtl" font-weight="bold">۴. تکلیف «پس از مداخله» چیست؟</text>
+  <text x="920" y="750" font-family="Vazirmatn, Tahoma" font-size="24" fill="#94A3B8" text-anchor="end" direction="rtl">مسئولیت بازسازی؟ حکومت موقت؟ انتخابات؟</text>
+  
+  <!-- Question 5 -->
+  <rect x="60" y="800" width="960" height="130" rx="15" fill="none" stroke="#EC4899" stroke-width="2"/>
+  <text x="920" y="850" font-family="Vazirmatn, Tahoma" font-size="32" fill="#EC4899" text-anchor="end" direction="rtl" font-weight="bold">۵. چه کسی قاضی می‌شود؟</text>
+  <text x="920" y="900" font-family="Vazirmatn, Tahoma" font-size="24" fill="#94A3B8" text-anchor="end" direction="rtl">چرا آمریکا در عراق محاکمه نشد اما روسیه در اوکراین...</text>
+  
+  <!-- Key insight box -->
+  <rect x="100" y="970" width="880" height="180" rx="20" fill="#DC2626" fill-opacity="0.1" stroke="#DC2626" stroke-width="3"/>
+  <text x="540" y="1030" font-family="Vazirmatn, Tahoma" font-size="32" fill="#DC2626" text-anchor="middle" direction="rtl" font-weight="bold">⚡ پاسخ صادقانه:</text>
+  <text x="540" y="1090" font-family="Vazirmatn, Tahoma" font-size="28" fill="#FFFFFF" text-anchor="middle" direction="rtl">این سوالات «پاسخ حقوقی قاطع» ندارند.</text>
+  <text x="540" y="1130" font-family="Vazirmatn, Tahoma" font-size="26" fill="#F87171" text-anchor="middle" direction="rtl">پاسخ به توازن قوا بستگی دارد، نه قانون.</text>
+  
+  <!-- Quote -->
+  <text x="540" y="1210" font-family="Vazirmatn, Tahoma" font-size="24" fill="#A855F7" text-anchor="middle" direction="rtl" font-style="italic">«قدرت‌مندان عدالت را تفسیر می‌کنند، ضعفا تحمل.»</text>
+  <text x="540" y="1250" font-family="Vazirmatn, Tahoma" font-size="22" fill="#94A3B8" text-anchor="middle" direction="rtl">— توسیدید، جنگ پلوپونزی</text>
+  
+  <rect x="40" y="1306" width="1000" height="4" rx="2" fill="url(#titleGrad)"/>
+</svg>

@@ -1,0 +1,100 @@
+﻿<svg width="1080" height="1350" viewBox="0 0 1080 1350" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      :root { direction:rtl; font-family:"Vazirmatn","Segoe UI",Tahoma,sans-serif; }
+      .bg { fill:#060d18; }
+      .header-bar { fill:#1A237E; }
+      .accent { fill:#F9A825; }
+      .card { fill:#0e1628; stroke:#1e3a5f; stroke-width:1.4; rx:28; ry:28; }
+      .econ-card { fill:#0e1628; stroke:#00897B; stroke-width:2; rx:26; ry:26; }
+      .shadow { filter:drop-shadow(0px 16px 40px rgba(0,0,0,0.5)); }
+      .title { font-size:46px; font-weight:800; color:#FFFFFF; }
+      .subtitle { font-size:26px; color:#CFD8DC; line-height:1.6; }
+      .card-title { font-size:32px; font-weight:700; color:#FFFFFF; }
+      .card-text { font-size:25px; line-height:1.7; color:#ECEFF1; }
+      .gold { color:#F9A825; font-weight:700; }
+      .teal { color:#4DB6AC; font-weight:700; }
+      .red { color:#EF5350; font-weight:700; }
+      .footer { font-size:24px; color:#78909C; }
+      .pill { fill:rgba(0,137,123,0.12); stroke:#00897B; stroke-width:1; rx:18; ry:18; }
+      .chip { font-size:23px; color:#B2DFDB; }
+    </style>
+  </defs>
+
+  <rect class="bg" x="0" y="0" width="1080" height="1350"/>
+
+  <rect class="header-bar" x="60" y="60" width="960" height="90" rx="22"/>
+  <rect class="accent" x="80" y="82" width="10" height="46" rx="5"/>
+  <foreignObject x="110" y="70" width="900" height="80">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl"
+         style="display:flex;justify-content:space-between;align-items:center;color:#FFF;font-size:28px;font-weight:600;">
+      <span>فصل ۱۲ • جامعه‌شناسی و اقتصاد</span>
+      <span style="opacity:0.8;">ملت‌ها و نجات‌بخشی</span>
+    </div>
+  </foreignObject>
+
+  <foreignObject x="80" y="180" width="920" height="160">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl" style="text-align:right;">
+      <div class="title">💰 اقتصاد سیاسی مداخله: <span class="teal">چه کسی سود می‌برد؟</span></div>
+      <div class="subtitle" style="margin-top:14px;">
+        مداخله‌ی خارجی تقریباً همیشه یک <span class="gold">معامله‌ی نابرابر</span> است:
+        هزینه‌اش را ملتِ میزبان می‌پردازد، سودش را قدرت‌ها می‌برند.
+      </div>
+    </div>
+  </foreignObject>
+
+  <rect class="card shadow" x="80" y="360" width="920" height="500"/>
+  <foreignObject x="100" y="380" width="880" height="460">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl" style="text-align:right;">
+      <div class="card-title">نظریه‌های محوری این فصل</div>
+      <div class="card-text" style="margin-top:18px;">
+        ۱. <span class="teal">نظریه‌ی وابستگی</span> (Dependency Theory):
+        کشورهای پیرامونی در ساختاری گیر کرده‌اند که رشدشان
+        به نفعِ مرکز است. مداخله این وابستگی را تشدید می‌کند.<br/><br/>
+        ۲. <span class="teal">نظام جهانی والرشتاین</span>: مرکز، نیمه‌پیرامون، پیرامون.
+        مداخله ابزاری برای حفظ جایگاهِ پیرامونیِ کشور هدف است.<br/><br/>
+        ۳. <span class="teal">نفرین منابع</span> (Resource Curse): کشورهای نفت‌خیز
+        بیشتر در معرض مداخله‌اند — نه به‌رغمِ ثروتشان، بلکه
+        <span class="gold">به‌خاطرِ</span> آن.<br/><br/>
+        ۴. <span class="teal">دولت رانتیر</span>: دولتی که از رانتِ منابع زندگی می‌کند
+        نه مالیاتِ شهروندان، آسیب‌پذیرترین نوع دولت در برابر مداخله است.
+      </div>
+    </div>
+  </foreignObject>
+
+  <!-- Pills -->
+  <rect class="pill" x="80" y="890" width="440" height="68"/>
+  <foreignObject x="100" y="900" width="400" height="50">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl" class="chip">
+      هزینه‌ی بازسازی عراق: بیش از ۱ تریلیون دلار
+    </div>
+  </foreignObject>
+
+  <rect class="pill" x="560" y="890" width="440" height="68"/>
+  <foreignObject x="580" y="900" width="400" height="50">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl" class="chip">
+      GDP لیبی پس از ۲۰۱۱: سقوط بیش از ۶۰ درصد
+    </div>
+  </foreignObject>
+
+  <!-- Bottom card -->
+  <rect class="econ-card shadow" x="80" y="990" width="920" height="200"/>
+  <foreignObject x="100" y="1010" width="880" height="160">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl" style="text-align:center;">
+      <div style="font-size:34px;color:#4DB6AC;font-weight:800;">📊 سؤال کلیدی فصل ۱۲</div>
+      <div class="card-text" style="margin-top:14px;">
+        اگر مداخله‌ی خارجی واقعاً «نجات» است، چرا تقریباً در
+        <span class="red">همه‌ی موارد</span>، GDP سرانه، شاخص توسعه‌ی انسانی و
+        امید به زندگی <span class="red">پس از مداخله کاهش</span> یافته‌اند؟
+      </div>
+    </div>
+  </foreignObject>
+
+  <foreignObject x="80" y="1250" width="920" height="60">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl" class="footer"
+         style="display:flex;justify-content:space-between;align-items:center;">
+      <span>nations_salvation@ • لینک مطالعه در بیو</span>
+      <span>اسلاید ۱ از ۵</span>
+    </div>
+  </foreignObject>
+</svg>

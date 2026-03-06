@@ -1,0 +1,87 @@
+﻿<svg width="1080" height="1350" viewBox="0 0 1080 1350" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      :root { direction:rtl; font-family:"Vazirmatn","Segoe UI",Tahoma,sans-serif; }
+      .bg { fill:#080410; }
+      .header-bar { fill:#1A237E; }
+      .accent { fill:#F9A825; }
+      .success-card { fill:#0a1a10; stroke:#2E7D32; stroke-width:2; rx:26; ry:26; }
+      .fail-card { fill:#1a0a0a; stroke:#C62828; stroke-width:2; rx:26; ry:26; }
+      .shadow { filter:drop-shadow(0px 16px 36px rgba(0,0,0,0.45)); }
+      .title { font-size:44px; font-weight:800; color:#FFFFFF; }
+      .subtitle { font-size:26px; color:#CFD8DC; line-height:1.6; }
+      .card-title { font-size:30px; font-weight:700; color:#FFFFFF; }
+      .card-text { font-size:25px; line-height:1.7; color:#ECEFF1; }
+      .gold { color:#F9A825; font-weight:700; }
+      .green { color:#69F0AE; font-weight:700; }
+      .red { color:#EF5350; font-weight:700; }
+      .footer { font-size:24px; color:#78909C; }
+    </style>
+  </defs>
+
+  <rect class="bg" x="0" y="0" width="1080" height="1350"/>
+
+  <rect class="header-bar" x="60" y="60" width="960" height="90" rx="22"/>
+  <rect class="accent" x="80" y="82" width="10" height="46" rx="5"/>
+  <foreignObject x="110" y="70" width="900" height="80">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl"
+         style="display:flex;justify-content:space-between;align-items:center;color:#FFF;font-size:28px;font-weight:600;">
+      <span>الگوی موفقیت و شکست</span>
+      <span style="opacity:0.8;">فصل ۱۴ • جمع‌بندی نهایی</span>
+    </div>
+  </foreignObject>
+
+  <foreignObject x="80" y="180" width="920" height="100">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl" style="text-align:right;">
+      <div class="title">چه چیزی <span class="green">کار می‌کند</span> و چه چیزی <span class="red">نمی‌کند</span>؟</div>
+    </div>
+  </foreignObject>
+
+  <!-- Success card -->
+  <rect class="success-card shadow" x="80" y="290" width="920" height="440"/>
+  <foreignObject x="100" y="310" width="880" height="400">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl" style="text-align:right;">
+      <div class="card-title"><span class="green">✅ شرایط لازم برای «نجات واقعی» (A/B)</span></div>
+      <div class="card-text" style="margin-top:18px;">
+        ۱. <span class="green">عاملیت داخلی</span>: تغییر باید از درون جامعه هدایت شود،
+        نه از بیرون تحمیل.<br/><br/>
+        ۲. <span class="green">نهادهای مدنیِ پیش‌ازمداخله</span>: جامعه‌ای که قبلاً
+        نهادهای مستقل (دانشگاه، رسانه، قوه‌ی قضاییه) داشته،
+        بهتر بازسازی می‌شود.<br/><br/>
+        ۳. <span class="green">اقتصاد متنوع</span>: عدم وابستگی به یک منبع درآمد
+        = مقاومت در برابر فشار خارجی.<br/><br/>
+        ۴. <span class="green">توافق نخبگان داخلی</span>: اگر نخبگان ملی
+        بر سر چارچوب کلیِ آینده توافق نداشته باشند،
+        هر مداخله‌ای فقط یک جناح را تقویت می‌کند.<br/><br/>
+        ۵. <span class="green">سواد رسانه‌ای و تفکر انتقادی</span>: مردمی که
+        بتوانند تبلیغات را از واقعیت تشخیص دهند.
+      </div>
+    </div>
+  </foreignObject>
+
+  <!-- Fail card -->
+  <rect class="fail-card shadow" x="80" y="760" width="920" height="400"/>
+  <foreignObject x="100" y="780" width="880" height="360">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl" style="text-align:right;">
+      <div class="card-title"><span class="red">❌ خطوط قرمز و هشدارها (C–F)</span></div>
+      <div class="card-text" style="margin-top:18px;">
+        ۱. <span class="red">بهانه‌ی اخلاقیِ ساده + انگیزه‌ی پنهانِ اقتصادی</span>:
+        هرگاه شعار «حقوق بشر» با منافع نفتی یا ژئوپولیتیک هم‌راستا شد، مشکوک باشید.<br/><br/>
+        ۲. <span class="red">وعده‌ی عملیات «کوتاه و محدود»</span>:
+        تقریباً هیچ مداخله‌ای در تاریخ کوتاه و محدود نمانده.<br/><br/>
+        ۳. <span class="red">نبود طرح برای «روز بعد»</span>: اگر کسی نقشه‌ای
+        برای بعد از سقوط رژیم ندارد، آماده‌ی هرج‌ومرج باشید.<br/><br/>
+        ۴. <span class="red">تفرقه‌ی عمیق داخلی</span>: مداخله در جامعه‌ی
+        چندپاره، تفرقه را تشدید می‌کند نه حل.
+      </div>
+    </div>
+  </foreignObject>
+
+  <foreignObject x="80" y="1250" width="920" height="60">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl" class="footer"
+         style="display:flex;justify-content:space-between;align-items:center;">
+      <span>nations_salvation@ • لینک مطالعه در بیو</span>
+      <span>اسلاید ۲ از ۵</span>
+    </div>
+  </foreignObject>
+</svg>

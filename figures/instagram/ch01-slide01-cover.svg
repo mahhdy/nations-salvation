@@ -1,0 +1,119 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1350" width="1080" height="1350">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0D1117"/>
+      <stop offset="100%" style="stop-color:#161B22"/>
+    </linearGradient>
+    <linearGradient id="titleGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#00D9FF"/>
+      <stop offset="50%" style="stop-color:#A855F7"/>
+      <stop offset="100%" style="stop-color:#EC4899"/>
+    </linearGradient>
+    <linearGradient id="goldGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#F9A825"/>
+      <stop offset="100%" style="stop-color:#FFD54F"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+      <feMerge><feMergeNode in="coloredBlur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <style>
+      .rtl { direction: rtl; text-align: center; font-family: 'Vazirmatn', 'Segoe UI', Tahoma, sans-serif; }
+      .rtl-right { direction: rtl; text-align: right; font-family: 'Vazirmatn', 'Segoe UI', Tahoma, sans-serif; }
+      .ltr { direction: ltr; text-align: center; font-family: 'Vazirmatn', 'Segoe UI', Tahoma, sans-serif; }
+    </style>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="1080" height="1350" fill="url(#bgGrad)"/>
+  
+  <!-- Decorative top line -->
+  <rect x="40" y="40" width="1000" height="4" rx="2" fill="url(#titleGrad)" filter="url(#glow)"/>
+  
+  <!-- Header badge -->
+  <rect x="700" y="60" width="340" height="50" rx="25" fill="none" stroke="#00D9FF" stroke-width="2"/>
+  <foreignObject x="700" y="60" width="340" height="50">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl" style="color:#00D9FF; font-size:28px; line-height:50px;">کتاب جدید</div>
+  </foreignObject>
+  
+  <!-- Main Title -->
+  <foreignObject x="40" y="220" width="1000" height="100">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl" style="color:#00D9FF; font-size:72px; font-weight:bold; background: linear-gradient(90deg, #00D9FF, #A855F7, #EC4899); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">ملتها و نجاتبخشی</div>
+  </foreignObject>
+  
+  <!-- Subtitle -->
+  <foreignObject x="40" y="330" width="1000" height="50">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl" style="color:#94A3B8; font-size:36px;">آرزواندیشی و خاماندیشی</div>
+  </foreignObject>
+  <foreignObject x="40" y="380" width="1000" height="50">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl" style="color:#94A3B8; font-size:36px;">یا فرصتطلبی و عملگرایی</div>
+  </foreignObject>
+  
+  <!-- Decorative line -->
+  <rect x="340" y="460" width="400" height="3" rx="1.5" fill="url(#goldGrad)"/>
+  
+  <!-- Main question box -->
+  <rect x="60" y="500" width="960" height="220" rx="20" fill="none" stroke="#00D9FF" stroke-width="2"/>
+  <rect x="60" y="500" width="960" height="220" rx="20" fill="#0D1117" fill-opacity="0.8"/>
+  
+  <foreignObject x="60" y="530" width="960" height="60">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl" style="color:#FFFFFF; font-size:40px;">آیا کمک خارجی واقعا</div>
+  </foreignObject>
+  <foreignObject x="60" y="590" width="960" height="70">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl" style="color:#A855F7; font-size:48px; font-weight:bold;">به آزادی میانجامد</div>
+  </foreignObject>
+  <foreignObject x="60" y="660" width="960" height="50">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl" style="color:#F9A825; font-size:32px;"> سال شواهد تاریخی</div>
+  </foreignObject>
+  
+  <!-- Author -->
+  <foreignObject x="40" y="760" width="1000" height="50">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl" style="color:#FFFFFF; font-size:36px;">نویسنده:</div>
+  </foreignObject>
+  <foreignObject x="40" y="810" width="1000" height="60">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl" style="color:#F9A825; font-size:44px; font-weight:bold;">مهدی سالم</div>
+  </foreignObject>
+  
+  <!-- Stats boxes -->
+  <rect x="60" y="900" width="300" height="120" rx="15" fill="none" stroke="#2E7D32" stroke-width="2"/>
+  <foreignObject x="60" y="910" width="300" height="50">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl" style="color:#2E7D32; font-size:42px; font-weight:bold;"></div>
+  </foreignObject>
+  <foreignObject x="60" y="960" width="300" height="40">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl" style="color:#94A3B8; font-size:28px;">فصل تحلیلی</div>
+  </foreignObject>
+  
+  <rect x="390" y="900" width="300" height="120" rx="15" fill="none" stroke="#F9A825" stroke-width="2"/>
+  <foreignObject x="390" y="910" width="300" height="50">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl" style="color:#F9A825; font-size:42px; font-weight:bold;">+</div>
+  </foreignObject>
+  <foreignObject x="390" y="960" width="300" height="40">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl" style="color:#94A3B8; font-size:28px;">مورد تاریخی</div>
+  </foreignObject>
+  
+  <rect x="720" y="900" width="300" height="120" rx="15" fill="none" stroke="#EC4899" stroke-width="2"/>
+  <foreignObject x="720" y="910" width="300" height="50">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl" style="color:#EC4899; font-size:42px; font-weight:bold;"></div>
+  </foreignObject>
+  <foreignObject x="720" y="960" width="300" height="40">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl" style="color:#94A3B8; font-size:28px;">پیوست تخصصی</div>
+  </foreignObject>
+  
+  <!-- CTA -->
+  <rect x="340" y="1060" width="400" height="70" rx="35" fill="url(#titleGrad)"/>
+  <foreignObject x="340" y="1060" width="400" height="70">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl" style="color:#0D1117; font-size:32px; font-weight:bold; line-height:70px;">ادامه دهید </div>
+  </foreignObject>
+  
+  <!-- Bottom info -->
+  <foreignObject x="40" y="1160" width="1000" height="40">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl" style="color:#64748B; font-size:24px;">پژوهش آکادمیک با ارجاعات کامل</div>
+  </foreignObject>
+  
+  <foreignObject x="40" y="1200" width="1000" height="40">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl" style="color:#00D9FF; font-size:26px;">@nations_salvation | لینک دانلود در بیو</div>
+  </foreignObject>
+  
+  <!-- Bottom line -->
+  <rect x="40" y="1306" width="1000" height="4" rx="2" fill="url(#titleGrad)" filter="url(#glow)"/>
+</svg>

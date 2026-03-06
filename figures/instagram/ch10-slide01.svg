@@ -1,0 +1,158 @@
+﻿<svg width="1080" height="1350" viewBox="0 0 1080 1350" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      :root {
+        direction: rtl;
+        font-family: "Vazirmatn", "Segoe UI", Tahoma, sans-serif;
+      }
+      .bg {
+        fill: #050816;
+      }
+      .header-bar {
+        fill: #1A237E;
+      }
+      .header-accent {
+        fill: #F9A825;
+      }
+      .card {
+        fill: #101322;
+        stroke: #263238;
+        stroke-width: 1.5;
+        rx: 28;
+        ry: 28;
+      }
+      .pill {
+        fill: rgba(255,255,255,0.06);
+        stroke: #3949AB;
+        stroke-width: 1;
+        rx: 18;
+        ry: 18;
+      }
+      .shadow {
+        filter: drop-shadow(0px 18px 40px rgba(0,0,0,0.45));
+      }
+      .title {
+        font-size: 52px;
+        font-weight: 800;
+        color: #FFFFFF;
+      }
+      .subtitle {
+        font-size: 26px;
+        font-weight: 500;
+        color: #CFD8DC;
+      }
+      .card-title {
+        font-size: 32px;
+        font-weight: 700;
+        color: #FFFFFF;
+      }
+      .card-text {
+        font-size: 26px;
+        line-height: 1.7;
+        color: #ECEFF1;
+      }
+      .gold {
+        color: #F9A825;
+        font-weight: 700;
+      }
+      .green {
+        color: #2E7D32;
+        font-weight: 700;
+      }
+      .chip {
+        font-size: 24px;
+        color: #BBDEFB;
+      }
+      .footer {
+        font-size: 24px;
+        color: #90A4AE;
+      }
+    </style>
+  </defs>
+
+  <rect class="bg" x="0" y="0" width="1080" height="1350" />
+
+  <!-- Header -->
+  <rect class="header-bar" x="60" y="70" width="960" height="90" rx="22" ry="22" />
+  <rect class="header-accent" x="80" y="92" width="10" height="46" rx="5" ry="5" />
+
+  <foreignObject x="110" y="80" width="900" height="80">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl"
+         style="display:flex;justify-content:space-between;align-items:center;color:#FFFFFF;font-size:28px;font-weight:600;">
+      <span>فصل ۱۰ • مداخلات معاصر</span>
+      <span style="opacity:0.85;">ملت‌ها و نجات‌بخشی</span>
+    </div>
+  </foreignObject>
+
+  <!-- Title & subtitle -->
+  <foreignObject x="80" y="200" width="920" height="200">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl"
+         style="text-align:right;">
+      <div class="title">مداخلات ۵۰ سال اخیر؛ از <span class="gold">عراق</span> تا <span class="gold">اوکراین</span></div>
+      <div class="subtitle" style="margin-top:18px;">
+        این فصل نشان می‌دهد چگونه تقریباً همه‌ی مداخلات بزرگِ پس از ۱۹۷۰
+        با شعار <span class="gold">نجات</span> شروع شدند، اما روی طیف
+        <span class="gold">A–F</span> اغلب به سمت <span class="gold">C تا E</span> سر خوردند.
+      </div>
+    </div>
+  </foreignObject>
+
+  <!-- Pill chips -->
+  <rect class="pill" x="80" y="340" width="420" height="64" />
+  <foreignObject x="80" y="340" width="420" height="64">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl"
+         style="display:flex;align-items:center;justify-content:flex-end;padding:14px 24px;"
+         class="chip">
+      <span>تحلیل شش‌وجهی برای هر مداخله</span>
+    </div>
+  </foreignObject>
+
+  <rect class="pill" x="580" y="340" width="420" height="64" />
+  <foreignObject x="580" y="340" width="420" height="64">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl"
+         style="display:flex;align-items:center;justify-content:flex-end;padding:14px 24px;"
+         class="chip">
+      <span>طیف نتایج: از رهایی تا فروپاشی دولت</span>
+    </div>
+  </foreignObject>
+
+  <!-- Card 1 -->
+  <rect class="card shadow" x="80" y="430" width="920" height="340" />
+  <foreignObject x="100" y="450" width="880" height="300">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl"
+         style="text-align:right;">
+      <div class="card-title">این فصل چه می‌گوید؟</div>
+      <div class="card-text" style="margin-top:18px;">
+        • مقایسه‌ی موردی: <span class="gold">عراق، افغانستان، لیبی، سوریه، یمن، رواندا، کوزوو، اوکراین</span> و چند پرونده‌ی آفریقایی.<br/>
+        • هر مورد با مدل <span class="gold">شش‌وجهی نجات‌طلبی</span> واکاوی می‌شود: ساختاری، حقوقی، اقتصادی، امنیتی، روان‌شناختی و ژئوپولیتیک.<br/>
+        • نتیجه: تقریباً هیچ مداخله‌ای نتوانسته «نجاتِ پایدار» (درجه‌ی <span class="green">A</span>) بسازد؛
+          اغلب در محدوده‌ی <span class="gold">C–E</span> متوقف شده‌اند.
+      </div>
+    </div>
+  </foreignObject>
+
+  <!-- Card 2 -->
+  <rect class="card shadow" x="80" y="800" width="920" height="360" />
+  <foreignObject x="100" y="820" width="880" height="320">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl"
+         style="text-align:right;">
+      <div class="card-title">کلید فهم فصل ۱۰</div>
+      <div class="card-text" style="margin-top:18px;">
+        • <span class="gold">بهانه‌ی رسمی</span>: حقوق بشر، مبارزه با تروریسم، جلوگیری از نسل‌کشی، دموکراسی‌سازی.<br/>
+        • <span class="gold">محرک واقعی</span>: منافع ژئوپولیتیک، منابع طبیعی، رقابت قدرت‌ها، ترس از سرایت بحران.<br/>
+        • <span class="gold">هسته‌ی تحلیلی</span>: چگونه فاصله‌ی میان «خطابِ اخلاقی» و «انگیزه‌ی واقعی»
+          سرنوشت ملتِ میزبان را روی طیف A–F جابجا می‌کند.
+      </div>
+    </div>
+  </foreignObject>
+
+  <!-- Footer -->
+  <foreignObject x="80" y="1190" width="920" height="80">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl"
+         class="footer"
+         style="display:flex;justify-content:space-between;align-items:center;">
+      <span>برای دیدن جدول تطبیقی همه‌ی مداخلات، متن کامل فصل ۱۰ را بخوانید.</span>
+      <span>nations_salvation • لینک مطالعه در بیو</span>
+    </div>
+  </foreignObject>
+</svg>

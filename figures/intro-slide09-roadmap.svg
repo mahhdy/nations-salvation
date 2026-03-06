@@ -1,0 +1,136 @@
+﻿<svg width="1080" height="1350" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg9" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#040c08"/>
+      <stop offset="100%" stop-color="#060a10"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1080" height="1350" fill="url(#bg9)"/>
+
+  <!-- Title -->
+  <foreignObject x="60" y="55" width="960" height="150">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl"
+         style="text-align:center;font-family:'IRANSansX','Vazirmatn',sans-serif;">
+      <div style="font-size:52px;font-weight:900;color:#FFFFFF;">
+        🗺️ نقشه‌ی راه <span style="color:#69F0AE;">خودسازی</span>
+      </div>
+      <div style="font-size:26px;color:#90A4AE;margin-top:10px;">
+        ۵ قدم برای خروج از چرخه‌ی نجات‌طلبی
+      </div>
+    </div>
+  </foreignObject>
+
+  <!-- Vertical line -->
+  <rect x="128" y="240" width="5" height="920" rx="2.5" fill="#2E7D32" opacity="0.4"/>
+
+  <!-- Step 1 -->
+  <circle cx="130" cy="290" r="24" fill="#080c08" stroke="#69F0AE" stroke-width="3"/>
+  <foreignObject x="113" y="277" width="34" height="30">
+    <div xmlns="http://www.w3.org/1999/xhtml"
+         style="text-align:center;font-family:'IRANSansX',sans-serif;
+                font-size:22px;font-weight:900;color:#69F0AE;">۱</div>
+  </foreignObject>
+  <rect x="180" y="250" width="820" height="150" rx="22" fill="#0a140c" stroke="#2E7D32" stroke-width="1.5"/>
+  <foreignObject x="200" y="265" width="780" height="120">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl"
+         style="font-family:'IRANSansX','Vazirmatn',sans-serif;text-align:right;">
+      <div style="font-size:30px;font-weight:800;color:#69F0AE;">بازسازی عاملیت جمعی</div>
+      <div style="font-size:23px;color:#CFD8DC;margin-top:8px;line-height:1.55;">
+        باور «ما می‌توانیم» جایگزین «ما نمی‌توانیم» شود.
+        آموزش تاریخ واقعی، نه تاریخِ قربانی‌محور.
+      </div>
+    </div>
+  </foreignObject>
+
+  <!-- Step 2 -->
+  <circle cx="130" cy="470" r="24" fill="#080c08" stroke="#69F0AE" stroke-width="3"/>
+  <foreignObject x="113" y="457" width="34" height="30">
+    <div xmlns="http://www.w3.org/1999/xhtml"
+         style="text-align:center;font-family:'IRANSansX',sans-serif;
+                font-size:22px;font-weight:900;color:#69F0AE;">۲</div>
+  </foreignObject>
+  <rect x="180" y="430" width="820" height="150" rx="22" fill="#0a140c" stroke="#2E7D32" stroke-width="1.5"/>
+  <foreignObject x="200" y="445" width="780" height="120">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl"
+         style="font-family:'IRANSansX','Vazirmatn',sans-serif;text-align:right;">
+      <div style="font-size:30px;font-weight:800;color:#69F0AE;">تفکر انتقادی و سواد رسانه‌ای</div>
+      <div style="font-size:23px;color:#CFD8DC;margin-top:8px;line-height:1.55;">
+        تشخیص «خبر» از «عملیات نفوذ» و «تحلیل» از «تبلیغ».
+        مهم‌ترین مهارت قرن ۲۱.
+      </div>
+    </div>
+  </foreignObject>
+
+  <!-- Step 3 -->
+  <circle cx="130" cy="650" r="24" fill="#080c08" stroke="#69F0AE" stroke-width="3"/>
+  <foreignObject x="113" y="637" width="34" height="30">
+    <div xmlns="http://www.w3.org/1999/xhtml"
+         style="text-align:center;font-family:'IRANSansX',sans-serif;
+                font-size:22px;font-weight:900;color:#69F0AE;">۳</div>
+  </foreignObject>
+  <rect x="180" y="610" width="820" height="150" rx="22" fill="#0a140c" stroke="#2E7D32" stroke-width="1.5"/>
+  <foreignObject x="200" y="625" width="780" height="120">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl"
+         style="font-family:'IRANSansX','Vazirmatn',sans-serif;text-align:right;">
+      <div style="font-size:30px;font-weight:800;color:#69F0AE;">استقلال اقتصادی</div>
+      <div style="font-size:23px;color:#CFD8DC;margin-top:8px;line-height:1.55;">
+        تنوع صنعتی، کاهش وابستگی به نفت و واردات.
+        اقتصاد تک‌محصولی = آسیب‌پذیری حداکثری.
+      </div>
+    </div>
+  </foreignObject>
+
+  <!-- Step 4 -->
+  <circle cx="130" cy="830" r="24" fill="#080c08" stroke="#69F0AE" stroke-width="3"/>
+  <foreignObject x="113" y="817" width="34" height="30">
+    <div xmlns="http://www.w3.org/1999/xhtml"
+         style="text-align:center;font-family:'IRANSansX',sans-serif;
+                font-size:22px;font-weight:900;color:#69F0AE;">۴</div>
+  </foreignObject>
+  <rect x="180" y="790" width="820" height="150" rx="22" fill="#0a140c" stroke="#2E7D32" stroke-width="1.5"/>
+  <foreignObject x="200" y="805" width="780" height="120">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl"
+         style="font-family:'IRANSansX','Vazirmatn',sans-serif;text-align:right;">
+      <div style="font-size:30px;font-weight:800;color:#69F0AE;">نهادسازی مستقل</div>
+      <div style="font-size:23px;color:#CFD8DC;margin-top:8px;line-height:1.55;">
+        دانشگاه، قوه‌ی قضاییه، رسانه‌ و جامعه‌ی مدنی — مستقل
+        از بودجه‌ی دولتی و خارجی.
+      </div>
+    </div>
+  </foreignObject>
+
+  <!-- Step 5 -->
+  <circle cx="130" cy="1010" r="24" fill="#080c08" stroke="#69F0AE" stroke-width="3"/>
+  <foreignObject x="113" y="997" width="34" height="30">
+    <div xmlns="http://www.w3.org/1999/xhtml"
+         style="text-align:center;font-family:'IRANSansX',sans-serif;
+                font-size:22px;font-weight:900;color:#69F0AE;">۵</div>
+  </foreignObject>
+  <rect x="180" y="970" width="820" height="150" rx="22" fill="#0a140c" stroke="#2E7D32" stroke-width="1.5"/>
+  <foreignObject x="200" y="985" width="780" height="120">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl"
+         style="font-family:'IRANSansX','Vazirmatn',sans-serif;text-align:right;">
+      <div style="font-size:30px;font-weight:800;color:#69F0AE;">گفتگوی ملی</div>
+      <div style="font-size:23px;color:#CFD8DC;margin-top:8px;line-height:1.55;">
+        توافق حداقلی نخبگان بر سر قواعد بازی.
+        بدون این، هر تغییری فقط جابجایی قدرت است.
+      </div>
+    </div>
+  </foreignObject>
+
+  <!-- Bottom -->
+  <foreignObject x="80" y="1170" width="920" height="70">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl"
+         style="text-align:center;font-family:'Sahel','Vazirmatn',sans-serif;
+                font-size:28px;color:#F9A825;font-weight:600;">
+      ← این نقشه‌ی راه در فصل ۱۴ کتاب تشریح شده
+    </div>
+  </foreignObject>
+
+  <foreignObject x="0" y="1290" width="1080" height="50">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl"
+         style="text-align:center;font-family:'Sahel','Vazirmatn',sans-serif;
+                font-size:22px;color:#546E7A;">nations_salvation@ · ۹ از ۱۰</div>
+  </foreignObject>
+</svg>

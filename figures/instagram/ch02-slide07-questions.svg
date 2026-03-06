@@ -1,0 +1,124 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1350" width="1080" height="1350">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0D1117"/>
+      <stop offset="100%" style="stop-color:#161B22"/>
+    </linearGradient>
+    <linearGradient id="titleGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#00D9FF"/>
+      <stop offset="50%" style="stop-color:#A855F7"/>
+      <stop offset="100%" style="stop-color:#EC4899"/>
+    </linearGradient>
+    <style>
+      .rtl { direction: rtl; text-align: center; font-family: 'Vazirmatn', 'Segoe UI', Tahoma, sans-serif; }
+      .rtl-right { direction: rtl; text-align: right; font-family: 'Vazirmatn', 'Segoe UI', Tahoma, sans-serif; padding-right: 15px; }
+    </style>
+  </defs>
+  
+  <rect width="1080" height="1350" fill="url(#bgGrad)"/>
+  
+  <!-- Header -->
+  <rect x="660" y="30" width="380" height="50" rx="25" fill="#DC2626"/>
+  <foreignObject x="660" y="30" width="380" height="50">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl" style="color:#FFFFFF; font-size:28px; line-height:50px;">فصل   اسلاید </div>
+  </foreignObject>
+  
+  <!-- Title -->
+  <foreignObject x="40" y="100" width="1000" height="60">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl" style="font-size:50px; font-weight:bold; color:#DC2626;"> پرسشهای حلنشده</div>
+  </foreignObject>
+  <foreignObject x="40" y="160" width="1000" height="40">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl" style="color:#94A3B8; font-size:28px;">سوالاتی که حقوق بینالملل پاسخ ندارد</div>
+  </foreignObject>
+  
+  <!-- Question 1 -->
+  <rect x="60" y="220" width="960" height="110" rx="15" fill="none" stroke="#00D9FF" stroke-width="2"/>
+  <foreignObject x="880" y="235" width="120" height="45">
+    <div xmlns="http://www.w3.org/1999/xhtml" style="color:#F9A825; font-size:38px; font-weight:bold; text-align:center;"></div>
+  </foreignObject>
+  <foreignObject x="70" y="245" width="800" height="38">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl-right" style="color:#00D9FF; font-size:28px; font-weight:bold;">آیا ملتی حق دعوت از بیگانه دارد</div>
+  </foreignObject>
+  <foreignObject x="70" y="285" width="800" height="35">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl-right" style="color:#94A3B8; font-size:22px;">اگر دولت ظالم باشد اپوزیسیون میتواند کمک بخواهد</div>
+  </foreignObject>
+  
+  <!-- Question 2 -->
+  <rect x="60" y="345" width="960" height="110" rx="15" fill="none" stroke="#F9A825" stroke-width="2"/>
+  <foreignObject x="880" y="360" width="120" height="45">
+    <div xmlns="http://www.w3.org/1999/xhtml" style="color:#F9A825; font-size:38px; font-weight:bold; text-align:center;"></div>
+  </foreignObject>
+  <foreignObject x="70" y="370" width="800" height="38">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl-right" style="color:#F9A825; font-size:28px; font-weight:bold;">دعوت چه کسی معتبر است</div>
+  </foreignObject>
+  <foreignObject x="70" y="410" width="800" height="35">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl-right" style="color:#94A3B8; font-size:22px;">دولت پارلمان مردم اپوزیسیون گروه مسلح</div>
+  </foreignObject>
+  
+  <!-- Question 3 -->
+  <rect x="60" y="470" width="960" height="110" rx="15" fill="none" stroke="#4ADE80" stroke-width="2"/>
+  <foreignObject x="880" y="485" width="120" height="45">
+    <div xmlns="http://www.w3.org/1999/xhtml" style="color:#F9A825; font-size:38px; font-weight:bold; text-align:center;"></div>
+  </foreignObject>
+  <foreignObject x="70" y="495" width="800" height="38">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl-right" style="color:#4ADE80; font-size:28px; font-weight:bold;">مداخلهی محدود ممکن است</div>
+  </foreignObject>
+  <foreignObject x="70" y="535" width="800" height="35">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl-right" style="color:#94A3B8; font-size:22px;">آیا میتوان مداخله را کنترلشده نگه داشت</div>
+  </foreignObject>
+  
+  <!-- Question 4 -->
+  <rect x="60" y="595" width="960" height="110" rx="15" fill="none" stroke="#A855F7" stroke-width="2"/>
+  <foreignObject x="880" y="610" width="120" height="45">
+    <div xmlns="http://www.w3.org/1999/xhtml" style="color:#F9A825; font-size:38px; font-weight:bold; text-align:center;"></div>
+  </foreignObject>
+  <foreignObject x="70" y="620" width="800" height="38">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl-right" style="color:#C084FC; font-size:28px; font-weight:bold;">تکلیف پس از مداخله چیست</div>
+  </foreignObject>
+  <foreignObject x="70" y="660" width="800" height="35">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl-right" style="color:#94A3B8; font-size:22px;">مسئولیت بازسازی حکومت موقت انتخابات</div>
+  </foreignObject>
+  
+  <!-- Question 5 -->
+  <rect x="60" y="720" width="960" height="110" rx="15" fill="none" stroke="#EC4899" stroke-width="2"/>
+  <foreignObject x="880" y="735" width="120" height="45">
+    <div xmlns="http://www.w3.org/1999/xhtml" style="color:#F9A825; font-size:38px; font-weight:bold; text-align:center;"></div>
+  </foreignObject>
+  <foreignObject x="70" y="745" width="800" height="38">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl-right" style="color:#EC4899; font-size:28px; font-weight:bold;">چه کسی قاضی میشود</div>
+  </foreignObject>
+  <foreignObject x="70" y="785" width="800" height="35">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl-right" style="color:#94A3B8; font-size:22px;">چرا آمریکا محاکمه نشد اما روسیه تحریم شد</div>
+  </foreignObject>
+  
+  <!-- Answer box -->
+  <rect x="100" y="860" width="880" height="150" rx="20" fill="#DC2626" fill-opacity="0.1" stroke="#DC2626" stroke-width="3"/>
+  <foreignObject x="100" y="885" width="880" height="40">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl" style="color:#DC2626; font-size:30px; font-weight:bold;"> پاسخ صادقانه:</div>
+  </foreignObject>
+  <foreignObject x="100" y="930" width="880" height="35">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl" style="color:#FFFFFF; font-size:26px;">این سوالات پاسخ حقوقی قاطع ندارند.</div>
+  </foreignObject>
+  <foreignObject x="100" y="965" width="880" height="35">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl" style="color:#F87171; font-size:26px;">پاسخ به توازن قوا بستگی دارد نه قانون.</div>
+  </foreignObject>
+  
+  <!-- Quote -->
+  <foreignObject x="40" y="1040" width="1000" height="40">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl" style="color:#A855F7; font-size:24px; font-style:italic;">قدرتمندان عدالت را تفسیر میکنند ضعفا تحمل.</div>
+  </foreignObject>
+  <foreignObject x="40" y="1080" width="1000" height="35">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl" style="color:#94A3B8; font-size:20px;"> توسیدید جنگ پلوپونزی</div>
+  </foreignObject>
+  
+  <!-- Navigation -->
+  <foreignObject x="40" y="1140" width="1000" height="40">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl" style="color:#00D9FF; font-size:26px;">بعدی: خلاصهی فصل </div>
+  </foreignObject>
+  
+  <foreignObject x="40" y="1200" width="1000" height="40">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl" style="color:#64748B; font-size:22px;">@nations_salvation</div>
+  </foreignObject>
+  
+  <rect x="40" y="1306" width="1000" height="4" rx="2" fill="url(#titleGrad)"/>
+</svg>

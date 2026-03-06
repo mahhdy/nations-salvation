@@ -1,0 +1,68 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1350" width="1080" height="1350">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0D1117"/>
+      <stop offset="100%" style="stop-color:#161B22"/>
+    </linearGradient>
+    <linearGradient id="titleGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#00D9FF"/>
+      <stop offset="50%" style="stop-color:#A855F7"/>
+      <stop offset="100%" style="stop-color:#EC4899"/>
+    </linearGradient>
+  </defs>
+  
+  <rect width="1080" height="1350" fill="url(#bgGrad)"/>
+  
+  <!-- Header -->
+  <rect x="660" y="30" width="380" height="50" rx="25" fill="#1A237E"/>
+  <text x="850" y="65" font-family="Vazirmatn, Tahoma" font-size="28" fill="#FFFFFF" text-anchor="middle" direction="rtl">فصل   اسلاید  از </text>
+  
+  <!-- Title -->
+  <text x="540" y="150" font-family="Vazirmatn, Tahoma" font-size="56" font-weight="bold" fill="url(#titleGrad)" text-anchor="middle" direction="rtl"> پرسشهای کلیدی</text>
+  <text x="540" y="210" font-family="Vazirmatn, Tahoma" font-size="28" fill="#94A3B8" text-anchor="middle" direction="rtl">سوالاتی که این کتاب پاسخ میدهد</text>
+  
+  <!-- Question 1 -->
+  <rect x="60" y="260" width="960" height="120" rx="15" fill="none" stroke="#00D9FF" stroke-width="2"/>
+  <text x="980" y="305" font-family="Vazirmatn, Tahoma" font-size="36" fill="#00D9FF" text-anchor="end" font-weight="bold"></text>
+  <text x="930" y="305" font-family="Vazirmatn, Tahoma" font-size="30" fill="#FFFFFF" text-anchor="end" direction="rtl">آیا مداخلهی خارجی میتواند به آزادی منجر شود</text>
+  <text x="930" y="355" font-family="Vazirmatn, Tahoma" font-size="24" fill="#94A3B8" text-anchor="end" direction="rtl"> شرایط احتمالات و آمار تاریخی</text>
+  
+  <!-- Question 2 -->
+  <rect x="60" y="400" width="960" height="120" rx="15" fill="none" stroke="#F9A825" stroke-width="2"/>
+  <text x="980" y="445" font-family="Vazirmatn, Tahoma" font-size="36" fill="#F9A825" text-anchor="end" font-weight="bold"></text>
+  <text x="930" y="445" font-family="Vazirmatn, Tahoma" font-size="30" fill="#FFFFFF" text-anchor="end" direction="rtl">چرا ملتها به بیگانه امید میبندند</text>
+  <text x="930" y="495" font-family="Vazirmatn, Tahoma" font-size="24" fill="#94A3B8" text-anchor="end" direction="rtl"> روانشناسی سوگیریها و آرزواندیشی</text>
+  
+  <!-- Question 3 -->
+  <rect x="60" y="540" width="960" height="120" rx="15" fill="none" stroke="#2E7D32" stroke-width="2"/>
+  <text x="980" y="585" font-family="Vazirmatn, Tahoma" font-size="36" fill="#4ADE80" text-anchor="end" font-weight="bold"></text>
+  <text x="930" y="585" font-family="Vazirmatn, Tahoma" font-size="30" fill="#FFFFFF" text-anchor="end" direction="rtl">مداخلهگران واقعا چه میخواهند</text>
+  <text x="930" y="635" font-family="Vazirmatn, Tahoma" font-size="24" fill="#94A3B8" text-anchor="end" direction="rtl"> منافع استراتژیک اقتصادی و ژئوپولیتیک</text>
+  
+  <!-- Question 4 -->
+  <rect x="60" y="680" width="960" height="120" rx="15" fill="none" stroke="#A855F7" stroke-width="2"/>
+  <text x="980" y="725" font-family="Vazirmatn, Tahoma" font-size="36" fill="#C084FC" text-anchor="end" font-weight="bold"></text>
+  <text x="930" y="725" font-family="Vazirmatn, Tahoma" font-size="30" fill="#FFFFFF" text-anchor="end" direction="rtl">تاریخ ایران چه درسهایی دارد</text>
+  <text x="930" y="775" font-family="Vazirmatn, Tahoma" font-size="24" fill="#94A3B8" text-anchor="end" direction="rtl"> از اسکندر تا کودتای  مرداد</text>
+  
+  <!-- Question 5 -->
+  <rect x="60" y="820" width="960" height="120" rx="15" fill="none" stroke="#EC4899" stroke-width="2"/>
+  <text x="980" y="865" font-family="Vazirmatn, Tahoma" font-size="36" fill="#EC4899" text-anchor="end" font-weight="bold"></text>
+  <text x="930" y="865" font-family="Vazirmatn, Tahoma" font-size="30" fill="#FFFFFF" text-anchor="end" direction="rtl">آیا R2P (مسئولیت حمایت) ابزار سلطه است</text>
+  <text x="930" y="915" font-family="Vazirmatn, Tahoma" font-size="24" fill="#94A3B8" text-anchor="end" direction="rtl"> نقد حقوق بینالملل</text>
+  
+  <!-- Question 6 -->
+  <rect x="60" y="960" width="960" height="120" rx="15" fill="none" stroke="#DC2626" stroke-width="2"/>
+  <text x="980" y="1005" font-family="Vazirmatn, Tahoma" font-size="36" fill="#F87171" text-anchor="end" font-weight="bold"></text>
+  <text x="930" y="1005" font-family="Vazirmatn, Tahoma" font-size="30" fill="#FFFFFF" text-anchor="end" direction="rtl">پس راهحل چیست</text>
+  <text x="930" y="1055" font-family="Vazirmatn, Tahoma" font-size="24" fill="#94A3B8" text-anchor="end" direction="rtl"> جمعبندی و پیشنهادات (فصل )</text>
+  
+  <!-- Bottom box -->
+  <rect x="150" y="1120" width="780" height="100" rx="20" fill="#1A237E" stroke="#00D9FF" stroke-width="2"/>
+  <text x="540" y="1165" font-family="Vazirmatn, Tahoma" font-size="30" fill="#00D9FF" text-anchor="middle" direction="rtl" font-weight="bold"> این کتاب برای کسانی است که</text>
+  <text x="540" y="1205" font-family="Vazirmatn, Tahoma" font-size="28" fill="#FFFFFF" text-anchor="middle" direction="rtl">میخواهند فکر کنند نه فقط احساس!</text>
+  
+  <text x="540" y="1270" font-family="Vazirmatn, Tahoma" font-size="26" fill="#F9A825" text-anchor="middle" direction="rtl">اسلاید آخر: برای چه کسانی </text>
+  
+  <rect x="40" y="1306" width="1000" height="4" rx="2" fill="url(#titleGrad)"/>
+</svg>

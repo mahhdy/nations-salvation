@@ -1,0 +1,84 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1350" width="1080" height="1350">
+  <style>
+    text { 
+      direction: rtl; 
+      unicode-bidi: bidi-override;
+    }
+    .rtl-text {
+      direction: rtl;
+      unicode-bidi: embed;
+      text-anchor: end;
+    }
+  </style>
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0D1117"/>
+      <stop offset="100%" style="stop-color:#161B22"/>
+    </linearGradient>
+    <linearGradient id="titleGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#00D9FF"/>
+      <stop offset="50%" style="stop-color:#A855F7"/>
+      <stop offset="100%" style="stop-color:#EC4899"/>
+    </linearGradient>
+    <linearGradient id="goldGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#F9A825"/>
+      <stop offset="100%" style="stop-color:#FFD54F"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+      <feMerge><feMergeNode in="coloredBlur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="1080" height="1350" fill="url(#bgGrad)"/>
+  
+  <!-- Decorative top line -->
+  <rect x="40" y="40" width="1000" height="4" rx="2" fill="url(#titleGrad)" filter="url(#glow)"/>
+  
+  <!-- Header badge -->
+  <rect x="700" y="60" width="340" height="50" rx="25" fill="none" stroke="#00D9FF" stroke-width="2"/>
+  <text x="870" y="95" font-family="Vazirmatn, Tahoma" font-size="28" fill="#00D9FF" text-anchor="middle" direction="rtl">کتاب جدید</text>
+  
+  <!-- Main Title -->
+  <text x="540" y="280" font-family="Vazirmatn, Tahoma" font-size="72" font-weight="bold" fill="url(#titleGrad)" text-anchor="middle" direction="rtl" filter="url(#glow)">ملت‌ها و نجات‌بخشی</text>
+  
+  <!-- Subtitle -->
+  <text x="540" y="380" font-family="Vazirmatn, Tahoma" font-size="36" fill="#94A3B8" text-anchor="middle" direction="rtl">آرزواندیشی و خام‌اندیشی</text>
+  <text x="540" y="440" font-family="Vazirmatn, Tahoma" font-size="36" fill="#94A3B8" text-anchor="middle" direction="rtl">یا فرصت‌طلبی و عمل‌گرایی؟</text>
+  
+  <!-- Decorative line -->
+  <rect x="340" y="490" width="400" height="3" rx="1.5" fill="url(#goldGrad)"/>
+  
+  <!-- Main question box -->
+  <rect x="60" y="540" width="960" height="280" rx="20" fill="none" stroke="#00D9FF" stroke-width="2"/>
+  <rect x="60" y="540" width="960" height="280" rx="20" fill="#0D1117" fill-opacity="0.8"/>
+  
+  <text x="540" y="620" font-family="Vazirmatn, Tahoma" font-size="40" fill="#FFFFFF" text-anchor="middle" direction="rtl">آیا کمک خارجی واقعاً</text>
+  <text x="540" y="690" font-family="Vazirmatn, Tahoma" font-size="48" fill="url(#titleGrad)" text-anchor="middle" direction="rtl" font-weight="bold">به آزادی می‌انجامد؟</text>
+  <text x="540" y="770" font-family="Vazirmatn, Tahoma" font-size="32" fill="#F9A825" text-anchor="middle" direction="rtl">۲۵۰۰ سال شواهد تاریخی</text>
+  
+  <!-- Author -->
+  <text x="540" y="920" font-family="Vazirmatn, Tahoma" font-size="36" fill="#FFFFFF" text-anchor="middle" direction="rtl">نویسنده:</text>
+  <text x="540" y="980" font-family="Vazirmatn, Tahoma" font-size="44" fill="url(#goldGrad)" text-anchor="middle" direction="rtl" font-weight="bold">مهدی سالم</text>
+  
+  <!-- Stats boxes -->
+  <rect x="60" y="1060" width="300" height="120" rx="15" fill="none" stroke="#2E7D32" stroke-width="2"/>
+  <text x="210" y="1110" font-family="Vazirmatn, Tahoma" font-size="42" fill="#2E7D32" text-anchor="middle" font-weight="bold">۱۴</text>
+  <text x="210" y="1155" font-family="Vazirmatn, Tahoma" font-size="28" fill="#94A3B8" text-anchor="middle" direction="rtl">فصل تحلیلی</text>
+  
+  <rect x="390" y="1060" width="300" height="120" rx="15" fill="none" stroke="#F9A825" stroke-width="2"/>
+  <text x="540" y="1110" font-family="Vazirmatn, Tahoma" font-size="42" fill="#F9A825" text-anchor="middle" font-weight="bold">+۳۰</text>
+  <text x="540" y="1155" font-family="Vazirmatn, Tahoma" font-size="28" fill="#94A3B8" text-anchor="middle" direction="rtl">مورد تاریخی</text>
+  
+  <rect x="720" y="1060" width="300" height="120" rx="15" fill="none" stroke="#EC4899" stroke-width="2"/>
+  <text x="870" y="1110" font-family="Vazirmatn, Tahoma" font-size="42" fill="#EC4899" text-anchor="middle" font-weight="bold">۴</text>
+  <text x="870" y="1155" font-family="Vazirmatn, Tahoma" font-size="28" fill="#94A3B8" text-anchor="middle" direction="rtl">پیوست تخصصی</text>
+  
+  <!-- CTA -->
+  <rect x="340" y="1220" width="400" height="70" rx="35" fill="url(#titleGrad)"/>
+  <text x="540" y="1268" font-family="Vazirmatn, Tahoma" font-size="32" fill="#0D1117" text-anchor="middle" direction="rtl" font-weight="bold">ادامه دهید ←</text>
+  
+  <!-- Bottom line -->
+  <rect x="40" y="1306" width="1000" height="4" rx="2" fill="url(#titleGrad)" filter="url(#glow)"/>
+</svg>

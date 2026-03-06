@@ -1,0 +1,153 @@
+﻿<svg width="1080" height="1350" viewBox="0 0 1080 1350" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      :root { direction:rtl; font-family:"Vazirmatn","Segoe UI",Tahoma,sans-serif; }
+      .bg { fill:#04080e; }
+      .header-bar { fill:#0D47A1; }
+      .accent { fill:#FFD54F; }
+      .card { fill:#0c1420; stroke:#1565C0; stroke-width:1.4; rx:28; ry:28; }
+      .row-h { fill:#0D47A1; }
+      .row-o { fill:#0c1420; }
+      .row-e { fill:#101c2c; }
+      .shadow { filter:drop-shadow(0px 12px 28px rgba(0,0,0,0.4)); }
+      .title { font-size:42px; font-weight:800; color:#FFFFFF; }
+      .th { font-size:21px; font-weight:700; color:#FFD54F; }
+      .td { font-size:20px; color:#ECEFF1; }
+      .gold { color:#FFD54F; font-weight:700; }
+      .green { color:#69F0AE; font-weight:700; }
+      .red { color:#EF5350; font-weight:700; }
+      .footer { font-size:24px; color:#78909C; }
+    </style>
+  </defs>
+
+  <rect class="bg" x="0" y="0" width="1080" height="1350"/>
+
+  <rect class="header-bar" x="60" y="60" width="960" height="90" rx="22"/>
+  <rect class="accent" x="80" y="82" width="10" height="46" rx="5"/>
+  <foreignObject x="110" y="70" width="900" height="80">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl"
+         style="display:flex;justify-content:space-between;align-items:center;color:#FFF;font-size:28px;font-weight:600;">
+      <span>خلاصه‌ی فصل‌ها</span>
+      <span style="opacity:0.8;">پیوست الف • خلاصه‌ی مدیریتی</span>
+    </div>
+  </foreignObject>
+
+  <foreignObject x="80" y="168" width="920" height="70">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl" style="text-align:right;">
+      <div class="title">هر فصل در یک جمله</div>
+    </div>
+  </foreignObject>
+
+  <!-- Table header -->
+  <rect class="row-h" x="60" y="245" width="960" height="50" rx="10"/>
+  <foreignObject x="70" y="250" width="940" height="40">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl"
+         style="display:flex;justify-content:space-between;text-align:center;">
+      <span class="th" style="width:100px;">فصل</span>
+      <span class="th" style="width:700px;">پیام اصلی</span>
+      <span class="th" style="width:100px;">طیف غالب</span>
+    </div>
+  </foreignObject>
+
+  <!-- Rows -->
+  <rect class="row-o" x="60" y="300" width="960" height="65" rx="4"/>
+  <foreignObject x="70" y="306" width="940" height="55">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl" style="display:flex;justify-content:space-between;text-align:center;align-items:center;">
+      <span class="td" style="width:100px;">۱–۳</span>
+      <span class="td" style="width:700px;">چارچوب حقوقی و تحلیلی: مدل شش‌وجهی و طیف A–F</span>
+      <span class="td" style="width:100px;">—</span>
+    </div>
+  </foreignObject>
+
+  <rect class="row-e" x="60" y="370" width="960" height="65" rx="4"/>
+  <foreignObject x="70" y="376" width="940" height="55">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl" style="display:flex;justify-content:space-between;text-align:center;align-items:center;">
+      <span class="td" style="width:100px;">۴–۶</span>
+      <span class="td" style="width:700px;">ایران باستان تا قاجار: الگوی تکرارِ دعوت از بیگانه</span>
+      <span class="td" style="width:100px;"><span class="red">C–F</span></span>
+    </div>
+  </foreignObject>
+
+  <rect class="row-o" x="60" y="440" width="960" height="65" rx="4"/>
+  <foreignObject x="70" y="446" width="940" height="55">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl" style="display:flex;justify-content:space-between;text-align:center;align-items:center;">
+      <span class="td" style="width:100px;">۷</span>
+      <span class="td" style="width:700px;">ایران مدرن: مشروطه، پهلوی و مداخلات مکرر</span>
+      <span class="td" style="width:100px;"><span class="red">C–D</span></span>
+    </div>
+  </foreignObject>
+
+  <rect class="row-e" x="60" y="510" width="960" height="65" rx="4"/>
+  <foreignObject x="70" y="516" width="940" height="55">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl" style="display:flex;justify-content:space-between;text-align:center;align-items:center;">
+      <span class="td" style="width:100px;">۸–۹</span>
+      <span class="td" style="width:700px;">مداخلات اروپایی و استعمار: الگوی جهانی</span>
+      <span class="td" style="width:100px;"><span class="red">D–F</span></span>
+    </div>
+  </foreignObject>
+
+  <rect class="row-o" x="60" y="580" width="960" height="65" rx="4"/>
+  <foreignObject x="70" y="586" width="940" height="55">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl" style="display:flex;justify-content:space-between;text-align:center;align-items:center;">
+      <span class="td" style="width:100px;">۱۰</span>
+      <span class="td" style="width:700px;">مداخلات معاصر: عراق تا اوکراین — شکست مکرر</span>
+      <span class="td" style="width:100px;"><span class="red">C–E</span></span>
+    </div>
+  </foreignObject>
+
+  <rect class="row-e" x="60" y="650" width="960" height="65" rx="4"/>
+  <foreignObject x="70" y="656" width="940" height="55">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl" style="display:flex;justify-content:space-between;text-align:center;align-items:center;">
+      <span class="td" style="width:100px;">۱۱</span>
+      <span class="td" style="width:700px;">روان‌شناسی: ناامیدی، سوگیری‌ها و اطاعت از مرجعیت</span>
+      <span class="td" style="width:100px;">—</span>
+    </div>
+  </foreignObject>
+
+  <rect class="row-o" x="60" y="720" width="960" height="65" rx="4"/>
+  <foreignObject x="70" y="726" width="940" height="55">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl" style="display:flex;justify-content:space-between;text-align:center;align-items:center;">
+      <span class="td" style="width:100px;">۱۲</span>
+      <span class="td" style="width:700px;">اقتصاد: نفرین منابع، وابستگی و هزینه‌ی تریلیونی</span>
+      <span class="td" style="width:100px;">—</span>
+    </div>
+  </foreignObject>
+
+  <rect class="row-e" x="60" y="790" width="960" height="65" rx="4"/>
+  <foreignObject x="70" y="796" width="940" height="55">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl" style="display:flex;justify-content:space-between;text-align:center;align-items:center;">
+      <span class="td" style="width:100px;">۱۳</span>
+      <span class="td" style="width:700px;">ایدئولوژی: ۷ جریان، یک الگو — تسهیل‌گری مداخله</span>
+      <span class="td" style="width:100px;"><span class="red">C–F</span></span>
+    </div>
+  </foreignObject>
+
+  <rect class="row-o" x="60" y="860" width="960" height="65" rx="4"/>
+  <foreignObject x="70" y="866" width="940" height="55">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl" style="display:flex;justify-content:space-between;text-align:center;align-items:center;">
+      <span class="td" style="width:100px;">۱۴</span>
+      <span class="td" style="width:700px;">جمع‌بندی: آزادی وارداتی، آزادی نیست</span>
+      <span class="td" style="width:100px;"><span class="green">A/B هدف</span></span>
+    </div>
+  </foreignObject>
+
+  <!-- Bottom -->
+  <rect class="card shadow" x="80" y="960" width="920" height="200"/>
+  <foreignObject x="100" y="980" width="880" height="160">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl" style="text-align:center;">
+      <div style="font-size:32px;color:#FFD54F;font-weight:800;">📖 برای خلاصه‌ی مدیریتی کامل (۱۵–۳۰ صفحه)</div>
+      <div style="font-size:25px;color:#ECEFF1;margin-top:14px;line-height:1.6;">
+        شامل توصیه‌های عملی، جداول ساده و نتیجه‌گیریِ یک‌صفحه‌ای<br/>
+        <span class="gold">→ پیوست الف کتاب «ملت‌ها و نجات‌بخشی»</span>
+      </div>
+    </div>
+  </foreignObject>
+
+  <foreignObject x="80" y="1260" width="920" height="60">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl" class="footer"
+         style="display:flex;justify-content:space-between;align-items:center;">
+      <span>nations_salvation@ • لینک مطالعه در بیو</span>
+      <span>پیوست الف • اسلاید ۲ از ۲</span>
+    </div>
+  </foreignObject>
+</svg>

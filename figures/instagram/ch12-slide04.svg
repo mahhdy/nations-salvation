@@ -1,0 +1,128 @@
+﻿<svg width="1080" height="1350" viewBox="0 0 1080 1350" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      :root { direction:rtl; font-family:"Vazirmatn","Segoe UI",Tahoma,sans-serif; }
+      .bg { fill:#060d18; }
+      .header-bar { fill:#1A237E; }
+      .accent { fill:#F9A825; }
+      .card { fill:#0e1628; stroke:#1e3a5f; stroke-width:1.4; rx:28; ry:28; }
+      .chain-card { fill:#0e1420; stroke:#5C6BC0; stroke-width:1.8; rx:24; ry:24; }
+      .shadow { filter:drop-shadow(0px 16px 36px rgba(0,0,0,0.45)); }
+      .title { font-size:44px; font-weight:800; color:#FFFFFF; }
+      .subtitle { font-size:26px; color:#CFD8DC; line-height:1.6; }
+      .card-title { font-size:30px; font-weight:700; color:#FFFFFF; }
+      .card-text { font-size:25px; line-height:1.7; color:#ECEFF1; }
+      .gold { color:#F9A825; font-weight:700; }
+      .indigo { color:#9FA8DA; font-weight:700; }
+      .red { color:#EF5350; font-weight:700; }
+      .teal { color:#4DB6AC; font-weight:700; }
+      .num { font-size:56px; font-weight:900; color:#5C6BC0; }
+      .footer { font-size:24px; color:#78909C; }
+    </style>
+  </defs>
+
+  <rect class="bg" x="0" y="0" width="1080" height="1350"/>
+
+  <rect class="header-bar" x="60" y="60" width="960" height="90" rx="22"/>
+  <rect class="accent" x="80" y="82" width="10" height="46" rx="5"/>
+  <foreignObject x="110" y="70" width="900" height="80">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl"
+         style="display:flex;justify-content:space-between;align-items:center;color:#FFF;font-size:28px;font-weight:600;">
+      <span>وابستگی ساختاری</span>
+      <span style="opacity:0.8;">فصل ۱۲ • جامعه‌شناسی و اقتصاد</span>
+    </div>
+  </foreignObject>
+
+  <foreignObject x="80" y="180" width="920" height="130">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl" style="text-align:right;">
+      <div class="title">🔗 چرخه‌ی <span class="indigo">وابستگیِ</span> پس از مداخله</div>
+      <div class="subtitle" style="margin-top:14px;">
+        مداخله پایان نمی‌یابد؛ فقط شکل عوض می‌کند:
+        از <span class="gold">نظامی</span> به <span class="gold">اقتصادی و نهادی</span>.
+      </div>
+    </div>
+  </foreignObject>
+
+  <!-- Chain step 1 -->
+  <rect class="chain-card shadow" x="80" y="320" width="920" height="170"/>
+  <foreignObject x="100" y="335" width="880" height="140">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl"
+         style="display:flex;align-items:flex-start;gap:20px;text-align:right;">
+      <div class="num">۱</div>
+      <div>
+        <div class="card-title">تخریب زیرساخت در جنگ</div>
+        <div class="card-text" style="margin-top:8px;">
+          بمباران، جنگ خیابانی و محاصره، صنایع و شبکه‌های حیاتی را
+          نابود می‌کند. ملت وابسته به <span class="gold">کمک خارجی</span> می‌شود.
+        </div>
+      </div>
+    </div>
+  </foreignObject>
+
+  <!-- Chain step 2 -->
+  <rect class="chain-card shadow" x="80" y="515" width="920" height="170"/>
+  <foreignObject x="100" y="530" width="880" height="140">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl"
+         style="display:flex;align-items:flex-start;gap:20px;text-align:right;">
+      <div class="num">۲</div>
+      <div>
+        <div class="card-title">بازسازی توسط شرکت‌های خارجی</div>
+        <div class="card-text" style="margin-top:8px;">
+          قراردادهای بازسازی به شرکت‌های کشور مداخله‌گر واگذار می‌شود.
+          <span class="red">پول از جیب ملت رفته، به جیب مداخله‌گر برمی‌گردد.</span>
+        </div>
+      </div>
+    </div>
+  </foreignObject>
+
+  <!-- Chain step 3 -->
+  <rect class="chain-card shadow" x="80" y="710" width="920" height="170"/>
+  <foreignObject x="100" y="725" width="880" height="140">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl"
+         style="display:flex;align-items:flex-start;gap:20px;text-align:right;">
+      <div class="num">۳</div>
+      <div>
+        <div class="card-title">وام‌های بین‌المللی و شرط‌گذاری</div>
+        <div class="card-text" style="margin-top:8px;">
+          IMF و بانک جهانی وام می‌دهند، اما با شرط
+          <span class="gold">خصوصی‌سازی، آزادسازی تجاری</span>
+          و سیاست‌هایی که منافع مرکز را تأمین می‌کند.
+        </div>
+      </div>
+    </div>
+  </foreignObject>
+
+  <!-- Chain step 4 -->
+  <rect class="chain-card shadow" x="80" y="905" width="920" height="170"/>
+  <foreignObject x="100" y="920" width="880" height="140">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl"
+         style="display:flex;align-items:flex-start;gap:20px;text-align:right;">
+      <div class="num">۴</div>
+      <div>
+        <div class="card-title">وابستگی دائمی</div>
+        <div class="card-text" style="margin-top:8px;">
+          ملتِ «نجات‌یافته» حالا هم از نظر نظامی، هم اقتصادی و هم نهادی
+          <span class="red">وابسته به مداخله‌گر</span> است. این «نجات» بود؟
+        </div>
+      </div>
+    </div>
+  </foreignObject>
+
+  <!-- Bottom -->
+  <rect class="card shadow" x="80" y="1105" width="920" height="110"/>
+  <foreignObject x="100" y="1120" width="880" height="75">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl" style="text-align:center;">
+      <div style="font-size:28px;color:#9FA8DA;font-weight:700;">
+        📖 در متن فصل ۱۲: نمودارهای مقایسه‌ی GDP قبل و بعد از مداخله + جدول بازسازی
+      </div>
+    </div>
+  </foreignObject>
+
+  <foreignObject x="80" y="1260" width="920" height="60">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl" class="footer"
+         style="display:flex;justify-content:space-between;align-items:center;">
+      <span>nations_salvation@ • لینک مطالعه در بیو</span>
+      <span>اسلاید ۴ از ۵</span>
+    </div>
+  </foreignObject>
+</svg>

@@ -1,0 +1,80 @@
+﻿<svg width="1080" height="1350" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg7" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#100818"/>
+      <stop offset="100%" stop-color="#080410"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1080" height="1350" fill="url(#bg7)"/>
+
+  <!-- Large brain emoji -->
+  <foreignObject x="0" y="50" width="1080" height="180">
+    <div xmlns="http://www.w3.org/1999/xhtml"
+         style="text-align:center;font-size:120px;">🧠</div>
+  </foreignObject>
+
+  <!-- Title -->
+  <foreignObject x="60" y="230" width="960" height="200">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl"
+         style="text-align:center;font-family:'IRANSansX','Vazirmatn',sans-serif;">
+      <div style="font-size:56px;font-weight:900;color:#FFFFFF;line-height:1.4;">
+        نجات‌طلبی یک
+        <span style="color:#CE93D8;">بیماری</span><br/>
+        <span style="color:#CE93D8;">روان‌شناختی</span> است
+      </div>
+    </div>
+  </foreignObject>
+
+  <!-- Subtitle -->
+  <foreignObject x="80" y="450" width="920" height="80">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl"
+         style="text-align:center;font-family:'Sahel','Vazirmatn',sans-serif;
+                font-size:28px;color:#90A4AE;">
+      نه فقط یک انتخاب سیاسی — یک واکنش به ناامیدیِ مزمن
+    </div>
+  </foreignObject>
+
+  <!-- 3 psychology cards -->
+  <rect x="80" y="570" width="920" height="185" rx="24" fill="#14101e" stroke="#7C4DFF" stroke-width="1.5"/>
+  <foreignObject x="100" y="585" width="880" height="155">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl"
+         style="font-family:'IRANSansX','Vazirmatn',sans-serif;text-align:right;">
+      <div style="font-size:32px;font-weight:800;color:#B388FF;">ناامیدی آموخته‌شده</div>
+      <div style="font-size:24px;color:#CFD8DC;margin-top:10px;line-height:1.6;">
+        ملتی که بارها شکست خورده، دیگر تلاش را بی‌فایده می‌بیند.
+        مغز یاد گرفته: <span style="color:#EF5350;font-weight:700;">«ما نمی‌توانیم.»</span>
+      </div>
+    </div>
+  </foreignObject>
+
+  <rect x="80" y="780" width="920" height="185" rx="24" fill="#14101e" stroke="#7C4DFF" stroke-width="1.5"/>
+  <foreignObject x="100" y="795" width="880" height="155">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl"
+         style="font-family:'IRANSansX','Vazirmatn',sans-serif;text-align:right;">
+      <div style="font-size:32px;font-weight:800;color:#B388FF;">آرزواندیشی</div>
+      <div style="font-size:24px;color:#CFD8DC;margin-top:10px;line-height:1.6;">
+        باور به راه‌حل ساده و سریع بدون تحلیل.
+        <span style="color:#F9A825;font-weight:700;">«اگر آن‌ها بیایند همه‌چیز درست می‌شود!»</span>
+      </div>
+    </div>
+  </foreignObject>
+
+  <rect x="80" y="990" width="920" height="185" rx="24" fill="#14101e" stroke="#7C4DFF" stroke-width="1.5"/>
+  <foreignObject x="100" y="1005" width="880" height="155">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl"
+         style="font-family:'IRANSansX','Vazirmatn',sans-serif;text-align:right;">
+      <div style="font-size:32px;font-weight:800;color:#B388FF;">هویت قربانی</div>
+      <div style="font-size:24px;color:#CFD8DC;margin-top:10px;line-height:1.6;">
+        وقتی هویت ملی حول «ستم‌دیده بودن» ساخته شود،
+        <span style="color:#EF5350;font-weight:700;">عاملیت از ملت سلب</span> شده و به «نجات‌دهنده» واگذار می‌شود.
+      </div>
+    </div>
+  </foreignObject>
+
+  <foreignObject x="0" y="1280" width="1080" height="50">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl"
+         style="text-align:center;font-family:'Sahel','Vazirmatn',sans-serif;
+                font-size:22px;color:#546E7A;">nations_salvation@ · ۷ از ۱۰</div>
+  </foreignObject>
+</svg>

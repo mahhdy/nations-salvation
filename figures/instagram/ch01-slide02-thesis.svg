@@ -1,0 +1,133 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1350" width="1080" height="1350">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0D1117"/>
+      <stop offset="100%" style="stop-color:#161B22"/>
+    </linearGradient>
+    <linearGradient id="titleGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#00D9FF"/>
+      <stop offset="50%" style="stop-color:#A855F7"/>
+      <stop offset="100%" style="stop-color:#EC4899"/>
+    </linearGradient>
+    <style>
+      .rtl { direction: rtl; text-align: center; font-family: 'Vazirmatn', 'Segoe UI', Tahoma, sans-serif; }
+      .rtl-right { direction: rtl; text-align: right; font-family: 'Vazirmatn', 'Segoe UI', Tahoma, sans-serif; padding-right: 20px; }
+    </style>
+  </defs>
+  
+  <rect width="1080" height="1350" fill="url(#bgGrad)"/>
+  
+  <!-- Header -->
+  <rect x="660" y="30" width="380" height="50" rx="25" fill="#1A237E"/>
+  <foreignObject x="660" y="30" width="380" height="50">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl" style="color:#FFFFFF; font-size:28px; line-height:50px;">فصل   اسلاید  از </div>
+  </foreignObject>
+  
+  <!-- Title -->
+  <foreignObject x="40" y="100" width="1000" height="80">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl" style="font-size:64px; font-weight:bold; background: linear-gradient(90deg, #00D9FF, #A855F7, #EC4899); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">تز اصلی کتاب</div>
+  </foreignObject>
+  
+  <rect x="240" y="190" width="600" height="3" fill="#00D9FF" opacity="0.5"/>
+  
+  <!-- Main thesis box -->
+  <rect x="50" y="220" width="980" height="240" rx="20" fill="none" stroke="#00D9FF" stroke-width="3"/>
+  <rect x="50" y="220" width="980" height="240" rx="20" fill="#0D1117" fill-opacity="0.9"/>
+  
+  <foreignObject x="50" y="240" width="980" height="55">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl" style="color:#00D9FF; font-size:36px;">نجاتطلبی  امیدبستن به نیروی خارجی </div>
+  </foreignObject>
+  <foreignObject x="50" y="300" width="980" height="55">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl" style="color:#F97316; font-size:36px; font-weight:bold;">در اکثر موارد تاریخی نه به رهایی</div>
+  </foreignObject>
+  <foreignObject x="50" y="360" width="980" height="55">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl" style="color:#F97316; font-size:36px; font-weight:bold;">بلکه به وابستگی جدید منجر شده است.</div>
+  </foreignObject>
+  <foreignObject x="50" y="420" width="980" height="40">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl" style="color:#94A3B8; font-size:28px;">اما: استثناهای مهمی وجود دارند (فصل )</div>
+  </foreignObject>
+  
+  <!-- Three pillars title -->
+  <foreignObject x="40" y="490" width="1000" height="60">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl" style="color:#F9A825; font-size:44px; font-weight:bold;">سه ستون اصلی استدلال</div>
+  </foreignObject>
+  
+  <!-- Pillar 1 - History -->
+  <rect x="720" y="570" width="300" height="220" rx="15" fill="none" stroke="#2E7D32" stroke-width="2"/>
+  <circle cx="870" cy="630" r="40" fill="none" stroke="#2E7D32" stroke-width="2"/>
+  <foreignObject x="830" y="605" width="80" height="55">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl" style="color:#F9A825; font-size:40px; font-weight:bold;"></div>
+  </foreignObject>
+  <foreignObject x="720" y="690" width="300" height="45">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl" style="color:#FFFFFF; font-size:36px; font-weight:bold;">تاریخ</div>
+  </foreignObject>
+  <foreignObject x="720" y="735" width="300" height="35">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl" style="color:#94A3B8; font-size:26px;">شواهد تجربی از</div>
+  </foreignObject>
+  <foreignObject x="720" y="765" width="300" height="35">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl" style="color:#94A3B8; font-size:26px;"> سال تاریخ</div>
+  </foreignObject>
+  
+  <!-- Pillar 2 - Theory -->
+  <rect x="390" y="570" width="300" height="220" rx="15" fill="none" stroke="#F9A825" stroke-width="2"/>
+  <circle cx="540" cy="630" r="40" fill="none" stroke="#F9A825" stroke-width="2"/>
+  <foreignObject x="500" y="605" width="80" height="55">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl" style="color:#F9A825; font-size:40px; font-weight:bold;"></div>
+  </foreignObject>
+  <foreignObject x="390" y="690" width="300" height="45">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl" style="color:#FFFFFF; font-size:36px; font-weight:bold;">نظریه</div>
+  </foreignObject>
+  <foreignObject x="390" y="735" width="300" height="35">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl" style="color:#94A3B8; font-size:26px;">حقوق بینالملل و</div>
+  </foreignObject>
+  <foreignObject x="390" y="765" width="300" height="35">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl" style="color:#94A3B8; font-size:26px;">علوم سیاسی</div>
+  </foreignObject>
+  
+  <!-- Pillar 3 - Psychology -->
+  <rect x="60" y="570" width="300" height="220" rx="15" fill="none" stroke="#EC4899" stroke-width="2"/>
+  <circle cx="210" cy="630" r="40" fill="none" stroke="#EC4899" stroke-width="2"/>
+  <foreignObject x="170" y="605" width="80" height="55">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl" style="color:#F9A825; font-size:40px; font-weight:bold;"></div>
+  </foreignObject>
+  <foreignObject x="60" y="690" width="300" height="45">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl" style="color:#FFFFFF; font-size:36px; font-weight:bold;">روانشناسی</div>
+  </foreignObject>
+  <foreignObject x="60" y="735" width="300" height="35">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl" style="color:#94A3B8; font-size:26px;">سوگیریها و</div>
+  </foreignObject>
+  <foreignObject x="60" y="765" width="300" height="35">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl" style="color:#94A3B8; font-size:26px;">آرزواندیشی</div>
+  </foreignObject>
+  
+  <!-- Next chapter box -->
+  <rect x="100" y="830" width="880" height="120" rx="15" fill="#1A237E" fill-opacity="0.5" stroke="#F9A825" stroke-width="2"/>
+  <foreignObject x="100" y="850" width="880" height="45">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl" style="color:#F9A825; font-size:36px; font-weight:bold;"> فصل بعدی:</div>
+  </foreignObject>
+  <foreignObject x="100" y="895" width="880" height="40">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl" style="color:#FFFFFF; font-size:30px;">مبانی حقوقی: حاکمیت ملی در برابر مداخله</div>
+  </foreignObject>
+  
+  <!-- Bottom decoration -->
+  <rect x="40" y="980" width="1000" height="2" fill="#00D9FF" opacity="0.3"/>
+  
+  <!-- Key insight -->
+  <foreignObject x="40" y="1010" width="1000" height="45">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl" style="color:#00D9FF; font-size:32px;"> نکته کلیدی:</div>
+  </foreignObject>
+  <foreignObject x="40" y="1060" width="1000" height="80">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl" style="color:#FFFFFF; font-size:28px; line-height:1.4;">این کتاب نه ضد غرب است نه ضد تغییر  بلکه ضد سادهاندیشی است.</div>
+  </foreignObject>
+  
+  <!-- Social -->
+  <foreignObject x="40" y="1160" width="1000" height="40">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl" style="color:#64748B; font-size:24px;">ذخیره کنید  | اشتراک بگذارید </div>
+  </foreignObject>
+  
+  <foreignObject x="40" y="1210" width="1000" height="40">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="rtl" style="color:#00D9FF; font-size:24px;">@nations_salvation</div>
+  </foreignObject>
+  
+  <rect x="40" y="1306" width="1000" height="4" rx="2" fill="url(#titleGrad)"/>
+</svg>

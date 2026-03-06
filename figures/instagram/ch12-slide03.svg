@@ -1,0 +1,118 @@
+﻿<svg width="1080" height="1350" viewBox="0 0 1080 1350" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      :root { direction:rtl; font-family:"Vazirmatn","Segoe UI",Tahoma,sans-serif; }
+      .bg { fill:#060d18; }
+      .header-bar { fill:#1A237E; }
+      .accent { fill:#F9A825; }
+      .card { fill:#0e1628; stroke:#1e3a5f; stroke-width:1.4; rx:28; ry:28; }
+      .cost-card { fill:#120e1e; stroke:#AB47BC; stroke-width:1.8; rx:24; ry:24; }
+      .shadow { filter:drop-shadow(0px 16px 36px rgba(0,0,0,0.45)); }
+      .title { font-size:44px; font-weight:800; color:#FFFFFF; }
+      .subtitle { font-size:26px; color:#CFD8DC; line-height:1.6; }
+      .card-title { font-size:30px; font-weight:700; color:#FFFFFF; }
+      .card-text { font-size:25px; line-height:1.7; color:#ECEFF1; }
+      .gold { color:#F9A825; font-weight:700; }
+      .purple { color:#CE93D8; font-weight:700; }
+      .red { color:#EF5350; font-weight:700; }
+      .mega-stat { font-size:48px; font-weight:900; }
+      .stat-label { font-size:22px; color:#B0BEC5; }
+      .footer { font-size:24px; color:#78909C; }
+    </style>
+  </defs>
+
+  <rect class="bg" x="0" y="0" width="1080" height="1350"/>
+
+  <rect class="header-bar" x="60" y="60" width="960" height="90" rx="22"/>
+  <rect class="accent" x="80" y="82" width="10" height="46" rx="5"/>
+  <foreignObject x="110" y="70" width="900" height="80">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl"
+         style="display:flex;justify-content:space-between;align-items:center;color:#FFF;font-size:28px;font-weight:600;">
+      <span>هزینه‌های واقعی مداخله</span>
+      <span style="opacity:0.8;">فصل ۱۲ • جامعه‌شناسی و اقتصاد</span>
+    </div>
+  </foreignObject>
+
+  <foreignObject x="80" y="180" width="920" height="100">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl" style="text-align:right;">
+      <div class="title">📉 اعدادی که کسی دوست ندارد ببیند</div>
+    </div>
+  </foreignObject>
+
+  <!-- Cost card 1: Iraq -->
+  <rect class="cost-card shadow" x="80" y="290" width="440" height="250"/>
+  <foreignObject x="100" y="310" width="400" height="210">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl" style="text-align:right;">
+      <div class="stat-label">🇮🇶 عراق (۲۰۰۳–۲۰۲۰)</div>
+      <div class="mega-stat" style="color:#EF5350;margin-top:8px;">۲.۴ تریلیون $</div>
+      <div class="card-text" style="margin-top:8px;">
+        هزینه‌ی مستقیم آمریکا. تلفات غیرنظامی عراقی:
+        <span class="red">۱۸۰–۲۰۰ هزار نفر</span> (حداقل)
+      </div>
+    </div>
+  </foreignObject>
+
+  <!-- Cost card 2: Afghanistan -->
+  <rect class="cost-card shadow" x="560" y="290" width="440" height="250"/>
+  <foreignObject x="580" y="310" width="400" height="210">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl" style="text-align:right;">
+      <div class="stat-label">🇦🇫 افغانستان (۲۰۰۱–۲۰۲۱)</div>
+      <div class="mega-stat" style="color:#FF8F00;margin-top:8px;">۲.۳ تریلیون $</div>
+      <div class="card-text" style="margin-top:8px;">
+        ۲۰ سال حضور. نتیجه: بازگشت طالبان.
+        <span class="red">GDP سرانه ثابت ماند</span>
+      </div>
+    </div>
+  </foreignObject>
+
+  <!-- Cost card 3: Libya -->
+  <rect class="cost-card shadow" x="80" y="570" width="440" height="250"/>
+  <foreignObject x="100" y="590" width="400" height="210">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl" style="text-align:right;">
+      <div class="stat-label">🇱🇾 لیبی (پس از ۲۰۱۱)</div>
+      <div class="mega-stat" style="color:#CE93D8;margin-top:8px;">−٪۶۲ GDP</div>
+      <div class="card-text" style="margin-top:8px;">
+        سقوط تولید ناخالص داخلی. از ثروتمندترین
+        کشور آفریقا به <span class="red">دولت شکست‌خورده</span>
+      </div>
+    </div>
+  </foreignObject>
+
+  <!-- Cost card 4: Syria -->
+  <rect class="cost-card shadow" x="560" y="570" width="440" height="250"/>
+  <foreignObject x="580" y="590" width="400" height="210">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl" style="text-align:right;">
+      <div class="stat-label">🇸🇾 سوریه (۲۰۱۱–کنون)</div>
+      <div class="mega-stat" style="color:#4DB6AC;margin-top:8px;">۵۰۰+ میلیارد $</div>
+      <div class="card-text" style="margin-top:8px;">
+        خسارت زیرساختی. بیش از <span class="red">۱۳ میلیون</span>
+        آواره و پناهنده
+      </div>
+    </div>
+  </foreignObject>
+
+  <!-- Comparison card -->
+  <rect class="card shadow" x="80" y="855" width="920" height="310"/>
+  <foreignObject x="100" y="875" width="880" height="270">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl" style="text-align:right;">
+      <div class="card-title">مقایسه: هزینه‌ی «نجات» در مقابل بازده</div>
+      <div class="card-text" style="margin-top:18px;">
+        • مجموع هزینه‌ی چهار مداخله‌ی بالا: حدود <span class="gold">۵+ تریلیون دلار</span>.<br/>
+        • با این مبلغ می‌شد: کل قاره‌ی آفریقا را ۲ بار برق‌رسانی کرد،
+        یا آب آشامیدنی سالم به <span class="gold">کل جهان</span> رساند.<br/><br/>
+        • اما نتیجه‌ی واقعی: <span class="red">هیچ‌کدام</span> از این کشورها امروز
+        دموکراسی پایدار، اقتصاد مستقل یا امنیت کامل ندارد.<br/><br/>
+        • <span class="gold">پرسش:</span> آیا این «نجات» بود یا «تخریبِ سازنده»
+        به نفع بازسازی‌کنندگان؟
+      </div>
+    </div>
+  </foreignObject>
+
+  <foreignObject x="80" y="1250" width="920" height="60">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl" class="footer"
+         style="display:flex;justify-content:space-between;align-items:center;">
+      <span>nations_salvation@ • لینک مطالعه در بیو</span>
+      <span>اسلاید ۳ از ۵</span>
+    </div>
+  </foreignObject>
+</svg>

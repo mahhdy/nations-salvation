@@ -1,0 +1,89 @@
+﻿<svg width="1080" height="1350" viewBox="0 0 1080 1350"
+     xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      :root{
+        direction:rtl;
+        font-family:"Vazirmatn","Shabnam","Sahel","IRANSansX","Segoe UI",sans-serif;
+      }
+      .bg{fill:#020711;}
+      .title{font-size:48px;font-weight:900;color:#FFFFFF;}
+      .subtitle{font-size:28px;color:#CFD8DC;}
+      .card{fill:#050d18;stroke:#00BCD4;stroke-width:1.7;rx:30;ry:30;}
+      .shadow{filter:drop-shadow(0 18px 44px rgba(0,0,0,0.6));}
+      .icon{font-size:50px;}
+      .h{font-size:32px;font-weight:700;color:#FFFFFF;}
+      .t{font-size:28px;color:#ECEFF1;line-height:1.6;}
+      .footer{font-size:24px;color:#90A4AE;}
+    </style>
+  </defs>
+
+  <rect class="bg" width="1080" height="1350"/>
+
+  <foreignObject x="80" y="80" width="920" height="110">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl">
+      <div class="title">نجات‌طلبی در عصر دیجیتال</div>
+      <div class="subtitle" style="margin-top:8px;">
+        دیگر لازم نیست تانک وارد شود؛ کافی است سرور وارد شود.
+      </div>
+    </div>
+  </foreignObject>
+
+  <rect class="card shadow" x="80" y="220" width="920" height="270"/>
+  <foreignObject x="110" y="240" width="860" height="230">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl"
+         style="display:flex;gap:26px;align-items:flex-start;">
+      <div class="icon">📱</div>
+      <div>
+        <div class="h">شبکه‌های اجتماعی</div>
+        <div class="t" style="margin-top:6px;">
+          حباب‌های فیلتر، ارتش‌های ربات، کمپین‌های هشتگی.
+          می‌توان افکار عمومی یک کشور را به سمت
+          <b style="color:#F9A825;">درخواست مداخله</b> هل داد — بدون یک گلوله.
+        </div>
+      </div>
+    </div>
+  </foreignObject>
+
+  <rect class="card shadow" x="80" y="520" width="920" height="270"/>
+  <foreignObject x="110" y="540" width="860" height="230">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl"
+         style="display:flex;gap:26px;align-items:flex-start;">
+      <div class="icon">💻</div>
+      <div>
+        <div class="h">جنگ سایبری</div>
+        <div class="t" style="margin-top:6px;">
+          از Stuxnet تا حمله به شبکه‌ی برق و بانک‌ها.
+          زیرساخت فلج می‌شود، مردم خسته می‌شوند و
+          برخی به این نتیجه می‌رسند که: «شاید مداخله‌ی خارجی
+          <b style="color:#EF5350;">کمتر بد</b> باشد».
+        </div>
+      </div>
+    </div>
+  </foreignObject>
+
+  <rect class="card shadow" x="80" y="820" width="920" height="270"/>
+  <foreignObject x="110" y="840" width="860" height="230">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl"
+         style="display:flex;gap:26px;align-items:flex-start;">
+      <div class="icon">🤖</div>
+      <div>
+        <div class="h">هوش مصنوعی و دیپ‌فیک</div>
+        <div class="t" style="margin-top:6px;">
+          ویدئوهایی که هرگز اتفاق نیفتاده‌اند، اما واقعی به‌نظر می‌رسند.
+          کمپین‌های هدف‌گیری‌شده‌ی روانی.
+          <b style="color:#4DD0E1;">مهندسی رضایت</b> برای مداخله، در مقیاسی
+          که تاریخ هرگز ندیده است.
+        </div>
+      </div>
+    </div>
+  </foreignObject>
+
+  <foreignObject x="80" y="1180" width="920" height="70">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl" class="footer"
+         style="display:flex;justify-content:space-between;align-items:center;">
+      <span>فصل ۱۴: مداخله‌ی دیجیتال، جنگ سایبری، آینده‌ی نجات‌طلبی</span>
+      <span>اسلاید ۹ از ۱۰</span>
+    </div>
+  </foreignObject>
+</svg>

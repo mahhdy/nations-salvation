@@ -1,0 +1,87 @@
+﻿<svg width="1080" height="1350" viewBox="0 0 1080 1350" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      :root { direction:rtl; font-family:"Vazirmatn","Segoe UI",Tahoma,sans-serif; }
+      .bg { fill:#04080e; }
+      .header-bar { fill:#0D47A1; }
+      .accent { fill:#FFD54F; }
+      .card { fill:#0c1420; stroke:#1565C0; stroke-width:1.4; rx:28; ry:28; }
+      .exec-card { fill:#0c1420; stroke:#FFD54F; stroke-width:2; rx:28; ry:28; }
+      .shadow { filter:drop-shadow(0px 16px 36px rgba(0,0,0,0.5)); }
+      .title { font-size:46px; font-weight:800; color:#FFFFFF; }
+      .subtitle { font-size:26px; color:#CFD8DC; line-height:1.6; }
+      .card-title { font-size:30px; font-weight:700; color:#FFFFFF; }
+      .card-text { font-size:25px; line-height:1.7; color:#ECEFF1; }
+      .gold { color:#FFD54F; font-weight:700; }
+      .blue { color:#64B5F6; font-weight:700; }
+      .green { color:#69F0AE; font-weight:700; }
+      .red { color:#EF5350; font-weight:700; }
+      .footer { font-size:24px; color:#78909C; }
+    </style>
+  </defs>
+
+  <rect class="bg" x="0" y="0" width="1080" height="1350"/>
+
+  <rect class="header-bar" x="60" y="60" width="960" height="90" rx="22"/>
+  <rect class="accent" x="80" y="82" width="10" height="46" rx="5"/>
+  <foreignObject x="110" y="70" width="900" height="80">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl"
+         style="display:flex;justify-content:space-between;align-items:center;color:#FFF;font-size:28px;font-weight:600;">
+      <span>پیوست الف • خلاصه‌ی مدیریتی</span>
+      <span style="opacity:0.8;">ملت‌ها و نجات‌بخشی</span>
+    </div>
+  </foreignObject>
+
+  <foreignObject x="80" y="180" width="920" height="180">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl" style="text-align:right;">
+      <div class="title">📋 کتاب در <span class="gold">۵ دقیقه</span></div>
+      <div class="subtitle" style="margin-top:14px;">
+        اگر وقت خواندن ۱۴ فصل را ندارید، این خلاصه‌ی مدیریتی
+        یافته‌های کلیدی و توصیه‌های عملی را در اختیارتان می‌گذارد.
+      </div>
+    </div>
+  </foreignObject>
+
+  <!-- Key findings -->
+  <rect class="card shadow" x="80" y="380" width="920" height="500"/>
+  <foreignObject x="100" y="400" width="880" height="460">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl" style="text-align:right;">
+      <div class="card-title">یافته‌های کلیدی</div>
+      <div class="card-text" style="margin-top:18px;">
+        <span class="gold">۱.</span> از ۳۰+ مداخله‌ی بررسی‌شده، <span class="red">کمتر از ۱۰٪</span>
+        به نتیجه‌ی مثبت پایدار رسیده‌اند.<br/><br/>
+        <span class="gold">۲.</span> مداخلاتی که فقط بُعد نظامی را در نظر گرفتند،
+        <span class="red">۱۰۰٪</span> با مشکلات جدی مواجه شدند.<br/><br/>
+        <span class="gold">۳.</span> کشورهای نفت‌خیز <span class="gold">۳ برابر</span>
+        بیشتر از کشورهای بدون منابع هدف مداخله قرار گرفتند.<br/><br/>
+        <span class="gold">۴.</span> ناامیدی آموخته‌شده و سوگیری‌های شناختی
+        زمینه‌ساز پذیرش مداخله در جوامع هدف‌اند.<br/><br/>
+        <span class="gold">۵.</span> ایدئولوژی (چه مذهبی، چه سکولار) همیشه
+        پیش‌قراول مداخله‌ی سخت بوده است.
+      </div>
+    </div>
+  </foreignObject>
+
+  <!-- Recommendations -->
+  <rect class="exec-card shadow" x="80" y="910" width="920" height="290"/>
+  <foreignObject x="100" y="930" width="880" height="250">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl" style="text-align:right;">
+      <div class="card-title">توصیه‌های عملی برای سیاست‌گذاران</div>
+      <div class="card-text" style="margin-top:14px;">
+        ✅ <span class="green">سرمایه‌گذاری در آموزش و تفکر انتقادی</span><br/>
+        ✅ <span class="green">تنوع اقتصادی و کاهش وابستگی به منابع طبیعی</span><br/>
+        ✅ <span class="green">تقویت نهادهای مدنی مستقل از بودجه‌ی خارجی</span><br/>
+        ✅ <span class="green">گفتگوی ملی فراگیر برای توافق حداقلی</span><br/>
+        ❌ <span class="red">اجتناب از ساده‌سازی بحران‌ها و راه‌حل‌های فوری</span>
+      </div>
+    </div>
+  </foreignObject>
+
+  <foreignObject x="80" y="1260" width="920" height="60">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl" class="footer"
+         style="display:flex;justify-content:space-between;align-items:center;">
+      <span>nations_salvation@ • لینک مطالعه در بیو</span>
+      <span>پیوست الف • اسلاید ۱ از ۲</span>
+    </div>
+  </foreignObject>
+</svg>

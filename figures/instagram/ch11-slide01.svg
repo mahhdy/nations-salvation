@@ -1,0 +1,105 @@
+﻿<svg width="1080" height="1350" viewBox="0 0 1080 1350" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      :root { direction:rtl; font-family:"Vazirmatn","Segoe UI",Tahoma,sans-serif; }
+      .bg { fill:#0a0a1a; }
+      .header-bar { fill:#1A237E; }
+      .accent { fill:#F9A825; }
+      .card { fill:#111428; stroke:#2a2f4a; stroke-width:1.4; rx:28; ry:28; }
+      .glow-card { fill:#111428; stroke:#7C4DFF; stroke-width:2; rx:28; ry:28; }
+      .shadow { filter:drop-shadow(0px 16px 40px rgba(0,0,0,0.5)); }
+      .title { font-size:48px; font-weight:800; color:#FFFFFF; }
+      .subtitle { font-size:26px; color:#CFD8DC; line-height:1.6; }
+      .card-title { font-size:32px; font-weight:700; color:#FFFFFF; }
+      .card-text { font-size:25px; line-height:1.7; color:#ECEFF1; }
+      .gold { color:#F9A825; font-weight:700; }
+      .purple { color:#B388FF; font-weight:700; }
+      .green { color:#69F0AE; font-weight:700; }
+      .red { color:#EF5350; font-weight:700; }
+      .chip { font-size:22px; color:#B0BEC5; }
+      .footer { font-size:24px; color:#78909C; }
+      .pill { fill:rgba(124,77,255,0.12); stroke:#7C4DFF; stroke-width:1; rx:18; ry:18; }
+    </style>
+  </defs>
+
+  <rect class="bg" x="0" y="0" width="1080" height="1350"/>
+
+  <!-- Header -->
+  <rect class="header-bar" x="60" y="60" width="960" height="90" rx="22"/>
+  <rect class="accent" x="80" y="82" width="10" height="46" rx="5"/>
+  <foreignObject x="110" y="70" width="900" height="80">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl"
+         style="display:flex;justify-content:space-between;align-items:center;color:#FFF;font-size:28px;font-weight:600;">
+      <span>فصل ۱۱ • روان‌شناسی اجتماعی</span>
+      <span style="opacity:0.8;">ملت‌ها و نجات‌بخشی</span>
+    </div>
+  </foreignObject>
+
+  <!-- Title -->
+  <foreignObject x="80" y="180" width="920" height="200">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl" style="text-align:right;">
+      <div class="title">🧠 چرا ملت‌ها <span class="purple">نجات‌دهنده</span> می‌خواهند؟</div>
+      <div class="subtitle" style="margin-top:16px;">
+        این فصل به <span class="gold">ریشه‌های روان‌شناختیِ</span> نجات‌طلبی می‌پردازد:
+        چه مکانیسم‌هایی در ذهن فردی و جمعی باعث می‌شوند یک ملت
+        به جای خودسازی، چشم به دستِ دیگری بدوزد؟
+      </div>
+    </div>
+  </foreignObject>
+
+  <!-- Main topics card -->
+  <rect class="glow-card shadow" x="80" y="380" width="920" height="520"/>
+  <foreignObject x="100" y="400" width="880" height="480">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl" style="text-align:right;">
+      <div class="card-title">محورهای اصلی این فصل</div>
+      <div class="card-text" style="margin-top:18px;">
+        ۱. <span class="purple">ناامیدی آموخته‌شده</span> (Seligman): وقتی ملتی بارها شکست خورده،
+        دیگر تلاش را بی‌فایده می‌بیند.<br/><br/>
+        ۲. <span class="gold">آرزواندیشی</span> (Wishful Thinking): باور به راه‌حل‌های ساده و
+        سریع بدون تحلیل واقع‌بینانه.<br/><br/>
+        ۳. <span class="purple">روان‌شناسی قربانی</span>: هویت‌سازی حول محور «ستم‌دیده بودن»
+        و انتظار جبران از بیرون.<br/><br/>
+        ۴. <span class="gold">تروماهای جمعی</span>: جنگ، نسل‌کشی، استبداد طولانی
+        و تأثیرشان بر پذیرش مداخله.<br/><br/>
+        ۵. <span class="purple">آزمایش میلگرام</span>: اطاعت از مرجعیتِ خارجی
+        و مکانیسم‌های روان‌شناختی تسلیم.
+      </div>
+    </div>
+  </foreignObject>
+
+  <!-- Pills -->
+  <rect class="pill" x="80" y="930" width="440" height="70"/>
+  <foreignObject x="100" y="940" width="400" height="50">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl" class="chip">
+      نظریه‌ی هویت اجتماعی (Tajfel &amp; Turner)
+    </div>
+  </foreignObject>
+
+  <rect class="pill" x="560" y="930" width="440" height="70"/>
+  <foreignObject x="580" y="940" width="400" height="50">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl" class="chip">
+      سوگیری‌های شناختی و تصمیم‌گیری ملی
+    </div>
+  </foreignObject>
+
+  <!-- Quote card -->
+  <rect class="card shadow" x="80" y="1030" width="920" height="170"/>
+  <foreignObject x="100" y="1050" width="880" height="130">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl" style="text-align:center;">
+      <div style="font-size:36px;color:#F9A825;font-weight:800;">💡 پرسش کلیدی</div>
+      <div style="font-size:26px;color:#ECEFF1;margin-top:12px;">
+        آیا «خواستنِ نجات از بیرون» یک انتخاب عقلانی است
+        یا واکنشی روان‌شناختی به <span class="red">ناامیدیِ مزمن</span>؟
+      </div>
+    </div>
+  </foreignObject>
+
+  <!-- Footer -->
+  <foreignObject x="80" y="1240" width="920" height="60">
+    <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl" class="footer"
+         style="display:flex;justify-content:space-between;align-items:center;">
+      <span>nations_salvation@ • لینک مطالعه در بیو</span>
+      <span>اسلاید ۱ از ۶</span>
+    </div>
+  </foreignObject>
+</svg>
