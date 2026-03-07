@@ -11,16 +11,25 @@
 % ═══════════════════════════════════════════════════════════════════════════
 %  xepersian باید آخرین بسته باشد
 % ═══════════════════════════════════════════════════════════════════════════
-\usepackage{xepersian}
+%\usepackage{xepersian}
 
 % ─── فونت‌ها (بعد از xepersian) ──────────────────────────────────────────
-\settextfont[Scale=1]{Vazirmatn}
-\setlatintextfont[Scale=0.9]{Times New Roman}
-\setdigitfont[Scale=0.95]{Vazirmatn}
-
+%\settextfont[Scale=0.9]{Parsi Matn}
+%\setlatintextfont[Scale=0.9]{Libertinus Serif, Times New Roman}
+%\setdigitfont[Scale=0.95]{Parsi Matn}
+% Bonus: math fonts harmony
+%\setsansfont[Scale=0.9]{Vazirmatn}
+%\setmonofont[Scale=0.85]{JetBrains Mono}
 %\setlatintextfont{Libertinus Serif}
 %\setlatintextfont{Linux Libertine O}
 
+
+\usepackage[computeautoilg=on]{xepersian}
+\settextfont[Numbers=Proportional]{Parsi Matn}
+\settextdigitfont[Numbers=Proportional]{Parsi Matn}
+\setmathdigitfont{Parsi Matn}
+
+\SepMark{-}
 
 % ─── دستورات کمکی ────────────────────────────────────────────────────────
 \newcommand{\concept}[1]{\textbf{\color{PrimaryMid}#1}}
@@ -32,6 +41,10 @@
 \newcommand{\keyword}[1]{\textbf{\color{AccentPurple}#1}}
 \newcommand{\dated}[1]{{\color{NeutralDark}\scriptsize(#1)}}
 \newcommand{\histref}[2]{\textbf{#1} \dated{#2}}
+% Reduce table spacing globally
+\renewcommand{\arraystretch}{0.9}  % 10% tighter rows
+\setlength{\extrarowheight}{2pt}   % Minimal padding
+
 
 % تعریف محیط‌های سفارشی
 \newenvironment{caseStudy}[1]{%
