@@ -11,21 +11,9 @@
 % ═══════════════════════════════════════════════════════════════════════════
 %  xepersian باید آخرین بسته باشد
 % ═══════════════════════════════════════════════════════════════════════════
-%\usepackage{xepersian}
-
-% ─── فونت‌ها (بعد از xepersian) ──────────────────────────────────────────
-%\settextfont[Scale=0.9]{Parsi Matn}
-%\setlatintextfont[Scale=0.9]{Libertinus Serif, Times New Roman}
-%\setdigitfont[Scale=0.95]{Parsi Matn}
-% Bonus: math fonts harmony
-%\setsansfont[Scale=0.9]{Vazirmatn}
-%\setmonofont[Scale=0.85]{JetBrains Mono}
-%\setlatintextfont{Libertinus Serif}
-%\setlatintextfont{Linux Libertine O}
-
-
 \usepackage[computeautoilg=on]{xepersian}
 \settextfont[Numbers=Proportional]{Parsi Matn}
+\setlatintextfont[Scale=0.85]{Libertinus Serif}
 \settextdigitfont[Numbers=Proportional]{Parsi Matn}
 \setmathdigitfont{Parsi Matn}
 
@@ -41,10 +29,6 @@
 \newcommand{\keyword}[1]{\textbf{\color{AccentPurple}#1}}
 \newcommand{\dated}[1]{{\color{NeutralDark}\scriptsize(#1)}}
 \newcommand{\histref}[2]{\textbf{#1} \dated{#2}}
-% Reduce table spacing globally
-\renewcommand{\arraystretch}{0.9}  % 10% tighter rows
-\setlength{\extrarowheight}{2pt}   % Minimal padding
-
 
 % تعریف محیط‌های سفارشی
 \newenvironment{caseStudy}[1]{%
@@ -64,6 +48,9 @@
 }{%
   \end{tcolorbox}%
 }
+
+\BeforeBeginEnvironment{tcolorbox}{\savenotes}
+\AfterEndEnvironment{tcolorbox}{\spewnotes}
 
 % ─── فرمت پانوشت ─────────────────────────────────────────────────────────
 \renewcommand{\thefootnote}{\arabic{footnote}}
@@ -114,8 +101,8 @@
 \input{chapters/ch12-sociology-economics}
 \input{chapters/ch13-missionary-ideological}
 \input{chapters/ch14-conclusions}
-\input{chapters/ch15-sacrificial-liberation}
-\input{chapters/ch16-critical-essay}
+\input{chapters/ch15-critical-essay}
+\input{chapters/ch16-sacrificial-liberation}
 % ─── پیوست‌ها ─────────────────────────────────────────────────────────────
 \appendix
 \part{پیوست‌ها}
