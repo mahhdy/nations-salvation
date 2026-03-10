@@ -1,6 +1,6 @@
 // Usage:
 //   node convert-svg-to-png.js input.svg output.png
-//   node convert-svg-to-png.js input.svg output.png 150
+//   node svg2png-rtl/convert-svg-to-png.js figures/black/intro-slide01.svg figures/black/intro-slide01.png 150
 
 const fs = require("fs");
 const path = require("path");

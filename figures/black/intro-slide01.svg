@@ -56,16 +56,16 @@
   </foreignObject>
 
   <!-- Pills -->
-  <rect class="pill" x="70" y="880" width="430" height="80"/>
-  <foreignObject x="90" y="892" width="390" height="60">
+  <rect class="pill" x="70" y="880" width="430" height="100"/>
+  <foreignObject x="90" y="892" width="390" height="80">
     <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl"
          class="pill-text" style="text-align:right;">
       ۳۰+ مطالعه‌ی موردی از عراق، افغانستان، لیبی، سوریه، اوکراین و...
     </div>
   </foreignObject>
 
-  <rect class="pill" x="580" y="880" width="430" height="80"/>
-  <foreignObject x="600" y="892" width="390" height="60">
+  <rect class="pill" x="580" y="880" width="430" height="100"/>
+  <foreignObject x="600" y="892" width="390" height="80">
     <div xmlns="http://www.w3.org/1999/xhtml" dir="rtl"
          class="pill-text" style="text-align:right;">
       مدل شش‌وجهی برای تحلیل هر مداخله‌ی خارجی
