@@ -248,11 +248,17 @@
 
 % فرمت part
 \titleformat{\part}[display]
-  {\centering\Huge\bfseries\color{PrimaryDeep}}
-  {\large\color{AccentGold}\partname\ \thepart}
-  {12pt}
-  {\Huge\color{PrimaryDeep}}
-\titlespacing*{\part}{0pt}{60pt}{40pt}
+{\centering\Huge\bfseries\color{PrimaryDeep}}
+{\color{AccentGold}\thepart}{0pt}
+{\vspace{6pt}\Huge}
+[{\color{AccentGold}\titlerule[2pt]}]
+
+%\titleformat{\part}[display]
+%  {\centering\Huge\bfseries\color{PrimaryDeep}}
+%  {\large\color{AccentGold}\partname\ \thepart}
+%  {12pt}
+%  {\Huge\color{PrimaryDeep}}
+%\titlespacing*{\part}{0pt}{60pt}{40pt}
 
 % فرمت chapter
 \titleformat{\chapter}[display]

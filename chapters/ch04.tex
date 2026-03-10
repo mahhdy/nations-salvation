@@ -1,0 +1,1022 @@
+% ═══════════════════════════════════════════════════════════════
+%  ch04.tex — فصل ۴
+%  الگوی تحلیلی چندبعدی و گونه‌شناسی مداخلات
+%  نسخه‌ی اصلاح‌شده: رفع مشکلات RTL، رنگ و جهت
+% ═══════════════════════════════════════════════════════════════
+
+\chapter{الگوی تحلیلی چندبعدی و گونه‌شناسی مداخلات}
+\label{ch:framework}
+
+\begin{tcolorbox}[quotebox, title={}]
+	«بدون چارچوب تحلیلی، تاریخ چیزی جز مجموعه‌ای از حکایات
+	پراکنده نیست.»
+	
+	\hfill ---تدا اسکاچپل\src{\lr{Skocpol, 1979, p.\,xiv}}
+\end{tcolorbox}
+
+
+% ────────────────────────────────────────────────────────────────
+\section{درآمد: ضرورت چارچوب تحلیلی}
+\label{sec:ch04-intro}
+
+فصل‌های پیشین مفاهیم، تنش‌ها و مبانی حقوقی مداخله‌ی خارجی را
+بررسی کردند. اکنون نیاز به ابزاری تحلیلی داریم که بتواند
+مطالعات موردی متنوع، از حمله‌ی اعراب به ایران ساسانی تا
+مداخله‌ی ناتو در لیبی، را بر مبنای واحد و قابل مقایسه‌ای
+ارزیابی کند.
+
+این فصل سه هدف دارد:
+\begin{enumerate}[label=\textbf{\arabic*.}, nosep, rightmargin=1em]
+	\item ارائه‌ی \concept{الگوی ارزیابی چندبعدی} مداخلات
+	(توسعه‌ی ماتریس فصل ۱)؛
+	\item تدوین \concept{گونه‌شناسی} جامع انواع مداخلات؛
+	\item طراحی \concept{مدل تحلیل پویا} که تعامل بازیگران
+	و تحول نتایج در زمان را ترسیم کند.
+\end{enumerate}
+
+
+% ────────────────────────────────────────────────────────────────
+\section{الگوی ارزیابی چندبعدی-چندزمانی}
+\label{sec:ch04-model}
+
+\subsection{شش بعد ارزیابی}
+\label{subsec:ch04-dimensions}
+
+الگوی پیشنهادی بر شش بعد استوار است که هر یک ناظر بر جنبه‌ای
+متفاوت از نتایج مداخله‌اند:
+
+\begin{tcolorbox}[mybox,
+	title={شش بعد ارزیابی مداخلات خارجی}]
+	
+	\needspace{4\baselineskip}
+	\subsubsection{بعد نظامی-امنیتی}
+	\label{subsubsec:ch04-military}
+	آیا مداخله به پایان درگیری مسلحانه انجامید؟ آیا ثبات امنیتی
+	پایدار ایجاد شد یا خشونت بازتولید شد؟ شاخص‌ها: تلفات نظامی
+	و غیرنظامی، مدت درگیری، خلع سلاح، بازسازی نیروهای
+	امنیتی\src{\lr{Fortna, 2008, pp.\,1--28}}.
+	
+	\needspace{4\baselineskip}
+	\subsubsection{بعد سیاسی-نهادی}
+	\label{subsubsec:ch04-political}
+	آیا نهادهای سیاسی مشروع و کارآمد ایجاد شدند؟ آیا حاکمیت ملی
+	حفظ شد یا وابستگی سیاسی جایگزین استقلال شد؟ شاخص‌ها: نوع رژیم،
+	قانون اساسی، انتخابات، استقلال
+	قضایی\src{\lr{Paris, 2004, pp.\,40--55}}.
+	
+	\needspace{4\baselineskip}
+	\subsubsection{بعد اقتصادی}
+	\label{subsubsec:ch04-economic}
+	آیا مداخله به رشد اقتصادی، بازسازی زیرساخت‌ها و استقلال اقتصادی
+	انجامید یا به استثمار منابع و وابستگی اقتصادی؟ شاخص‌ها:
+	تولید ناخالص داخلی، نرخ فقر، مالکیت منابع، بدهی
+	خارجی\src{\lr{Collier et al., 2003, pp.\,53--80}}.
+	
+	\needspace{4\baselineskip}
+	\subsubsection{بعد حقوق بشری}
+	\label{subsubsec:ch04-hr}
+	آیا نقض‌های حقوق بشری (نسل‌کشی، شکنجه، تبعیض) متوقف شد؟ آیا
+	نهادهای حقوق بشری تأسیس و تقویت شدند؟ شاخص‌ها: گزارش‌های
+	سازمان‌های حقوق بشری، وضعیت زندانیان سیاسی، آزادی
+	بیان\src{\lr{Donnelly, 2013, pp.\,30--51}}.
+	
+	\needspace{4\baselineskip}
+	\subsubsection{بعد فرهنگی-هویتی}
+	\label{subsubsec:ch04-cultural}
+	آیا هویت فرهنگی جامعه‌ی هدف حفظ شد؟ آیا تعامل فرهنگی سازنده‌ای
+	شکل گرفت یا فرهنگ مداخله‌گر تحمیل شد؟ شاخص‌ها: زبان رسمی،
+	آموزش، رسانه، تنوع مذهبی.
+	
+	\needspace{4\baselineskip}
+	\subsubsection{بعد روان‌شناسی اجتماعی}
+	\label{subsubsec:ch04-psycho}
+	آیا مداخله به حس رهایی و امنیت روانی انجامید یا به ضربه‌ی
+	جمعی%
+	\footnote{ضربه‌ی جمعی؛ به انگلیسی: \lr{Collective Trauma}}%
+	و بی‌اعتمادی مزمن؟ شاخص‌ها: سرمایه‌ی اجتماعی، اعتماد نهادی،
+	اختلالات روانی
+	جمعی\src{\lr{Volkan, 2004, pp.\,34--78}}.
+\end{tcolorbox}
+
+\subsection{سه بازه‌ی زمانی ارزیابی}
+\label{subsec:ch04-timeframes}
+
+\begin{tcolorbox}[defbox,
+	title={سه بازه‌ی زمانی ارزیابی}]
+	\begin{enumerate}[label=\textbf{\arabic*.}, nosep, rightmargin=1em]
+		\item \concept{کوتاه‌مدت (۰--۵ سال)}: نتایج فوری مداخله؛
+		آیا بحران متوقف شد؟ آیا ثبات اولیه ایجاد شد؟
+		\item \concept{میان‌مدت (۵--۲۵ سال)}: نتایج ساختاری؛ آیا
+		نهادها تثبیت شدند؟ آیا رشد اقتصادی آغاز شد؟
+		\item \concept{بلندمدت (بیش از ۲۵ سال)}: نتایج تمدنی؛ آیا
+		جامعه به ثبات پایدار رسید؟ آیا استقلال واقعی حاصل شد؟
+	\end{enumerate}
+\end{tcolorbox}
+
+\subsection{ماتریس ارزیابی تفصیلی}
+\label{subsec:ch04-full-matrix}
+
+ترکیب شش بعد و سه بازه‌ی زمانی، ماتریسی ۱۸ خانه‌ای ایجاد
+می‌کند. برای هر مطالعه‌ی موردی، هر خانه با مقیاس پنج‌درجه‌ای
+ارزیابی می‌شود:
+
+\begin{table}[htbp]
+	\centering
+	\caption{ماتریس ارزیابی چندبعدی-چندزمانی (نمونه: ژاپن ۱۹۴۵)}
+	\label{tab:ch04-japan-matrix}
+	\begin{adjustbox}{max width=\textwidth}
+		\begin{tabular}{>{\bfseries\color{PrimaryMid}}p{3cm}
+				>{\centering\arraybackslash}p{3.5cm}
+				>{\centering\arraybackslash}p{3.5cm}
+				>{\centering\arraybackslash}p{3.5cm}}
+			\toprule
+			\textbf{بُعد} &
+			\textbf{کوتاه‌مدت} &
+			\textbf{میان‌مدت} &
+			\textbf{بلندمدت} \\
+			\midrule
+			نظامی-امنیتی &
+			\cellcolor{green!20}{++ پایان جنگ} &
+			\cellcolor{green!20}{++ ثبات امنیتی} &
+			\cellcolor{green!25}{++ صلح پایدار} \\
+			\midrule
+			سیاسی-نهادی &
+			\cellcolor{green!15}{+ قانون اساسی} &
+			\cellcolor{green!20}{++ دموکراسی} &
+			\cellcolor{green!25}{++ تثبیت کامل} \\
+			\midrule
+			اقتصادی &
+			\cellcolor{yellow!20}{$-$ ویرانی} &
+			\cellcolor{green!20}{++ معجزه‌ی اقتصادی} &
+			\cellcolor{green!25}{++ قدرت سوم} \\
+			\midrule
+			حقوق بشری &
+			\cellcolor{green!15}{+ پایان سرکوب} &
+			\cellcolor{green!15}{+ نهادسازی} &
+			\cellcolor{green!20}{+ نسبتاً پایدار} \\
+			\midrule
+			فرهنگی-هویتی &
+			\cellcolor{yellow!20}{$\pm$ فشار فرهنگی} &
+			\cellcolor{yellow!15}{$\pm$ تنش هویتی} &
+			\cellcolor{green!15}{+ ترکیب بومی} \\
+			\midrule
+			روان‌شناختی &
+			\cellcolor{yellow!20}{$\pm$ ضربه و رهایی} &
+			\cellcolor{green!15}{+ بازسازی اعتماد} &
+			\cellcolor{green!15}{+ نسبتاً مثبت} \\
+			\bottomrule
+		\end{tabular}
+	\end{adjustbox}
+\end{table}
+
+
+% ────────────────────────────────────────────────────────────────
+\section{گونه‌شناسی جامع مداخلات}
+\label{sec:ch04-typology}
+
+\subsection{پنج معیار طبقه‌بندی}
+\label{subsec:ch04-criteria}
+
+مداخلات خارجی را بر اساس پنج معیار می‌توان طبقه‌بندی کرد:
+
+\begin{enumerate}[label=\textbf{معیار \arabic*:}, nosep, rightmargin=1em]
+	\item \concept{منشأ تصمیم}: دعوت‌شده / تحمیلی / ترکیبی؛
+	\item \concept{ماهیت مداخله‌گر}: دولت / سازمان بین‌المللی /
+	بازیگر غیردولتی؛
+	\item \concept{نوع هم‌چسبندگی}: ارگانیک / ابزاری / امپریال؛
+	\item \concept{شدت مداخله}: فرهنگی / دیپلماتیک / اقتصادی /
+	اطلاعاتی / نظامی؛
+	\item \concept{هدف اعلامی}: نجات‌بخشی / دفاع / تغییر رژیم /
+	گسترش ایدئولوژی / کسب منابع.
+\end{enumerate}
+
+\subsection{درخت تصمیم گونه‌شناختی}
+\label{subsec:ch04-tree}
+
+\begin{figure}[htbp]
+	\centering
+	\begin{tikzpicture}[
+		>=Stealth,
+		every node/.style={font=\small},
+		level 1/.style={sibling distance=7cm, level distance=2.5cm},
+		level 2/.style={sibling distance=3.5cm, level distance=2.5cm},
+		rootnode/.style={
+			draw=PrimaryDeep, fill=BgCool, rounded corners=4pt,
+			text width=3.2cm, align=center, font=\small\bfseries,
+			minimum height=1cm
+		},
+		leafnode/.style={
+			draw=PrimaryMid, fill=BgWarm!50, rounded corners=3pt,
+			text width=2.5cm, align=center, font=\scriptsize,
+			minimum height=0.9cm
+		},
+		edge from parent/.style={draw, thick, ->, PrimaryMid}
+		]
+		
+		\node[rootnode] {\rl{مداخله‌ی خارجی}}
+		child {
+			node[rootnode, fill=BgTeal!40] {\rl{دعوت‌شده}}
+			child {
+				node[leafnode] {\rl{ارگانیک}\\[1pt]{\rl{(هم‌کیش/هم‌تبار)}}}
+				edge from parent node[left, font=\scriptsize, text=AccentTeal]
+				{\rl{پیوند تاریخی}}
+			}
+			child {
+				node[leafnode] {\rl{ابزاری}\\[1pt]{\rl{(محاسبه‌ی منفعت)}}}
+				edge from parent node[right, font=\scriptsize, text=AccentAmber]
+				{\rl{بدون پیوند}}
+			}
+			edge from parent node[left, font=\scriptsize, text=AccentTeal]
+			{\rl{درخواست داخلی}}
+		}
+		child {
+			node[rootnode, fill=red!10] {\rl{تحمیلی}}
+			child {
+				node[leafnode, fill=red!8] {\rl{بشردوستانه}\\[1pt]{\rl{(\lr{R2P})}}}
+				edge from parent node[left, font=\scriptsize, text=PrimaryMid]
+				{\rl{توجیه اخلاقی}}
+			}
+			child {
+				node[leafnode, fill=red!15] {\rl{امپریال}\\[1pt]{\rl{(کشورگشایی)}}}
+				edge from parent node[right, font=\scriptsize, text=AccentRed]
+				{\rl{توسعه‌طلبی}}
+			}
+			edge from parent node[right, font=\scriptsize, text=AccentRed]
+			{\rl{بدون درخواست}}
+		};
+		
+		\node[font=\normalsize\bfseries, text=PrimaryDeep]
+		at (0,1.5) {\rl{درخت تصمیم گونه‌شناسی مداخلات}};
+	\end{tikzpicture}
+	\caption{درخت تصمیم گونه‌شناسی مداخلات خارجی}
+	\label{fig:ch04-decision-tree}
+\end{figure}
+
+\subsection{جدول گونه‌شناسی تفصیلی}
+\label{subsec:ch04-typology-table}
+
+\begin{landscape}
+	\begin{table}[htbp]
+		\centering
+		\caption{گونه‌شناسی تفصیلی مداخلات خارجی با نمونه‌های تاریخی}
+		\label{tab:ch04-typology}
+		\begin{adjustbox}{max width=\linewidth}
+			\begin{tabular}{>{\bfseries\color{PrimaryMid}\small}p{2.3cm}
+					>{\small}p{1.8cm} >{\small}p{2cm} >{\small}p{1.8cm}
+					>{\small}p{2cm} >{\small}p{2.8cm} >{\small}p{3.2cm}}
+				\toprule
+				\textbf{گونه} & \textbf{منشأ} & \textbf{هم‌چسبندگی} &
+				\textbf{شدت} & \textbf{هدف} & \textbf{نمونه} &
+				\textbf{نتیجه} \\
+				\midrule
+				ارگانیک-رهایی &
+				دعوت‌شده &
+				هم‌کیشی &
+				نظامی &
+				رهایی از ستم &
+				هند-بنگلادش ۱۹۷۱ &
+				موفق: کشور جدید \\
+				\midrule
+				ارگانیک-الحاقی &
+				دعوت‌شده &
+				هم‌تباری &
+				نظامی &
+				وحدت قومی &
+				کریمه-روسیه ۲۰۱۴ &
+				مناقشه‌آمیز \\
+				\midrule
+				ابزاری-استراتژیک &
+				دعوت‌شده &
+				هم‌منفعتی &
+				نظامی &
+				ثبات/نفوذ &
+				سعودی-بحرین ۲۰۱۱ &
+				سرکوب اعتراضات \\
+				\midrule
+				ابزاری-فرصت‌طلبانه &
+				دعوت‌شده &
+				بدون پیوند &
+				نظامی &
+				منابع/نفوذ &
+				خزعل-بریتانیا &
+				ادغام خوزستان \\
+				\midrule
+				بشردوستانه &
+				تحمیلی &
+				--- &
+				نظامی &
+				حمایت غیرنظامیان &
+				ناتو-کوزوو ۱۹۹۹ &
+				نسبتاً موفق \\
+				\midrule
+				امپریال-ایدئولوژیک &
+				تحمیلی &
+				ادعایی &
+				نظامی &
+				تغییر رژیم &
+				شوروی-افغانستان ۱۹۷۹ &
+				شکست \\
+				\midrule
+				میسیونری-فرهنگی &
+				نرم &
+				هم‌کیشی &
+				فرهنگی &
+				تغییر ارزش‌ها &
+				میسیونرها در آفریقا &
+				تغییرات عمیق \\
+				\midrule
+				صادراتی-ایدئولوژیک &
+				نرم تا سخت &
+				هم‌ایدئولوژی &
+				ترکیبی &
+				صدور ایدئولوژی &
+				صدور انقلاب &
+				مختلط \\
+				\midrule
+				پان‌ناسیونالیستی &
+				ترکیبی &
+				هم‌تباری &
+				ترکیبی &
+				وحدت ملی &
+				پان‌ترکیسم &
+				عمدتاً ناموفق \\
+				\bottomrule
+			\end{tabular}
+		\end{adjustbox}
+	\end{table}
+\end{landscape}
+
+
+% ────────────────────────────────────────────────────────────────
+\section{مدل تحلیل پویای مداخله}
+\label{sec:ch04-dynamic}
+
+مداخلات خارجی فرایندهای ایستا نیستند. آن‌ها در طول زمان تحول
+می‌یابند و بازیگران مختلف بر یکدیگر تأثیر می‌گذارند. برای
+مدل‌سازی این پویایی،
+\concept{مدل سه‌لایه‌ی بازیگر-ساختار-نتیجه}
+را پیشنهاد می‌کنیم:
+
+\subsection{لایه‌ی اول: بازیگران}
+\label{subsec:ch04-actors}
+
+\begin{tcolorbox}[mybox,
+	title={بازیگران اصلی در فرایند مداخله}]
+	\begin{enumerate}[label=\textbf{\arabic*.}, nosep, rightmargin=1em]
+		\item \concept{دعوت‌کننده(گان)}: نخبگان سیاسی، اقلیت قومی-مذهبی،
+		مرزنشینان، جنبش اجتماعی، یا بخشی از مردم عادی؛
+		\item \concept{مداخله‌گر}: دولت خارجی، سازمان بین‌المللی،
+		بازیگر غیردولتی، یا ائتلاف؛
+		\item \concept{دولت/ساختار مرکزی}: رژیم حاکم بر جامعه‌ی هدف؛
+		\item \concept{جمعیت عام}: مردم عادی که اغلب نه دعوت‌کننده‌اند
+		و نه تصمیم‌گیرنده، ولی بیشترین تأثیر را می‌پذیرند؛
+		\item \concept{ناظران بین‌المللی}: دولت‌ها و سازمان‌هایی که
+		مستقیم درگیر نیستند ولی واکنش نشان می‌دهند؛
+		\item \concept{بازیگران رقیب}: نیروهای خارجی دیگری که منافع
+		متضاد با مداخله‌گر دارند.
+	\end{enumerate}
+\end{tcolorbox}
+
+\subsection{لایه‌ی دوم: ساختارها و زمینه‌ها}
+\label{subsec:ch04-structures}
+
+\begin{table}[htbp]
+	\centering
+	\caption{ساختارها و زمینه‌های مؤثر بر نتیجه‌ی مداخله}
+	\label{tab:ch04-structures}
+	\begin{adjustbox}{max width=\textwidth}
+		\begin{tabular}{>{\bfseries\color{PrimaryMid}}p{2.8cm}
+				p{4.5cm} p{4.5cm}}
+			\toprule
+			\textbf{ساختار} & \textbf{توصیف} & \textbf{تأثیر بر نتیجه} \\
+			\midrule
+			ساختار قومی-مذهبی &
+			درجه‌ی همگنی یا چندپارگی جامعه &
+			چندپارگی بیشتر = ریسک بالاتر شکست \\
+			\midrule
+			ظرفیت دولتی &
+			توانایی بوروکراسی و نهادهای محلی &
+			ظرفیت بالاتر = شانس بیشتر نهادسازی \\
+			\midrule
+			جغرافیای سیاسی &
+			موقعیت ژئوپولیتیک و همسایگان &
+			همسایگان مداخله‌جو = بی‌ثباتی بیشتر \\
+			\midrule
+			تاریخ مداخلات &
+			تجربه‌ی پیشین جامعه با مداخله‌ی خارجی &
+			تجربه‌ی منفی = بی‌اعتمادی و مقاومت \\
+			\midrule
+			اقتصاد سیاسی &
+			منابع طبیعی، وابستگی اقتصادی &
+			منابع غنی = انگیزه‌ی بیشتر مداخله‌گر \\
+			\midrule
+			نظم بین‌المللی &
+			ساختار نظام جهانی &
+			تک‌قطبی = مداخله‌ی آسان‌تر \\
+			\bottomrule
+		\end{tabular}
+	\end{adjustbox}
+\end{table}
+
+\subsection{لایه‌ی سوم: مکانیسم‌ها و نتایج}
+\label{subsec:ch04-mechanisms}
+
+\begin{figure}[htbp]
+	\centering
+	\begin{tikzpicture}[
+		>=Stealth,
+		every node/.style={font=\small},
+		phase/.style={
+			draw=PrimaryMid, fill=#1, rounded corners=4pt,
+			minimum width=3cm, minimum height=1.6cm,
+			text width=2.6cm, align=center, font=\small
+		},
+		mechanism/.style={
+			draw=AccentGold, fill=BgWarm!40, rounded corners=2pt,
+			text width=2cm, align=center, font=\scriptsize
+		}
+		]
+		
+		% فازها
+		\node[phase=BgCool!50] (pre) at (0,0)
+		{\textbf{\rl{پیشا-مداخله}}\\[2pt]%
+			\rl{بحران، ستم}\\[1pt]%
+			\rl{درخواست/تصمیم}};
+		
+		\node[phase=BgTeal!40] (int) at (5.5,0)
+		{\textbf{\rl{فاز مداخله}}\\[2pt]%
+			\rl{عملیات نظامی}\\[1pt]%
+			\rl{فشار سیاسی/اقتصادی}};
+		
+		\node[phase=BgWarm!50] (post) at (11,0)
+		{\textbf{\rl{پسا-مداخله}}\\[2pt]%
+			\rl{بازسازی، نهادسازی}\\[1pt]%
+			\rl{یا فروپاشی و بازگشت}};
+		
+		% فلش‌های اصلی
+		\draw[->, thick, PrimaryMid] (pre) -- (int);
+		\draw[->, thick, PrimaryMid] (int) -- (post);
+		
+		% بازخورد
+		\draw[->, thick, AccentRed, dashed, bend right=35]
+		(post.south) to node[below, font=\scriptsize, text=AccentRed,
+		text width=3cm, align=center]
+		{\rl{بازگشت بحران}\\[1pt]{\scriptsize\rl{(چرخه‌ی معیوب)}}}
+		(pre.south);
+		
+		% نتایج
+		\node[mechanism, fill=green!15] (r1) at (8,-3)
+		{\rl{نتیجه‌ی مثبت:}\\[1pt]{\rl{رهایی و ثبات}}};
+		\node[mechanism, fill=red!10] (r2) at (14,-3)
+		{\rl{نتیجه‌ی منفی:}\\[1pt]{\rl{وابستگی/فروپاشی}}};
+		
+		\draw[->, thin, AccentGreen] (post.south) -- ++(0,-0.8) -| (r1.north);
+		\draw[->, thin, AccentRed] (post.south) -- ++(0,-0.8) -| (r2.north);
+		
+		% عنوان
+		\node[font=\normalsize\bfseries, text=PrimaryDeep]
+		at (5.5,2.5) {\rl{مدل سه‌فازی تحلیل پویای مداخله}};
+	\end{tikzpicture}
+	\caption{مدل سه‌فازی تحلیل پویای مداخله‌ی خارجی}
+	\label{fig:ch04-dynamic-model}
+\end{figure}
+
+
+% ────────────────────────────────────────────────────────────────
+\section{مدل هم‌چسبندگی: ارگانیک در برابر ابزاری}
+\label{sec:ch04-adhesion-model}
+
+\subsection{شاخص‌های تعیین نوع هم‌چسبندگی}
+\label{subsec:ch04-adhesion-indicators}
+
+\begin{table}[htbp]
+	\centering
+	\caption{شاخص‌های تفکیک نوع هم‌چسبندگی}
+	\label{tab:ch04-adhesion}
+	\begin{adjustbox}{max width=\textwidth}
+		\begin{tabular}{>{\bfseries\color{PrimaryMid}}p{2.8cm}
+				p{3.2cm} p{3.2cm} p{3.2cm}}
+			\toprule
+			\textbf{شاخص} & \textbf{ارگانیک} &
+			\textbf{ابزاری} & \textbf{امپریال} \\
+			\midrule
+			سابقه‌ی تاریخی &
+			چندین سده یا بیشتر &
+			کوتاه‌مدت یا ناموجود &
+			ممکن است ادعایی باشد \\
+			\midrule
+			عمق فرهنگی-زبانی &
+			زبان/مذهب/آداب مشترک &
+			تفاوت‌های اساسی &
+			--- \\
+			\midrule
+			جهت‌گیری پس از مداخله &
+			ادغام یا خودمختاری &
+			حفظ فاصله &
+			تصرف و سلطه \\
+			\midrule
+			توزیع منافع &
+			نسبتاً متقارن &
+			به نفع یک طرف &
+			به‌شدت نامتقارن \\
+			\midrule
+			مشارکت محلی &
+			بالا &
+			متوسط تا پایین &
+			حداقلی یا نمایشی \\
+			\midrule
+			برنامه‌ی خروج &
+			ادغام یا خروج واقعی &
+			مبهم &
+			بدون خروج \\
+			\bottomrule
+		\end{tabular}
+	\end{adjustbox}
+\end{table}
+
+
+% ────────────────────────────────────────────────────────────────
+\section{الگوی پیش‌زمینه‌سازی: از میسیونری تا نظامی}
+\label{sec:ch04-precursor-model}
+
+\subsection{زنجیره‌ی تصاعد}
+\label{subsec:ch04-escalation}
+
+\begin{figure}[htbp]
+	\centering
+	\begin{tikzpicture}[
+		>=Stealth,
+		stage/.style={
+			draw=PrimaryMid, fill=#1, rounded corners=3pt,
+			minimum width=2.2cm, minimum height=1.4cm,
+			text width=2cm, align=center, font=\small
+		}
+		]
+		
+		\node[stage=BgTeal!30] (s1) at (0,0)
+		{\textbf{\rl{فرهنگی}}\\[1pt]%
+			{\scriptsize\rl{میسیونری}}};
+		
+		\node[stage=BgWarm!40] (s2) at (3.2,0)
+		{\textbf{\rl{سیاسی}}\\[1pt]%
+			{\scriptsize\rl{دیپلماسی}}};
+		
+		\node[stage=BgCool!50] (s3) at (6.4,0)
+		{\textbf{\rl{اقتصادی}}\\[1pt]%
+			{\scriptsize\rl{تحریم/کمک}}};
+		
+		\node[stage=yellow!20] (s4) at (9.6,0)
+		{\textbf{\rl{اطلاعاتی}}\\[1pt]%
+			{\scriptsize\rl{سایبری/کودتا}}};
+		
+		\node[stage=red!12] (s5) at (12.8,0)
+		{\textbf{\rl{نظامی}}\\[1pt]%
+			{\scriptsize\rl{حمله/اشغال}}};
+		
+		% فلش‌های تصاعد
+		\draw[->, very thick, AccentGold] (s1) -- (s2);
+		\draw[->, very thick, AccentGold] (s2) -- (s3);
+		\draw[->, very thick, AccentGold] (s3) -- (s4);
+		\draw[->, very thick, AccentGold] (s4) -- (s5);
+		
+		% فلش شدت
+		\draw[->, very thick, AccentRed] (0,-1.8) -- (12.8,-1.8);
+		\node[font=\small, text=AccentRed] at (6.4,-2.2)
+		{\rl{افزایش شدت و هزینه}};
+		
+		% فلش برگشت‌پذیری
+		\draw[<-, very thick, AccentGreen] (0,-2.8) -- (12.8,-2.8);
+		\node[font=\small, text=AccentGreen] at (6.4,-3.2)
+		{\rl{کاهش برگشت‌پذیری}};
+		
+		\node[font=\normalsize\bfseries, text=PrimaryDeep]
+		at (6.4,2) {\rl{زنجیره‌ی تصاعد مداخله‌ی خارجی}};
+	\end{tikzpicture}
+	\caption{زنجیره‌ی تصاعد: از فعالیت فرهنگی تا مداخله‌ی نظامی}
+	\label{fig:ch04-escalation}
+\end{figure}
+
+\subsection{سه الگوی رابطه‌ی فعالیت فرهنگی و مداخله‌ی سخت}
+\label{subsec:ch04-missionary}
+
+\begin{tcolorbox}[comparebox,
+	title={سه الگوی رابطه‌ی فعالیت فرهنگی و مداخله‌ی سخت}]
+	\begin{enumerate}[label=\textbf{\arabic*.}, nosep, rightmargin=1em]
+		\item \concept{الگوی پیشقراول}%
+		\footnote{الگوی پیشقراول؛ به انگلیسی: \lr{Vanguard Model}}:
+		فعالیت فرهنگی آگاهانه مقدمه‌ی استعمار است.
+		نمونه: میسیونرهای مسیحی در آفریقا پیش از تقسیم‌بندی
+		برلین\src{\lr{Comaroff \& Comaroff, 1991}}؛
+		\item \concept{الگوی موازی}%
+		\footnote{الگوی موازی؛ به انگلیسی: \lr{Parallel Model}}:
+		فعالیت فرهنگی و مداخله‌ی سخت مستقل از هم ولی همزمان.
+		نمونه: ترویج لیبرال-دموکراسی آمریکایی و عملیات سیا؛
+% ═══════════════════════════════════════════════════════════════
+%  ch04.tex — ادامه (از الگوی مستقل میسیونری)
+% ═══════════════════════════════════════════════════════════════
+
+\item \concept{الگوی مستقل}%
+\footnote{الگوی مستقل؛ به انگلیسی: \lr{Independent Model}}:
+فعالیت فرهنگی بدون بعد استعماری و حتی در تعارض با قدرت‌های
+استعماری. نمونه: فعالیت‌های روشنفکران مشروطه‌خواه ایرانی
+در تفلیس و باکو\src{\lr{Adamiyat, 1961, pp.\,34--56}}.
+\end{enumerate}
+\end{tcolorbox}
+
+\begin{tcolorbox}[wavebox,
+title={نکته‌ی تحلیلی: تفکیک میسیونری از استعمار}]
+تفکیک فعالیت‌های فرهنگی-ایدئولوژیک از پروژه‌ی استعماری نیازمند
+بررسی سه عامل است:
+\begin{enumerate}[label=\textbf{\alph*.}, nosep, rightmargin=1em]
+\item \concept{نیت}: آیا فعالیت فرهنگی آگاهانه در خدمت
+پروژه‌ی سلطه قرار دارد یا مستقل از آن است؟
+\item \concept{ساختار}: آیا فعالیت فرهنگی از حمایت مالی و
+لجستیکی دولت استعمارگر بهره‌مند است؟
+\item \concept{نتیجه}: آیا فعالیت فرهنگی عملاً به تسهیل سلطه‌ی
+سیاسی-اقتصادی منجر شده؟
+\end{enumerate}
+تنها هنگامی که هر سه عامل مثبت باشند، می‌توان فعالیت فرهنگی را
+ذیل مقوله‌ی استعمار طبقه‌بندی کرد. در سایر موارد، باید آن‌ها را
+مقوله‌ی مستقلی دانست\src{\lr{Stanley, 1990, pp.\,45--72}}.
+\end{tcolorbox}
+
+
+% ────────────────────────────────────────────────────────────────
+\section{الگوی ارزیابی ژئوپولیتیک مداخله}
+\label{sec:ch04-geopolitical}
+
+\subsection{نتایج ژئوپولیتیک: تشکیل کشور، تقسیم مرزها، یا ادغام}
+\label{subsec:ch04-geopolitical-outcomes}
+
+مداخلات خارجی ممکن است به یکی از سه نتیجه‌ی ژئوپولیتیک بینجامند:
+
+\begin{table}[htbp]
+\centering
+\caption{نتایج ژئوپولیتیک مداخلات خارجی}
+\label{tab:ch04-geopolitical}
+\begin{adjustbox}{max width=\textwidth}
+\begin{tabular}{>{\bfseries\color{PrimaryMid}}p{2.5cm}
+		p{3.2cm} p{3.2cm} p{3.5cm}}
+	\toprule
+	\textbf{نتیجه} & \textbf{شرایط} & \textbf{نمونه‌ی موفق} &
+	\textbf{نمونه‌ی ناموفق} \\
+	\midrule
+	تشکیل کشور جدید &
+	حمایت بین‌المللی + انسجام داخلی &
+	بنگلادش ۱۹۷۱ &
+	سودان جنوبی ۲۰۱۱ \\
+	\midrule
+	تقسیم و بازترسیم مرزها &
+	ضعف دولت مرکزی + رقابت قدرت‌ها &
+	تجزیه‌ی یوگسلاوی &
+	تجزیه‌ی عثمانی (مختلط) \\
+	\midrule
+	ادغام و حفظ تمامیت &
+	دولت مرکزی قوی + حمایت بین‌المللی &
+	نیجریه پس از بیافرا &
+	سوریه (حفظ صوری) \\
+	\bottomrule
+\end{tabular}
+\end{adjustbox}
+\end{table}
+
+
+% ────────────────────────────────────────────────────────────────
+\section{نقش روان‌شناسی اجتماعی در الگوی تحلیلی}
+\label{sec:ch04-psychology}
+
+\subsection{روان‌شناسی نجات‌طلبی}
+\label{subsec:ch04-rescue-psychology}
+
+\thinker{وامیک ولکان}%
+\footnote{%
+وامیک ولکان (\lr{Vamık D.\,Volkan, 1932–})؛%
+روان‌پزشک و نظریه‌پرداز روابط بین‌گروهی ترکیه‌ای-آمریکایی.%
+}%
+مفهوم \concept{آسیب‌های انتخابی}%
+\footnote{آسیب‌های انتخابی؛ به انگلیسی: \lr{Chosen Traumas}}%
+را مطرح کرده: رویدادهای دردناک تاریخی که هویت جمعی یک گروه حول
+آن‌ها شکل می‌گیرد و از نسلی به نسل دیگر منتقل
+می‌شود\src{\lr{Volkan, 2004, pp.\,47--78}}.
+
+این آسیب‌های انتخابی نقش مهمی در پویایی نجات‌طلبی دارند:
+گروهی که خاطره‌ی جمعی آن حول رنج و ستم شکل گرفته، مستعد
+جستجوی ناجی بیرونی است؛ حتی اگر تجربه‌ی تاریخی نشان دهد
+که ناجیان بیرونی اغلب خود به ستمگران جدید تبدیل شده‌اند.
+
+\subsection{ایده‌آل‌سازی ناجی خارجی}
+\label{subsec:ch04-idealization}
+
+\begin{tcolorbox}[defbox,
+title={مفهوم: ایده‌آل‌سازی ناجی خارجی}]
+در روان‌شناسی اجتماعی، پدیده‌ای وجود دارد که می‌توان آن را
+\concept{ایده‌آل‌سازی ناجی خارجی}%
+\footnote{ایده‌آل‌سازی ناجی خارجی؛ به انگلیسی:
+\lr{Idealization of the External Savior}}%
+نامید: گروه تحت ستم، از شدت ناامیدی از وضع داخلی، بیگانه
+را ایده‌آل می‌کند و نیات و توانایی‌های او را بیش از واقع تصور
+می‌کند. این پدیده:
+\begin{itemize}[nosep, rightmargin=1em]
+\item با \concept{عقلانیت محدود} سازگار است: در بحران،
+اطلاعات ناقص و هیجانات بر تصمیم‌گیری غلبه
+دارند\src{\lr{Simon, 1957}}؛
+\item با \concept{ناهماهنگی شناختی}%
+\footnote{ناهماهنگی شناختی؛ به انگلیسی:
+	\lr{Cognitive Dissonance}}
+قابل تبیین است: برای توجیه تصمیم به طلب کمک خارجی، مزایای
+آن بزرگ و معایبش کوچک جلوه داده
+می‌شوند\src{\lr{Festinger, 1957, pp.\,1--31}}؛
+\item با \concept{نظریه‌ی هویت اجتماعی}%
+\footnote{نظریه‌ی هویت اجتماعی؛ به انگلیسی:
+	\lr{Social Identity Theory}}
+مرتبط است: «خودی» بد و «بیگانه» خوب تلقی
+می‌شود\src{\lr{Tajfel \& Turner, 1979, pp.\,33--47}}.
+\end{itemize}
+\end{tcolorbox}
+
+\subsection{چرخه‌ی روان‌شناختی مداخله}
+\label{subsec:ch04-psych-cycle}
+
+\begin{figure}[htbp]
+\centering
+\begin{tikzpicture}[
+>=Stealth,
+every node/.style={font=\small},
+stage/.style={
+	draw=PrimaryMid, fill=#1, rounded corners=4pt,
+	text width=2.4cm, align=center, minimum height=1.2cm
+}
+]
+
+\node[stage=BgCool!40] (s1) at (90:3.8)
+{\textbf{\rl{ناامیدی}}\\[1pt]%
+	{\scriptsize\rl{از وضع داخلی}}};
+
+\node[stage=BgTeal!40] (s2) at (18:3.8)
+{\textbf{\rl{ایده‌آل‌سازی}}\\[1pt]%
+	{\scriptsize\rl{ناجی خارجی}}};
+
+\node[stage=BgWarm!40] (s3) at (306:3.8)
+{\textbf{\rl{مداخله و}}\\[1pt]%
+	{\scriptsize\rl{انتظارات بالا}}};
+
+\node[stage=red!10] (s4) at (234:3.8)
+{\textbf{\rl{سرخوردگی}}\\[1pt]%
+	{\scriptsize\rl{نتایج ناامیدکننده}}};
+
+\node[stage=yellow!20] (s5) at (162:3.8)
+{\textbf{\rl{بی‌اعتمادی و}}\\[1pt]%
+	{\scriptsize\rl{خشم مزمن}}};
+
+% فلش‌ها
+\draw[->, very thick, AccentGold] (s1) -- (s2);
+\draw[->, very thick, AccentGold] (s2) -- (s3);
+\draw[->, very thick, AccentRed] (s3) -- (s4);
+\draw[->, very thick, AccentRed] (s4) -- (s5);
+\draw[->, very thick, NeutralDark, dashed] (s5) -- (s1);
+
+% مرکز
+\node[font=\normalsize\bfseries, text=PrimaryDeep,
+text width=2.8cm, align=center]
+at (0,0) {\rl{چرخه‌ی}\\[2pt]{\rl{روان‌شناختی}}\\[2pt]{\rl{مداخله}}};
+\end{tikzpicture}
+\caption{چرخه‌ی روان‌شناختی نجات‌طلبی و سرخوردگی}
+\label{fig:ch04-psych-cycle}
+\end{figure}
+
+\begin{tcolorbox}[wavebox,
+title={تبیین چرخه‌ی روان‌شناختی}]
+\begin{enumerate}[label=\textbf{گام \arabic*:}, nosep, rightmargin=1em]
+\item \concept{ناامیدی}: فشار مداوم رژیم، نبود افق تغییر
+داخلی، احساس عجز و درماندگی؛
+\item \concept{ایده‌آل‌سازی}: نیروی خارجی به‌مثابه‌ی منجی
+ترسیم می‌شود؛ اطلاعات مثبت بزرگ‌نمایی و اطلاعات منفی
+کوچک‌نمایی می‌شوند؛
+\item \concept{مداخله}: نیروی خارجی وارد می‌شود؛ انتظارات
+بالا و ناواقع‌بینانه شکل گرفته؛
+\item \concept{سرخوردگی}: نتایج مداخله با انتظارات تطابق
+ندارد؛ مداخله‌گر منافع خود را دنبال می‌کند؛ هزینه‌های
+انسانی بالاست؛
+\item \concept{بی‌اعتمادی}: خشم و ناامیدی نه‌تنها نسبت به
+مداخله‌گر بلکه نسبت به کل نهادهای بیرونی شکل می‌گیرد؛
+این بی‌اعتمادی به نسل بعد منتقل شده و زمینه‌ی چرخه‌ی
+بعدی را فراهم می‌کند.
+\end{enumerate}
+\end{tcolorbox}
+
+\subsection{شکستن چرخه: شرایط روان‌شناختی موفقیت}
+\label{subsec:ch04-break-cycle}
+
+\thinker{هربرت کلمن}%
+\footnote{%
+هربرت کلمن (\lr{Herbert C.\,Kelman, 1927--2022})؛%
+روان‌شناس اجتماعی آمریکایی و پیشگام حل تعارض تعاملی.%
+}%
+در پژوهش‌هایش درباره‌ی حل تعارض اسرائیلی-فلسطینی نشان داده
+که شکستن چرخه‌ی بی‌اعتمادی نیازمند
+\concept{بازشناسایی متقابل}%
+\footnote{بازشناسایی متقابل؛ به انگلیسی: \lr{Mutual Recognition}}
+است: هر طرف باید هویت، رنج و حقوق طرف مقابل را به رسمیت
+بشناسد\src{\lr{Kelman, 2005, pp.\,111--129}}.
+
+در بافت مداخله‌ی خارجی، این به معنای آن است که:
+\begin{enumerate}[label=\textbf{\arabic*.}, nosep, rightmargin=1em]
+\item مداخله‌گر باید رنج‌های ناشی از مداخله را به رسمیت بشناسد؛
+\item جامعه‌ی هدف باید بتواند روایت خود را از تجربه‌ی مداخله
+بازگو و بازسازی کند؛
+\item فرایند عدالت انتقالی%
+\footnote{عدالت انتقالی؛ به انگلیسی:
+\lr{Transitional Justice}}
+باید اجرا شود\src{\lr{Teitel, 2000, pp.\,3--26}}.
+\end{enumerate}
+
+
+% ────────────────────────────────────────────────────────────────
+\section{الگوی ترکیبی نهایی: پنج‌ضلعی تحلیل مداخله}
+\label{sec:ch04-pentagon}
+
+با ترکیب تمام ابعاد مطرح‌شده، الگوی نهایی تحلیل مداخلات خارجی
+را در قالب یک \concept{پنج‌ضلعی تحلیلی} ارائه می‌کنیم:
+
+\begin{figure}[htbp]
+\centering
+\begin{tikzpicture}[
+>=Stealth,
+every node/.style={font=\small}
+]
+
+% پنج‌ضلعی — صریح (بدون foreach)
+\node[draw=AccentTeal, fill=AccentTeal!10, rounded corners=4pt,
+minimum width=2.5cm, minimum height=1cm,
+align=center, font=\small\bfseries, text=AccentTeal]
+(n1) at (90:4.5) {\rl{بازیگران}};
+
+\node[draw=PrimaryMid, fill=PrimaryMid!10, rounded corners=4pt,
+minimum width=2.5cm, minimum height=1cm,
+align=center, font=\small\bfseries, text=PrimaryMid]
+(n2) at (162:4.5) {\rl{ساختارها}};
+
+\node[draw=AccentAmber, fill=AccentAmber!10, rounded corners=4pt,
+minimum width=2.5cm, minimum height=1cm,
+align=center, font=\small\bfseries, text=AccentAmber]
+(n3) at (234:4.5) {\rl{مکانیسم‌ها}};
+
+\node[draw=AccentGreen, fill=AccentGreen!10, rounded corners=4pt,
+minimum width=2.5cm, minimum height=1cm,
+align=center, font=\small\bfseries, text=AccentGreen]
+(n4) at (306:4.5) {\rl{نتایج}};
+
+\node[draw=AccentRed, fill=AccentRed!10, rounded corners=4pt,
+minimum width=2.5cm, minimum height=1cm,
+align=center, font=\small\bfseries, text=AccentRed]
+(n5) at (18:4.5) {\rl{بازخورد}};
+
+% اتصالات اصلی
+\draw[thick, NeutralDark] (n1) -- (n2);
+\draw[thick, NeutralDark] (n2) -- (n3);
+\draw[thick, NeutralDark] (n3) -- (n4);
+\draw[thick, NeutralDark] (n4) -- (n5);
+\draw[thick, NeutralDark] (n5) -- (n1);
+
+% اتصالات متقاطع
+\draw[thin, NeutralMid, dashed] (n1) -- (n3);
+\draw[thin, NeutralMid, dashed] (n1) -- (n4);
+\draw[thin, NeutralMid, dashed] (n2) -- (n4);
+\draw[thin, NeutralMid, dashed] (n2) -- (n5);
+\draw[thin, NeutralMid, dashed] (n3) -- (n5);
+
+% مرکز
+\node[draw=PrimaryDeep, fill=BgCool, circle,
+minimum size=2.2cm, align=center, font=\bfseries,
+text=PrimaryDeep]
+at (0,0) {\rl{ارزیابی}\\[2pt]{\rl{چندبعدی-}}\\[2pt]{\rl{چندزمانی}}};
+
+% عنوان
+\node[font=\large\bfseries, text=PrimaryDeep]
+at (0,6.5) {\rl{پنج‌ضلعی تحلیل مداخله‌ی خارجی}};
+\end{tikzpicture}
+\caption{الگوی ترکیبی نهایی: پنج‌ضلعی تحلیل مداخله}
+\label{fig:ch04-pentagon}
+\end{figure}
+
+\begin{tcolorbox}[mybox,
+title={توضیح پنج ضلع}]
+\begin{enumerate}[label=\textbf{\arabic*.}, nosep, rightmargin=1em]
+\item \concept{بازیگران}: چه کسانی درگیرند؟ دعوت‌کننده، مداخله‌گر،
+دولت مرکزی، جمعیت عام، ناظران، رقبا؛
+\item \concept{ساختارها}: بافت قومی-مذهبی، ظرفیت دولتی، جغرافیای
+سیاسی، اقتصاد سیاسی، نظم بین‌المللی؛
+\item \concept{مکانیسم‌ها}: زنجیره‌ی تصاعد، نوع هم‌چسبندگی،
+سه فاز مداخله (پیشا، حین، پسا)؛
+\item \concept{نتایج}: ارزیابی شش‌بعدی-سه‌زمانی (ماتریس ۱۸
+خانه‌ای)؛ نتایج ژئوپولیتیک (تشکیل کشور، تقسیم مرزها، ادغام)؛
+\item \concept{بازخورد}: چرخه‌ی روان‌شناختی؛ اثر سابقه؛ بازتولید
+خشونت یا بازسازی اعتماد.
+\end{enumerate}
+
+هر مطالعه‌ی موردی در فصل‌های آتی بر اساس این پنج‌ضلعی تحلیل
+خواهد شد. این چارچوب امکان مقایسه‌ی تطبیقی منسجم میان موارد
+بسیار متنوع، از حمله‌ی اعراب به ایران ساسانی تا مداخله‌ی
+ناتو در لیبی، را فراهم می‌آورد.
+\end{tcolorbox}
+
+
+% ────────────────────────────────────────────────────────────────
+\section{خلاصه‌ی ابزارهای تحلیلی}
+\label{sec:ch04-tools-summary}
+
+\begin{table}[htbp]
+\centering
+\caption{خلاصه‌ی ابزارهای تحلیلی فصل ۴}
+\label{tab:ch04-tools-summary}
+\begin{adjustbox}{max width=\textwidth}
+\begin{tabular}{>{\bfseries\color{PrimaryMid}}p{3.5cm}
+		p{4.5cm} p{4.5cm}}
+	\toprule
+	\textbf{ابزار} & \textbf{کاربرد} & \textbf{مرجع شکل/جدول} \\
+	\midrule
+	ماتریس ۱۸ خانه‌ای &
+	ارزیابی منسجم شش‌بعدی-سه‌زمانی &
+	جدول \ref{tab:ch04-japan-matrix} \\
+	\midrule
+	گونه‌شناسی ده‌گانه &
+	طبقه‌بندی مداخلات بر اساس ۵ معیار &
+	جدول \ref{tab:ch04-typology} \\
+	\midrule
+	درخت تصمیم &
+	تفکیک سریع نوع مداخله &
+	شکل \ref{fig:ch04-decision-tree} \\
+	\midrule
+	مدل سه‌فازی &
+	تحلیل پویای مداخله در زمان &
+	شکل \ref{fig:ch04-dynamic-model} \\
+	\midrule
+	شاخص‌های هم‌چسبندگی &
+	تفکیک ارگانیک/ابزاری/امپریال &
+	جدول \ref{tab:ch04-adhesion} \\
+	\midrule
+	زنجیره‌ی تصاعد &
+	تحلیل مسیر از نرم به سخت &
+	شکل \ref{fig:ch04-escalation} \\
+	\midrule
+	سه الگوی فرهنگی &
+	رابطه‌ی فعالیت فرهنگی و استعمار &
+	بخش \ref{subsec:ch04-missionary} \\
+	\midrule
+	چرخه‌ی روان‌شناختی &
+	تحلیل پویایی نجات‌طلبی-سرخوردگی &
+	شکل \ref{fig:ch04-psych-cycle} \\
+	\midrule
+	پنج‌ضلعی تحلیل &
+	چارچوب ترکیبی نهایی &
+	شکل \ref{fig:ch04-pentagon} \\
+	\bottomrule
+\end{tabular}
+\end{adjustbox}
+\end{table}
+
+
+% ────────────────────────────────────────────────────────────────
+\section{جمع‌بندی فصل و آمادگی برای مطالعات موردی}
+\label{sec:ch04-summary}
+
+در این فصل، مجموعه‌ی کاملی از ابزارهای تحلیلی برای بررسی
+مطالعات موردی فراهم شد. این ابزارها عبارت‌اند از:
+
+\begin{enumerate}[label=\textbf{\arabic*.}, nosep, rightmargin=1em]
+\item \concept{ماتریس ارزیابی ۱۸ خانه‌ای} (شش بعد ضربدر سه
+بازه‌ی زمانی) برای ارزیابی منسجم نتایج؛
+\item \concept{گونه‌شناسی ده‌گانه} بر اساس پنج معیار
+(منشأ، ماهیت مداخله‌گر، هم‌چسبندگی، شدت، هدف)؛
+\item \concept{مدل سه‌فازی پویا} (پیشا-مداخله، مداخله،
+پسا-مداخله) با امکان بازخورد و چرخه‌ی معیوب؛
+\item \concept{مدل هم‌چسبندگی} برای تفکیک مداخلات ارگانیک،
+ابزاری و امپریال؛
+\item \concept{زنجیره‌ی تصاعد} و سه الگوی رابطه‌ی فعالیت
+فرهنگی با مداخله‌ی سخت؛
+\item \concept{مدل روان‌شناختی} چرخه‌ی نجات‌طلبی و سرخوردگی
+و شرایط شکستن آن؛
+\item \concept{پنج‌ضلعی تحلیل} به‌عنوان چارچوب ترکیبی نهایی.
+\end{enumerate}
+
+از بخش دوم کتاب (فصل ۵ به بعد)، این ابزارها بر مطالعات موردی
+اعمال خواهند شد؛ ابتدا بر تاریخ ایران، از دوره‌ی هخامنشی تا
+دوره‌ی معاصر، و سپس بر تجربیات جهانی در اروپا، خاورمیانه،
+آفریقا، آسیا و آمریکای لاتین.
+
+\begin{tcolorbox}[mybox,
+title={پرسش راهنمای مطالعات موردی}]
+برای هر مطالعه‌ی موردی، پنج پرسش اصلی پاسخ داده خواهد شد:
+
+\begin{enumerate}[label=\textbf{پرسش \arabic*:}, nosep, rightmargin=1em]
+\item \textbf{بازیگران}: چه کسی دعوت کرد، چه کسی مداخله کرد
+و چه کسی هزینه پرداخت؟
+\item \textbf{ساختار}: شرایط داخلی و بین‌المللی چگونه بود؟
+\item \textbf{مکانیسم}: مداخله از چه نوعی بود (ارگانیک، ابزاری،
+امپریال) و از چه مسیری (نرم تا سخت) گذشت؟
+\item \textbf{نتایج}: ماتریس ۱۸ خانه‌ای چه تصویری ترسیم
+می‌کند؟ نتیجه‌ی ژئوپولیتیک چه بود؟
+\item \textbf{بازخورد}: چرخه‌ی روان‌شناختی چگونه عمل کرد؟
+آیا چرخه شکسته شد یا بازتولید شد؟
+\end{enumerate}
+\end{tcolorbox}

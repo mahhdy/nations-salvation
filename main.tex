@@ -25,10 +25,12 @@
 \newcommand{\era}[1]{\textbf{\color{AccentAmber}#1}}
 \newcommand{\enemy}[1]{\textbf{\color{AccentRed}#1}}
 \newcommand{\lat}[1]{\lr{#1}}
-\newcommand{\src}[1]{\textsuperscript{\scriptsize\color{NeutralDark}[#1]}}
+\newcommand{\src}[1]{{\textsuperscript{\scriptsize\textcolor{NeutralDark}{[#1]}}}}
 \newcommand{\keyword}[1]{\textbf{\color{AccentPurple}#1}}
 \newcommand{\dated}[1]{{\color{NeutralDark}\scriptsize(#1)}}
 \newcommand{\histref}[2]{\textbf{#1} \dated{#2}}
+% FIXED: تعریف دستور کمکی برای پانوشت‌های مختلط فارسی-لاتین
+\newcommand{\mixedfn}[2]{\footnote{#1\lr{#2}}}
 
 % تعریف محیط‌های سفارشی
 \newenvironment{caseStudy}[1]{%
@@ -79,6 +81,12 @@
 \input{chapters/ch02-legal-foundations}
 \input{chapters/ch03-analytical-models}
 
+\part{مبانی نظری، مفهومی و حقوقی}
+\label{part:duplicated}
+\input{chapters/ch01}
+\input{chapters/ch02}
+\input{chapters/ch03}
+\input{chapters/ch04}
 % ─── بخش دوم ─────────────────────────────────────────
 \part{ایران: از باستان تا معاصر}
 \label{part:iran}

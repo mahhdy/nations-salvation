@@ -1,0 +1,691 @@
+\contentsline {chapter}{پیش‌گفتار}{\GenericError { }{LaTeX Error: Counter too large}{See the LaTeX manual or LaTeX Companion for explanation.}{You've lost some text. Try typing <return> to proceed.\MessageBreak If that doesn't work, type X <return> to quit.}}{chapter*.4}%
+\contentsline {part}{اول\hspace {1em}مبانی نظری و حقوقی}{1}{part.1}%
+\contentsline {chapter}{\numberline {1}درآمد، پرسش‌ها و چارچوب مفهومی}{3}{chapter.1}%
+\contentsline {section}{\numberline {1-1}طرح مسئله}{3}{section.1.1}%
+\contentsline {section}{\numberline {1-2}تعریف مفاهیم کلیدی}{5}{section.1.2}%
+\contentsline {subsection}{\numberline {1-2-1}نجات‌طلبی}{5}{subsection.1.2.1}%
+\contentsline {subsection}{\numberline {1-2-2}مداخله‌ی خارجی}{6}{subsection.1.2.2}%
+\contentsline {subsection}{\numberline {1-2-3}موفقیت و شکست: مسئله‌ی تعریف}{6}{subsection.1.2.3}%
+\contentsline {section}{\numberline {1-3}مرور ادبیات نظری}{7}{section.1.3}%
+\contentsline {subsection}{\numberline {1-3-1}نظریه‌های روابط بین‌الملل}{7}{subsection.1.3.1}%
+\contentsline {subsubsection}{واقع‌گرایی}{7}{subsubsection*.5}%
+\contentsline {subsubsection}{لیبرالیسم}{7}{subsubsection*.6}%
+\contentsline {subsubsection}{سازه‌انگاری}{7}{subsubsection*.7}%
+\contentsline {subsection}{\numberline {1-3-2}نظریه‌های پسااستعماری}{8}{subsection.1.3.2}%
+\contentsline {subsection}{\numberline {1-3-3}ادبیات فارسی}{8}{subsection.1.3.3}%
+\contentsline {section}{\numberline {1-4}چارچوب مفهومی پژوهش}{9}{section.1.4}%
+\contentsline {section}{\numberline {1-5}گونه‌شناسی مداخلات از منظر عامل دعوت‌کننده}{10}{section.1.5}%
+\contentsline {section}{\numberline {1-6}تمایز مفهومی: نجات‌طلبی در برابر مفاهیم مشابه}{10}{section.1.6}%
+\contentsline {subsection}{\numberline {1-6-1}نجات‌طلبی در برابر خیانت}{10}{subsection.1.6.1}%
+\contentsline {subsection}{\numberline {1-6-2}نجات‌طلبی در برابر همکاری نظامی متقابل}{11}{subsection.1.6.2}%
+\contentsline {subsection}{\numberline {1-6-3}نجات‌طلبی در برابر امپریالیسم}{11}{subsection.1.6.3}%
+\contentsline {section}{\numberline {1-7}بازه‌ی زمانی و جغرافیایی پژوهش}{11}{section.1.7}%
+\contentsline {section}{\numberline {1-8}ماتریس تحلیلی: ابعاد ارزیابی مداخلات}{11}{section.1.8}%
+\contentsline {section}{\numberline {1-9}نقشه‌ی مفهومی کتاب}{12}{section.1.9}%
+\contentsline {section}{\numberline {1-10}جمع‌بندی فصل}{12}{section.1.10}%
+\contentsline {chapter}{\numberline {2}مبانی حقوقی مداخله‌ی خارجی در حقوق بین‌الملل}{15}{chapter.2}%
+\contentsline {section}{\numberline {2-1}اصل حاکمیت دولت‌ها و منع مداخله}{16}{section.2.1}%
+\contentsline {subsection}{\numberline {2-1-1}صلح وستفالی و تولد اصل حاکمیت}{16}{subsection.2.1.1}%
+\contentsline {subsection}{\numberline {2-1-2}تحول تاریخی اصل عدم مداخله}{16}{subsection.2.1.2}%
+\contentsline {section}{\numberline {2-2}مداخله بر اساس دعوت (\lr {Intervention by Invitation})}{17}{section.2.2}%
+\contentsline {subsection}{\numberline {2-2-1}مبانی حقوقی}{17}{subsection.2.2.1}%
+\contentsline {subsection}{\numberline {2-2-2}رویه‌ی دیوان بین‌المللی دادگستری}{18}{subsection.2.2.2}%
+\contentsline {subsection}{\numberline {2-2-3}معضل «حکومت مشروع» در جنگ‌های داخلی}{18}{subsection.2.2.3}%
+\contentsline {section}{\numberline {2-3}دکترین مسئولیت حمایت (\lr {R2P})}{19}{section.2.3}%
+\contentsline {subsection}{\numberline {2-3-1}زمینه‌ی تاریخی: از رواندا تا کوزوو}{19}{subsection.2.3.1}%
+\contentsline {subsection}{\numberline {2-3-2}گزارش کمیسیون بین‌المللی (۲۰۰۱)}{19}{subsection.2.3.2}%
+\contentsline {subsection}{\numberline {2-3-3}سند اجلاس جهانی ۲۰۰۵}{20}{subsection.2.3.3}%
+\contentsline {subsection}{\numberline {2-3-4}نقد \lr {R2P}: مشروعیت‌بخشی به امپریالیسم؟}{21}{subsection.2.3.4}%
+\contentsline {section}{\numberline {2-4}حق تعیین سرنوشت و مداخله‌ی خارجی}{21}{section.2.4}%
+\contentsline {subsection}{\numberline {2-4-1}ریشه‌ها و تحول مفهوم}{21}{subsection.2.4.1}%
+\contentsline {subsection}{\numberline {2-4-2}تنش میان حق تعیین سرنوشت و تمامیت ارضی}{22}{subsection.2.4.2}%
+\contentsline {section}{\numberline {2-5}مداخله‌ی انسان‌دوستانه: مرز باریک حقوق و اخلاق}{22}{section.2.5}%
+\contentsline {subsection}{\numberline {2-5-1}تعریف و ویژگی‌ها}{22}{subsection.2.5.1}%
+\contentsline {subsection}{\numberline {2-5-2}نقد اخلاقی-سیاسی معیارهای مشروعیت}{23}{subsection.2.5.2}%
+\contentsline {section}{\numberline {2-6}چارچوب حقوقی استمداد از قدرت خارجی برای رفع استبداد}{23}{section.2.6}%
+\contentsline {subsection}{\numberline {2-6-1}سنت حقوق طبیعی و حق مقاومت}{23}{subsection.2.6.1}%
+\contentsline {subsection}{\numberline {2-6-2}معضل «در شهر هر آنکه هست گیرند»}{25}{subsection.2.6.2}%
+\contentsline {section}{\numberline {2-7}درخواست جدایی و حقوق بین‌الملل: تحلیل انتقادی}{26}{section.2.7}%
+\contentsline {subsection}{\numberline {2-7-1}حق جدایی در حقوق بین‌الملل: موجود یا معدوم؟}{26}{subsection.2.7.1}%
+\contentsline {subsection}{\numberline {2-7-2}جدایی اصلاحی: نظریه‌ای در حال شکل‌گیری}{26}{subsection.2.7.2}%
+\contentsline {section}{\numberline {2-8}نمودار تحلیلی: مسیرهای حقوقی مداخله}{27}{section.2.8}%
+\contentsline {section}{\numberline {2-9}جمع‌بندی فصل}{27}{section.2.9}%
+\contentsline {chapter}{\numberline {3}الگوهای تحلیلی: موفقیت، شکست و ارزش‌سنجی}{29}{chapter.3}%
+\contentsline {section}{\numberline {3-1}چرا به الگوی تحلیلی نیاز داریم؟}{29}{section.3.1}%
+\contentsline {section}{\numberline {3-2}الگوی ۱: تحلیل واقع‌گرایانه‌ی هزینه-فایده}{30}{section.3.2}%
+\contentsline {subsection}{\numberline {3-2-1}مبانی نظری}{30}{subsection.3.2.1}%
+\contentsline {subsection}{\numberline {3-2-2}ماتریس هزینه-فایده}{30}{subsection.3.2.2}%
+\contentsline {subsection}{\numberline {3-2-3}نقد الگوی واقع‌گرایانه}{30}{subsection.3.2.3}%
+\contentsline {section}{\numberline {3-3}الگوی ۲: تحلیل نهادگرایانه}{30}{section.3.3}%
+\contentsline {subsection}{\numberline {3-3-1}شاخص‌های نهادی موفقیت مداخله}{32}{subsection.3.3.1}%
+\contentsline {section}{\numberline {3-4}الگوی ۳: تحلیل سازه‌انگارانه}{32}{section.3.4}%
+\contentsline {section}{\numberline {3-5}الگوی ۴: تحلیل پسااستعماری}{33}{section.3.5}%
+\contentsline {subsection}{\numberline {3-5-1}مفاهیم کلیدی}{33}{subsection.3.5.1}%
+\contentsline {subsection}{\numberline {3-5-2}نقد پسااستعماری مداخله‌ی انسان‌دوستانه}{33}{subsection.3.5.2}%
+\contentsline {section}{\numberline {3-6}الگوی ۵: تحلیل روان‌شناسی سیاسی}{34}{section.3.6}%
+\contentsline {subsection}{\numberline {3-6-1}سوگیری‌های شناختی در نجات‌طلبی}{34}{subsection.3.6.1}%
+\contentsline {section}{\numberline {3-7}الگوی ترکیبی پیشنهادی: مدل «شش‌وجهی نجات‌طلبی»}{34}{section.3.7}%
+\contentsline {subsection}{\numberline {3-7-1}شرح وجوه شش‌گانه}{35}{subsection.3.7.1}%
+\contentsline {section}{\numberline {3-8}الگوی طیفی نتایج مداخله}{37}{section.3.8}%
+\contentsline {section}{\numberline {3-9}جدول تطبیقی: اِعمال الگوی شش‌وجهی بر موارد کلیدی}{37}{section.3.9}%
+\contentsline {section}{\numberline {3-10}الگوی پیش‌بینی: شرایط لازم و کافی برای موفقیت}{39}{section.3.10}%
+\contentsline {section}{\numberline {3-11}جمع‌بندی فصل}{39}{section.3.11}%
+\contentsline {part}{دوم\hspace {1em}مبانی نظری، مفهومی و حقوقی}{41}{part.2}%
+\contentsline {chapter}{\numberline {4}مفهوم‌شناسی مداخله‌ی خارجی و نجات‌بخشی}{43}{chapter.4}%
+\contentsline {section}{\numberline {4-1}درآمد}{44}{section.4.1}%
+\contentsline {section}{\numberline {4-2}مداخله‌ی خارجی: تعریف و طیف مفهومی}{45}{section.4.2}%
+\contentsline {subsection}{\numberline {4-2-1}طیف مداخله: از نرم تا سخت}{45}{subsection.4.2.1}%
+\contentsline {subsection}{\numberline {4-2-2}مداخله‌ی دعوت‌شده در برابر مداخله‌ی تحمیلی}{46}{subsection.4.2.2}%
+\contentsline {section}{\numberline {4-3}نجات‌بخشی و نجات‌طلبی: دو سوی یک سکه}{46}{section.4.3}%
+\contentsline {section}{\numberline {4-4}عاملیت، بازنمایی و مسئله‌ی نمایندگی}{47}{section.4.4}%
+\contentsline {subsection}{\numberline {4-4-1}مسئله‌ی اطلاعات ناقص و تصمیم‌گیری در بحران}{47}{subsection.4.4.1}%
+\contentsline {section}{\numberline {4-5}ادبیات نظری: سه مکتب و یک مسئله}{48}{section.4.5}%
+\contentsline {subsubsection}{واقع‌گرایی}{48}{subsubsection*.22}%
+\contentsline {subsubsection}{لیبرالیسم}{48}{subsubsection*.23}%
+\contentsline {subsubsection}{پسااستعمارگرایی و نظریه‌ی انتقادی}{48}{subsubsection*.24}%
+\contentsline {section}{\numberline {4-6}هم‌چسبندگی و مداخله: کیش، آیین، ایدئولوژی، طبقه}{49}{section.4.6}%
+\contentsline {section}{\numberline {4-7}فعالیت‌های پیش‌زمینه‌ساز: میسیونری، ایدئولوژیک و استعماری}{49}{section.4.7}%
+\contentsline {subsection}{\numberline {4-7-1}فعالیت‌های میسیونری و تبلیغی}{49}{subsection.4.7.1}%
+\contentsline {subsection}{\numberline {4-7-2}استعمار اولیه و ثانویه}{50}{subsection.4.7.2}%
+\contentsline {subsection}{\numberline {4-7-3}سه‌گانه‌ی تمایز: ارگانیک، ابزاری، امپریال}{50}{subsection.4.7.3}%
+\contentsline {section}{\numberline {4-8}معیارهای موفقیت و شکست: بازه‌ی زمانی و چندبعدی بودن}{51}{section.4.8}%
+\contentsline {subsection}{\numberline {4-8-1}ماتریس ارزیابی پیشنهادی}{51}{subsection.4.8.1}%
+\contentsline {section}{\numberline {4-9}عواقب و پیامدهای مداخلات: نگاهی کلی}{52}{section.4.9}%
+\contentsline {section}{\numberline {4-10}جمع‌بندی فصل و نقشه‌ی راه}{53}{section.4.10}%
+\contentsline {chapter}{\numberline {5}نجات‌بخشی در برابر نجات‌طلبی: تحلیل چندسویه}{55}{chapter.5}%
+\contentsline {section}{\numberline {5-1}درآمد: چرا این فصل ضروری است؟}{55}{section.5.1}%
+\contentsline {section}{\numberline {5-2}تنش اول: امکان رهایی‌بخشی ساختاری از بیرون}{56}{section.5.2}%
+\contentsline {subsection}{\numberline {5-2-1}طرح مسئله}{56}{subsection.5.2.1}%
+\contentsline {subsection}{\numberline {5-2-2}شواهد مثبت: مداخله‌ی ساختارساز}{56}{subsection.5.2.2}%
+\contentsline {subsection}{\numberline {5-2-3}مرزهای امکان: چه وقت ساختارسازی بیرونی کار می‌کند؟}{57}{subsection.5.2.3}%
+\contentsline {section}{\numberline {5-3}تنش دوم: پارادوکس اجبار به آزادی}{57}{section.5.3}%
+\contentsline {subsection}{\numberline {5-3-1}طرح پارادوکس}{57}{subsection.5.3.1}%
+\contentsline {subsection}{\numberline {5-3-2}آزادی مثبت و پیش‌شرط‌های آن}{58}{subsection.5.3.2}%
+\contentsline {subsection}{\numberline {5-3-3}سه شرط مشروعیت اجبار رهایی‌بخش}{58}{subsection.5.3.3}%
+\contentsline {section}{\numberline {5-4}تنش سوم: مدرنیته‌ی خطی در برابر تکثر فرهنگی}{59}{section.5.4}%
+\contentsline {subsection}{\numberline {5-4-1}اجبار به پذیرش مفاهیم مدرن}{59}{subsection.5.4.1}%
+\contentsline {subsection}{\numberline {5-4-2}بردگان خشنود و زنان خوگرفته: مسئله‌ی ترجیحات تطبیقی}{60}{subsection.5.4.2}%
+\contentsline {subsection}{\numberline {5-4-3}نقد چندفرهنگی‌گرایی و نقد نقد}{61}{subsection.5.4.3}%
+\contentsline {section}{\numberline {5-5}تنش چهارم: جدایی جبرانی، حق تعیین سرنوشت و زنجیره‌ی خشونت}{61}{section.5.5}%
+\contentsline {subsection}{\numberline {5-5-1}فرهنگ‌های اجبارگر و حق جدایی}{61}{subsection.5.5.1}%
+\contentsline {subsection}{\numberline {5-5-2}جدایی جبرانی در حقوق بین‌الملل}{62}{subsection.5.5.2}%
+\contentsline {subsection}{\numberline {5-5-3}زنجیره‌ی خشونت: وقتی احقاق حق خود منبع خشونت می‌شود}{63}{subsection.5.5.3}%
+\contentsline {subsubsection}{تقصیر، فداکاری و هزینه از جیب دیگری}{63}{subsubsection*.28}%
+\contentsline {section}{\numberline {5-6}تنش پنجم: گروه پیشرو، بازیگر خارجی و مشروعیت مداخله}{64}{section.5.6}%
+\contentsline {subsection}{\numberline {5-6-1}ساختار مسئله}{64}{subsection.5.6.1}%
+\contentsline {subsection}{\numberline {5-6-2}خطر معکوس‌سازی ستم}{64}{subsection.5.6.2}%
+\contentsline {subsection}{\numberline {5-6-3}جستجوی عنصر مشترک: حداقل‌های عدالت}{65}{subsection.5.6.3}%
+\contentsline {section}{\numberline {5-7}تنش ششم: بلوغ درون‌زاد ارزش‌ها و ناممکنی تزریق}{66}{section.5.7}%
+\contentsline {subsection}{\numberline {5-7-1}ارزش‌هایی که باید رُشد کنند، نه کاشته شوند}{66}{subsection.5.7.1}%
+\contentsline {subsection}{\numberline {5-7-2}شواهد تاریخی: تفاوت نهادسازی درون‌زاد و برون‌زاد}{66}{subsection.5.7.2}%
+\contentsline {subsection}{\numberline {5-7-3}فرایند درونی‌سازی: زمان، تضاد و عبور}{67}{subsection.5.7.3}%
+\contentsline {section}{\numberline {5-8}تنش هفتم: جامعه‌ی دوپاره و شکنندگی دموکراسی}{68}{section.5.8}%
+\contentsline {subsection}{\numberline {5-8-1}قطبی‌شدن و بن‌بست ساختاری}{68}{subsection.5.8.1}%
+\contentsline {subsection}{\numberline {5-8-2}پوپولیسم: وقتی دموکراسی علیه خود عمل می‌کند}{69}{subsection.5.8.2}%
+\contentsline {subsection}{\numberline {5-8-3}مداخله‌ی خارجی در جوامع دوپاره: تشدید یا تعدیل؟}{69}{subsection.5.8.3}%
+\contentsline {section}{\numberline {5-9}تنش هشتم: بازی‌ای که نمی‌توان متوقف کرد}{70}{section.5.9}%
+\contentsline {subsection}{\numberline {5-9-1}«گر رسم شود که مست گیرند، در شهر هر آنکه هست گیرند»}{70}{subsection.5.9.1}%
+\contentsline {subsection}{\numberline {5-9-2}مسئله‌ی سابقه و تسری}{70}{subsection.5.9.2}%
+\contentsline {subsection}{\numberline {5-9-3}صورت‌بندی دقیق: شرایط لازم برای محدودسازی}{71}{subsection.5.9.3}%
+\contentsline {subsection}{\numberline {5-9-4}نقد: آیا صورت‌بندی دقیق ممکن است؟}{71}{subsection.5.9.4}%
+\contentsline {section}{\numberline {5-10}ترکیب تنش‌ها: ماتریس تعامل}{72}{section.5.10}%
+\contentsline {section}{\numberline {5-11}جمع‌بندی: نه نجات‌بخشی آسان، نه نجات‌طلبی بی‌هزینه}{74}{section.5.11}%
+\contentsline {chapter}{\numberline {6}مبانی حقوقی مداخله‌ی خارجی در حقوق بین‌الملل}{75}{chapter.6}%
+\contentsline {section}{\numberline {6-1}درآمد}{75}{section.6.1}%
+\contentsline {section}{\numberline {6-2}اصل حاکمیت ملی و عدم مداخله}{75}{section.6.2}%
+\contentsline {subsection}{\numberline {6-2-1}از وستفالی تا منشور ملل متحد}{76}{subsection.6.2.1}%
+\contentsline {subsection}{\numberline {6-2-2}استثنائات حقوقی اصل عدم مداخله}{76}{subsection.6.2.2}%
+\contentsline {section}{\numberline {6-3}حق تعیین سرنوشت}{77}{section.6.3}%
+\contentsline {subsection}{\numberline {6-3-1}تحول تاریخی مفهوم}{77}{subsection.6.3.1}%
+\contentsline {subsection}{\numberline {6-3-2}جدایی جبرانی: بسط حقوقی}{78}{subsection.6.3.2}%
+\contentsline {section}{\numberline {6-4}دکترین مسئولیت حمایت (\lr {R2P})}{78}{section.6.4}%
+\contentsline {subsection}{\numberline {6-4-1}پیشینه و شکل‌گیری}{78}{subsection.6.4.1}%
+\contentsline {subsection}{\numberline {6-4-2}سه رکن مسئولیت حمایت}{79}{subsection.6.4.2}%
+\contentsline {subsubsection}{رکن اول: مسئولیت دولت}{79}{subsubsection*.34}%
+\contentsline {subsubsection}{رکن دوم: مسئولیت جامعه‌ی بین‌المللی در کمک}{79}{subsubsection*.35}%
+\contentsline {subsubsection}{رکن سوم: مسئولیت واکنش}{79}{subsubsection*.36}%
+\contentsline {subsection}{\numberline {6-4-3}اعمال \lr {R2P} در عمل}{79}{subsection.6.4.3}%
+\contentsline {subsection}{\numberline {6-4-4}نقد مسئولیت حمایت}{79}{subsection.6.4.4}%
+\contentsline {section}{\numberline {6-5}مداخله به دعوت: مبانی حقوقی}{80}{section.6.5}%
+\contentsline {subsection}{\numberline {6-5-1}تعریف و شرایط حقوقی}{80}{subsection.6.5.1}%
+\contentsline {subsection}{\numberline {6-5-2}ابهامات و چالش‌ها}{81}{subsection.6.5.2}%
+\contentsline {section}{\numberline {6-6}دعوت از منظر غیردولتی: اقلیت‌ها و جنبش‌های آزادی‌بخش}{82}{section.6.6}%
+\contentsline {subsection}{\numberline {6-6-1}جایگاه حقوقی جنبش‌های آزادی‌بخش}{82}{subsection.6.6.1}%
+\contentsline {section}{\numberline {6-7}حقوق بین‌الملل بشردوستانه و حمایت از اقلیت‌ها}{83}{section.6.7}%
+\contentsline {subsection}{\numberline {6-7-1}چارچوب کنوانسیونی}{83}{subsection.6.7.1}%
+\contentsline {subsection}{\numberline {6-7-2}شکاف میان هنجار و واقعیت}{83}{subsection.6.7.2}%
+\contentsline {section}{\numberline {6-8}استمداد از خارج برای رفع استبداد: مرور حقوقی}{84}{section.6.8}%
+\contentsline {subsection}{\numberline {6-8-1}آیا مردم حق دارند از بیگانه کمک بخواهند؟}{84}{subsection.6.8.1}%
+\contentsline {subsection}{\numberline {6-8-2}خط قرمز: مداخله‌ی بشردوستانه در برابر تغییر رژیم}{84}{subsection.6.8.2}%
+\contentsline {section}{\numberline {6-9}جدایی و تشکیل کشور جدید: نتایج متفاوت}{84}{section.6.9}%
+\contentsline {subsection}{\numberline {6-9-1}موارد موفق تشکیل کشور جدید}{84}{subsection.6.9.1}%
+\contentsline {subsection}{\numberline {6-9-2}موارد ناموفق یا ناتمام}{85}{subsection.6.9.2}%
+\contentsline {subsection}{\numberline {6-9-3}عوامل تعیین‌کننده‌ی موفقیت یا شکست}{85}{subsection.6.9.3}%
+\contentsline {section}{\numberline {6-10}نقد کلی: حقوق بین‌الملل، ابزار عدالت یا قدرت؟}{87}{section.6.10}%
+\contentsline {chapter}{\numberline {7}الگوی تحلیلی چندبعدی و گونه‌شناسی مداخلات}{89}{chapter.7}%
+\contentsline {section}{\numberline {7-1}درآمد: ضرورت چارچوب تحلیلی}{89}{section.7.1}%
+\contentsline {section}{\numberline {7-2}الگوی ارزیابی چندبعدی-چندزمانی}{89}{section.7.2}%
+\contentsline {subsection}{\numberline {7-2-1}شش بعد ارزیابی}{89}{subsection.7.2.1}%
+\contentsline {subsubsection}{بعد نظامی-امنیتی}{90}{subsubsection*.42}%
+\contentsline {subsubsection}{بعد سیاسی-نهادی}{90}{subsubsection*.43}%
+\contentsline {subsubsection}{بعد اقتصادی}{90}{subsubsection*.44}%
+\contentsline {subsubsection}{بعد حقوق بشری}{90}{subsubsection*.45}%
+\contentsline {subsubsection}{بعد فرهنگی-هویتی}{90}{subsubsection*.46}%
+\contentsline {subsubsection}{بعد روان‌شناسی اجتماعی}{90}{subsubsection*.47}%
+\contentsline {subsection}{\numberline {7-2-2}سه بازه‌ی زمانی ارزیابی}{90}{subsection.7.2.2}%
+\contentsline {subsection}{\numberline {7-2-3}ماتریس ارزیابی تفصیلی}{91}{subsection.7.2.3}%
+\contentsline {section}{\numberline {7-3}گونه‌شناسی جامع مداخلات}{91}{section.7.3}%
+\contentsline {subsection}{\numberline {7-3-1}پنج معیار طبقه‌بندی}{91}{subsection.7.3.1}%
+\contentsline {subsection}{\numberline {7-3-2}درخت تصمیم گونه‌شناختی}{92}{subsection.7.3.2}%
+\contentsline {subsection}{\numberline {7-3-3}جدول گونه‌شناسی تفصیلی}{92}{subsection.7.3.3}%
+\contentsline {section}{\numberline {7-4}مدل تحلیل پویای مداخله}{94}{section.7.4}%
+\contentsline {subsection}{\numberline {7-4-1}لایه‌ی اول: بازیگران}{94}{subsection.7.4.1}%
+\contentsline {subsection}{\numberline {7-4-2}لایه‌ی دوم: ساختارها و زمینه‌ها}{94}{subsection.7.4.2}%
+\contentsline {subsection}{\numberline {7-4-3}لایه‌ی سوم: مکانیسم‌ها و نتایج}{94}{subsection.7.4.3}%
+\contentsline {section}{\numberline {7-5}مدل هم‌چسبندگی: ارگانیک در برابر ابزاری}{96}{section.7.5}%
+\contentsline {subsection}{\numberline {7-5-1}شاخص‌های تعیین نوع هم‌چسبندگی}{96}{subsection.7.5.1}%
+\contentsline {section}{\numberline {7-6}الگوی پیش‌زمینه‌سازی: از میسیونری تا نظامی}{96}{section.7.6}%
+\contentsline {subsection}{\numberline {7-6-1}زنجیره‌ی تصاعد}{96}{subsection.7.6.1}%
+\contentsline {subsection}{\numberline {7-6-2}سه الگوی رابطه‌ی فعالیت فرهنگی و مداخله‌ی سخت}{97}{subsection.7.6.2}%
+\contentsline {section}{\numberline {7-7}الگوی ارزیابی ژئوپولیتیک مداخله}{98}{section.7.7}%
+\contentsline {subsection}{\numberline {7-7-1}نتایج ژئوپولیتیک: تشکیل کشور، تقسیم مرزها، یا ادغام}{98}{subsection.7.7.1}%
+\contentsline {section}{\numberline {7-8}نقش روان‌شناسی اجتماعی در الگوی تحلیلی}{98}{section.7.8}%
+\contentsline {subsection}{\numberline {7-8-1}روان‌شناسی نجات‌طلبی}{98}{subsection.7.8.1}%
+\contentsline {subsection}{\numberline {7-8-2}ایده‌آل‌سازی ناجی خارجی}{99}{subsection.7.8.2}%
+\contentsline {subsection}{\numberline {7-8-3}چرخه‌ی روان‌شناختی مداخله}{99}{subsection.7.8.3}%
+\contentsline {subsection}{\numberline {7-8-4}شکستن چرخه: شرایط روان‌شناختی موفقیت}{100}{subsection.7.8.4}%
+\contentsline {section}{\numberline {7-9}الگوی ترکیبی نهایی: پنج‌ضلعی تحلیل مداخله}{100}{section.7.9}%
+\contentsline {section}{\numberline {7-10}خلاصه‌ی ابزارهای تحلیلی}{102}{section.7.10}%
+\contentsline {section}{\numberline {7-11}جمع‌بندی فصل و آمادگی برای مطالعات موردی}{102}{section.7.11}%
+\contentsline {part}{سوم\hspace {1em}ایران: از باستان تا معاصر}{105}{part.3}%
+\contentsline {chapter}{\numberline {8}ایران باستان: هخامنشیان و ساسانیان}{107}{chapter.8}%
+\contentsline {section}{\numberline {8-1}مقدمه: ساختار سیاسی و آسیب‌پذیری امپراتوری‌های باستانی}{107}{section.8.1}%
+\contentsline {section}{\numberline {8-2}دوره‌ی هخامنشی (۵۵۰–۳۳۰ ق.م)}{108}{section.8.2}%
+\contentsline {subsection}{\numberline {8-2-1}تأسیس شاهنشاهی: کورش و الگوی «آزادسازی»}{108}{subsection.8.2.1}%
+\contentsline {subsection}{\numberline {8-2-2}شورش‌های ساتراپی و دعوت از یونانیان}{109}{subsection.8.2.2}%
+\contentsline {subsection}{\numberline {8-2-3}اسکندر و مسئله‌ی «دعوت‌شدگان»}{110}{subsection.8.2.3}%
+\contentsline {subsubsection}{شواهد له}{110}{subsubsection*.59}%
+\contentsline {subsubsection}{شواهد علیه}{110}{subsubsection*.60}%
+\contentsline {section}{\numberline {8-3}دوره‌ی اشکانی (پارتی): ۲۴۷ ق.م — ۲۲۴ م.}{112}{section.8.3}%
+\contentsline {subsection}{\numberline {8-3-1}ساختار فدرالی و آسیب‌پذیری‌ها}{112}{subsection.8.3.1}%
+\contentsline {subsection}{\numberline {8-3-2}نمونه‌ی کلیدی: تیرداد و روم}{112}{subsection.8.3.2}%
+\contentsline {subsection}{\numberline {8-3-3}جدول تطبیقی: مدعیان تبعیدی اشکانی در روم}{112}{subsection.8.3.3}%
+\contentsline {section}{\numberline {8-4}دوره‌ی ساسانی (۲۲۴–۶۵۱ م.)}{113}{section.8.4}%
+\contentsline {subsection}{\numberline {8-4-1}ساختار قدرت و خطوط شکاف}{113}{subsection.8.4.1}%
+\contentsline {subsection}{\numberline {8-4-2}مسیحیان بین‌النهرین و استمداد از روم-بیزانس}{114}{subsection.8.4.2}%
+\contentsline {subsection}{\numberline {8-4-3}لخمیان: عرب‌های مرزنشین و دوگانگی وفاداری}{114}{subsection.8.4.3}%
+\contentsline {subsection}{\numberline {8-4-4}فروپاشی ساسانی و مسئله‌ی «همکاری» با اعراب}{115}{subsection.8.4.4}%
+\contentsline {subsubsection}{آیا بخشی از ایرانیان از اعراب «استقبال» کردند؟}{115}{subsubsection*.62}%
+\contentsline {subsubsection}{تحلیل: «دعوت» یا «تمکین»؟}{116}{subsubsection*.63}%
+\contentsline {section}{\numberline {8-5}خط زمانی تطبیقی: نجات‌طلبی در ایران باستان}{117}{section.8.5}%
+\contentsline {section}{\numberline {8-6}الگوهای تکرارشونده در ایران باستان}{117}{section.8.6}%
+\contentsline {section}{\numberline {8-7}جدول تطبیقی نهایی: نجات‌طلبی در سه دوره‌ی ایران باستان}{118}{section.8.7}%
+\contentsline {section}{\numberline {8-8}جمع‌بندی فصل}{120}{section.8.8}%
+\contentsline {chapter}{\numberline {9}ایران در سده‌های میانه: اعراب، ترکان و مغول‌ها}{121}{chapter.9}%
+\contentsline {section}{\numberline {9-1}دوره‌ی خلافت و حکومت‌های نیمه‌مستقل ایرانی (قرن ۲–۴ هجری)}{122}{section.9.1}%
+\contentsline {subsection}{\numberline {9-1-1}نهضت‌های ایرانی و مسئله‌ی «استقلال از درون»}{122}{subsection.9.1.1}%
+\contentsline {subsection}{\numberline {9-1-2}یعقوب لیث و الگوی «استقلال بدون استمداد»}{122}{subsection.9.1.2}%
+\contentsline {section}{\numberline {9-2}ورود ترکان: از مملوک تا سلطان}{123}{section.9.2}%
+\contentsline {subsection}{\numberline {9-2-1}ترکان غزنوی و سلجوقی: دعوت‌شده یا مهاجم؟}{123}{subsection.9.2.1}%
+\contentsline {section}{\numberline {9-3}حمله‌ی مغول: بزرگ‌ترین فاجعه‌ی تاریخ ایران}{124}{section.9.3}%
+\contentsline {subsection}{\numberline {9-3-1}زمینه‌ها و پرسش کلیدی}{124}{subsection.9.3.1}%
+\contentsline {subsection}{\numberline {9-3-2}شواهد «همکاری» با مغول‌ها}{124}{subsection.9.3.2}%
+\contentsline {subsubsection}{خواجه نصیرالدین طوسی و نابودی خلافت عباسی}{124}{subsubsection*.66}%
+\contentsline {subsubsection}{حکام محلی و تسلیم به مغول‌ها}{124}{subsubsection*.67}%
+\contentsline {subsection}{\numberline {9-3-3}نقش عطاملک جوینی و خاندان‌های ایرانی در دستگاه مغول}{125}{subsection.9.3.3}%
+\contentsline {section}{\numberline {9-4}تیمور و نجات‌طلبی‌های دوره‌ی تیموری}{126}{section.9.4}%
+\contentsline {subsection}{\numberline {9-4-1}حمله‌ی تیمور: تکرار فاجعه‌ی مغول}{126}{subsection.9.4.1}%
+\contentsline {subsection}{\numberline {9-4-2}دعوت‌های مستند از تیمور}{126}{subsection.9.4.2}%
+\contentsline {section}{\numberline {9-5}نمودار تحلیلی: الگوی نجات‌طلبی در قرون میانه‌ی ایران}{127}{section.9.5}%
+\contentsline {section}{\numberline {9-6}مقایسه‌ی تطبیقی: مرزنشینان و غیرمرزنشینان}{127}{section.9.6}%
+\contentsline {section}{\numberline {9-7}جمع‌بندی فصل}{127}{section.9.7}%
+\contentsline {chapter}{\numberline {10}ایران عصر صفوی تا قاجار: مرزنشینان و همسایگان}{129}{chapter.10}%
+\contentsline {section}{\numberline {10-1}دوره‌ی صفوی: تشیع، هویت ملی و خطوط شکاف نوین}{129}{section.10.1}%
+\contentsline {subsection}{\numberline {10-1-1}تأسیس صفویه و ایجاد هویت ایرانی-شیعی}{129}{subsection.10.1.1}%
+\contentsline {subsection}{\numberline {10-1-2}قفقاز: گرجی‌ها میان ایران، عثمانی و روسیه}{130}{subsection.10.1.2}%
+\contentsline {subsubsection}{گرجستان در نظام صفوی}{130}{subsubsection*.70}%
+\contentsline {subsubsection}{نجات‌طلبی گرجی‌ها: رو به اروپا، رو به روسیه}{130}{subsubsection*.71}%
+\contentsline {subsection}{\numberline {10-1-3}ارمنی‌ها: «ملت وفادار» یا «پل ارتباطی با بیگانه»؟}{132}{subsection.10.1.3}%
+\contentsline {section}{\numberline {10-2}جنگ‌های ایران و روسیه: نجات‌طلبی و از دست‌رفتن قفقاز}{132}{section.10.2}%
+\contentsline {subsection}{\numberline {10-2-1}جنگ اول (۱۲۱۸–۱۲۲۸ ق / ۱۸۰۴–۱۸۱۳ م)}{132}{subsection.10.2.1}%
+\contentsline {subsection}{\numberline {10-2-2}جنگ دوم (۱۲۴۱–۱۲۴۳ ق / ۱۸۲۶–۱۸۲۸ م) و عهدنامه‌ی ترکمنچای}{133}{subsection.10.2.2}%
+\contentsline {subsection}{\numberline {10-2-3}نقش نجات‌طلبی مسیحیان قفقاز در از دست‌رفتن سرزمین‌ها}{134}{subsection.10.2.3}%
+\contentsline {section}{\numberline {10-3}جنوب ایران: خلیج فارس، شیخ خزعل و بریتانیا}{134}{section.10.3}%
+\contentsline {subsection}{\numberline {10-3-1}ساختار قدرت در خلیج فارس}{134}{subsection.10.3.1}%
+\contentsline {subsection}{\numberline {10-3-2}شیخ خزعل: نجات‌طلبی یا استقلال‌طلبی؟}{135}{subsection.10.3.2}%
+\contentsline {section}{\numberline {10-4}آذربایجان و قفقاز جنوبی: دست‌به‌دامان روسیه شدن؟}{136}{section.10.4}%
+\contentsline {subsection}{\numberline {10-4-1}خانات آذربایجان: میان ایران و روسیه}{136}{subsection.10.4.1}%
+\contentsline {section}{\numberline {10-5}الگوهای استخراج‌شده از دوره‌ی صفوی-قاجار}{137}{section.10.5}%
+\contentsline {section}{\numberline {10-6}نمودار ژئوپولیتیک: ایران در محاصره‌ی قدرت‌های بزرگ (۱۸۰۰–۱۹۲۵)}{138}{section.10.6}%
+\contentsline {section}{\numberline {10-7}مقایسه‌ی تطبیقی: قفقاز و خلیج فارس}{138}{section.10.7}%
+\contentsline {section}{\numberline {10-8}مشروطه و مداخله‌ی خارجی: الگوی نوین}{138}{section.10.8}%
+\contentsline {subsection}{\numberline {10-8-1}اولتیماتوم روسیه و بمباران مجلس (۱۲۹۰ ش / ۱۹۱۱ م)}{138}{subsection.10.8.1}%
+\contentsline {subsection}{\numberline {10-8-2}قرارداد ۱۹۰۷ و تقسیم ایران}{139}{subsection.10.8.2}%
+\contentsline {section}{\numberline {10-9}جمع‌بندی فصل}{140}{section.10.9}%
+\contentsline {chapter}{\numberline {11}ایران معاصر: از رضاشاه تا جمهوری اسلامی}{141}{chapter.11}%
+\contentsline {section}{\numberline {11-1}رضاشاه و تمرکزگرایی: پایان نجات‌طلبی‌های محلی؟}{141}{section.11.1}%
+\contentsline {subsection}{\numberline {11-1-1}سرکوب خوانین و یکپارچه‌سازی}{141}{subsection.11.1.1}%
+\contentsline {section}{\numberline {11-2}اشغال ایران در جنگ جهانی دوم (۱۳۲۰–۱۳۲۵ ش)}{142}{section.11.2}%
+\contentsline {subsection}{\numberline {11-2-1}اشغال بدون دعوت}{142}{subsection.11.2.1}%
+\contentsline {subsection}{\numberline {11-2-2}بحران آذربایجان و جمهوری خودمختار (۱۳۲۴–۱۳۲۵ ش)}{142}{subsection.11.2.2}%
+\contentsline {section}{\numberline {11-3}کودتای ۲۸ مرداد ۱۳۳۲: مداخله‌ی خارجی بدون نجات‌طلبی مردمی}{144}{section.11.3}%
+\contentsline {subsection}{\numberline {11-3-1}زمینه‌ها و اسناد}{144}{subsection.11.3.1}%
+\contentsline {subsection}{\numberline {11-3-2}تحلیل شش‌وجهی}{144}{subsection.11.3.2}%
+\contentsline {subsection}{\numberline {11-3-3}کودتای ۲۸ مرداد از منظر «نجات‌طلبی»}{145}{subsection.11.3.3}%
+\contentsline {section}{\numberline {11-4}انقلاب ۱۳۵۷ و «صدور انقلاب»: نجات‌طلبی معکوس}{146}{section.11.4}%
+\contentsline {subsection}{\numberline {11-4-1}انقلاب ۱۳۵۷ از منظر مداخله‌ی خارجی}{146}{subsection.11.4.1}%
+\contentsline {subsection}{\numberline {11-4-2}صدور انقلاب: نجات‌طلبی معکوس}{147}{subsection.11.4.2}%
+\contentsline {section}{\numberline {11-5}دوره‌ی پس از ۱۳۵۷: اسناد اطلاعاتی و مداخلات مستند}{148}{section.11.5}%
+\contentsline {subsection}{\numberline {11-5-1}عملیات‌های مستند سیا و \lr {MI6} علیه جمهوری اسلامی}{148}{subsection.11.5.1}%
+\contentsline {section}{\numberline {11-6}نجات‌طلبی معاصر: گروه‌های قومی و مسئله‌ی «طلب مداخله»}{149}{section.11.6}%
+\contentsline {subsection}{\numberline {11-6-1}کردها}{149}{subsection.11.6.1}%
+\contentsline {subsection}{\numberline {11-6-2}بلوچ‌ها و عرب‌ها}{149}{subsection.11.6.2}%
+\contentsline {section}{\numberline {11-7}الگوهای مداخله‌ی خارجی در ایران معاصر: جدول تطبیقی}{150}{section.11.7}%
+\contentsline {section}{\numberline {11-8}جمع‌بندی فصل}{152}{section.11.8}%
+\contentsline {part}{چهارم\hspace {1em}جهان: مداخلات و پیامدها}{153}{part.4}%
+\contentsline {chapter}{\numberline {12}مداخلات اروپایی: از انقلاب شکوهمند تا ناپلئون}{155}{chapter.12}%
+\contentsline {section}{\numberline {12-1}انقلاب شکوهمند (۱۶۸۸): موفق‌ترین نمونه‌ی نجات‌طلبی؟}{155}{section.12.1}%
+\contentsline {subsection}{\numberline {12-1-1}زمینه و ماهیت}{155}{subsection.12.1.1}%
+\contentsline {subsubsection}{چرا دعوت از ویلیام؟}{155}{subsubsection*.79}%
+\contentsline {subsubsection}{«نامه‌ی دعوت» هفت نجیب‌زاده}{156}{subsubsection*.80}%
+\contentsline {subsection}{\numberline {12-1-2}تحلیل شش‌وجهی: انقلاب شکوهمند}{156}{subsection.12.1.2}%
+\contentsline {subsection}{\numberline {12-1-3}چرا انقلاب شکوهمند «موفق» بود؟}{157}{subsection.12.1.3}%
+\contentsline {subsection}{\numberline {12-1-4}مقایسه با موارد ایرانی}{157}{subsection.12.1.4}%
+\contentsline {section}{\numberline {12-2}جنگ استقلال هلند (۱۵۶۸–۱۶۴۸): دعوت از انگلستان و فرانسه}{158}{section.12.2}%
+\contentsline {subsection}{\numberline {12-2-1}زمینه و ماهیت}{158}{subsection.12.2.1}%
+\contentsline {subsection}{\numberline {12-2-2}نتیجه و تحلیل}{159}{subsection.12.2.2}%
+\contentsline {section}{\numberline {12-3}لشکرکشی‌های ناپلئون: «آزادسازی» یا امپریالیسم؟}{159}{section.12.3}%
+\contentsline {subsection}{\numberline {12-3-1}ایدئولوژی «آزادسازی ملت‌ها»}{159}{subsection.12.3.1}%
+\contentsline {subsection}{\numberline {12-3-2}واکنش‌های محلی: طیفی از استقبال تا مقاومت}{159}{subsection.12.3.2}%
+\contentsline {subsection}{\numberline {12-3-3}درس‌های ناپلئونی برای نجات‌طلبی}{160}{subsection.12.3.3}%
+\contentsline {section}{\numberline {12-4}کنگره‌ی وین (۱۸۱۵) و «حق مداخله»}{161}{section.12.4}%
+\contentsline {subsection}{\numberline {12-4-1}نظام مترنیخی و سرکوب نجات‌طلبی}{161}{subsection.12.4.1}%
+\contentsline {subsection}{\numberline {12-4-2}نمونه‌ها: سرکوب با «دعوت»}{161}{subsection.12.4.2}%
+\contentsline {section}{\numberline {12-5}انقلاب‌های ۱۸۴۸ و مسئله‌ی ناسیونالیسم}{162}{section.12.5}%
+\contentsline {section}{\numberline {12-6}مسئله‌ی شرق: مسیحیان عثمانی و مداخله‌ی اروپا}{162}{section.12.6}%
+\contentsline {subsection}{\numberline {12-6-1}نجات‌طلبی مسیحیان بالکان}{162}{subsection.12.6.1}%
+\contentsline {subsection}{\numberline {12-6-2}یونان: استقلال با مداخله‌ی خارجی}{163}{subsection.12.6.2}%
+\contentsline {subsection}{\numberline {12-6-3}ارمنستان عثمانی: نجات‌طلبی فاجعه‌بار}{163}{subsection.12.6.3}%
+\contentsline {section}{\numberline {12-7}جدول تطبیقی: نجات‌طلبی اروپایی}{164}{section.12.7}%
+\contentsline {section}{\numberline {12-8}جمع‌بندی فصل}{166}{section.12.8}%
+\contentsline {chapter}{\numberline {13}استعمار، پسااستعمار و تجزیه‌ی مرزها}{167}{chapter.13}%
+\contentsline {section}{\numberline {13-1}استعمار و مسئله‌ی «رضایت»: آیا بومیان دعوت کردند؟}{167}{section.13.1}%
+\contentsline {subsection}{\numberline {13-1-1}استعمار اولیه: «کشف»، فتح و تسهیل‌گری محلی}{167}{subsection.13.1.1}%
+\contentsline {subsection}{\numberline {13-1-2}فعالیت‌های میسیونری: تسهیل‌گری فرهنگی استعمار}{168}{subsection.13.1.2}%
+\contentsline {section}{\numberline {13-2}طبقه‌بندی: میسیونری، پان‌ایدئولوژیک یا امپریالیستی؟}{168}{section.13.2}%
+\contentsline {section}{\numberline {13-3}استعمارزدایی و تشکیل کشورهای جدید}{170}{section.13.3}%
+\contentsline {subsection}{\numberline {13-3-1}تجزیه‌ی مرزها: کجا به کشور جدید انجامید؟}{170}{subsection.13.3.1}%
+\contentsline {subsection}{\numberline {13-3-2}عوامل تعیین‌کننده‌ی موفقیت جدایی}{172}{subsection.13.3.2}%
+\contentsline {section}{\numberline {13-4}اقلیت‌های تحت ستم سیستماتیک: ۵۰ سال اخیر}{172}{section.13.4}%
+\contentsline {section}{\numberline {13-5}جمع‌بندی فصل}{174}{section.13.5}%
+\contentsline {chapter}{\numberline {14}مداخلات معاصر: ۵۰ سال اخیر در سراسر جهان}{175}{chapter.14}%
+\contentsline {section}{\numberline {14-1}مقدمه: دوران پس از جنگ سرد و «نظم نوین جهانی»}{175}{section.14.1}%
+\contentsline {section}{\numberline {14-2}جنگ خلیج فارس (۱۹۹۱): مداخله‌ی «مشروع»}{176}{section.14.2}%
+\contentsline {subsection}{\numberline {14-2-1}زمینه و ماهیت}{176}{subsection.14.2.1}%
+\contentsline {subsection}{\numberline {14-2-2}اما: شورش شیعیان و کردها}{176}{subsection.14.2.2}%
+\contentsline {section}{\numberline {14-3}سومالی (۱۹۹۲–۱۹۹۵): مداخله‌ی انسان‌دوستانه‌ی شکست‌خورده}{177}{section.14.3}%
+\contentsline {subsection}{\numberline {14-3-1}زمینه و تحلیل}{177}{subsection.14.3.1}%
+\contentsline {section}{\numberline {14-4}رواندا (۱۹۹۴): عدم مداخله و نسل‌کشی}{178}{section.14.4}%
+\contentsline {subsection}{\numberline {14-4-1}فاجعه‌ی عدم اقدام}{178}{subsection.14.4.1}%
+\contentsline {subsection}{\numberline {14-4-2}چرا مداخله نشد؟}{178}{subsection.14.4.2}%
+\contentsline {section}{\numberline {14-5}کوزوو (۱۹۹۹): مداخله بدون مجوز}{179}{section.14.5}%
+\contentsline {subsection}{\numberline {14-5-1}زمینه و مشروعیت}{179}{subsection.14.5.1}%
+\contentsline {section}{\numberline {14-6}افغانستان (۲۰۰۱–۲۰۲۱): بیست سال مداخله و فروپاشی}{180}{section.14.6}%
+\contentsline {subsection}{\numberline {14-6-1}از «جنگ با تروریسم» تا «دولت‌سازی»}{180}{subsection.14.6.1}%
+\contentsline {subsection}{\numberline {14-6-2}سقوط کابل (آگوست ۲۰۲۱): شکست نهایی}{180}{subsection.14.6.2}%
+\contentsline {section}{\numberline {14-7}عراق (۲۰۰۳): مداخله‌ی پیش‌گیرانه و فاجعه‌ی دولت‌سازی}{181}{section.14.7}%
+\contentsline {subsection}{\numberline {14-7-1}از «سلاح‌های کشتار جمعی» تا «دموکراسی‌سازی»}{181}{subsection.14.7.1}%
+\contentsline {subsection}{\numberline {14-7-2}نجات‌طلبی بخشی از عراقی‌ها}{181}{subsection.14.7.2}%
+\contentsline {section}{\numberline {14-8}لیبی (۲۰۱۱): اِعمال \lr {R2P} و هرج‌ومرج پس از آن}{182}{section.14.8}%
+\contentsline {subsection}{\numberline {14-8-1}مداخله بر مبنای مسئولیت حمایت}{182}{subsection.14.8.1}%
+\contentsline {subsection}{\numberline {14-8-2}هرج‌ومرج پس از قذافی}{183}{subsection.14.8.2}%
+\contentsline {section}{\numberline {14-9}سوریه (۲۰۱۱–کنون): شکست هنجاری}{183}{section.14.9}%
+\contentsline {subsection}{\numberline {14-9-1}از اعتراضات مسالمت‌آمیز تا جنگ داخلی تمام‌عیار}{183}{subsection.14.9.1}%
+\contentsline {subsection}{\numberline {14-9-2}سوریه از منظر نجات‌طلبی}{183}{subsection.14.9.2}%
+\contentsline {section}{\numberline {14-10}اوکراین (۲۰۱۴–کنون): نجات‌طلبی، الحاق و جنگ تمام‌عیار}{184}{section.14.10}%
+\contentsline {subsection}{\numberline {14-10-1}کریمه (۲۰۱۴): نجات‌طلبی یا الحاق؟}{184}{subsection.14.10.1}%
+\contentsline {subsection}{\numberline {14-10-2}تهاجم ۲۰۲۲ و نجات‌طلبی اوکراینی}{185}{subsection.14.10.2}%
+\contentsline {section}{\numberline {14-11}جدول تطبیقی جامع: مداخلات معاصر}{185}{section.14.11}%
+\contentsline {section}{\numberline {14-12}الگوهای استخراج‌شده از مداخلات معاصر}{187}{section.14.12}%
+\contentsline {section}{\numberline {14-13}نمودار تحلیلی: رابطه‌ی ظرفیت داخلی و موفقیت مداخله}{187}{section.14.13}%
+\contentsline {section}{\numberline {14-14}مداخلات منطقه‌ای آفریقایی: اوگاندا، کنگو و ساحل}{187}{section.14.14}%
+\contentsline {subsection}{\numberline {14-14-1}جنگ‌های کنگو (۱۹۹۶–۲۰۰۳): «جنگ جهانی آفریقا»}{187}{subsection.14.14.1}%
+\contentsline {subsection}{\numberline {14-14-2}اوگاندا: کودتاهای پیاپی و مداخلات}{189}{subsection.14.14.2}%
+\contentsline {section}{\numberline {14-15}یمن (۲۰۱۵–کنون): مداخله‌ی عربستان و بحران انسانی}{189}{section.14.15}%
+\contentsline {subsection}{\numberline {14-15-1}زمینه و تحلیل}{189}{subsection.14.15.1}%
+\contentsline {section}{\numberline {14-16}نمودار مقایسه‌ای: هزینه‌های انسانی مداخلات}{190}{section.14.16}%
+\contentsline {section}{\numberline {14-17}تحلیل ترکیبی: چرا برخی مداخلات «موفق‌تر» بوده‌اند؟}{191}{section.14.17}%
+\contentsline {section}{\numberline {14-18}چشم‌انداز آینده: نجات‌طلبی در عصر رقابت ابرقدرتی}{192}{section.14.18}%
+\contentsline {section}{\numberline {14-19}جمع‌بندی فصل}{192}{section.14.19}%
+\contentsline {part}{پنجم\hspace {1em}تحلیل‌های میان‌رشته‌ای و جمع‌بندی}{195}{part.5}%
+\contentsline {chapter}{\numberline {15}روان‌شناسی اجتماعی نجات‌طلبی}{197}{chapter.15}%
+\contentsline {section}{\numberline {15-1}درآمد: چرا روان‌شناسی؟}{197}{section.15.1}%
+\contentsline {section}{\numberline {15-2}ناامیدی آموخته‌شده: چرا ملت‌ها دست از تلاش برمی‌دارند؟}{198}{section.15.2}%
+\contentsline {subsection}{\numberline {15-2-1}نظریه‌ی اصلی سلیگمن}{199}{subsection.15.2.1}%
+\contentsline {subsection}{\numberline {15-2-2}تعمیم به سطح جمعی: ملت‌های ناامید}{199}{subsection.15.2.2}%
+\contentsline {subsection}{\numberline {15-2-3}ناامیدی آموخته‌شده و پذیرش مداخله}{201}{subsection.15.2.3}%
+\contentsline {section}{\numberline {15-3}آرزواندیشی و سوگیری‌های شناختی}{201}{section.15.3}%
+\contentsline {subsection}{\numberline {15-3-1}تعریف و مکانیزم آرزواندیشی}{201}{subsection.15.3.1}%
+\contentsline {subsection}{\numberline {15-3-2}سوگیری‌های شناختی مرتبط با نجات‌طلبی}{202}{subsection.15.3.2}%
+\contentsline {subsubsection}{سوگیری تأیید و حباب اطلاعاتی}{202}{subsubsection*.90}%
+\contentsline {subsubsection}{سوگیری خوش‌بینی و خطای برنامه‌ریزی}{202}{subsubsection*.91}%
+\contentsline {subsubsection}{سوگیری بازمانده: «آلمان و ژاپن موفق شدند، پس...»}{204}{subsubsection*.92}%
+\contentsline {section}{\numberline {15-4}روان‌شناسی قربانی و هویت قربانی‌گری}{205}{section.15.4}%
+\contentsline {subsection}{\numberline {15-4-1}هویت قربانی جمعی}{205}{subsection.15.4.1}%
+\contentsline {subsection}{\numberline {15-4-2}ولکان و مفهوم «تروما-ی انتخاب‌شده»}{205}{subsection.15.4.2}%
+\contentsline {subsection}{\numberline {15-4-3}نقش تروماهای جمعی در پذیرش مداخله}{206}{subsection.15.4.3}%
+\contentsline {section}{\numberline {15-5}نظریه‌ی هویت اجتماعی و مرز خودی/بیگانه}{207}{section.15.5}%
+\contentsline {subsection}{\numberline {15-5-1}نظریه‌ی تاجفل و ترنر}{207}{subsection.15.5.1}%
+\contentsline {subsection}{\numberline {15-5-2}کاربرد در نجات‌طلبی: چه کسی «خودی» است؟}{207}{subsection.15.5.2}%
+\contentsline {subsection}{\numberline {15-5-3}نظریه‌ی طبقه‌بندی خود و فراهویت}{208}{subsection.15.5.3}%
+\contentsline {section}{\numberline {15-6}اطاعت از مرجعیت: آزمایش میلگرام و کاربردهای سیاسی آن}{209}{section.15.6}%
+\contentsline {subsection}{\numberline {15-6-1}آزمایش اصلی}{209}{subsection.15.6.1}%
+\contentsline {subsection}{\numberline {15-6-2}کاربرد در نجات‌طلبی: مرجعیت خارجی}{209}{subsection.15.6.2}%
+\contentsline {section}{\numberline {15-7}تفکر گروهی: وقتی جمع از فرد «احمق‌تر» می‌شود}{210}{section.15.7}%
+\contentsline {subsection}{\numberline {15-7-1}نظریه‌ی جنیس}{210}{subsection.15.7.1}%
+\contentsline {subsection}{\numberline {15-7-2}تفکر گروهی در تصمیم به مداخله}{211}{subsection.15.7.2}%
+\contentsline {subsection}{\numberline {15-7-3}تفکر گروهی در ملت‌های نجات‌طلب}{212}{subsection.15.7.3}%
+\contentsline {section}{\numberline {15-8}آزمایش زندان استنفورد و سوءاستفاده از قدرت}{212}{section.15.8}%
+\contentsline {section}{\numberline {15-9}نقشه‌ی ذهنی: مکانیزم‌های روان‌شناختی نجات‌طلبی}{213}{section.15.9}%
+\contentsline {section}{\numberline {15-10}شناخت اجتماعی و ادراک تهدید}{213}{section.15.10}%
+\contentsline {subsection}{\numberline {15-10-1}نظریه‌ی مدیریت وحشت}{213}{subsection.15.10.1}%
+\contentsline {subsection}{\numberline {15-10-2}ادراک تهدید و اثر تهدید بر شناخت}{214}{subsection.15.10.2}%
+\contentsline {section}{\numberline {15-11}نقش رسانه و تبلیغات در شکل‌دهی روان‌شناسی نجات‌طلبی}{215}{section.15.11}%
+\contentsline {subsection}{\numberline {15-11-1}مدل تبلیغاتی هرمان و چامسکی}{215}{subsection.15.11.1}%
+\contentsline {subsection}{\numberline {15-11-2}تبلیغات جنگی و ساختن «قربانی شایسته»}{215}{subsection.15.11.2}%
+\contentsline {subsection}{\numberline {15-11-3}رسانه‌های فارسی‌زبان خارجی و نجات‌طلبی ایرانی}{216}{subsection.15.11.3}%
+\contentsline {section}{\numberline {15-12}مقاومت در برابر نجات‌طلبی: عاملیت و تاب‌آوری}{216}{section.15.12}%
+\contentsline {subsection}{\numberline {15-12-1}مفهوم عاملیت جمعی}{216}{subsection.15.12.1}%
+\contentsline {subsection}{\numberline {15-12-2}مقاومت اوکراین: نمونه‌ی عاملیت جمعی}{217}{subsection.15.12.2}%
+\contentsline {section}{\numberline {15-13}نمودار: چرخه‌ی روان‌شناختی نجات‌طلبی}{217}{section.15.13}%
+\contentsline {section}{\numberline {15-14}جمع‌بندی فصل}{218}{section.15.14}%
+\contentsline {chapter}{\numberline {16}جامعه‌شناسی سیاسی و اقتصاد مداخله}{221}{chapter.16}%
+\contentsline {section}{\numberline {16-1}درآمد: از روان‌شناسی به جامعه‌شناسی}{221}{section.16.1}%
+\contentsline {section}{\numberline {16-2}نظریه‌ی وابستگی: نجات‌طلبی به‌مثابه‌ی محصول ساختاری}{222}{section.16.2}%
+\contentsline {subsection}{\numberline {16-2-1}ریشه‌های نظریه}{222}{subsection.16.2.1}%
+\contentsline {subsection}{\numberline {16-2-2}وابستگی و مداخله‌ی خارجی}{223}{subsection.16.2.2}%
+\contentsline {section}{\numberline {16-3}نظام جهانی والرشتاین: مداخله در ساختار نظام سرمایه‌داری}{224}{section.16.3}%
+\contentsline {subsection}{\numberline {16-3-1}نظریه‌ی نظام جهانی}{224}{subsection.16.3.1}%
+\contentsline {subsection}{\numberline {16-3-2}جایگاه مداخله در نظام جهانی}{225}{subsection.16.3.2}%
+\contentsline {subsection}{\numberline {16-3-3}نقد نظریه‌ی وابستگی و نظام جهانی}{226}{subsection.16.3.3}%
+\contentsline {section}{\numberline {16-4}نفرین منابع: وقتی ثروت طبیعی زمینه‌ساز مداخله می‌شود}{227}{section.16.4}%
+\contentsline {subsection}{\numberline {16-4-1}نظریه‌ی نفرین منابع}{227}{subsection.16.4.1}%
+\contentsline {subsection}{\numberline {16-4-2}نفت و مداخله: چرا کشورهای نفتی بیشتر هدف مداخله‌اند؟}{228}{subsection.16.4.2}%
+\contentsline {section}{\numberline {16-5}دولت رانتیر و آسیب‌پذیری در برابر مداخله}{229}{section.16.5}%
+\contentsline {subsection}{\numberline {16-5-1}نظریه‌ی دولت رانتیر}{229}{subsection.16.5.1}%
+\contentsline {subsection}{\numberline {16-5-2}دولت رانتیر و مداخله‌پذیری}{229}{subsection.16.5.2}%
+\contentsline {section}{\numberline {16-6}هزینه‌های اقتصادی مداخله: چه کسی هزینه می‌پردازد؟}{230}{section.16.6}%
+\contentsline {subsection}{\numberline {16-6-1}هزینه‌های مستقیم و غیرمستقیم}{230}{subsection.16.6.1}%
+\contentsline {subsection}{\numberline {16-6-2}هزینه‌ی فرصت}{231}{subsection.16.6.2}%
+\contentsline {subsection}{\numberline {16-6-3}هزینه برای کشور هدف}{231}{subsection.16.6.3}%
+\contentsline {section}{\numberline {16-7}اقتصاد سیاسی بازسازی پس از مداخله}{232}{section.16.7}%
+\contentsline {subsection}{\numberline {16-7-1}بازسازی: فرصت توسعه یا ابزار وابستگی؟}{232}{subsection.16.7.1}%
+\contentsline {subsection}{\numberline {16-7-2}الگوی «بازسازی» مقایسه‌ای}{233}{subsection.16.7.2}%
+\contentsline {section}{\numberline {16-8}نقش نهادهای مالی بین‌المللی}{233}{section.16.8}%
+\contentsline {subsection}{\numberline {16-8-1}صندوق بین‌المللی پول و بانک جهانی: مداخله‌ی اقتصادی}{234}{subsection.16.8.1}%
+\contentsline {subsection}{\numberline {16-8-2}تحریم‌ها: مداخله‌ی اقتصادی بدون جنگ}{235}{subsection.16.8.2}%
+\contentsline {section}{\numberline {16-9}نمودار: هزینه‌ی مقایسه‌ای مداخلات}{235}{section.16.9}%
+\contentsline {section}{\numberline {16-10}صنعت جنگ: مجتمع نظامی-صنعتی و اقتصاد مداخله}{236}{section.16.10}%
+\contentsline {subsection}{\numberline {16-10-1}مفهوم مجتمع نظامی-صنعتی}{236}{subsection.16.10.1}%
+\contentsline {subsection}{\numberline {16-10-2}اقتصاد جنگ: چه کسانی از مداخله سود می‌برند؟}{237}{subsection.16.10.2}%
+\contentsline {section}{\numberline {16-11}نابرابری جهانی و نجات‌طلبی: رابطه‌ی ساختاری}{238}{section.16.11}%
+\contentsline {subsection}{\numberline {16-11-1}نابرابری جهانی در ارقام}{238}{subsection.16.11.1}%
+\contentsline {subsection}{\numberline {16-11-2}نابرابری، بی‌ثباتی، و مداخله}{238}{subsection.16.11.2}%
+\contentsline {section}{\numberline {16-12}نمودار: مدل ساختاری نجات‌طلبی اقتصادی-سیاسی}{239}{section.16.12}%
+\contentsline {section}{\numberline {16-13}مقایسه: کشورهایی که از «نفرین» رهایی یافتند}{239}{section.16.13}%
+\contentsline {section}{\numberline {16-14}جمع‌بندی فصل}{240}{section.16.14}%
+\contentsline {chapter}{\numberline {17}فعالیت‌های میسیونری و ایدئولوژیک: تسهیل‌گری فرهنگی مداخله}{243}{chapter.17}%
+\contentsline {section}{\numberline {17-1}درآمد: قدرت نرم و فتح ذهن‌ها}{243}{section.17.1}%
+\contentsline {section}{\numberline {17-2}میسیونرهای مسیحی: پیشقراولان استعمار}{245}{section.17.2}%
+\contentsline {subsection}{\numberline {17-2-1}تاریخچه: از حواریون تا استعمار}{245}{subsection.17.2.1}%
+\contentsline {subsection}{\numberline {17-2-2}میسیونرها در آفریقا}{245}{subsection.17.2.2}%
+\contentsline {subsection}{\numberline {17-2-3}میسیونرها در ایران و خاورمیانه}{246}{subsection.17.2.3}%
+\contentsline {section}{\numberline {17-3}صدور انقلاب اسلامی ایران}{247}{section.17.3}%
+\contentsline {subsection}{\numberline {17-3-1}مکانیزم‌های صدور انقلاب}{247}{subsection.17.3.1}%
+\contentsline {subsection}{\numberline {17-3-2}ارزیابی: موفقیت یا شکست صدور انقلاب؟}{248}{subsection.17.3.2}%
+\contentsline {section}{\numberline {17-4}پان‌اسلاویسم: روسیه و رسالت اسلاوی}{248}{section.17.4}%
+\contentsline {subsection}{\numberline {17-4-1}پان‌اسلاویسم و مسئله‌ی شرق}{248}{subsection.17.4.1}%
+\contentsline {section}{\numberline {17-5}پان‌ترکیسم: از عثمانی تا آسیای مرکزی}{249}{section.17.5}%
+\contentsline {subsection}{\numberline {17-5-1}پان‌ترکیسم و ایران}{249}{subsection.17.5.1}%
+\contentsline {section}{\numberline {17-6}پان‌عربیسم و ناصریسم}{250}{section.17.6}%
+\contentsline {subsection}{\numberline {17-6-1}ناصریسم: وعده و شکست}{250}{subsection.17.6.1}%
+\contentsline {section}{\numberline {17-7}انترناسیونالیسم کمونیستی: شوروی و رسالت جهانی}{251}{section.17.7}%
+\contentsline {subsection}{\numberline {17-7-1}مکانیزم‌های صدور}{252}{subsection.17.7.1}%
+\contentsline {subsection}{\numberline {17-7-2}دکترین برژنف: «حاکمیت محدود»}{252}{subsection.17.7.2}%
+\contentsline {section}{\numberline {17-8}«دموکراسی‌سازی» آمریکایی: NED، USAID، و قدرت نرم}{253}{section.17.8}%
+\contentsline {subsection}{\numberline {17-8-1}ساختار نهادی ترویج دموکراسی}{253}{subsection.17.8.1}%
+\contentsline {subsection}{\numberline {17-8-2}نقد ترویج دموکراسی}{253}{subsection.17.8.2}%
+\contentsline {section}{\numberline {17-9}جدول تطبیقی: پروژه‌های ایدئولوژیک مداخله}{254}{section.17.9}%
+\contentsline {section}{\numberline {17-10}وهابیسم و سلفی‌گری صادراتی عربستان}{256}{section.17.10}%
+\contentsline {section}{\numberline {17-11}نمودار ون: تقاطع پروژه‌های ایدئولوژیک}{257}{section.17.11}%
+\contentsline {section}{\numberline {17-12}تحلیل تطبیقی: وجوه مشترک و متمایز}{257}{section.17.12}%
+\contentsline {subsection}{\numberline {17-12-1}وجوه مشترک}{257}{subsection.17.12.1}%
+\contentsline {subsection}{\numberline {17-12-2}وجوه متمایز}{258}{subsection.17.12.2}%
+\contentsline {section}{\numberline {17-13}مدل تحلیلی: سه لایه‌ی تسهیل‌گری فرهنگی مداخله}{259}{section.17.13}%
+\contentsline {section}{\numberline {17-14}مقاومت فرهنگی: ضد-هژمونی و استقلال فرهنگی}{259}{section.17.14}%
+\contentsline {subsection}{\numberline {17-14-1}مفهوم ضد-هژمونی گرامشی}{260}{subsection.17.14.1}%
+\contentsline {subsection}{\numberline {17-14-2}نمونه‌های مقاومت فرهنگی}{260}{subsection.17.14.2}%
+\contentsline {section}{\numberline {17-15}جمع‌بندی فصل}{261}{section.17.15}%
+\contentsline {chapter}{\numberline {18}جمع‌بندی، الگوها و چشم‌انداز آینده}{263}{chapter.18}%
+\contentsline {section}{\numberline {18-1}درآمد: سفری که طی کردیم}{263}{section.18.1}%
+\contentsline {section}{\numberline {18-2}خلاصه‌ی یافته‌های کلیدی هر فصل}{264}{section.18.2}%
+\contentsline {section}{\numberline {18-3}جدول تطبیقی نهایی}{265}{section.18.3}%
+\contentsline {section}{\numberline {18-4}مدل سه‌بعدی نجات‌طلبی: ترکیب نهایی}{267}{section.18.4}%
+\contentsline {section}{\numberline {18-5}الگوی موفقیت: شرایط لازم و کافی}{267}{section.18.5}%
+\contentsline {section}{\numberline {18-6}الگوی شکست: خطوط قرمز و هشدارها}{269}{section.18.6}%
+\contentsline {section}{\numberline {18-7}چشم‌انداز آینده: نجات‌طلبی در عصر دیجیتال}{270}{section.18.7}%
+\contentsline {subsection}{\numberline {18-7-1}شبکه‌های اجتماعی: تقویت‌کننده‌ی نجات‌طلبی یا عاملیت؟}{270}{subsection.18.7.1}%
+\contentsline {subsection}{\numberline {18-7-2}هوش مصنوعی و آینده‌ی مداخله}{271}{subsection.18.7.2}%
+\contentsline {subsection}{\numberline {18-7-3}جنگ سایبری: مرزهای جدید مداخله}{272}{subsection.18.7.3}%
+\contentsline {section}{\numberline {18-8}پاسخ به پرسش اصلی: آرزواندیشی یا فرصت‌طلبی؟}{272}{section.18.8}%
+\contentsline {section}{\numberline {18-9}جایگزین نجات‌طلبی: به سوی عاملیت جمعی}{273}{section.18.9}%
+\contentsline {section}{\numberline {18-10}نمودار نهایی: مدل پیش‌بینی نتیجه‌ی مداخله}{274}{section.18.10}%
+\contentsline {section}{\numberline {18-11}پیام به مخاطبان مختلف}{274}{section.18.11}%
+\contentsline {section}{\numberline {18-12}سخن آخر: آزادی‌ای که از بیرون بیاید}{275}{section.18.12}%
+\contentsline {section}{\numberline {18-13}جمع‌بندی فصل}{276}{section.18.13}%
+\contentsline {chapter}{\numberline {19}نقد: گر رسم شود که مست گیرند}{279}{chapter.19}%
+\contentsline {section}{\numberline {19-1}مسئله: وقتی «حق مداخله» قانونی شود}{279}{section.19.1}%
+\contentsline {section}{\numberline {19-2}نقد R2P: ابزار نجات یا ابزار سلطه؟}{280}{section.19.2}%
+\contentsline {section}{\numberline {19-3}نقد نجات‌طلبان: آیا ملتی حق دارد بیگانه را دعوت کند؟}{280}{section.19.3}%
+\contentsline {section}{\numberline {19-4}دفاع از حاکمیت: نه دفاع از دیکتاتوری}{281}{section.19.4}%
+\contentsline {section}{\numberline {19-5}نقد «واقع‌گرایانه» نجات‌طلبی}{282}{section.19.5}%
+\contentsline {section}{\numberline {19-6}جمع‌بندی: «آزادی‌ای که از بیرون بیاید...»}{282}{section.19.6}%
+\contentsline {chapter}{\numberline {20}پارادوکس رهایی: وقتی نجات به انقیاد بدل می‌شود}{285}{chapter.20}%
+\contentsline {section}{\numberline {20-1}آمار تلخ: ۸۴٪ شکست}{285}{section.20.1}%
+\contentsline {subsection}{\numberline {20-1-1}داده‌ها چه می‌گویند؟}{285}{subsection.20.1.1}%
+\contentsline {subsection}{\numberline {20-1-2}چرا این نرخ شکست چنین بالاست؟}{286}{subsection.20.1.2}%
+\contentsline {subsection}{\numberline {20-1-3}یک لحظه مکث: دقیقاً از چه سخن می‌گوییم؟}{287}{subsection.20.1.3}%
+\contentsline {section}{\numberline {20-2}دست‌های کثیف: منتقد کیست؟}{289}{section.20.2}%
+\contentsline {subsection}{\numberline {20-2-1}«رطب خورده کی منع رطب کند»}{289}{subsection.20.2.1}%
+\contentsline {subsection}{\numberline {20-2-2}آیا این «نقد نقد» درست است؟}{290}{subsection.20.2.2}%
+\contentsline {section}{\numberline {20-3}شکاف درونی: چه کسی از چه کسی می‌خواهد نجات یابد؟}{290}{section.20.3}%
+\contentsline {subsection}{\numberline {20-3-1}رهایی‌خواهی یا کسب قدرت؟}{290}{subsection.20.3.1}%
+\contentsline {subsection}{\numberline {20-3-2}نمونه‌های تاریخی}{291}{subsection.20.3.2}%
+\contentsline {subsection}{\numberline {20-3-3}معضل نمایندگی}{291}{subsection.20.3.3}%
+\contentsline {section}{\numberline {20-4}رؤیای بهشت: ایده‌آلیسم رهایی‌بخش}{292}{section.20.4}%
+\contentsline {subsection}{\numberline {20-4-1}وقتی آرمان‌گرایی چشم را کور می‌کند}{292}{subsection.20.4.1}%
+\contentsline {subsection}{\numberline {20-4-2}«چه باید کرد؟» — پرسش بی‌پاسخ؟}{293}{subsection.20.4.2}%
+\contentsline {section}{\numberline {20-5}معضل بنیادین: وقتی «حق» وجود ندارد}{293}{section.20.5}%
+\contentsline {subsection}{\numberline {20-5-1}کسانی که از حق محروم‌اند}{293}{subsection.20.5.1}%
+\contentsline {subsection}{\numberline {20-5-2}آیا «قدرت» تنها راه است؟}{293}{subsection.20.5.2}%
+\contentsline {subsection}{\numberline {20-5-3}قدرت ایده‌ها}{294}{subsection.20.5.3}%
+\contentsline {section}{\numberline {20-6}ایدئولوژی‌ها به‌مثابه‌ی انگیزه‌ی مداخله}{295}{section.20.6}%
+\contentsline {subsection}{\numberline {20-6-1}چرا «دیگران» هزینه می‌دهند؟}{295}{subsection.20.6.1}%
+\contentsline {subsection}{\numberline {20-6-2}سه ایدئولوژی رهایی‌بخش}{295}{subsection.20.6.2}%
+\contentsline {subsection}{\numberline {20-6-3}آیا ایدئولوژی ذاتاً بد است؟}{296}{subsection.20.6.3}%
+\contentsline {section}{\numberline {20-7}نه همه‌چیز صفر است: امکان تغییر مثبت}{296}{section.20.7}%
+\contentsline {subsection}{\numberline {20-7-1}دفاع از نومیدی؟}{296}{subsection.20.7.1}%
+\contentsline {subsection}{\numberline {20-7-2}شرایط امکان تغییر مثبت}{297}{subsection.20.7.2}%
+\contentsline {subsection}{\numberline {20-7-3}نمونه‌های نسبتاً موفق}{297}{subsection.20.7.3}%
+\contentsline {section}{\numberline {20-8}واکسیناسیون: چگونه از سوءاستفاده جلوگیری کنیم؟}{298}{section.20.8}%
+\contentsline {subsection}{\numberline {20-8-1}مسئله‌ی «دفاع»}{298}{subsection.20.8.1}%
+\contentsline {subsection}{\numberline {20-8-2}واکسن چیست؟}{298}{subsection.20.8.2}%
+\contentsline {section}{\numberline {20-9}جمع‌بندی: پارادوکس حل‌نشدنی؟}{299}{section.20.9}%
+\contentsline {chapter}{\numberline {21}از انقلاب فکری تا رهایی سیاسی: درس‌های روشنگری برای ستمدیدگان}{301}{chapter.21}%
+\contentsline {section}{\numberline {21-1}چرا روشنگری؟}{301}{section.21.1}%
+\contentsline {subsection}{\numberline {21-1-1}اروپای پیش از روشنگری}{301}{subsection.21.1.1}%
+\contentsline {subsection}{\numberline {21-1-2}چه اتفاقی افتاد؟}{302}{subsection.21.1.2}%
+\contentsline {section}{\numberline {21-2}مفاهیم کلیدی روشنگری}{303}{section.21.2}%
+\contentsline {subsection}{\numberline {21-2-1}انسان‌گرایی (\lr {Humanism})}{303}{subsection.21.2.1}%
+\contentsline {subsection}{\numberline {21-2-2}حقوق طبیعی (\lr {Natural Rights})}{304}{subsection.21.2.2}%
+\contentsline {subsection}{\numberline {21-2-3}قرارداد اجتماعی (\lr {Social Contract})}{304}{subsection.21.2.3}%
+\contentsline {subsection}{\numberline {21-2-4}حق تعیین سرنوشت (\lr {Self-Determination})}{305}{subsection.21.2.4}%
+\contentsline {subsection}{\numberline {21-2-5}تفکر انتقادی (\lr {Critical Thinking})}{305}{subsection.21.2.5}%
+\contentsline {subsection}{\numberline {21-2-6}فردگرایی (\lr {Individualism})}{306}{subsection.21.2.6}%
+\contentsline {section}{\numberline {21-3}چگونه این ایده‌ها به رهایی واقعی منجر شدند؟}{306}{section.21.3}%
+\contentsline {subsection}{\numberline {21-3-1}از ایده تا انقلاب: چهار مرحله}{306}{subsection.21.3.1}%
+\contentsline {subsection}{\numberline {21-3-2}نقطه‌ی کلیدی: ایده‌ها مقدم بر قدرت بودند}{307}{subsection.21.3.2}%
+\contentsline {section}{\numberline {21-4}چرا مداخله‌ی خارجی نمی‌تواند جای این فرایند را بگیرد؟}{307}{section.21.4}%
+\contentsline {subsection}{\numberline {21-4-1}تفاوت بنیادین}{307}{subsection.21.4.1}%
+\contentsline {subsection}{\numberline {21-4-2}استدلال جان استوارت میل — بازخوانی}{308}{subsection.21.4.2}%
+\contentsline {section}{\numberline {21-5}درس‌ها برای جوامع تحت ستم امروز}{308}{section.21.5}%
+\contentsline {subsection}{\numberline {21-5-1}درس اول: اولویت ایده‌ها بر قدرت}{308}{subsection.21.5.1}%
+\contentsline {subsection}{\numberline {21-5-2}درس دوم: ساخت نهادهای مستقل}{309}{subsection.21.5.2}%
+\contentsline {subsection}{\numberline {21-5-3}درس سوم: صبر استراتژیک}{309}{subsection.21.5.3}%
+\contentsline {subsection}{\numberline {21-5-4}درس چهارم: پرهیز از میان‌بُرها}{310}{subsection.21.5.4}%
+\contentsline {section}{\numberline {21-6}نقد درونی: آیا مدل روشنگری جهان‌شمول است؟}{310}{section.21.6}%
+\contentsline {subsection}{\numberline {21-6-1}انتقادات پسااستعماری}{310}{subsection.21.6.1}%
+\contentsline {subsection}{\numberline {21-6-2}پاسخ به انتقادات}{311}{subsection.21.6.2}%
+\contentsline {subsection}{\numberline {21-6-3}به سوی روشنگری چندفرهنگی}{312}{subsection.21.6.3}%
+\contentsline {section}{\numberline {21-7}جمع‌بندی: نقشه‌ی راه}{312}{section.21.7}%
+\contentsline {chapter}{\numberline {22}مسئولیت فراتر از مرزها: اخلاق همبستگی در عصر جهانی‌شدن}{315}{chapter.22}%
+\contentsline {section}{\numberline {22-1}سعدی و اخلاق جهان‌شمول}{315}{section.22.1}%
+\contentsline {subsection}{\numberline {22-1-1}«بنی‌آدم اعضای یکدیگرند»}{315}{subsection.22.1.1}%
+\contentsline {subsection}{\numberline {22-1-2}تحلیل فلسفی شعر سعدی}{316}{subsection.22.1.2}%
+\contentsline {subsection}{\numberline {22-1-3}تنش بنیادین: همبستگی در برابر عاملیت}{316}{subsection.22.1.3}%
+\contentsline {section}{\numberline {22-2}مسئولیت پیش‌دستی: پیشگیری بهتر از درمان}{317}{section.22.2}%
+\contentsline {subsection}{\numberline {22-2-1}اصل پیشگیری}{317}{subsection.22.2.1}%
+\contentsline {subsection}{\numberline {22-2-2}ابزارهای پیشگیری}{317}{subsection.22.2.2}%
+\contentsline {subsection}{\numberline {22-2-3}چرا پیشگیری نادیده گرفته می‌شود؟}{318}{subsection.22.2.3}%
+\contentsline {section}{\numberline {22-3}ایده‌های رهایی‌بخش: از استثمارستیزی تا برابری‌طلبی}{319}{section.22.3}%
+\contentsline {subsection}{\numberline {22-3-1}چهار ایده‌ی بزرگ}{319}{subsection.22.3.1}%
+\contentsline {subsection}{\numberline {22-3-2}شبکه‌های انتقال ایده: چگونه ایده‌ها سفر می‌کنند؟}{320}{subsection.22.3.2}%
+\contentsline {subsection}{\numberline {22-3-3}آیا «صدور ایده» هم مداخله است؟}{320}{subsection.22.3.3}%
+\contentsline {section}{\numberline {22-4}همبستگی انتقادی: راه سوم}{321}{section.22.4}%
+\contentsline {subsection}{\numberline {22-4-1}تعریف}{321}{subsection.22.4.1}%
+\contentsline {subsection}{\numberline {22-4-2}اصول عملی همبستگی انتقادی}{322}{subsection.22.4.2}%
+\contentsline {subsection}{\numberline {22-4-3}نمونه‌هایی از همبستگی انتقادی موفق}{323}{subsection.22.4.3}%
+\contentsline {section}{\numberline {22-5}نقد «تبلیغات» و خطر ابزارشدن}{323}{section.22.5}%
+\contentsline {subsection}{\numberline {22-5-1}مرز باریک همبستگی و تبلیغات}{323}{subsection.22.5.1}%
+\contentsline {subsection}{\numberline {22-5-2}چگونه از تبلیغاتی‌شدن جلوگیری کنیم؟}{324}{subsection.22.5.2}%
+\contentsline {section}{\numberline {22-6}آیا «آینده‌ی بهتر» ممکن است؟}{324}{section.22.6}%
+\contentsline {subsection}{\numberline {22-6-1}علیه بدبینی مطلق}{324}{subsection.22.6.1}%
+\contentsline {subsection}{\numberline {22-6-2}شرایط پیشرفت: شش عامل}{325}{subsection.22.6.2}%
+\contentsline {subsection}{\numberline {22-6-3}نقش «ما» چیست؟}{326}{subsection.22.6.3}%
+\contentsline {section}{\numberline {22-7}جمع‌بندی: فراتر از دوگانه‌ها}{327}{section.22.7}%
+\contentsline {chapter}{\numberline {23}بالاتر از سیاهی رنگی نیست!}{329}{chapter.23}%
+\contentsline {section}{\numberline {23-1}درآمد: پرسشی که نباید نادیده گرفت}{329}{section.23.1}%
+\contentsline {section}{\numberline {23-2}پنج چارچوب پاسخ‌گویی: از کجا به مسئله نگاه کنیم؟}{330}{section.23.2}%
+\contentsline {subsection}{\numberline {23-2-1}چارچوب اول: فایده‌گرایی نسلی}{331}{subsection.23.2.1}%
+\contentsline {subsection}{\numberline {23-2-2}چارچوب دوم: وظیفه‌گرایی کانتی}{331}{subsection.23.2.2}%
+\contentsline {subsection}{\numberline {23-2-3}چارچوب سوم: عدالت بین‌نسلی}{332}{subsection.23.2.3}%
+\contentsline {subsection}{\numberline {23-2-4}چارچوب چهارم: واقع‌گرایی تراژیک}{333}{subsection.23.2.4}%
+\contentsline {subsection}{\numberline {23-2-5}چارچوب پنجم: فلسفه‌ی مقاومت و رهایی}{333}{subsection.23.2.5}%
+\contentsline {section}{\numberline {23-3}جدول تطبیقی پنج چارچوب}{334}{section.23.3}%
+\contentsline {section}{\numberline {23-4}شواهد تاریخی: مواردی که مداخله‌ی خارجی «نجات‌بخش» بود}{334}{section.23.4}%
+\contentsline {subsection}{\numberline {23-4-1}سقوط نازیسم: مداخله‌ی پرهزینه‌ای که بدیلی نداشت}{335}{subsection.23.4.1}%
+\contentsline {subsection}{\numberline {23-4-2}نجات اروپا از فاشیسم: طرح مارشال و دموکراسی‌سازی}{335}{subsection.23.4.2}%
+\contentsline {subsection}{\numberline {23-4-3}شکست آپارتاید: ترکیب عاملیت داخلی و فشار خارجی}{336}{subsection.23.4.3}%
+\contentsline {subsection}{\numberline {23-4-4}رواندا ۱۹۹۴: قیمت عدم مداخله}{337}{subsection.23.4.4}%
+\contentsline {subsection}{\numberline {23-4-5}کوزوو ۱۹۹۹: مداخله‌ی «غیرقانونی اما مشروع»}{337}{subsection.23.4.5}%
+\contentsline {subsection}{\numberline {23-4-6}کامبوج ۱۹۷۹: مداخله‌ی ویتنام و پایان خمرهای سرخ}{338}{subsection.23.4.6}%
+\contentsline {section}{\numberline {23-5}نظریه‌ها و استدلال‌های حمایت‌کننده}{338}{section.23.5}%
+\contentsline {subsection}{\numberline {23-5-1}نظریه‌ی «جنگ عادلانه» و گسترش آن}{338}{subsection.23.5.1}%
+\contentsline {subsection}{\numberline {23-5-2}نظریه‌ی «شکستن انسداد تاریخی»}{339}{subsection.23.5.2}%
+\contentsline {subsection}{\numberline {23-5-3}استدلال «هزینه‌ی زمان»: وقتی انتظار خود خشونت است}{339}{subsection.23.5.3}%
+\contentsline {section}{\numberline {23-6}نمودار: مدل تصمیم‌گیری نجات‌طلبی فداکارانه}{340}{section.23.6}%
+\contentsline {section}{\numberline {23-7}بهترین استدلال‌ها به نفع نجات‌طلبی فداکارانه}{341}{section.23.7}%
+\contentsline {section}{\numberline {23-8}پاسخ مدافع: چرا این استدلال‌ها، با همه‌ی قوتشان، کافی نیستند}{342}{section.23.8}%
+\contentsline {subsection}{\numberline {23-8-1}نقد اول: مغالطه‌ی تعمیم از استثنا}{342}{subsection.23.8.1}%
+\contentsline {subsection}{\numberline {23-8-2}نقد دوم: مسئله‌ی «چه کسی تصمیم می‌گیرد؟»}{344}{subsection.23.8.2}%
+\contentsline {subsection}{\numberline {23-8-3}نقد سوم: مسئله‌ی انگیزه‌ی مداخله‌گر}{344}{subsection.23.8.3}%
+\contentsline {subsection}{\numberline {23-8-4}نقد چهارم: مسئله‌ی «بالاتر از سیاهی» واقعاً هست}{345}{subsection.23.8.4}%
+\contentsline {subsection}{\numberline {23-8-5}نقد پنجم: مسئله‌ی فایده‌گرایی و ارقام}{346}{subsection.23.8.5}%
+\contentsline {subsection}{\numberline {23-8-6}نقد ششم: خطر ابزاری‌شدن نجات‌طلبی فداکارانه}{346}{subsection.23.8.6}%
+\contentsline {section}{\numberline {23-9}جدول تطبیقی: موفقیت‌ها و شکست‌ها — چه چیزی تفاوت ایجاد می‌کند؟}{347}{section.23.9}%
+\contentsline {section}{\numberline {23-10}ترکیب: هفت شرط لازم برای نجات‌طلبی فداکارانه‌ی موجه}{348}{section.23.10}%
+\contentsline {section}{\numberline {23-11}نمودار: طیف مداخله — از فشار نرم تا مداخله‌ی نظامی}{349}{section.23.11}%
+\contentsline {section}{\numberline {23-12}مسئله‌ی مشروعیت: چه کسی «حق» مداخله دارد؟}{350}{section.23.12}%
+\contentsline {subsection}{\numberline {23-12-1}دکترین «مسئولیت حمایت» و محدودیت‌هایش}{350}{subsection.23.12.1}%
+\contentsline {subsection}{\numberline {23-12-2}جایگزین: «حق درخواست کمک» به جای «حق مداخله»}{350}{subsection.23.12.2}%
+\contentsline {section}{\numberline {23-13}آزمایش فکری: اگر شما تصمیم‌گیرنده بودید}{351}{section.23.13}%
+\contentsline {section}{\numberline {23-14}موضع نهایی نویسنده: نه رد مطلق، نه پذیرش مطلق}{352}{section.23.14}%
+\contentsline {section}{\numberline {23-15}پاسخ به پرسش آغازین فصل}{353}{section.23.15}%
+\contentsline {section}{\numberline {23-16}درس‌های عملی: چه باید کرد؟}{354}{section.23.16}%
+\contentsline {subsection}{\numberline {23-16-1}درس‌هایی برای ملت‌های تحت سرکوب}{354}{subsection.23.16.1}%
+\contentsline {subsection}{\numberline {23-16-2}درس‌هایی برای جامعه‌ی بین‌المللی}{355}{subsection.23.16.2}%
+\contentsline {section}{\numberline {23-17}فراتر از دوگانه: به‌سوی «رهایی ترکیبی»}{356}{section.23.17}%
+\contentsline {section}{\numberline {23-18}نتیجه‌گیری: تراژدی انتخاب}{357}{section.23.18}%
+\contentsline {part}{ششم\hspace {1em}پیوست‌ها}{361}{part.6}%
+\contentsline {chapter}{\numberline {آ}خلاصه‌ی مدیریتی}{363}{appendix.Alph1}%
+\contentsline {section}{\numberline {آ-1}کتاب درباره‌ی چیست؟}{363}{section.Alph1.1}%
+\contentsline {section}{\numberline {آ-2}خلاصه‌ی بخش اول: مبانی نظری}{364}{section.Alph1.2}%
+\contentsline {subsection}{\numberline {آ-2-1}فصل ۱: چارچوب مفهومی}{364}{subsection.Alph1.2.1}%
+\contentsline {subsection}{\numberline {آ-2-2}فصل ۲: حقوق بین‌الملل}{364}{subsection.Alph1.2.2}%
+\contentsline {subsection}{\numberline {آ-2-3}فصل ۳: مدل تحلیلی}{364}{subsection.Alph1.2.3}%
+\contentsline {section}{\numberline {آ-3}خلاصه‌ی بخش دوم: تجربه‌ی ایران}{365}{section.Alph1.3}%
+\contentsline {subsection}{\numberline {آ-3-1}فصل ۴: ایران باستان}{365}{subsection.Alph1.3.1}%
+\contentsline {subsection}{\numberline {آ-3-2}فصل ۵: سده‌های میانه}{365}{subsection.Alph1.3.2}%
+\contentsline {subsection}{\numberline {آ-3-3}فصل ۶: صفوی تا قاجار}{365}{subsection.Alph1.3.3}%
+\contentsline {subsection}{\numberline {آ-3-4}فصل ۷: ایران معاصر}{365}{subsection.Alph1.3.4}%
+\contentsline {section}{\numberline {آ-4}خلاصه‌ی بخش سوم: تجربه‌ی جهانی}{366}{section.Alph1.4}%
+\contentsline {subsection}{\numberline {آ-4-1}فصل ۸: اروپا}{366}{subsection.Alph1.4.1}%
+\contentsline {subsection}{\numberline {آ-4-2}فصل ۹: استعمار و پسااستعمار}{366}{subsection.Alph1.4.2}%
+\contentsline {subsection}{\numberline {آ-4-3}فصل ۱۰: مداخلات معاصر — خلاصه‌ی کلیدی}{366}{subsection.Alph1.4.3}%
+\contentsline {section}{\numberline {آ-5}خلاصه‌ی بخش چهارم: چرا نجات‌طلبی تکرار می‌شود؟}{367}{section.Alph1.5}%
+\contentsline {subsection}{\numberline {آ-5-1}فصل ۱۱: دلایل روان‌شناختی}{367}{subsection.Alph1.5.1}%
+\contentsline {subsection}{\numberline {آ-5-2}فصل ۱۲: دلایل اقتصادی-ساختاری}{367}{subsection.Alph1.5.2}%
+\contentsline {subsection}{\numberline {آ-5-3}فصل ۱۳: دلایل فرهنگی-ایدئولوژیک}{367}{subsection.Alph1.5.3}%
+\contentsline {section}{\numberline {آ-6}نتیجه‌گیری و توصیه‌ها}{368}{section.Alph1.6}%
+\contentsline {subsection}{\numberline {آ-6-1}مدل نهایی: سه‌ضلعی نجات‌طلبی}{368}{subsection.Alph1.6.1}%
+\contentsline {subsection}{\numberline {آ-6-2}توصیه‌های عملی}{368}{subsection.Alph1.6.2}%
+\contentsline {subsection}{\numberline {آ-6-3}نتیجه‌گیری در یک جمله}{369}{subsection.Alph1.6.3}%
+\contentsline {chapter}{\numberline {ب}طبقه‌بندی مداخلات خارجی: از کشورگشایی تا همبستگی}{371}{appendix.Alph2}%
+\contentsline {section}{\numberline {ب-1}چرا طبقه‌بندی مهم است؟}{371}{section.Alph2.1}%
+\contentsline {section}{\numberline {ب-2}هشت طبقه‌ی دخالت خارجی}{372}{section.Alph2.2}%
+\contentsline {subsection}{\numberline {ب-2-1}طبقه‌ی ۱: کشورگشایی و استعمار کلاسیک}{372}{subsection.Alph2.2.1}%
+\contentsline {subsection}{\numberline {ب-2-2}طبقه‌ی ۲: بازآرایی پساجنگی}{374}{subsection.Alph2.2.2}%
+\contentsline {subsection}{\numberline {ب-2-3}طبقه‌ی ۳: استعمارزدایی و مدیریت خروج}{376}{subsection.Alph2.2.3}%
+\contentsline {subsection}{\numberline {ب-2-4}طبقه‌ی ۴: مداخلات ایدئولوژیک (جنگ سرد و فراتر)}{377}{subsection.Alph2.2.4}%
+\contentsline {subsection}{\numberline {ب-2-5}طبقه‌ی ۵: مداخلات «بشردوستانه»}{378}{subsection.Alph2.2.5}%
+\contentsline {subsection}{\numberline {ب-2-6}طبقه‌ی ۶: مداخلات بازیابی و وحدت‌طلبانه}{379}{subsection.Alph2.2.6}%
+\contentsline {subsection}{\numberline {ب-2-7}طبقه‌ی ۷: مداخلات ضدتروریستی/امنیتی}{381}{subsection.Alph2.2.7}%
+\contentsline {subsection}{\numberline {ب-2-8}طبقه‌ی ۸: مداخلات اقتصادی ساختاری}{381}{subsection.Alph2.2.8}%
+\contentsline {section}{\numberline {ب-3}نقشه‌ی مفهومی: روابط بین طبقه‌ها}{383}{section.Alph2.3}%
+\contentsline {section}{\numberline {ب-4}آنچه آمار «۸۴٪ شکست» شامل می‌شود — و آنچه نمی‌شود}{384}{section.Alph2.4}%
+\contentsline {section}{\numberline {ب-5}طیف مشروعیت: از سلطه تا همبستگی}{385}{section.Alph2.5}%
+\contentsline {section}{\numberline {ب-6}جمع‌بندی: چرا تمایز مهم است}{386}{section.Alph2.6}%
+\contentsline {section}{منابع اصلی این پیوست}{388}{Item.725}%
+\contentsline {chapter}{\numberline {پ}ایران پس از ۱۳۵۷: اسناد، عملیات‌ها، و ابزارهای مداخله}{389}{appendix.Alph3}%
+\contentsline {section}{\numberline {پ-1}اسناد منتشرشده‌ی سیا درباره‌ی ایران}{389}{section.Alph3.1}%
+\contentsline {section}{\numberline {پ-2}عملیات‌های مستند علیه جمهوری اسلامی}{390}{section.Alph3.2}%
+\contentsline {section}{\numberline {پ-3}تحریم‌ها به‌مثابه‌ی ابزار مداخله}{391}{section.Alph3.3}%
+\contentsline {section}{\numberline {پ-4}جنگ سایبری}{391}{section.Alph3.4}%
+\contentsline {section}{\numberline {پ-5}فعالیت رسانه‌های فارسی‌زبان خارجی}{392}{section.Alph3.5}%
+\contentsline {section}{\numberline {پ-6}جمع‌بندی}{392}{section.Alph3.6}%
+\contentsline {chapter}{\numberline {ت}جدول تطبیقی جامع: ۳۰ مورد مداخله‌ی خارجی}{393}{appendix.Alph4}%
+\contentsline {section}{\numberline {ت-1}تحلیل آماری مختصر}{398}{section.Alph4.1}%
+\contentsline {chapter}{\numberline {ث}تحلیل انتقادی: فروپاشی افغانستان — از دموکراسی‌سازی تا رهاسازی}{399}{appendix.Alph5}%
+\contentsline {section}{\numberline {ث-1}مقدمه: پارادوکس افغانستان}{399}{section.Alph5.1}%
+\contentsline {section}{\numberline {ث-2}بازخوانی انتقادی روایت رسمی}{400}{section.Alph5.2}%
+\contentsline {subsection}{\numberline {ث-2-1}روایت رسمی واشنگتن}{400}{subsection.Alph5.2.1}%
+\contentsline {subsection}{\numberline {ث-2-2}نقد روایت رسمی: «اسناد افغانستان»}{401}{subsection.Alph5.2.2}%
+\contentsline {section}{\numberline {ث-3}توافق دوحه: نقطه‌ی عطف فروپاشی}{402}{section.Alph5.3}%
+\contentsline {subsection}{\numberline {ث-3-1}ماهیت توافق}{402}{subsection.Alph5.3.1}%
+\contentsline {subsection}{\numberline {ث-3-2}تحلیل انتقادی توافق دوحه}{402}{subsection.Alph5.3.2}%
+\contentsline {subsection}{\numberline {ث-3-3}آیا بایدن ادامه‌دهنده بود یا تصمیم‌گیرنده؟}{403}{subsection.Alph5.3.3}%
+\contentsline {section}{\numberline {ث-4}چرا ارتش ۳۰۰٬۰۰۰ نفره فروپاشید؟}{404}{section.Alph5.4}%
+\contentsline {section}{\numberline {ث-5}نقش پاکستان: «متحد» امریکا و «حامی» طالبان}{405}{section.Alph5.5}%
+\contentsline {section}{\numberline {ث-6}آیا «دموکراسی‌سازی» واقعی بود یا ظاهری؟}{405}{section.Alph5.6}%
+\contentsline {subsection}{\numberline {ث-6-1}دستاوردهای واقعی}{405}{subsection.Alph5.6.1}%
+\contentsline {subsection}{\numberline {ث-6-2}اما: ساختار شکننده}{406}{subsection.Alph5.6.2}%
+\contentsline {section}{\numberline {ث-7}نمودار علّی: فرایند فروپاشی}{406}{section.Alph5.7}%
+\contentsline {section}{\numberline {ث-8}نجات‌طلبی در افغانستان پس از سقوط}{406}{section.Alph5.8}%
+\contentsline {subsection}{\numberline {ث-8-1}آیا گروهی در افغانستان «نجات‌طلب» است؟}{406}{subsection.Alph5.8.1}%
+\contentsline {subsection}{\numberline {ث-8-2}تلخ‌ترین درس: نجات‌طلبی بدون ناجی}{408}{subsection.Alph5.8.2}%
+\contentsline {section}{\numberline {ث-9}افغانستان از منظر الگوی «مست گیرند...»}{409}{section.Alph5.9}%
+\contentsline {chapter}{کتاب‌نامه}{411}{appendix*.148}%
+\contentsline {section}{منابع فارسی}{412}{appendix*.148}%
+\contentsline {section}{منابع انگلیسی}{413}{Item.789}%
+\contentsline {section}{اسناد رسمی و بین‌المللی}{426}{Item.965}%
+\contentsfinish 

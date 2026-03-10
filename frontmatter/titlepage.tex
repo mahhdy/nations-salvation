@@ -2,49 +2,69 @@
 %  صفحه‌ی عنوان
 % ═══════════════════════════════════════════════════════════════════════════
 \begin{titlepage}
-\begin{tikzpicture}[remember picture, overlay]
-
-  % پس‌زمینه گرادیان
-  \fill[top color=PrimaryDeep, bottom color=PrimaryMid]
-    (current page.south west) rectangle (current page.north east);
-
-  % نوار تزئینی طلایی
-  \fill[AccentGold, opacity=0.9]
-    ([yshift=8cm]current page.south west) rectangle
-    ([yshift=8.4cm]current page.south east);
-
-  \fill[AccentGold, opacity=0.9]
-    ([yshift=16cm]current page.south west) rectangle
-    ([yshift=16.4cm]current page.south east);
-
-  % نام نویسنده
-  \node[anchor=center, text=AccentGold, font=\Large\bfseries]
-    at ([yshift=18cm]current page.south) {\rl{مهدی سالم}};
-
-  % عنوان اصلی
-  \node[anchor=center, text=white, font=\Huge\bfseries,
-        text width=14cm, align=center]
-    at ([yshift=14cm]current page.south)
-    {\rl{ملت‌ها و نجات‌بخشی}};
-
-  % زیرعنوان
-  \node[anchor=center, text=NeutralLight, font=\LARGE,
-        text width=14cm, align=center]
-    at ([yshift=12cm]current page.south)
-    {\rl{آرزواندیشی و خام‌اندیشی یا فرصت‌طلبی و عمل‌گرایی}};
-
-  % توضیح
-  \node[anchor=center, text=NeutralMid, font=\large,
-        text width=12cm, align=center]
-    at ([yshift=9.5cm]current page.south)
-    {\rl{بررسی تطبیقی مداخلات خارجی و استمداد نظامی \\ در تاریخ ایران و جهان}};
-
-  % پایین صفحه
-  \node[anchor=center, text=NeutralMid, font=\normalsize]
-    at ([yshift=2cm]current page.south)
-    {\rl{چاپ نخست — ۱۴۰۴}};
-
-\end{tikzpicture}
+	\begin{tikzpicture}[remember picture, overlay]
+		
+		% --- پس‌زمینه ---
+		\fill[PrimaryDeep] (current page.south west) rectangle (current page.north east);
+		
+		% --- نوار طلایی عمودی ---
+		\fill[AccentGold] ([xshift=-4cm]current page.north east) rectangle%
+		([xshift=-3.6cm]current page.south east);
+		
+		% --- الگوی هندسی ---
+		\foreach \ypos in {-12,-9,...,12}{%
+			\draw[AccentGold, opacity=0.08, line width=0.5pt]%
+			([yshift=\ypos cm]current page.west) -- ([yshift=\ypos cm]current page.east);%
+		}%
+		\foreach \xpos in {-8,-5,...,8}{%
+			\draw[AccentGold, opacity=0.06, line width=0.5pt]%
+			([xshift=\xpos cm]current page.south) -- ([xshift=\xpos cm]current page.north);%
+		}%
+		
+		% --- عنوان اصلی ---
+		\node[anchor=east, text width=12cm, align=flush right]
+		at ([xshift=-5cm, yshift=4cm]current page.east)
+		{%
+			{\fontsize{28}{36}\selectfont\bfseries\color{white}%
+				\rl{ملت‌ها و نجات‌بخشی}}\\[12pt]%
+			{\fontsize{16}{22}\selectfont\color{AccentGold}%
+				\rl{آرزواندیشی و خام‌اندیشی}}\\[6pt]%
+			{\fontsize{16}{22}\selectfont\color{AccentGold}%
+				\rl{یا فرصت‌طلبی و عمل‌گرایی}}%
+		};
+		
+		% --- خط جداکننده ---
+		\draw[AccentGold, line width=1.5pt]
+		([xshift=-5cm, yshift=1.8cm]current page.east) --
+		([xshift=-14cm, yshift=1.8cm]current page.east);
+		
+		% --- زیرعنوان ---
+		\node[anchor=east, text width=12cm, align=flush right]
+		at ([xshift=-5cm, yshift=0.4cm]current page.east)
+		{%
+			{\fontsize{12}{16}\selectfont\color{NeutralLight}%
+				\rl{پژوهشی تطبیقی در تاریخ، حقوق بین‌الملل،}}\\[4pt]%
+			{\fontsize{12}{16}\selectfont\color{NeutralLight}%
+				\rl{جامعه‌شناسی سیاسی و روان‌شناسی اجتماعی مداخلات خارجی}}%
+		};
+		
+		% --- نام نویسنده ---
+		\node[anchor=east]
+		at ([xshift=-5cm, yshift=-3cm]current page.east)
+		{%
+			{\fontsize{18}{24}\selectfont\color{white}\bfseries%
+				\rl{مهدی سالم}}%
+		};
+		
+		% --- سال ---
+		\node[anchor=south, text width=4cm, align=center]
+		at ([yshift=2cm]current page.south)
+		{%
+			{\fontsize{11}{14}\selectfont\color{NeutralMid}%
+				\rl{۱۴۰۴}}%
+		};
+		
+	\end{tikzpicture}
 \end{titlepage}
 
 % صفحه‌ی حق چاپ
@@ -54,9 +74,10 @@
   {\large\bfseries ملت‌ها و نجات‌بخشی}\\[6pt]
   {\normalsize آرزواندیشی و خام‌اندیشی یا فرصت‌طلبی و عمل‌گرایی}\\[18pt]
   {\normalsize نویسنده: مهدی سالم}\\[12pt]
-  {\small چاپ نخست: ۱۴۰۴}\\[6pt]
-  {\small تمامی حقوق مادی و معنوی این اثر محفوظ است.}\\[6pt]
-  {\small حروف‌چینی با \lr{XeLaTeX}}
+  {\small چاپ نخست: ۱۴۰۴}\\[20pt]
+{\small\color{NeutralDark}
+	بازنشر و استفاده از مطالب این اثر با ذکر منبع بلامانع است.}
+
 \end{center}
 \vspace*{\fill}
 \cleardoublepage
